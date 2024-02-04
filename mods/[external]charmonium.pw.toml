@@ -1,0 +1,9 @@
+name = "Charmonium"
+filename = "charmonium-fabric-1.20.1-6.0.8.jar"
+side = "both"
+
+[download]
+url = "https://charmony.work/files/charmonium-fabric-1.20.1-6.0.8.jar"
+
+hash-format = "sha1"
+hash = "f89087ad4411e1c2a930623906dd9693d5cbecf5"

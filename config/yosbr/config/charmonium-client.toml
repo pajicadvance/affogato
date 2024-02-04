@@ -1,0 +1,61 @@
+
+[AmbienceSettings]
+	#The channel that Charmonium will use for playing sounds. Defaults to 'ambient'.
+	#Options: music, record, weather, block, hostile, neutral, player, ambient, voice
+	"Audio channel" = "ambient"
+
+[BiomeAmbience]
+	#Number of blocks above the ground that biome ambience will be silenced.
+	#Set to zero to disable.
+	"Above ground for ambience silencing" = 32
+	#Number of blocks to check for neighbouring biomes.
+	#Set to zero to disable.
+	"Biome sound blending" = 32
+	#Affects the volume of all biome ambient sounds. 1.0 is full volume.
+	"Volume scaling" = 0.55
+	#Dimensions in which biome ambience will be played.
+	"Valid dimensions" = ["minecraft:overworld", "minecraft:the_end"]
+
+[WorldAmbience]
+	#Affects the volume of all situational ambient sounds. 1.0 is full volume.
+	"Volume scaling" = 0.55
+	#Number of blocks above the ground that biome ambience will be silenced.
+	#Set to zero to disable.
+	"Above ground for ambience silencing" = 32
+	#If true, plays ambient sounds while anywhere in the End.
+	Alien = true
+	#If true, plays ambient sounds in cold and/or barren overworld environments.
+	Bleak = true
+	#If true, plays more intense cave sounds when below Y 0 and light level is lower than the cave light level.
+	"Cave depth" = true
+	#If true, plays a low drone sound when in a cave below the cave drone cutoff..
+	"Cave drone" = true
+	#Height at which the cave drone will be silenced.
+	"Cave drone cutoff" = 48
+	#Light level at which cave ambience will be dampened.
+	"Cave light level" = 10
+	#If true, plays ambient sounds when the player is underground and near deepslate blocks.
+	Deepslate = true
+	#If true, plays ambient sounds in dry and/or hot overworld environments.
+	Dry = true
+	#If true, plays ambient sounds from a nearby amethyst geode.
+	Geode = true
+	#If true, plays ambient sounds when the player is underground and near gravel blocks.
+	Gravel = true
+	#If true, plays ambient sounds when high up in the overworld.
+	High = true
+	#If true, plays ambient sounds while inside a woodland mansion.
+	Mansion = true
+	#If true, plays ambient sounds from a nearby mineshaft.
+	Mineshaft = true
+	#If true, plays ambient sounds in plains environments at night.
+	"Night plains" = true
+	#If true, plays ambient sounds when in a cold biome during a thunderstorm.
+	Snowstorm = true
+	#If true, plays water sounds from a nearby water source when underground.
+	"Underground water" = true
+	#If true, plays ambient sounds when a player is inside a village.
+	Village = true
+	#Dimensions in which cave ambience (drone and depth) will be played.
+	"Valid cave ambience dimensions" = ["minecraft:overworld"]
+

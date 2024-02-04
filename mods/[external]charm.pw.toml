@@ -1,0 +1,9 @@
+name = "Charm"
+filename = "charm-fabric-1.20.1-6.0.21.jar"
+side = "both"
+
+[download]
+url = "https://charmony.work/files/charm-fabric-1.20.1-6.0.21.jar"
+
+hash-format = "sha1"
+hash = "22bd4ca72e18b3691ee21c6adfd40b1bbd746da7"

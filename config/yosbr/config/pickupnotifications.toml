@@ -1,0 +1,34 @@
+# Config version is auto-generated
+# DO NOT CHANGE
+configVersion = 2
+
+[pickupnotifications]
+	# Simple toggle for the mod! Set to false to disable.
+	modEnabled = true
+	# Where to position the notifications. Can be one of
+	# 'top_left', 'top_right', 'bottom_left', or 'bottom_right'.
+	guiAlignment = "top_left"
+	# The amount to offset the notifications from the edge
+	# of the screen.
+	guiOffset = "(4,4)"
+	# Scale to render notifications at.
+	guiScale = 1.0
+	# How many notifications can be on the screen at a time.
+	# Additional notifications will be queued up and shown once
+	# there is room.
+	maxNotifications = 4
+	# Whether the item icons should appear on the 'left' or
+	# 'right' of notifications, always on the 'outside' (left for
+	# left-aligned, right for right-aligned), or always on the
+	# 'inside' of notifications.
+	iconAlignment = "outside"
+	# Whether to show custom names, rarity, and enchantments
+	# in the notifications.
+	showUniqueInfo = true
+	# Whether to render the background behind notifications.
+	renderBackground = true
+	# Opacity of the notification background color.
+	backgroundOpacity = 0.5
+	# Whether to render text shadow in notifications.
+	renderShadow = false
+

@@ -1,0 +1,9 @@
+name = "ExtraSounds"
+filename = "extra-sounds-2.3.1+1.20.1~lonefelidae16-build.1.jar"
+side = "both"
+
+[download]
+url = "https://artifactory.kow08absty.com/artifactory/fabricmc/dev/stashy/extra-sounds/2.3.1+1.20.1~lonefelidae16-build.1/extra-sounds-2.3.1+1.20.1~lonefelidae16-build.1.jar"
+
+hash-format = "sha1"
+hash = "3048ff97ccf8e154e6c60a8b8a8b0de563ab0fcb"

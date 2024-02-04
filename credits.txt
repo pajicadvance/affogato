@@ -1,0 +1,4 @@
+Credits:
+Vanilla Tweaks: https://vanillatweaks.net/, for providing amazing vanilla-friendly tweaks
+Complementary Shaders - Reimagined by EminGT: https://www.complementary.dev/, for allowing me to include their shader with a custom config
+HaXrBOT, for allowing me to include their fork of True Darkness in a modpack outside of CurseForge

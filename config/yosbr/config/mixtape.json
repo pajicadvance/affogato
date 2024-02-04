@@ -1,0 +1,78 @@
+{
+  "main": {
+    "enabled": true,
+    "varyPitch": false,
+    "maxNoteChange": 3,
+    "minNoteChange": -3,
+    "noDelayBetweenSongs": false,
+    "playKeybindReplacesCurrentSong": false,
+    "skipKeybindStartsNextSong": true,
+    "musicType": "AUTOMATIC",
+    "pauseMusicWhenGamePaused": true,
+    "stopMusicWhenSwitchingDimensions": true,
+    "stopMusicWhenLeftGame": true,
+    "enableDebugInfo": true
+  },
+  "musicToast": {
+    "enabled": true,
+    "showArtistName": true,
+    "showAlbumName": true,
+    "showAlbumCover": false,
+    "useDiscItemAsAlbumCover": false,
+    "hideJukeboxHotbarMessage": true,
+    "useHotbarInsteadOfToast": true,
+    "toastMakesSound": false,
+    "remainForFullSong": false,
+    "toastDisplayTime": 7500
+  },
+  "menu": {
+    "enabled": true,
+    "minSongDelay": 20,
+    "maxSongDelay": 600,
+    "volume": 100.0
+  },
+  "creative": {
+    "enabled": true,
+    "minSongDelay": 6000,
+    "maxSongDelay": 12000,
+    "volume": 100.0
+  },
+  "game": {
+    "enabled": true,
+    "minSongDelay": 6000,
+    "maxSongDelay": 12000,
+    "creativeMusicPlaysInSurvival": true,
+    "volume": 100.0
+  },
+  "underwater": {
+    "enabled": true,
+    "minSongDelay": 6000,
+    "maxSongDelay": 12000,
+    "volume": 100.0
+  },
+  "end": {
+    "enabled": true,
+    "minSongDelay": 6000,
+    "maxSongDelay": 12000,
+    "volume": 100.0
+  },
+  "nether": {
+    "enabled": true,
+    "minSongDelay": 6000,
+    "maxSongDelay": 12000,
+    "volume": 100.0
+  },
+  "credits": {
+    "enabled": true,
+    "volume": 100.0
+  },
+  "jukebox": {
+    "mono": false,
+    "distance": 56,
+    "elevenReplaces11": false,
+    "dogReplacesCat": false,
+    "droopyLikesYourFaceReplacesWard": false,
+    "turnDownMusic": true,
+    "volume": 400.0
+  }
+}

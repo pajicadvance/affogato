@@ -1,0 +1,13 @@
+name = "Cropped"
+filename = "Cropped-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DvdWYd72/versions/bUOXdEp0/Cropped-1.0.1.jar"
+hash-format = "sha1"
+hash = "25122e9a1aa68590082008871773b5ca57a1b065"
+
+[update]
+[update.modrinth]
+mod-id = "DvdWYd72"
+version = "bUOXdEp0"
