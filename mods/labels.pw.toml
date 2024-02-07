@@ -1,0 +1,13 @@
+name = "Storage Labels"
+filename = "labels-1.20-1.20-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x6r7yhfi/versions/ZtCVb2F3/labels-1.20-1.20-fabric.jar"
+hash-format = "sha1"
+hash = "e53c2f78fe85e4485d201af2bbf38ce10b9df4b7"
+
+[update]
+[update.modrinth]
+mod-id = "x6r7yhfi"
+version = "ZtCVb2F3"

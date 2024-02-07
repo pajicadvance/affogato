@@ -1,4 +1,11 @@
 Credits:
-Vanilla Tweaks: https://vanillatweaks.net/, for providing amazing vanilla-friendly tweaks
-Complementary Shaders - Reimagined by EminGT: https://www.complementary.dev/, for allowing me to include their shader with a custom config
-HaXrBOT, for allowing me to include their fork of True Darkness in a modpack outside of CurseForge
+
+Vanilla Tweaks: https://vanillatweaks.net, for providing amazing vanilla-friendly tweaks
+
+EminGT, for Complementary Shaders - Reimagined, and allowing me to include it in this modpack with a custom config: https://www.complementary.dev
+
+HaXrBOT, for their unofficial fork of True Darkness, and allowing me to include it in this modpack
+
+lonefelidae16, for their unofficial port of ExtraSounds, and allowing me to include it in this modpack
+
+Sindercube, for their unofficial fork of Aileron, and allowing me to include it in this modpack

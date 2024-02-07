@@ -1,0 +1,13 @@
+name = "InmisAddon"
+filename = "inmisaddon-1.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/c4aa1Mqq/versions/e74mtqLw/inmisaddon-1.0.4.jar"
+hash-format = "sha1"
+hash = "8603878c15de77881483b11483752f93df9cae6b"
+
+[update]
+[update.modrinth]
+mod-id = "c4aa1Mqq"
+version = "e74mtqLw"

@@ -369,10 +369,10 @@
 
 [TotemOfPreserving]
 	#Preserves your items on death.
-	"TotemOfPreserving enabled" = true
+	"TotemOfPreserving enabled" = false
 	#If true, a totem of preserving will always be created when you die.
 	#If false, you must be holding a totem of preserving to preserve your items on death.
-	"Grave mode" = true
+	"Grave mode" = false
 	#The maximum number of times a single totem can be used. Once a totem runs out of uses it is destroyed.
 	#A value of -1 means that the totem is never destroyed.
 	#You can add an echo shard on an anvil to increase the durability of the totem.

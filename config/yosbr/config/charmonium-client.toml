@@ -12,7 +12,7 @@
 	#Set to zero to disable.
 	"Biome sound blending" = 32
 	#Affects the volume of all biome ambient sounds. 1.0 is full volume.
-	"Volume scaling" = 0.55
+	"Volume scaling" = 0.4
 	#Dimensions in which biome ambience will be played.
 	"Valid dimensions" = ["minecraft:overworld", "minecraft:the_end"]
 

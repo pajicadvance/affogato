@@ -60,7 +60,7 @@
   "durabilityviewer.config.setwindowtitle": {
     "key": "durabilityviewer.config.setwindowtitle",
     "toolTip": "durabilityviewer.config.tt.setwindowtitle",
-    "value": true,
+    "value": false,
     "defaultValue": true
   },
   "durabilityviewer.config.warnmode": {
@@ -80,13 +80,13 @@
   "durabilityviewer.config.showfreeslots": {
     "key": "durabilityviewer.config.showfreeslots",
     "toolTip": "durabilityviewer.config.tt.showfreeslots",
-    "value": false,
+    "value": true,
     "defaultValue": true
   },
   "durabilityviewer.config.percentvalues": {
     "key": "durabilityviewer.config.percentvalues",
     "toolTip": "durabilityviewer.config.tt.percentvalues",
-    "value": false,
+    "value": true,
     "defaultValue": false
   },
   "durabilityviewer.config.showalltrinkets": {

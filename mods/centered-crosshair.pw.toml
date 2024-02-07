@@ -1,0 +1,13 @@
+name = "Centered Crosshair"
+filename = "centered-crosshair+1.20.1-1.0.6+b2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xUTHly0N/versions/hiA1LsOR/centered-crosshair%2B1.20.1-1.0.6%2Bb2.jar"
+hash-format = "sha1"
+hash = "cebd1e202315f6d50b115b7d9304e4997a30d438"
+
+[update]
+[update.modrinth]
+mod-id = "xUTHly0N"
+version = "hiA1LsOR"

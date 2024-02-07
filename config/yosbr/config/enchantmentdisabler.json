@@ -2,8 +2,8 @@
   "minecraft:protection": false,
   "minecraft:fire_protection": false,
   "minecraft:feather_falling": false,
-  "minecraft:blast_protection": false,
-  "minecraft:projectile_protection": false,
+  "minecraft:blast_protection": true,
+  "minecraft:projectile_protection": true,
   "minecraft:respiration": false,
   "minecraft:aqua_affinity": false,
   "minecraft:thorns": true,
@@ -45,5 +45,8 @@
   "enchantedshulkers:vacuum": false,
   "enchantedshulkers:void": false,
   "aileron:smokestack": false,
-  "aileron:cloudskipper": false
+  "aileron:cloudskipper": false,
+  "farmersdelight:backstabbing": false,
+  "guarding:barbed": false,
+  "guarding:pummeling": false
 }
