@@ -210,7 +210,7 @@ hash = "738a416ff95a7badc0bf682d1bfd87e937f893ecd17265aa16b7bca70f0464d2"
 
 [[files]]
 file = "config/yosbr/config/enchdesc.json"
-hash = "31c1f5099f0deb10946338897737b96384d681034367adef94bb380211fe91f3"
+hash = "0ef70a95ec5f5890fc40040926b546e5689044b3976a497a2b1ef91436a43a7f"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
@@ -286,7 +286,7 @@ hash = "c61b7291b2514955be17fedb3a10567e263a7adfdae3192b203ac4041d783ead"
 
 [[files]]
 file = "config/yosbr/config/inmis.json"
-hash = "c87e540df70c88d8e97b8a9cf9c4cee2b6326273410b4462e3e3615fa01d3baa"
+hash = "19d078bac203426bdc2aee8053b6a5d3b8e583b6bb60355ca01b2edd861954a8"
 
 [[files]]
 file = "config/yosbr/config/interactic.json5"
@@ -705,6 +705,11 @@ hash = "0e8a5f0c1e5d306dcdb4819c799a388eca32429169a3cf0a2bee07124c547639"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "235de1c66c6b5e94afdf4251a4d922498c2b6cde4167a334c2b1c84637082ad2"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
@@ -1110,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
-hash = "48bb8231aa145c49bc425fa2c1408d418a3183a6233c6cd004782ddcb584df4e"
+hash = "f1a19d9e142d691edcff0b4fb785d7fb9ad81e28eb9b9440e7e9eac5cef15b56"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"

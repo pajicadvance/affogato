@@ -1,0 +1,13 @@
+name = "Every Compat (Wood Good)"
+filename = "everycomp-1.20-2.6.29-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/aiKLEzv2/everycomp-1.20-2.6.29-fabric.jar"
+hash-format = "sha1"
+hash = "93568320a3b09d7dba816b7e842311bd11dec973"
+
+[update]
+[update.modrinth]
+mod-id = "eiktJyw1"
+version = "aiKLEzv2"

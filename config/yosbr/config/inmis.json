@@ -76,7 +76,7 @@
   //If this value is set to false, players will not be able to equip or open backpacks in a Trinkets slot.
   "enableTrinketCompatibility": true,
   //If true, players will not be able to take backpacks out of armor/trinket slots if the backpack is not empty.
-  "requireEmptyForUnequip": false,
+  "requireEmptyForUnequip": true,
   //If true, backpacks in armor/trinket slots will empty out into the world (scatter contents) when the player dies.
   "spillArmorBackpacksOnDeath": false,
   //If true, backpacks in main inventory slots will empty out into the world (scatter contents) when the player dies.
