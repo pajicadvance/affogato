@@ -142,7 +142,7 @@ hash = "b82a4c91db3babf4b75a063ac9c79504213f8fa0174d471f86bc403e375353c7"
 
 [[files]]
 file = "config/yosbr/config/charm-common.toml"
-hash = "96575ac374bad0de7e4f8f85b749ff10ae530cc35adea7eeb92dc929cd626681"
+hash = "baf1e859f6170d410cb0280e4474e4b7b5eb35c1a2c99999a58609e950bf23c6"
 
 [[files]]
 file = "config/yosbr/config/charmonium-client.toml"
@@ -238,7 +238,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/yosbr/config/fabrication/features.ini"
-hash = "2d3ddc12003c5ceab544907a5eaf5594bd4a33bb8806db584a18aaed7614572e"
+hash = "62f88c4139d6dbc196a81654a1119a3e6dc00a96a6c2b86064df74403c271b2c"
 
 [[files]]
 file = "config/yosbr/config/fabrication/fscript.ini"
@@ -570,6 +570,11 @@ hash = "56a4d9f9b47a65b3508192e519163ff73c712354d3ff907938f2593d18ea166e"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "f6a88dddbee551dadd9f8c8b52912a30c70bf381f152d67d97ebe0e5c6201898"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "d850ebf55e4799b3dc85bbc5629ea162a7e164d6321d42032757a94c8a048792"
 metafile = true
@@ -721,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "9fc779a408b93257c385321012d11063df38771a6c618bf2ff9fc1dc5b7fdb2e"
 metafile = true
 
 [[files]]
@@ -840,6 +845,11 @@ hash = "65365b605f52731fab6e0452ce91e46eafd4475cfeef5a4dd152e6aa3fa423f0"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+metafile = true
+
+[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "81cd4292d023a2601532959101d42a0bd26c8b66519dde5cd21700102e7faac3"
 metafile = true
@@ -891,7 +901,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "67ff2abbc88a4052da64b21ebed1d74c35f075e3ec97f3cff0e7fee9dc114711"
+hash = "7e532cfb6fc15c35248b6d0ae3ac5bddae4065920a429c486e36f81bc1db48e7"
 metafile = true
 
 [[files]]

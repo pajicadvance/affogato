@@ -169,11 +169,11 @@
 	#Enchanted book maximum stack size.
 	"Enchanted book" = 16
 	#Potion maximum stack size.
-	Potion = 16
+	Potion = 3
 	#Splash potion maximum stack size.
-	"Splash potion" = 16
+	"Splash potion" = 3
 	#Lingering potion maximum stack size.
-	"Lingering potion" = 16
+	"Lingering potion" = 3
 	#Stew (and beetroot soup) maximum stack size.
 	Stew = 16
 	#Suspicious stew maximum stack size.
