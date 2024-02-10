@@ -438,7 +438,7 @@ hash = "eddd3a062be5258f17d33cee89ae5f984843f536cf37a5f06a045f7295303b7a"
 
 [[files]]
 file = "credits.txt"
-hash = "da10c7324bc389570c7e70ebef79c0ee8f90d1d36ebe9b7b577159f5112bd20d"
+hash = "461a1127e30f37c2d8e15b4f02f7fa688d31c74953247dd7680da7ac5c3444d9"
 
 [[files]]
 file = "mods/[external]aileron.pw.toml"
@@ -476,8 +476,8 @@ hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
 
 [[files]]
-file = "mods/affogatotweaks-1.1.0.jar"
-hash = "aca93cd36c3ab6db341e382f2f756f9048fc7015f02bed080f9a13b0d6364280"
+file = "mods/affogatotweaks-1.1.1.jar"
+hash = "517a018a5366c2fc7ad85614f925f1a13695c10350fe673242af6f85304a6946"
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
@@ -912,6 +912,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "051b1bee4a7fd8f2a55753fe95eda061e0f2a724c5b8ad38d2ca3619c88f2fae"
+metafile = true
+
+[[files]]
+file = "mods/nerb.pw.toml"
+hash = "91b6ddaebfb96b92e89d69123606266fd1109190131061d9a8f58e9f9f7a91ff"
 metafile = true
 
 [[files]]
