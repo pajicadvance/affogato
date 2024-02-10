@@ -238,7 +238,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/yosbr/config/fabrication/features.ini"
-hash = "62f88c4139d6dbc196a81654a1119a3e6dc00a96a6c2b86064df74403c271b2c"
+hash = "2d3ddc12003c5ceab544907a5eaf5594bd4a33bb8806db584a18aaed7614572e"
 
 [[files]]
 file = "config/yosbr/config/fabrication/fscript.ini"
@@ -275,6 +275,10 @@ hash = "64515f76011139cc7a3963a4154f10a8e499eaf072915513731523d4f5a8a2b4"
 [[files]]
 file = "config/yosbr/config/grindenchantments.json"
 hash = "7a42f31a0b3296f4033bff371a5af21ed1d5d333abc00f4faceb7e1e893518b6"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "021d490ab7d4725231dbb2b99f40bf698d5229ee6bf17a6260a5d772370f3fd4"
 
 [[files]]
 file = "config/yosbr/config/immersive_weathering-client.json"
@@ -434,7 +438,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "eddd3a062be5258f17d33cee89ae5f984843f536cf37a5f06a045f7295303b7a"
+hash = "b02139bce0b7cb0b3fc2c98915ee35dc4ac96c7a40cce0a36e69b6e284bb3105"
 
 [[files]]
 file = "credits.txt"
@@ -1134,7 +1138,7 @@ hash = "f1a19d9e142d691edcff0b4fb785d7fb9ad81e28eb9b9440e7e9eac5cef15b56"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
-hash = "c05de6ab82d72e39c60a4f246bb26df71ffa8fcf25da790b7ee01105c0ed8b63"
+hash = "46d8fbabf7f8624be029725a981a9e3d2985cdb7746800953d23c35e42a62fdf"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
