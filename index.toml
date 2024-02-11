@@ -6,7 +6,7 @@ hash = "975671e63ca414e0c8ed9f8bd2689f4601701411167378233812be6d4edb5e0a"
 
 [[files]]
 file = "README.md"
-hash = "45abf3cae46716db5365e32d7c0009e7ff38b454511ed9ea0072e3bac50fc9ea"
+hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -898,7 +898,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixtape.pw.toml"
-hash = "0379a4dfb371a7e1693a62c001a32ee460a589bd820e2610aac18b8fb394b3fc"
+hash = "c1e67733ad7fadc555eb74b2064db5e54e3822c872440db9801ebfbe953f34fb"
 metafile = true
 
 [[files]]
