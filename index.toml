@@ -9,6 +9,10 @@ file = "README.md"
 hash = "45abf3cae46716db5365e32d7c0009e7ff38b454511ed9ea0072e3bac50fc9ea"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "5c48c4ff1501a71e7fb610b4a7159608bc413148a47d5c9ef59b2ece0f2fd5dd"
+
+[[files]]
 file = "config/yosbr/config/HorseBuff.toml"
 hash = "3c6de1de3a0992d41a22740b7ad5e70295960b09a3e72a8024991f826414eba1"
 
@@ -153,6 +157,10 @@ file = "config/yosbr/config/charmony-common.toml"
 hash = "255baf1a58b275de818a0d555373df02c8b1570a129d4a52045109954c925fb2"
 
 [[files]]
+file = "config/yosbr/config/cinderscapes.json"
+hash = "ce191e1704db0a75993861f19b8f0567386e9477025ee9c98bee3f7d84a56be0"
+
+[[files]]
 file = "config/yosbr/config/clienttweaks-common.toml"
 hash = "4aa1c32ebe2c45a5110bd12fb12824316257de5d94f5be369b49cc5662fa943e"
 
@@ -174,7 +182,7 @@ hash = "b9f0f1775875c900b6b265212b8ea3d194009e75533dfab2a37fc3cea7f4e829"
 
 [[files]]
 file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "36e11d5b742448412b6af7210d0e673cf3c1407a7de3ff6bd5e46cc4d7a12ced"
+hash = "6d44b66c4a41e5eb24d2a1f7607f5c9dfd237ed49dd0fefc01495cf7f8205d1e"
 
 [[files]]
 file = "config/yosbr/config/debugify-descriptions.json"
@@ -690,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "cc8e6e730c92b194d1fc56c51809a62be7c1719f601a002ac32e6f6fae12dcec"
+hash = "2e18561f17575cbf430837b63632199755826120c616a83d58717d2cdba8e7d5"
 metafile = true
 
 [[files]]
@@ -879,13 +887,18 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
+metafile = true
+
+[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
 metafile = true
 
 [[files]]
 file = "mods/mixtape.pw.toml"
-hash = "0218318dc041ef2c3ffc58c9ee7a55a573c993fe049512b5a5728b1fa6beec17"
+hash = "0379a4dfb371a7e1693a62c001a32ee460a589bd820e2610aac18b8fb394b3fc"
 metafile = true
 
 [[files]]
@@ -975,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleepwarp-2.3.0_alpha1+1.20.1.jar"
-hash = "a5da42f98083914e13abc89d77182f685627aa634b11c38921ea059d902d6b2f"
+hash = "5ab99123de2116b643783f51e2063bfe2280ff91e8342f51630e807796c3669b"
 
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
