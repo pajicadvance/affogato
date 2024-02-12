@@ -488,8 +488,9 @@ hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
 
 [[files]]
-file = "mods/affogatotweaks-1.1.2.jar"
-hash = "1ca95b58f8bf5ebf8938515e1df9f2e4a7b4cc97c8960dabd916f20dcbce14a3"
+file = "mods/affogatotweaks.pw.toml"
+hash = "dbe9f198bde127df0a931ef519702642e2fd1d4952bf9b51e11c2b2d4dcaf6a3"
+metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"

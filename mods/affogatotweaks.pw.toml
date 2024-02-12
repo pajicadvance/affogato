@@ -1,0 +1,13 @@
+name = "Affogato Tweaks"
+filename = "affogatotweaks-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q8yzjHI3/versions/Fbca2XAP/affogatotweaks-1.1.3.jar"
+hash-format = "sha1"
+hash = "a2bd9c4afb46ff0c8ff7faa69e353e55f9202436"
+
+[update]
+[update.modrinth]
+mod-id = "Q8yzjHI3"
+version = "Fbca2XAP"
