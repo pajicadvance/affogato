@@ -182,7 +182,7 @@ hash = "b9f0f1775875c900b6b265212b8ea3d194009e75533dfab2a37fc3cea7f4e829"
 
 [[files]]
 file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "6d44b66c4a41e5eb24d2a1f7607f5c9dfd237ed49dd0fefc01495cf7f8205d1e"
+hash = "5a24a1b1c0eb7a268164712a22e8197357eead33ee2899f4d9ba5e8ed4d35e35"
 
 [[files]]
 file = "config/yosbr/config/debugify-descriptions.json"
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "dbe9f198bde127df0a931ef519702642e2fd1d4952bf9b51e11c2b2d4dcaf6a3"
+hash = "222f958bff29fd1c59e28609a475b8f0616fd6efaa7fda1ad81bfa7cdf9b330f"
 metafile = true
 
 [[files]]
