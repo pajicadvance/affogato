@@ -146,7 +146,7 @@ hash = "b82a4c91db3babf4b75a063ac9c79504213f8fa0174d471f86bc403e375353c7"
 
 [[files]]
 file = "config/yosbr/config/charm-common.toml"
-hash = "baf1e859f6170d410cb0280e4474e4b7b5eb35c1a2c99999a58609e950bf23c6"
+hash = "00824f88c4feec6d9bfcb283fe036f7a55bd789d6e4bfa3f6c7b415dc0b83f45"
 
 [[files]]
 file = "config/yosbr/config/charmonium-client.toml"
@@ -174,7 +174,7 @@ hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/yosbr/config/cropped.json"
-hash = "ae653fab8c2d26c602be60dd841e7ee79a3e068d3772e6be4f3883c7370647ed"
+hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
@@ -214,7 +214,7 @@ hash = "2905cd3f82f03ec43bf15887d96ccadf0f4ba567ee138c32e22f029e091af9ff"
 
 [[files]]
 file = "config/yosbr/config/enchantmentdisabler.json"
-hash = "738a416ff95a7badc0bf682d1bfd87e937f893ecd17265aa16b7bca70f0464d2"
+hash = "5b219bbaace67c1f91c453d8dbac96ab11b187c15caaa52b7beb7ecec2dfc17b"
 
 [[files]]
 file = "config/yosbr/config/enchdesc.json"
@@ -246,7 +246,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/yosbr/config/fabrication/features.ini"
-hash = "2d3ddc12003c5ceab544907a5eaf5594bd4a33bb8806db584a18aaed7614572e"
+hash = "f0abbfb3bc9b6407f1aa1dc70b2904dbf182e118c32cdb4e37a8c2cea15cacf6"
 
 [[files]]
 file = "config/yosbr/config/fabrication/fscript.ini"
@@ -488,8 +488,8 @@ hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
 
 [[files]]
-file = "mods/affogatotweaks-1.1.1.jar"
-hash = "517a018a5366c2fc7ad85614f925f1a13695c10350fe673242af6f85304a6946"
+file = "mods/affogatotweaks-1.1.2.jar"
+hash = "1ca95b58f8bf5ebf8938515e1df9f2e4a7b4cc97c8960dabd916f20dcbce14a3"
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
@@ -723,7 +723,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "235de1c66c6b5e94afdf4251a4d922498c2b6cde4167a334c2b1c84637082ad2"
+hash = "c0f053da77c8b39ce3af679b6242c39e716e08f02218064955b063d9af04a545"
 metafile = true
 
 [[files]]
@@ -918,7 +918,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7e532cfb6fc15c35248b6d0ae3ac5bddae4065920a429c486e36f81bc1db48e7"
+hash = "d9d6dbf01fd367024cb158d662676f23ba43e6fafc6e01e479af1ab145ac1729"
 metafile = true
 
 [[files]]

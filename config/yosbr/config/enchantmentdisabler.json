@@ -26,7 +26,7 @@
   "minecraft:power": false,
   "minecraft:punch": false,
   "minecraft:flame": false,
-  "minecraft:infinity": false,
+  "minecraft:infinity": true,
   "minecraft:luck_of_the_sea": false,
   "minecraft:lure": false,
   "minecraft:loyalty": false,

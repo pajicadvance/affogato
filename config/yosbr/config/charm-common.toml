@@ -37,7 +37,7 @@
 [BatBuckets]
 	#Right-click a bat with a bucket to capture it.
 	#Right-click again to release it and locate entities around you.
-	"BatBuckets enabled" = true
+	"BatBuckets enabled" = false
 
 [BeaconsHealMobs]
 	#Passive and friendly mobs will heal themselves within range of a beacon with the regeneration effect.
@@ -386,7 +386,7 @@
 [TotemsWorkFromInventory]
 	#A totem will work from anywhere in the player's inventory as well as held in the main or offhand.
 	#This includes the Totem of Preserving, if enabled.
-	"TotemsWorkFromInventory enabled" = true
+	"TotemsWorkFromInventory enabled" = false
 
 [UnlimitedRepairCost]
 	#Allows anvil repair of items with repair cost 39 or more.
