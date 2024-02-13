@@ -10,7 +10,7 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d36aa2846087c59bd7782c8be92b43e7a9fb52ed12f61d3f160f7dc360d75ed6"
+hash = "64aca3e4526addc68be30bff201952838d4b0a2e0d511248eb4b5b8f625711ba"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -182,7 +182,7 @@ hash = "b9f0f1775875c900b6b265212b8ea3d194009e75533dfab2a37fc3cea7f4e829"
 
 [[files]]
 file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "1fb4dca8142274be1df6a938b2f93de00da423548fcc0e9a4259e481ab40a55a"
+hash = "60288ab0c6ce5b3e66cea3a9a3a533f9ffdac6afddddbbb3134a4f3eb8d7c6a7"
 
 [[files]]
 file = "config/yosbr/config/debugify-descriptions.json"
@@ -628,6 +628,11 @@ hash = "f8dc47162043e0bcfdf633c7b48fda0b297a06e2bef9f9318ba2defc0d762a51"
 metafile = true
 
 [[files]]
+file = "mods/dcch.pw.toml"
+hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
+metafile = true
+
+[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
 metafile = true
@@ -923,6 +928,11 @@ hash = "255dc3b41247220b9bc1fa28c927192c089b2a4c745f55224afe29ef7970827c"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "1447b2cbf7c1d96fd410f85fdd029c1de4a4f8709d09146e602b6054065e49c0"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
 metafile = true
@@ -988,8 +998,9 @@ hash = "1cc8781b7c9b2fe9a7a3b9ab2ae6742374a007fc075c865827f97ece36f2919d"
 metafile = true
 
 [[files]]
-file = "mods/sleepwarp-2.3.0_alpha1+1.20.1.jar"
-hash = "5ab99123de2116b643783f51e2063bfe2280ff91e8342f51630e807796c3669b"
+file = "mods/sleepwarp.pw.toml"
+hash = "0bd86f34cb948213d8fcdd83f0767a0a1934ffdde363196b85ab8b109cc5f922"
+metafile = true
 
 [[files]]
 file = "mods/smooth-swapping.pw.toml"

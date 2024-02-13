@@ -1,0 +1,9 @@
+name = "SleepWarp"
+filename = "sleepwarp-2.3.0_affogato1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/pajicadvance/SleepWarp/releases/download/2.3.0/sleepwarp-2.3.0_affogato1+1.20.1.jar"
+
+hash-format = "sha1"
+hash = "b999249a769f74b9ecb919bbbcb1d6f0d8f8c54b"
