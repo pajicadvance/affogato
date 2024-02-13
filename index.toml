@@ -10,7 +10,7 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5c48c4ff1501a71e7fb610b4a7159608bc413148a47d5c9ef59b2ece0f2fd5dd"
+hash = "d36aa2846087c59bd7782c8be92b43e7a9fb52ed12f61d3f160f7dc360d75ed6"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -182,7 +182,7 @@ hash = "b9f0f1775875c900b6b265212b8ea3d194009e75533dfab2a37fc3cea7f4e829"
 
 [[files]]
 file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "5a24a1b1c0eb7a268164712a22e8197357eead33ee2899f4d9ba5e8ed4d35e35"
+hash = "1fb4dca8142274be1df6a938b2f93de00da423548fcc0e9a4259e481ab40a55a"
 
 [[files]]
 file = "config/yosbr/config/debugify-descriptions.json"
@@ -214,7 +214,7 @@ hash = "2905cd3f82f03ec43bf15887d96ccadf0f4ba567ee138c32e22f029e091af9ff"
 
 [[files]]
 file = "config/yosbr/config/enchantmentdisabler.json"
-hash = "5b219bbaace67c1f91c453d8dbac96ab11b187c15caaa52b7beb7ecec2dfc17b"
+hash = "0d1340d04af5a91df70a88da88b2dcaf51b60191540d42e4faa0da763a2d6fe5"
 
 [[files]]
 file = "config/yosbr/config/enchdesc.json"
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "222f958bff29fd1c59e28609a475b8f0616fd6efaa7fda1ad81bfa7cdf9b330f"
+hash = "344bf527d4ce34692d75eb4e47ecb4d1db6cc868ac0e2d4e34d3eeed515c2f26"
 metafile = true
 
 [[files]]
@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "41f8fc5ba7a8a486eb0ad29e9234f6b867dd8ca78b02c53fa8cf97afeb9061d4"
+hash = "c9d6fd5144569722237cb51962b6e334605a1059ee0be47e5baea6b28e1d1c27"
 metafile = true
 
 [[files]]
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "c0f053da77c8b39ce3af679b6242c39e716e08f02218064955b063d9af04a545"
+hash = "ac7776c4a19a5fe65ccfd996ba6e7c02a7168bfe8413679ff4a12499d0feea2c"
 metafile = true
 
 [[files]]
@@ -919,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d9d6dbf01fd367024cb158d662676f23ba43e6fafc6e01e479af1ab145ac1729"
+hash = "255dc3b41247220b9bc1fa28c927192c089b2a4c745f55224afe29ef7970827c"
 metafile = true
 
 [[files]]
@@ -1078,7 +1078,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "fade244d31c2deeb9ea1b3f698e56595b894f3ea7df3734463ee627d31860d79"
+hash = "f2855ca462a5ef36206a941612989aed049b1cd49559f0f2d4d247505566e546"
 metafile = true
 
 [[files]]
