@@ -9,6 +9,10 @@ file = "README.md"
 hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "60288ab0c6ce5b3e66cea3a9a3a533f9ffdac6afddddbbb3134a4f3eb8d7c6a7"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "64aca3e4526addc68be30bff201952838d4b0a2e0d511248eb4b5b8f625711ba"
 
@@ -179,10 +183,6 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 [[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
 hash = "b9f0f1775875c900b6b265212b8ea3d194009e75533dfab2a37fc3cea7f4e829"
-
-[[files]]
-file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "60288ab0c6ce5b3e66cea3a9a3a533f9ffdac6afddddbbb3134a4f3eb8d7c6a7"
 
 [[files]]
 file = "config/yosbr/config/debugify-descriptions.json"
@@ -451,6 +451,10 @@ hash = "9b21bbb6ddfadc15d58bf3d094201de3650daa21ccad054294131733fddc3a79"
 [[files]]
 file = "credits.txt"
 hash = "461a1127e30f37c2d8e15b4f02f7fa688d31c74953247dd7680da7ac5c3444d9"
+
+[[files]]
+file = "index.html"
+hash = "737e6daf77521604fc482aa91e8bed8c47f4815c624e61e49c45ecbb5832f708"
 
 [[files]]
 file = "mods/[external]aileron.pw.toml"
