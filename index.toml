@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "84c68e72e73eeefc8cba27595c1def05dc322987be219072042b202c7aca1ada"
+hash = "b74cab6606089885eb15c17a4adcdfba64d06b4187b869b8e62138b4fc38eacc"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c559f8cd116d6f5b1824cf6b9826010b6f833051fc0887a63a76a0639e33dfc1"
+hash = "e9c4e933849ee8c8cce4fdb0aa6f0e32f95fefdd685976447898e62853ecc2e9"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -725,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "ac7776c4a19a5fe65ccfd996ba6e7c02a7168bfe8413679ff4a12499d0feea2c"
+hash = "c2b668ef96fc8dd1143c429da2f027839a025bbf67355d2e41cafce46983c2f8"
 metafile = true
 
 [[files]]
@@ -831,6 +831,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "c1b5c4e32953b35fed5caf375451543fa3315385b956cf9cb49dcb032e972fb6"
 metafile = true
 
 [[files]]
