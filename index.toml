@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "60288ab0c6ce5b3e66cea3a9a3a533f9ffdac6afddddbbb3134a4f3eb8d7c6a7"
+hash = "84c68e72e73eeefc8cba27595c1def05dc322987be219072042b202c7aca1ada"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "64aca3e4526addc68be30bff201952838d4b0a2e0d511248eb4b5b8f625711ba"
+hash = "c559f8cd116d6f5b1824cf6b9826010b6f833051fc0887a63a76a0639e33dfc1"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -287,14 +287,6 @@ hash = "7a42f31a0b3296f4033bff371a5af21ed1d5d333abc00f4faceb7e1e893518b6"
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "021d490ab7d4725231dbb2b99f40bf698d5229ee6bf17a6260a5d772370f3fd4"
-
-[[files]]
-file = "config/yosbr/config/immersive_weathering-client.json"
-hash = "bde2f311650b6f84b5524a5f74515bc4d431c6f388534f890a0b4df2c5daa4de"
-
-[[files]]
-file = "config/yosbr/config/immersive_weathering-common.json"
-hash = "c61b7291b2514955be17fedb3a10567e263a7adfdae3192b203ac4041d783ead"
 
 [[files]]
 file = "config/yosbr/config/inmis.json"
@@ -748,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9fc779a408b93257c385321012d11063df38771a6c618bf2ff9fc1dc5b7fdb2e"
+hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
 
 [[files]]
@@ -842,11 +834,6 @@ hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
 metafile = true
 
 [[files]]
-file = "mods/immersive-weathering.pw.toml"
-hash = "9081cf6a9e5df864dd249c99df389344e6c3ba1dd475f824a0c9af69b2d6fdd8"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
@@ -878,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
+hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
 metafile = true
 
 [[files]]
@@ -928,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "255dc3b41247220b9bc1fa28c927192c089b2a4c745f55224afe29ef7970827c"
+hash = "ede9b867fe422afcf2ca210c1cd37fff8730e54b6ddf8f81189fa828d4abce89"
 metafile = true
 
 [[files]]
