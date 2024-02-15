@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "b74cab6606089885eb15c17a4adcdfba64d06b4187b869b8e62138b4fc38eacc"
+hash = "daa7d962e2f016e1de8162a1ca0d6340b36c5faac54c2422ac01c026f75f262c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e9c4e933849ee8c8cce4fdb0aa6f0e32f95fefdd685976447898e62853ecc2e9"
+hash = "82527f180266e07c235de39b02b6b7a1a11398c934fbf5dfaf1d9ca1f9823742"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -277,10 +277,6 @@ file = "config/yosbr/config/fallingtree.json"
 hash = "5142a600d6b0cd7ac00a9f857cf5c426449fd71278bb26f84a775c3157868ca8"
 
 [[files]]
-file = "config/yosbr/config/flow.config.json"
-hash = "64515f76011139cc7a3963a4154f10a8e499eaf072915513731523d4f5a8a2b4"
-
-[[files]]
 file = "config/yosbr/config/grindenchantments.json"
 hash = "7a42f31a0b3296f4033bff371a5af21ed1d5d333abc00f4faceb7e1e893518b6"
 
@@ -485,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "344bf527d4ce34692d75eb4e47ecb4d1db6cc868ac0e2d4e34d3eeed515c2f26"
+hash = "7e162781eef1d22c292d3b2574420125ac85d0ebeb248e8778731712cdb1e734"
 metafile = true
 
 [[files]]
@@ -786,11 +782,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
-metafile = true
-
-[[files]]
-file = "mods/flow.pw.toml"
-hash = "e218646005af72616e08291b8c344627298371e8b18570b9183a0467ba18d841"
 metafile = true
 
 [[files]]
