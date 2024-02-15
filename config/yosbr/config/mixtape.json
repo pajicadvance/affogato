@@ -11,7 +11,7 @@
     "pauseMusicWhenGamePaused": true,
     "stopMusicWhenSwitchingDimensions": true,
     "stopMusicWhenLeftGame": true,
-    "enableDebugInfo": true
+    "enableDebugInfo": false
   },
   "musicToast": {
     "enabled": true,

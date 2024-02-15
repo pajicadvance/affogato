@@ -4,8 +4,8 @@
   "sparkleEnabled": true,
   "soulEnabled": true,
   "waterCircles": {
-    "density": 10,
-    "radius": 16,
+    "density": 160,
+    "radius": 64,
     "enabled": true,
     "colored": true
   },

@@ -145,7 +145,7 @@
 	#If true, adds a recipe for Soul Torches using soul sand/soul soil and sticks.
 	"Simpler Soul Torch" = true
 	#If true, adds a shapeless recipe for bread.
-	"Shapeless bread" = true
+	"Shapeless bread" = false
 	#If true, adds a shapeless recipe for paper.
 	"Shapeless paper" = true
 	#If true, adds a recipe for TNT using a gunpowder block (if enabled) and any sand.
@@ -157,11 +157,11 @@
 	#More ways to repair items using different materials.
 	"ExtraRepairs enabled" = false
 	#Use prismarine shards to repair trident damage.
-	"Repair tridents using prismarine" = true
+	"Repair tridents using prismarine" = false
 	#Leather can be used to repair elytra when insomnia is disabled.
-	"Repair elytra using leather" = true
+	"Repair elytra using leather" = false
 	#Use netherite scrap to repair netherite item damage.
-	"Repair netherite using scrap" = true
+	"Repair netherite using scrap" = false
 
 [ExtraStackables]
 	#Allows some unstackable items to stack.
@@ -272,7 +272,7 @@
 	#Use workstations such as crafting tables when in range of the block.
 	"NearbyWorkstations enabled" = true
 	#Range from which player can access a workstation.
-	Distance = 16
+	Distance = 6
 
 [NoCropTrampling]
 	#Prevents crop trampling when wearing boots enchanted with Feather Falling.

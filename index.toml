@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "daa7d962e2f016e1de8162a1ca0d6340b36c5faac54c2422ac01c026f75f262c"
+hash = "67af52c55a3fc7078ad6a52fdb7fef8fabbf6165966e0a325f8238786fb372d8"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "82527f180266e07c235de39b02b6b7a1a11398c934fbf5dfaf1d9ca1f9823742"
+hash = "2ec2fc846bf9673a976ce9833bebad2ec10d46063bbbfc779120f3c3520eea71"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -141,6 +141,10 @@ file = "config/yosbr/config/borderlessmining.json"
 hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
 
 [[files]]
+file = "config/yosbr/config/cavedust.json"
+hash = "588f9c88f18538df7478aef4fc5cd8ba4035b628ae58c98a3ddebfcc5bc07fbe"
+
+[[files]]
 file = "config/yosbr/config/chalk.properties"
 hash = "f509c1eae7a8e55699b2a96156d417064be80b1b406b6b56aff656fa1eb87888"
 
@@ -150,7 +154,7 @@ hash = "b82a4c91db3babf4b75a063ac9c79504213f8fa0174d471f86bc403e375353c7"
 
 [[files]]
 file = "config/yosbr/config/charm-common.toml"
-hash = "00824f88c4feec6d9bfcb283fe036f7a55bd789d6e4bfa3f6c7b415dc0b83f45"
+hash = "0b7a1b7c92164fcd05d43dfe068d86970df13ab021ec2462776cde92a1479a04"
 
 [[files]]
 file = "config/yosbr/config/charmonium-client.toml"
@@ -166,7 +170,7 @@ hash = "ce191e1704db0a75993861f19b8f0567386e9477025ee9c98bee3f7d84a56be0"
 
 [[files]]
 file = "config/yosbr/config/clienttweaks-common.toml"
-hash = "4aa1c32ebe2c45a5110bd12fb12824316257de5d94f5be369b49cc5662fa943e"
+hash = "510772150524e38f50f3c68369d75b61018ba5fe2510385d3329a5f8d86993ce"
 
 [[files]]
 file = "config/yosbr/config/comforts-server.toml"
@@ -183,6 +187,10 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 [[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
 hash = "b9f0f1775875c900b6b265212b8ea3d194009e75533dfab2a37fc3cea7f4e829"
+
+[[files]]
+file = "config/yosbr/config/damagevignette.json"
+hash = "460a34ba3a9bf4f6a5ccc821a005f07b54f87e83b84cdaa97903e9078fd0c2bd"
 
 [[files]]
 file = "config/yosbr/config/debugify-descriptions.json"
@@ -290,7 +298,7 @@ hash = "19d078bac203426bdc2aee8053b6a5d3b8e583b6bb60355ca01b2edd861954a8"
 
 [[files]]
 file = "config/yosbr/config/interactic.json5"
-hash = "231b49ef5a3fb260040fe08682c41fabcfc25f5b024703c531b7d9d68d3b7be4"
+hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -330,7 +338,7 @@ hash = "5ec2a06cfebe74cb153e82b39aad10e613e9c7fcd0550301cbd8b318464273f1"
 
 [[files]]
 file = "config/yosbr/config/mixtape.json"
-hash = "7cc95755c250b8b4831b5d110ad89076b7ba32fcf9df8631641cc67bde9fdd03"
+hash = "baf045876fc82c900a1518bd2d72083dc81c79a9236a67b20b16c86ff8e3beff"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -398,7 +406,7 @@ hash = "b25372a3bf1a5caebd9ce9d965c112e1c3f35df7e334174dce7796dbfbbe401f"
 
 [[files]]
 file = "config/yosbr/config/spiceoffabric.hjson"
-hash = "a6c0943a7dcda5115f9f297707b7cfe01290d740fe565f97f58bbe7831528aab"
+hash = "b3626d5fbd31d9d61f5a1e299bc7ce35b1dac90389647f89bd36a68b65f2a3be"
 
 [[files]]
 file = "config/yosbr/config/spyglass-improvements/settings.json"
@@ -426,7 +434,7 @@ hash = "9e36c241c8df2a4c2f2040d911ce1200f1e01ac27b056566efe5a9838146522d"
 
 [[files]]
 file = "config/yosbr/config/visuality.json"
-hash = "88d657f8162309d18cd50a9d38b6e166b00e36c8ed9f69f5637067e0b1523427"
+hash = "c519130ed2a114005c50595f73da39321667815c3d3c6088d431584c6926a475"
 
 [[files]]
 file = "config/yosbr/config/waterdripsound.json"
@@ -481,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "7e162781eef1d22c292d3b2574420125ac85d0ebeb248e8778731712cdb1e734"
+hash = "937cfe475af5b5bcb323c4a29b9d99674feba48f8de3bc71ac9120060617f2f8"
 metafile = true
 
 [[files]]

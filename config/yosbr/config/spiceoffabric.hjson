@@ -1,6 +1,6 @@
 {
 	// default: NONE
-	show-last-eaten-tips: EXTENDED
+	show-last-eaten-tips: NONE
 	// default: false
 	enable-journal-command: false
 	respawn: {
