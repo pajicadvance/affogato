@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "67af52c55a3fc7078ad6a52fdb7fef8fabbf6165966e0a325f8238786fb372d8"
+hash = "2e15b4b6a9d144ccd7df48d6548fa3bd8d353216268fe49ee0e9f1d7133e1b55"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2ec2fc846bf9673a976ce9833bebad2ec10d46063bbbfc779120f3c3520eea71"
+hash = "edf5f9890753b17dc028119d2375930869aba2dfe5ea364efc01e624bc980465"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -86,7 +86,7 @@ hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
 
 [[files]]
 file = "config/yosbr/config/betterfortresses/fabric-1_20/itemframes.json"
-hash = "f7cb6e112166e272725f629cfaabcd760bad33dbbe0386ff7f20742ad56e0e55"
+hash = "2a12cd25c1196b5512c5f5c65b86a0aefdf8b094371b70611b6ad35aceb62b07"
 
 [[files]]
 file = "config/yosbr/config/betterjungletemples-fabric-1_20.toml"
@@ -282,7 +282,7 @@ hash = "cc51b88a3952831f14d31ad0edc987a52b8648a68ce4b89336afc43764423f48"
 
 [[files]]
 file = "config/yosbr/config/fallingtree.json"
-hash = "5142a600d6b0cd7ac00a9f857cf5c426449fd71278bb26f84a775c3157868ca8"
+hash = "922a0a06c316eb1f0aba285f5bc59f4421b51b6f861661f3cdab38bbd44e4927"
 
 [[files]]
 file = "config/yosbr/config/grindenchantments.json"
@@ -453,23 +453,23 @@ file = "index.html"
 hash = "737e6daf77521604fc482aa91e8bed8c47f4815c624e61e49c45ecbb5832f708"
 
 [[files]]
-file = "mods/[external]aileron.pw.toml"
-hash = "fac871bd4bba50812adf076976679eb5dc1fccc0e303e109b2e86e59f053c933"
-metafile = true
-
-[[files]]
-file = "mods/[external]charm.pw.toml"
+file = "mods/[override]charm.pw.toml"
 hash = "845acbd34e796f58789802b302469d3d24175a2f354597924e4d89705aed3af4"
 metafile = true
 
 [[files]]
-file = "mods/[external]charmonium.pw.toml"
+file = "mods/[override]charmonium.pw.toml"
 hash = "7fda75c9993cde462cd293c8c435cfb6f0a8cdad9d740785c43030fc83a521ed"
 metafile = true
 
 [[files]]
-file = "mods/[external]extrasounds.pw.toml"
+file = "mods/[override]extrasounds.pw.toml"
 hash = "27865703eefa285627f71fd98de81857b07a4acf9700697d5f8f5c504d5d4977"
+metafile = true
+
+[[files]]
+file = "mods/[override]true-darkness-fork-fabric.pw.toml"
+hash = "b4a8b30b0653aed7e9833370b18fd5d3ee251bd43c22bc88ab7f4a876797d9df"
 metafile = true
 
 [[files]]
@@ -490,6 +490,11 @@ metafile = true
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
 hash = "937cfe475af5b5bcb323c4a29b9d99674feba48f8de3bc71ac9120060617f2f8"
+metafile = true
+
+[[files]]
+file = "mods/aileron.pw.toml"
+hash = "fac871bd4bba50812adf076976679eb5dc1fccc0e303e109b2e86e59f053c933"
 metafile = true
 
 [[files]]
@@ -1060,11 +1065,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
-metafile = true
-
-[[files]]
-file = "mods/true-darkness-fork-fabric.pw.toml"
-hash = "b4a8b30b0653aed7e9833370b18fd5d3ee251bd43c22bc88ab7f4a876797d9df"
 metafile = true
 
 [[files]]

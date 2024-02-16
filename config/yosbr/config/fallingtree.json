@@ -6,7 +6,7 @@
     "allowedNonDecayLeaves": [],
     "deniedLeaves": [],
     "breakMode": "INSTANTANEOUS",
-    "detectionMode": "ABOVE_CUT",
+    "detectionMode": "WHOLE_TREE",
     "maxScanSize": 500,
     "maxSize": 100,
     "maxLeafDistanceFromLog": 15,

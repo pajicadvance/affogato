@@ -25,7 +25,8 @@
       "paper": 0.1,
       "writable_book": 0.1,
       "book": 0.4,
-      "enchanted_book": 0.1
+      "golden_apple": 0.05,
+	  "enchanted_golden_apple": 0.005
     },
     "defaultItem": "air"
   },
