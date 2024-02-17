@@ -178,3 +178,4 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+key_key.amecs.toggle_auto_jump:key.keyboard.unknown

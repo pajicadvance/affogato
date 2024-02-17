@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "93f4b1fb362c34cef7ea20306a9b7ae89eff8f9f95103c7081f314d53e545d8b"
+hash = "95cce3013fcf1f35ad40d796799a44c45519c277215a59d306275bba928b3116"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9b62b558ebca8cb7b541bd4dd37806b18460ddcd563fadf1849a71c2ce90f54f"
+hash = "e7c915beb2d976aa879dad2dad46b9a3e56749b556094ced55eb82e1d9b82567"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -254,7 +254,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/yosbr/config/fabrication/features.ini"
-hash = "f0abbfb3bc9b6407f1aa1dc70b2904dbf182e118c32cdb4e37a8c2cea15cacf6"
+hash = "413666a46cad8abedfe33fcef647ef6e2e87b3110774c66ae77702b220522d31"
 
 [[files]]
 file = "config/yosbr/config/fabrication/fscript.ini"
@@ -422,7 +422,7 @@ hash = "6182d9b5caace521a7429905796002e5f6c560e4a19828bfc79e057112084bfa"
 
 [[files]]
 file = "config/yosbr/config/tiefix.json"
-hash = "fa03785b00799304b0527cad45cfc63f85481292dcc4bd5521ecc7007a753b80"
+hash = "f344dbbc1dae0321ddd30c87243f643b48a8e3fa85fe76dcf6e90adf41f42542"
 
 [[files]]
 file = "config/yosbr/config/tinkerers_smithing.toml"
@@ -442,7 +442,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9b21bbb6ddfadc15d58bf3d094201de3650daa21ccad054294131733fddc3a79"
+hash = "d9f73c3bcbbf019648db47d778d6f606c8124e56fdd35ff96a457ed7b2a31e45"
 
 [[files]]
 file = "credits.txt"
@@ -498,6 +498,11 @@ hash = "fac871bd4bba50812adf076976679eb5dc1fccc0e303e109b2e86e59f053c933"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "a38756b006a19b14d37d344a49cf37dae91102db8bc0a444485624e1d79d9a94"
 metafile = true
@@ -525,6 +530,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
+metafile = true
+
+[[files]]
+file = "mods/better-controls.pw.toml"
+hash = "79620d104855c3699a62efd9c4de9071c0482f19c2a56cf85c2391748804238a"
 metafile = true
 
 [[files]]
@@ -945,6 +955,11 @@ metafile = true
 [[files]]
 file = "mods/nerb.pw.toml"
 hash = "91b6ddaebfb96b92e89d69123606266fd1109190131061d9a8f58e9f9f7a91ff"
+metafile = true
+
+[[files]]
+file = "mods/nmuk.pw.toml"
+hash = "bf90fb21fcd2f9ea1f8b6b9abdd489e3fa56cb706602ea37741234630efd56ad"
 metafile = true
 
 [[files]]
