@@ -177,7 +177,7 @@
 	#Stew (and beetroot soup) maximum stack size.
 	Stew = 16
 	#Suspicious stew maximum stack size.
-	"Suspicious stew" = 1
+	"Suspicious stew" = 16
 
 [ExtraStews]
 	#Suspicious stews can be crafted from pitcher plants and sunflowers.

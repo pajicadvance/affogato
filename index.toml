@@ -154,7 +154,7 @@ hash = "b82a4c91db3babf4b75a063ac9c79504213f8fa0174d471f86bc403e375353c7"
 
 [[files]]
 file = "config/yosbr/config/charm-common.toml"
-hash = "0b7a1b7c92164fcd05d43dfe068d86970df13ab021ec2462776cde92a1479a04"
+hash = "67f51f18a92cb212d743bfdd1ac3730cff842409e0c67a83432b6ceeaa3c1b12"
 
 [[files]]
 file = "config/yosbr/config/charmonium-client.toml"
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "442839e633d48f86b7ff179795ebed3169e39eccc03237f9ba027d5e997ec73f"
+hash = "17a28543d211bb0210a7eb23f1238e59114501548ce611256f97dea3276e7554"
 metafile = true
 
 [[files]]
