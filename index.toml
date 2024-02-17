@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "2e15b4b6a9d144ccd7df48d6548fa3bd8d353216268fe49ee0e9f1d7133e1b55"
+hash = "93f4b1fb362c34cef7ea20306a9b7ae89eff8f9f95103c7081f314d53e545d8b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "edf5f9890753b17dc028119d2375930869aba2dfe5ea364efc01e624bc980465"
+hash = "9b62b558ebca8cb7b541bd4dd37806b18460ddcd563fadf1849a71c2ce90f54f"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -222,7 +222,7 @@ hash = "2905cd3f82f03ec43bf15887d96ccadf0f4ba567ee138c32e22f029e091af9ff"
 
 [[files]]
 file = "config/yosbr/config/enchantmentdisabler.json"
-hash = "0d1340d04af5a91df70a88da88b2dcaf51b60191540d42e4faa0da763a2d6fe5"
+hash = "4856a2441682406ff44f88091f860504c87592887c91a2342f5c1e630e7d3920"
 
 [[files]]
 file = "config/yosbr/config/enchdesc.json"
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "937cfe475af5b5bcb323c4a29b9d99674feba48f8de3bc71ac9120060617f2f8"
+hash = "ecab7ddddd7586617efb81716d6c365d5beb9ceba3543118ec5b49c8442fc45f"
 metafile = true
 
 [[files]]
@@ -754,7 +754,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
 metafile = true
 
 [[files]]
@@ -924,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ede9b867fe422afcf2ca210c1cd37fff8730e54b6ddf8f81189fa828d4abce89"
+hash = "c181b8ce64216c1d82a56311c74d7ae601eb364596e9c3f90ddd43f152e72491"
 metafile = true
 
 [[files]]

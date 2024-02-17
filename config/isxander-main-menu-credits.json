@@ -2,7 +2,7 @@
   "main_menu": {
     "bottom_left": [
       {
-        "text": "Affogato Beta-8",
+        "text": "Affogato Beta-9",
         "clickEvent": {
           "action": "open_url",
           "value": "https://modrinth.com/modpack/affogato"
@@ -13,7 +13,7 @@
   "pause_menu": {
     "bottom_left": [
       {
-        "text": "Affogato Beta-8",
+        "text": "Affogato Beta-9",
         "clickEvent": {
           "action": "open_url",
           "value": "https://modrinth.com/modpack/affogato"

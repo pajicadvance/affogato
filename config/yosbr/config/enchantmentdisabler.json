@@ -1,9 +1,9 @@
 {
-  "minecraft:protection": false,
+  "minecraft:protection": true,
   "minecraft:fire_protection": true,
   "minecraft:feather_falling": false,
-  "minecraft:blast_protection": true,
-  "minecraft:projectile_protection": true,
+  "minecraft:blast_protection": false,
+  "minecraft:projectile_protection": false,
   "minecraft:respiration": true,
   "minecraft:aqua_affinity": true,
   "minecraft:thorns": true,
