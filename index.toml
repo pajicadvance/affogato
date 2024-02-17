@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "95cce3013fcf1f35ad40d796799a44c45519c277215a59d306275bba928b3116"
+hash = "47fb8903f51bbd8e0880cdae5afacc2e8e345b74aefddb48cf6aad084fac7149"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e7c915beb2d976aa879dad2dad46b9a3e56749b556094ced55eb82e1d9b82567"
+hash = "87376671ae368bc11fe6fd8fd830219fedbcccf5f98dfad51a0af8bbd7dff32e"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "ecab7ddddd7586617efb81716d6c365d5beb9ceba3543118ec5b49c8442fc45f"
+hash = "900aaed1bdc56e63e6696a1a2f8a8e0efadc2c373f1e850a52803752c66af585"
 metafile = true
 
 [[files]]
