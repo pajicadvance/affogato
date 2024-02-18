@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "7264e095ae361f7f407ade9d9c53f12d966cd11b4dd089f4eb21d3f2be12ad85"
+hash = "75dc0bba1972218c7db162928a01e217e2e5231697a2432d7c2e4e91bf115247"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "050e6eff10bbe9c4f3e84c5a5b7474203b20b40be869aea911505db0c9e64da9"
+hash = "3800969f9e9b25209b9c7b3420626c89488fe6ca1ae2840e30b26ee508c51785"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -166,7 +166,7 @@ hash = "255baf1a58b275de818a0d555373df02c8b1570a129d4a52045109954c925fb2"
 
 [[files]]
 file = "config/yosbr/config/cinderscapes.json"
-hash = "ce191e1704db0a75993861f19b8f0567386e9477025ee9c98bee3f7d84a56be0"
+hash = "3478f237c2d98faf9c61139be44cb0cb0cbc2808dd6b9e01c1b881995288c8a0"
 
 [[files]]
 file = "config/yosbr/config/clienttweaks-common.toml"
@@ -254,7 +254,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/yosbr/config/fabrication/features.ini"
-hash = "413666a46cad8abedfe33fcef647ef6e2e87b3110774c66ae77702b220522d31"
+hash = "c43f6abc0ffc0d5268e15e48eb6fead2c663e66b2ba4a8a0c7dde3000cdcf030"
 
 [[files]]
 file = "config/yosbr/config/fabrication/fscript.ini"
@@ -383,6 +383,10 @@ hash = "22e843baec858551d452bf3faa8698caf70b51bd61b5217b39059b32226e383e"
 [[files]]
 file = "config/yosbr/config/seasons.json"
 hash = "b9a8b8b96af7b0cf8c6e0a674364ea5c8474cbf458be0d178f22ce96878b0b8f"
+
+[[files]]
+file = "config/yosbr/config/simplefog.json"
+hash = "c37c973a398b8c78737ecc823f6e4df08473305085b79a6fa5dca8eb30ed1e07"
 
 [[files]]
 file = "config/yosbr/config/smoothswapping.json"
@@ -1013,6 +1017,11 @@ hash = "1cc8781b7c9b2fe9a7a3b9ab2ae6742374a007fc075c865827f97ece36f2919d"
 metafile = true
 
 [[files]]
+file = "mods/simplefog.pw.toml"
+hash = "1ecb59adbb103f86496203ff3f44a80b18193512e74fd7a367ed06234702059f"
+metafile = true
+
+[[files]]
 file = "mods/sleepwarp.pw.toml"
 hash = "0bd86f34cb948213d8fcdd83f0767a0a1934ffdde363196b85ab8b109cc5f922"
 metafile = true
@@ -1173,7 +1182,7 @@ hash = "f1a19d9e142d691edcff0b4fb785d7fb9ad81e28eb9b9440e7e9eac5cef15b56"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
-hash = "46d8fbabf7f8624be029725a981a9e3d2985cdb7746800953d23c35e42a62fdf"
+hash = "0f4c9cfe513eace415dd27d9357d6b2f39a3ea87c75710bb45c13e63a864835d"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

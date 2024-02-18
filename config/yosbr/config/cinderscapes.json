@@ -1,6 +1,6 @@
 {
   "biomes": {
-    "enableAshyShoals": true,
+    "enableAshyShoals": false,
     "enableBlackstoneShales": true,
     "enableLuminousGrove": true,
     "enableQuartzCavern": true
