@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "75dc0bba1972218c7db162928a01e217e2e5231697a2432d7c2e4e91bf115247"
+hash = "e16b4ab4739dca0a6853ace116d1d1dda31956cad325f6ae2f1345f84809dc92"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3800969f9e9b25209b9c7b3420626c89488fe6ca1ae2840e30b26ee508c51785"
+hash = "897af9e23ba052cc6551b860211d868af1d4c667a904a175cc27ea13fc17b6dd"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "964675ef9d06c7d722ff56272838038ec958c45bdf5c477d95b5b448589a3633"
+hash = "43a2c6d4de324c6ff72f265ae7a7d04127346642e4b72f5abe765bf7bd2a1deb"
 metafile = true
 
 [[files]]
@@ -688,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
+hash = "8c9c75bfd79072f46c48f3e256b2dfc71019c71df093fac6db40c01e2109c849"
 metafile = true
 
 [[files]]
@@ -723,7 +723,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "2e18561f17575cbf430837b63632199755826120c616a83d58717d2cdba8e7d5"
+hash = "b65744fcf3ebfd08258a1d930f7821dd9b9df32f88295433b2bbdb9d4d78664d"
 metafile = true
 
 [[files]]
@@ -967,6 +967,11 @@ hash = "bf90fb21fcd2f9ea1f8b6b9abdd489e3fa56cb706602ea37741234630efd56ad"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "1f265c12c3649ab889b96bf8a3f5263521e5afc82c66e094983bfd003b3200a2"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
@@ -1164,11 +1169,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
-metafile = true
-
-[[files]]
-file = "mods/yungs-bridges.pw.toml"
-hash = "faffa81c972ce07df81b794c9e52c32b5111b73081eb64140fa01e9db239e409"
 metafile = true
 
 [[files]]
