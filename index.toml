@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "e16b4ab4739dca0a6853ace116d1d1dda31956cad325f6ae2f1345f84809dc92"
+hash = "b9fdc4eee9f9d69d90bac8df9e2098de18aa984ed493d19f26f227dd2fcb5a57"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "897af9e23ba052cc6551b860211d868af1d4c667a904a175cc27ea13fc17b6dd"
+hash = "247e17ce44398302a16113fbb13422e1cedc30908b9afbca3e706b9e28a72bd5"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -214,7 +214,7 @@ hash = "0cc9e6051ff7fb9a0c924da2c38e28363d17ffd15694f872fab747c32618f4d7"
 
 [[files]]
 file = "config/yosbr/config/emi.css"
-hash = "c2235d386f050d74f3a39f8577395b89adab7429c1d2c4864dfed3fd8a70d459"
+hash = "954539c600e0aac1141723031ceb3f808b1503af1ce756abcf4986a72cefa5cf"
 
 [[files]]
 file = "config/yosbr/config/enchantedshulkers.toml"
@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "43a2c6d4de324c6ff72f265ae7a7d04127346642e4b72f5abe765bf7bd2a1deb"
+hash = "dc3ae5c72e4aef5baa99245acd81170c127c1902dd595b0971b5414fbaf5c6af"
 metafile = true
 
 [[files]]
@@ -509,6 +509,11 @@ metafile = true
 [[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "a38756b006a19b14d37d344a49cf37dae91102db8bc0a444485624e1d79d9a94"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
 metafile = true
 
 [[files]]
@@ -688,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "8c9c75bfd79072f46c48f3e256b2dfc71019c71df093fac6db40c01e2109c849"
+hash = "6ea1eddd8ff08bd26c296bf6c1e3906c0e2ec5ad0b334a0adca4f1f2a1bb03cc"
 metafile = true
 
 [[files]]
@@ -708,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "03cdf4c69f8a80171e7a3998238550cc7f3bf7f321e179cdcd63f00ec481fd20"
+hash = "cd693ad91c7c638289222058e334041107479280e294120b4c861f24e6b4ed98"
 metafile = true
 
 [[files]]
@@ -748,7 +753,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "c2b668ef96fc8dd1143c429da2f027839a025bbf67355d2e41cafce46983c2f8"
+hash = "ad2c92615b6ffe12459f2fcc3f917f738298d88ca98df125fe58084fe139dcba"
 metafile = true
 
 [[files]]
@@ -907,6 +912,21 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "17abe74fad17a8ad23797548cd53f3ef1b1abbbf9133f03c1bac359f3939ff27"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "48103c30f30b24a9c2bcc3cd6d4a72e2e5c4dda00d8af25bbc27b4f8d1af1f0b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "d5020abb71080f181795e24f7e8816087e4448612efb2fb5bd814f317d2ff6c2"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
@@ -938,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c181b8ce64216c1d82a56311c74d7ae601eb364596e9c3f90ddd43f152e72491"
+hash = "dbb67475ad3a0ce5527b566313a224f9be4c2e18a57bfa2c08579a1716c956c2"
 metafile = true
 
 [[files]]
