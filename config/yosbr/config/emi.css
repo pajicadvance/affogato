@@ -146,7 +146,7 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: favorites;
+	left-sidebar-pages: craftables;
 
 	/**
 	 * The subpanels in the left sidebar
@@ -186,7 +186,7 @@
 	/**
 	 * The subpanels in the right sidebar
 	 */
-	right-sidebar-subpanels: craftables 3;
+	right-sidebar-subpanels: none;
 
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
@@ -216,7 +216,7 @@
 	/**
 	 * The pages in the top sidebar
 	 */
-	top-sidebar-pages: none;
+	top-sidebar-pages: favorites;
 
 	/**
 	 * The subpanels in the top sidebar

@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "51206e980c332c371bffce02fac8f4f3268af5b83a441d4c6e7c25d40d382a24"
+hash = "7a17002ee8031687747ab266917c88b0a4776fb5a63ae672e83ac9760ef2edb1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ab10d306de40aae8e36a6581ec898594e8bac80662866fc7581aa28648e1977b"
+hash = "712d433e1f9e82f072b81b839db211186d52a0a633f205f5f69ec552707c5de3"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -214,7 +214,7 @@ hash = "0cc9e6051ff7fb9a0c924da2c38e28363d17ffd15694f872fab747c32618f4d7"
 
 [[files]]
 file = "config/yosbr/config/emi.css"
-hash = "954539c600e0aac1141723031ceb3f808b1503af1ce756abcf4986a72cefa5cf"
+hash = "7179a3363efdc82d4892a3b4e724310e07c1dc1db543566fa84e703ff471a58e"
 
 [[files]]
 file = "config/yosbr/config/enchantedshulkers.toml"
@@ -958,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4efc4a4dfb26ed8399c0340b9bd921451e8b56f81d33bd0d3e5596d0bf5599e8"
+hash = "1850a5d8e0f40a682b3aa08dfb925be4610896d60c7e5aaa5c1929ffeb7b96c4"
 metafile = true
 
 [[files]]
