@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "b9fdc4eee9f9d69d90bac8df9e2098de18aa984ed493d19f26f227dd2fcb5a57"
+hash = "51206e980c332c371bffce02fac8f4f3268af5b83a441d4c6e7c25d40d382a24"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "247e17ce44398302a16113fbb13422e1cedc30908b9afbca3e706b9e28a72bd5"
+hash = "ab10d306de40aae8e36a6581ec898594e8bac80662866fc7581aa28648e1977b"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -410,7 +410,7 @@ hash = "b25372a3bf1a5caebd9ce9d965c112e1c3f35df7e334174dce7796dbfbbe401f"
 
 [[files]]
 file = "config/yosbr/config/spiceoffabric.hjson"
-hash = "b3626d5fbd31d9d61f5a1e299bc7ce35b1dac90389647f89bd36a68b65f2a3be"
+hash = "98a496a61528577c5f46844542e86b78e1010d5290eb2ef498d5e9ec2a382362"
 
 [[files]]
 file = "config/yosbr/config/spyglass-improvements/settings.json"
@@ -958,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dbb67475ad3a0ce5527b566313a224f9be4c2e18a57bfa2c08579a1716c956c2"
+hash = "4efc4a4dfb26ed8399c0340b9bd921451e8b56f81d33bd0d3e5596d0bf5599e8"
 metafile = true
 
 [[files]]
