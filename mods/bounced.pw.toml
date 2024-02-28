@@ -1,13 +1,13 @@
 name = "Bounced"
-filename = "bounced-1.20-3.2.0.jar"
+filename = "bounced-1.20-4.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2mlOZXZr/versions/ooDtt5J5/bounced-1.20-3.2.0.jar"
+url = "https://cdn.modrinth.com/data/2mlOZXZr/versions/RI0qnWCd/bounced-1.20-4.0.0.jar"
 hash-format = "sha1"
-hash = "d341c2fbf9c7d222c95971612907f9b251b48ba0"
+hash = "58a0e8b277efb700b7d0bb57353449528120b9b7"
 
 [update]
 [update.modrinth]
 mod-id = "2mlOZXZr"
-version = "ooDtt5J5"
+version = "RI0qnWCd"

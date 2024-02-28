@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "7a17002ee8031687747ab266917c88b0a4776fb5a63ae672e83ac9760ef2edb1"
+hash = "c6133201fa728beb5c6d68f007819b37fee5af615665d71319d3689300c73773"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "712d433e1f9e82f072b81b839db211186d52a0a633f205f5f69ec552707c5de3"
+hash = "45dbd9667c18a377d66c48845709f76660d3a8c91a24a2a2c99b33f8dcd122d1"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -389,6 +389,10 @@ file = "config/yosbr/config/simplefog.json"
 hash = "c37c973a398b8c78737ecc823f6e4df08473305085b79a6fa5dca8eb30ed1e07"
 
 [[files]]
+file = "config/yosbr/config/sleepwarp-client.json"
+hash = "e704fea8c5bf5e57ec7a2aa8bfd5c314ac3c2de280fac8134b60e8fb2207c3db"
+
+[[files]]
 file = "config/yosbr/config/smoothswapping.json"
 hash = "932d460b708b2f5b296398d5d972bf823e8da33c4ac0522780114ef2be9fb61a"
 
@@ -457,6 +461,11 @@ file = "index.html"
 hash = "737e6daf77521604fc482aa91e8bed8c47f4815c624e61e49c45ecbb5832f708"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
+metafile = true
+
+[[files]]
 file = "mods/[override]charm.pw.toml"
 hash = "845acbd34e796f58789802b302469d3d24175a2f354597924e4d89705aed3af4"
 metafile = true
@@ -493,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "dc3ae5c72e4aef5baa99245acd81170c127c1902dd595b0971b5414fbaf5c6af"
+hash = "fc4dc5aba0aeced033e4403e72d56b8bbf44f5bf09a15427da20dc48fa306fe9"
 metafile = true
 
 [[files]]
@@ -523,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9b9cba3fa724134f59e95816e95b980fe9bc6f30798351f9b0628d463fecda3b"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
@@ -538,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
+hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
 metafile = true
 
 [[files]]
@@ -553,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "c9d6fd5144569722237cb51962b6e334605a1059ee0be47e5baea6b28e1d1c27"
+hash = "074e35f85dcb92906c6758617f274ec398f9c3b584632306d724424c1fa28980"
 metafile = true
 
 [[files]]
@@ -578,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/bounced.pw.toml"
-hash = "94e5dc0f116183cc6f2a501f95e64d5aabf8970c71ce70435ddd65db42199544"
+hash = "06fbb3bad511e9c763595965c53ab377b39e9d8acf2f54f85ac5b68bb9fe8eae"
 metafile = true
 
 [[files]]
@@ -693,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6ea1eddd8ff08bd26c296bf6c1e3906c0e2ec5ad0b334a0adca4f1f2a1bb03cc"
+hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
 metafile = true
 
 [[files]]
@@ -713,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "cd693ad91c7c638289222058e334041107479280e294120b4c861f24e6b4ed98"
+hash = "4fdb3fed87f0b60a09bd5ad1a0c3007ab0ea9a8b8508af10bc1c7a750c85f237"
 metafile = true
 
 [[files]]
@@ -748,12 +757,12 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "0e8a5f0c1e5d306dcdb4819c799a388eca32429169a3cf0a2bee07124c547639"
+hash = "a8d3244d58d7722735a72eee2a869d15e5fe38ec7d9a54ff555aadd53cae637c"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "ad2c92615b6ffe12459f2fcc3f917f738298d88ca98df125fe58084fe139dcba"
+hash = "8f5efdd43bb0a57bc70d3710bb42c85e49a6688e1e829cd7d4f71fc220eca90b"
 metafile = true
 
 [[files]]
@@ -898,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/labels.pw.toml"
-hash = "54015f0c1082c8347e88f732c0f3515d50346c606a59cbc88cd8f726a0882033"
+hash = "dd4349579a8951e8174862000c6c8a02e9fb99388976953eb557db52e1f99083"
 metafile = true
 
 [[files]]
@@ -958,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1850a5d8e0f40a682b3aa08dfb925be4610896d60c7e5aaa5c1929ffeb7b96c4"
+hash = "40708f8d3d84c9a7e0311c234423cefd8bc0374b5d6363211e0da95f63c3b215"
 metafile = true
 
 [[files]]
