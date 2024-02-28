@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "c6133201fa728beb5c6d68f007819b37fee5af615665d71319d3689300c73773"
+hash = "332ead3eea632edaf620203db13c69e0dfb1d1bb852e17dfb13850364486a125"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "45dbd9667c18a377d66c48845709f76660d3a8c91a24a2a2c99b33f8dcd122d1"
+hash = "dfd2b4456d72a42a0f810a05aca2a53cf32469325818523bc60e4972bbb8e1fd"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -393,6 +393,10 @@ file = "config/yosbr/config/sleepwarp-client.json"
 hash = "e704fea8c5bf5e57ec7a2aa8bfd5c314ac3c2de280fac8134b60e8fb2207c3db"
 
 [[files]]
+file = "config/yosbr/config/sleepwarp-server.json"
+hash = "e704fea8c5bf5e57ec7a2aa8bfd5c314ac3c2de280fac8134b60e8fb2207c3db"
+
+[[files]]
 file = "config/yosbr/config/smoothswapping.json"
 hash = "932d460b708b2f5b296398d5d972bf823e8da33c4ac0522780114ef2be9fb61a"
 
@@ -414,7 +418,7 @@ hash = "b25372a3bf1a5caebd9ce9d965c112e1c3f35df7e334174dce7796dbfbbe401f"
 
 [[files]]
 file = "config/yosbr/config/spiceoffabric.hjson"
-hash = "98a496a61528577c5f46844542e86b78e1010d5290eb2ef498d5e9ec2a382362"
+hash = "eeb7329630b8e671b3792a74d4e9a7cacf1532d367f2dbdb2cd6d18b261a2f20"
 
 [[files]]
 file = "config/yosbr/config/spyglass-improvements/settings.json"
@@ -1023,6 +1027,11 @@ metafile = true
 [[files]]
 file = "mods/pickup-notifications.pw.toml"
 hash = "e52f92d34ee7204da1b65ad4f4f4b8222fc0145f30a373b86686dce663aca627"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "6b24857345b0220f0b9560d856df67d0edeef32a45e5b46f85beded5a9c72487"
 metafile = true
 
 [[files]]

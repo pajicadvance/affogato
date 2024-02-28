@@ -18,13 +18,13 @@
 	food: {
 		// default: hungerValue * power(0.7, timesEaten)
 		// 	Must be a valid expression
-		hunger: hungerValue * (1 - (timesEaten * 0.125))
+		hunger: hungerValue * (1 - (timesEaten * (3 / (hungerValue + 5))))
 		// default: saturationValue
 		// 	Must be a valid expression
 		saturation: saturationValue
 		// default: consumeDuration * power(1.3, timesEaten)
 		// 	Must be a valid expression
-		consume-duration: consumeDuration * power(1.3, timesEaten)
+		consume-duration: consumeDuration
 		// default: 20
 		// 	Must be greater or equal to 0
 		history-length: 8
