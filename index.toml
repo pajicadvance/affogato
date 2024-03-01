@@ -1215,6 +1215,10 @@ hash = "3f0ac032a4f89382745b03a8e1078041f728d9e4f2df14fa9eb910382b98b1c4"
 metafile = true
 
 [[files]]
+file = "patchouli_books/affogato_guide/book.json"
+hash = "c158440fbdfab803c9ff15d97d4c41633968b6649712f8ee8ebe8ccc8d108feb"
+
+[[files]]
 file = "resourcepacks/VanillaTweaks.zip"
 hash = "f1a19d9e142d691edcff0b4fb785d7fb9ad81e28eb9b9440e7e9eac5cef15b56"
 
