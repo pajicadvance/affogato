@@ -10,11 +10,11 @@ hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "332ead3eea632edaf620203db13c69e0dfb1d1bb852e17dfb13850364486a125"
+hash = "ad30b534cd60a9e5cf575c649251e14dfd4b49957e722c9fc01d53895426c093"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "dfd2b4456d72a42a0f810a05aca2a53cf32469325818523bc60e4972bbb8e1fd"
+hash = "6aab2b4d89c9ab14fcb0a79137b9cd41a58acfbc03e69d840b3df8157d5c20ac"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -154,7 +154,7 @@ hash = "b82a4c91db3babf4b75a063ac9c79504213f8fa0174d471f86bc403e375353c7"
 
 [[files]]
 file = "config/yosbr/config/charm-common.toml"
-hash = "67f51f18a92cb212d743bfdd1ac3730cff842409e0c67a83432b6ceeaa3c1b12"
+hash = "d365134952270ead0c180afb83f01a8b77d8d9cfc51ca664ea71b6085cadc267"
 
 [[files]]
 file = "config/yosbr/config/charmonium-client.toml"
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "fc4dc5aba0aeced033e4403e72d56b8bbf44f5bf09a15427da20dc48fa306fe9"
+hash = "c994b0b576d4f04781905e164c9c2a7242f0b432d1604505c62b7b0d252d2ede"
 metafile = true
 
 [[files]]
@@ -971,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "40708f8d3d84c9a7e0311c234423cefd8bc0374b5d6363211e0da95f63c3b215"
+hash = "b675c63ee3f09553d7fde4aa093f2dd2594748945eb45134e270d41e8ea57035"
 metafile = true
 
 [[files]]
@@ -1161,7 +1161,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "9aaa47ddb019a988c0f9b43560a488d29bda0af70f310762aac36c24959e1bab"
+hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
 metafile = true
 
 [[files]]

@@ -243,7 +243,7 @@
 
 [Kilns]
 	#A functional block that speeds up cooking of clay, glass, bricks and terracotta.
-	"Kilns enabled" = true
+	"Kilns enabled" = false
 
 [LongerSuspiciousEffects]
 	#Beneficial suspicious stew effects last longer.

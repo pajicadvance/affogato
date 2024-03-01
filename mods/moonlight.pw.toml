@@ -6,8 +6,3 @@ side = "both"
 url = "https://cdn.modrinth.com/data/twkfQtEc/versions/uKalHaQF/moonlight-1.20-2.10.9-fabric.jar"
 hash-format = "sha1"
 hash = "a42126f9df76d75034152c66e4c313ce9727afa9"
-
-[update]
-[update.modrinth]
-mod-id = "twkfQtEc"
-version = "uKalHaQF"
