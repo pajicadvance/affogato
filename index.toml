@@ -9,12 +9,16 @@ file = "README.md"
 hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
+file = "config/TrueDarknessFork.json5"
+hash = "14f60f3ad93027701a91498a23a36978dff27940ea999067457a87388062f25a"
+
+[[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "ad30b534cd60a9e5cf575c649251e14dfd4b49957e722c9fc01d53895426c093"
+hash = "8e32205db172dd79677698432a88e9dcf7791f17a9368143397922a2051e038c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6aab2b4d89c9ab14fcb0a79137b9cd41a58acfbc03e69d840b3df8157d5c20ac"
+hash = "d8f9f1b8835e3bf3d48efb0305a197e4cffd6637732cf9098e80935742e874a8"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -23,10 +27,6 @@ hash = "3c6de1de3a0992d41a22740b7ad5e70295960b09a3e72a8024991f826414eba1"
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
-file = "config/yosbr/config/TrueDarknessFork.json5"
-hash = "0699b8c055d788da9e9165280551e1f775c450995e293eabc75a7d5104fccfdf"
 
 [[files]]
 file = "config/yosbr/config/advancementinfo.json5"
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "c994b0b576d4f04781905e164c9c2a7242f0b432d1604505c62b7b0d252d2ede"
+hash = "f124ad96e4f74989b30ce93c729327ea6990f0a934603b50e1dbe584bc32b591"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "074e35f85dcb92906c6758617f274ec398f9c3b584632306d724424c1fa28980"
+hash = "1429c87ce179acbdbf9d63ef480d145e135bc9ea10cfd4546bd1be8558e07cff"
 metafile = true
 
 [[files]]
@@ -901,7 +901,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "81cd4292d023a2601532959101d42a0bd26c8b66519dde5cd21700102e7faac3"
+hash = "a87a5e7a9a1234525c9b2d5259e061317c35e0c863c2b061a2e6d2826c05f152"
 metafile = true
 
 [[files]]
@@ -1220,7 +1220,7 @@ hash = "f1a19d9e142d691edcff0b4fb785d7fb9ad81e28eb9b9440e7e9eac5cef15b56"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
-hash = "0f4c9cfe513eace415dd27d9357d6b2f39a3ea87c75710bb45c13e63a864835d"
+hash = "563a1173a3ff421ae930cb26a0db7b70b71b963ab9e964a7a21d07045811e22f"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

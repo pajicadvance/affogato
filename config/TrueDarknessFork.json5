@@ -6,6 +6,6 @@
 	"darkEnd": false,
 	"darkEndFog": 0.0,
 	"darkSkyless": false,
-	"blockLightOnly": false,
-	"ignoreMoonPhase": false
+	"blockLightOnly": true,
+	"ignoreMoonPhase": true
 }
