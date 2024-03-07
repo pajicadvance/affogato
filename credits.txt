@@ -11,3 +11,5 @@ lonefelidae16, for their unofficial port of ExtraSounds, and allowing me to incl
 Sindercube, for their unofficial fork of Aileron, and allowing me to include it in this modpack
 
 douira, for the excellent 3D render of the affogato cup used in the modpack icon and banner
+
+All the other mod authors whose mods are included in this modpack, for making my life easier

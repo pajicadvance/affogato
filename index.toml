@@ -9,20 +9,244 @@ file = "README.md"
 hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
 
 [[files]]
+file = "config/HorseBuff.toml"
+hash = "3c6de1de3a0992d41a22740b7ad5e70295960b09a3e72a8024991f826414eba1"
+
+[[files]]
 file = "config/TrueDarknessFork.json5"
 hash = "14f60f3ad93027701a91498a23a36978dff27940ea999067457a87388062f25a"
 
 [[files]]
+file = "config/aileron.json"
+hash = "73efcccc1de51b429af43e6cfd7520478f765a5dfc49fcad57a903b598f105b1"
+
+[[files]]
+file = "config/betterdeserttemples-fabric-1_20.toml"
+hash = "06a1b8b7774df6bef4dc9b82e140a4211d41c93178ee0d9d25105d05a6c20566"
+
+[[files]]
+file = "config/betterdeserttemples/README.txt"
+hash = "3646bc39be8c42a1432506e77721f3b963d33948d4bbd4cd5a10703834979116"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_20/README.txt"
+hash = "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_20/armorstands.json"
+hash = "5c11a608d80ad61069f7136f0ba177c55f8548a25f0c29fe0106ce030b000831"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_20/itemframes.json"
+hash = "f244c05874515ff1343e5abcc3b5113658b4f4f60f4eeec8496fdac335631fa6"
+
+[[files]]
+file = "config/betterdungeons-fabric-1_20.toml"
+hash = "73ef614b7402a08109028cf3e57bc9185771c59958ebe3a48b2f3978fd93539f"
+
+[[files]]
+file = "config/betterfortresses-fabric-1_20.toml"
+hash = "c6f718e24389dd618b788ea1ef0c64d3689e9408fd9a482e67ecece0dc392ece"
+
+[[files]]
+file = "config/betterfortresses/README.txt"
+hash = "a4e97263d2f099fcbc3fd7646c85c562e1eb7659bfa5ff66b11f76afaa2f9c06"
+
+[[files]]
+file = "config/betterfortresses/fabric-1_20/README.txt"
+hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
+
+[[files]]
+file = "config/betterfortresses/fabric-1_20/itemframes.json"
+hash = "2a12cd25c1196b5512c5f5c65b86a0aefdf8b094371b70611b6ad35aceb62b07"
+
+[[files]]
+file = "config/betterjungletemples-fabric-1_20.toml"
+hash = "69a3aa51ef5a881f01a6515f72a57a10b8df7c7b93588f424fc07c864a0933e1"
+
+[[files]]
+file = "config/bettermineshafts-fabric-1_20.toml"
+hash = "f61537c78da4a153c2f3bccc8fb5e36f846c9a4ed5b2535d7c18586c75c1d238"
+
+[[files]]
+file = "config/betteroceanmonuments-fabric-1_20.toml"
+hash = "dbba9af53d8bfb9f46cb4c9ab525a72026ad0a13c36e8dd8efe7398a767c3187"
+
+[[files]]
+file = "config/betterstrongholds-fabric-1_20.toml"
+hash = "2dae469f9196a363cb5e9fb614788224a713378f22300a1afd6486f1d43766a2"
+
+[[files]]
+file = "config/betterstrongholds/README.txt"
+hash = "70aadca974d0adfe90f98930e23c15076b3d2e625c88e8c2aa6721d91a8c035f"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/README.txt"
+hash = "c857bda54ab01ca5db21cfe085dc75dcbb13d26054463cf301c74023783612fc"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/armorstands.json"
+hash = "5e58c66f283fd8a7ee72035a314bfe3dbf4d0f7e0d03ad5400955f672bd03365"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/itemframes.json"
+hash = "4310f6aa7b7c5349d256dc70d750d3e36006491a50b0a7bbc54b6d99b11b3a67"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/ores.json"
+hash = "5a11dc85c6c05cc1245682474b1f1bdf190f3a9147773296f5147a2e294e88ad"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/rareblocks.json"
+hash = "34d0eaedc64e0de618bd9e0b0ec4b65bf7d46e643533812b411252cf074e199f"
+
+[[files]]
+file = "config/betterwitchhuts-fabric-1_20.toml"
+hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
+
+[[files]]
+file = "config/cavedust.json"
+hash = "588f9c88f18538df7478aef4fc5cd8ba4035b628ae58c98a3ddebfcc5bc07fbe"
+
+[[files]]
+file = "config/chalk.properties"
+hash = "f509c1eae7a8e55699b2a96156d417064be80b1b406b6b56aff656fa1eb87888"
+
+[[files]]
+file = "config/charm-client.toml"
+hash = "b82a4c91db3babf4b75a063ac9c79504213f8fa0174d471f86bc403e375353c7"
+
+[[files]]
+file = "config/charm-common.toml"
+hash = "d365134952270ead0c180afb83f01a8b77d8d9cfc51ca664ea71b6085cadc267"
+
+[[files]]
+file = "config/charmonium-client.toml"
+hash = "c387dd0bcb19a62c86e360cb4a0f473bd794e2c4f16b380344da43bf515c57fe"
+
+[[files]]
+file = "config/charmony-common.toml"
+hash = "255baf1a58b275de818a0d555373df02c8b1570a129d4a52045109954c925fb2"
+
+[[files]]
+file = "config/cinderscapes.json"
+hash = "3478f237c2d98faf9c61139be44cb0cb0cbc2808dd6b9e01c1b881995288c8a0"
+
+[[files]]
+file = "config/cropped.json"
+hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
+
+[[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "8e32205db172dd79677698432a88e9dcf7791f17a9368143397922a2051e038c"
+hash = "fa6003b42342d451cf0a60e7b2d404887ce907c4aff93317e25b556f9872799a"
+
+[[files]]
+file = "config/elytra-trims.json"
+hash = "0cc9e6051ff7fb9a0c924da2c38e28363d17ffd15694f872fab747c32618f4d7"
+
+[[files]]
+file = "config/enchantedshulkers.toml"
+hash = "2905cd3f82f03ec43bf15887d96ccadf0f4ba567ee138c32e22f029e091af9ff"
+
+[[files]]
+file = "config/enchantmentdisabler.json"
+hash = "4e58bc8c269c59808b75457056eeced58ec19f33fa49e3b684d530ebc48d9a9f"
+
+[[files]]
+file = "config/fabrication/block_logo.ini"
+hash = "1a58d3ffaaf266eb0f6f3574f15559689fa237be980a13b741834d640d9a8375"
+
+[[files]]
+file = "config/fabrication/block_logo.png"
+hash = "f2938cfb35d857049425b51f59ce557dd8f329e6b76bef68ffb561f118a4def0"
+
+[[files]]
+file = "config/fabrication/classic_block_drops.ini"
+hash = "45e501b8528ef8d27c2a67efd27304c81cd0503f8b0671094e6653eefd394b12"
+
+[[files]]
+file = "config/fabrication/dimensional_tools.ini"
+hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
+
+[[files]]
+file = "config/fabrication/features.ini"
+hash = "c43f6abc0ffc0d5268e15e48eb6fead2c663e66b2ba4a8a0c7dde3000cdcf030"
+
+[[files]]
+file = "config/fabrication/fscript.ini"
+hash = "06d742af1c186bd89bb808f7ff407865f1c08b1ebf7bb2e52ae2d042b64acd16"
+
+[[files]]
+file = "config/fabrication/gear_components.ini"
+hash = "5a9291467f9f7918687a0d138a61e396cb9299b0b4ea2e4cf4f4d6f3594f865b"
+
+[[files]]
+file = "config/fabrication/item_despawn.ini"
+hash = "24b26ac0b8ff13889b6b3b00b2309366eb72c36014a9679a82f4cbff46c275f4"
+
+[[files]]
+file = "config/fabrication/taggable_players.ini"
+hash = "fe069b4316f910f2f3b703cedd9930b73eed74c2ae86909f8b43a8ffd3d1af45"
+
+[[files]]
+file = "config/fabrication/yeet_recipes.ini"
+hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "922a0a06c316eb1f0aba285f5bc59f4421b51b6f861661f3cdab38bbd44e4927"
+
+[[files]]
+file = "config/grindenchantments.json"
+hash = "7a42f31a0b3296f4033bff371a5af21ed1d5d333abc00f4faceb7e1e893518b6"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "021d490ab7d4725231dbb2b99f40bf698d5229ee6bf17a6260a5d772370f3fd4"
+
+[[files]]
+file = "config/inmis.json"
+hash = "19d078bac203426bdc2aee8053b6a5d3b8e583b6bb60355ca01b2edd861954a8"
+
+[[files]]
+file = "config/interactic.json5"
+hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d8f9f1b8835e3bf3d48efb0305a197e4cffd6637732cf9098e80935742e874a8"
+hash = "b2328b9617afb70b3496cd6239e0b69312dc4a86e07f42af0129ef036facd2ee"
 
 [[files]]
-file = "config/yosbr/config/HorseBuff.toml"
-hash = "3c6de1de3a0992d41a22740b7ad5e70295960b09a3e72a8024991f826414eba1"
+file = "config/lambdynlights.toml"
+hash = "5ec2a06cfebe74cb153e82b39aad10e613e9c7fcd0550301cbd8b318464273f1"
+
+[[files]]
+file = "config/seasons.json"
+hash = "b9a8b8b96af7b0cf8c6e0a674364ea5c8474cbf458be0d178f22ce96878b0b8f"
+
+[[files]]
+file = "config/simplefog.json"
+hash = "c37c973a398b8c78737ecc823f6e4df08473305085b79a6fa5dca8eb30ed1e07"
+
+[[files]]
+file = "config/sleepwarp-client.json"
+hash = "e704fea8c5bf5e57ec7a2aa8bfd5c314ac3c2de280fac8134b60e8fb2207c3db"
+
+[[files]]
+file = "config/sleepwarp-server.json"
+hash = "e704fea8c5bf5e57ec7a2aa8bfd5c314ac3c2de280fac8134b60e8fb2207c3db"
+
+[[files]]
+file = "config/spiceoffabric.hjson"
+hash = "eeb7329630b8e671b3792a74d4e9a7cacf1532d367f2dbdb2cd6d18b261a2f20"
+
+[[files]]
+file = "config/tinkerers_smithing.toml"
+hash = "35550d663763a21656420e8bd70da0f0f650e3ed9f8021f6b5d60fcbfb1b7066"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "34d89e67c5ba72e197d6af1f256104db2599ae77024337b29afc26bb00489b84"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
@@ -31,10 +255,6 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 [[files]]
 file = "config/yosbr/config/advancementinfo.json5"
 hash = "82fb3f9fd7931ded27c4c0cc78b86bed8a82e2d17b587f26f3a094a8589e13e6"
-
-[[files]]
-file = "config/yosbr/config/aileron.json"
-hash = "73efcccc1de51b429af43e6cfd7520478f765a5dfc49fcad57a903b598f105b1"
 
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
@@ -49,140 +269,20 @@ file = "config/yosbr/config/balm-common.toml"
 hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
 
 [[files]]
-file = "config/yosbr/config/betterdeserttemples-fabric-1_20.toml"
-hash = "06a1b8b7774df6bef4dc9b82e140a4211d41c93178ee0d9d25105d05a6c20566"
-
-[[files]]
-file = "config/yosbr/config/betterdeserttemples/README.txt"
-hash = "3646bc39be8c42a1432506e77721f3b963d33948d4bbd4cd5a10703834979116"
-
-[[files]]
-file = "config/yosbr/config/betterdeserttemples/fabric-1_20/README.txt"
-hash = "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112"
-
-[[files]]
-file = "config/yosbr/config/betterdeserttemples/fabric-1_20/armorstands.json"
-hash = "5c11a608d80ad61069f7136f0ba177c55f8548a25f0c29fe0106ce030b000831"
-
-[[files]]
-file = "config/yosbr/config/betterdeserttemples/fabric-1_20/itemframes.json"
-hash = "f244c05874515ff1343e5abcc3b5113658b4f4f60f4eeec8496fdac335631fa6"
-
-[[files]]
-file = "config/yosbr/config/betterdungeons-fabric-1_20.toml"
-hash = "73ef614b7402a08109028cf3e57bc9185771c59958ebe3a48b2f3978fd93539f"
-
-[[files]]
-file = "config/yosbr/config/betterfortresses-fabric-1_20.toml"
-hash = "c6f718e24389dd618b788ea1ef0c64d3689e9408fd9a482e67ecece0dc392ece"
-
-[[files]]
-file = "config/yosbr/config/betterfortresses/README.txt"
-hash = "a4e97263d2f099fcbc3fd7646c85c562e1eb7659bfa5ff66b11f76afaa2f9c06"
-
-[[files]]
-file = "config/yosbr/config/betterfortresses/fabric-1_20/README.txt"
-hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
-
-[[files]]
-file = "config/yosbr/config/betterfortresses/fabric-1_20/itemframes.json"
-hash = "2a12cd25c1196b5512c5f5c65b86a0aefdf8b094371b70611b6ad35aceb62b07"
-
-[[files]]
-file = "config/yosbr/config/betterjungletemples-fabric-1_20.toml"
-hash = "69a3aa51ef5a881f01a6515f72a57a10b8df7c7b93588f424fc07c864a0933e1"
-
-[[files]]
-file = "config/yosbr/config/bettermineshafts-fabric-1_20.toml"
-hash = "f61537c78da4a153c2f3bccc8fb5e36f846c9a4ed5b2535d7c18586c75c1d238"
-
-[[files]]
-file = "config/yosbr/config/betteroceanmonuments-fabric-1_20.toml"
-hash = "dbba9af53d8bfb9f46cb4c9ab525a72026ad0a13c36e8dd8efe7398a767c3187"
-
-[[files]]
-file = "config/yosbr/config/betterstrongholds-fabric-1_20.toml"
-hash = "2dae469f9196a363cb5e9fb614788224a713378f22300a1afd6486f1d43766a2"
-
-[[files]]
-file = "config/yosbr/config/betterstrongholds/README.txt"
-hash = "70aadca974d0adfe90f98930e23c15076b3d2e625c88e8c2aa6721d91a8c035f"
-
-[[files]]
-file = "config/yosbr/config/betterstrongholds/fabric-1_20/README.txt"
-hash = "c857bda54ab01ca5db21cfe085dc75dcbb13d26054463cf301c74023783612fc"
-
-[[files]]
-file = "config/yosbr/config/betterstrongholds/fabric-1_20/armorstands.json"
-hash = "5e58c66f283fd8a7ee72035a314bfe3dbf4d0f7e0d03ad5400955f672bd03365"
-
-[[files]]
-file = "config/yosbr/config/betterstrongholds/fabric-1_20/itemframes.json"
-hash = "4310f6aa7b7c5349d256dc70d750d3e36006491a50b0a7bbc54b6d99b11b3a67"
-
-[[files]]
-file = "config/yosbr/config/betterstrongholds/fabric-1_20/ores.json"
-hash = "5a11dc85c6c05cc1245682474b1f1bdf190f3a9147773296f5147a2e294e88ad"
-
-[[files]]
-file = "config/yosbr/config/betterstrongholds/fabric-1_20/rareblocks.json"
-hash = "34d0eaedc64e0de618bd9e0b0ec4b65bf7d46e643533812b411252cf074e199f"
-
-[[files]]
 file = "config/yosbr/config/betterthirdperson.json5"
 hash = "151cb9f1ab722aa7026701e482e77cb13eeef2ce7c77cfbac997f719a81b1dbb"
-
-[[files]]
-file = "config/yosbr/config/betterwitchhuts-fabric-1_20.toml"
-hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
 
 [[files]]
-file = "config/yosbr/config/cavedust.json"
-hash = "588f9c88f18538df7478aef4fc5cd8ba4035b628ae58c98a3ddebfcc5bc07fbe"
-
-[[files]]
-file = "config/yosbr/config/chalk.properties"
-hash = "f509c1eae7a8e55699b2a96156d417064be80b1b406b6b56aff656fa1eb87888"
-
-[[files]]
-file = "config/yosbr/config/charm-client.toml"
-hash = "b82a4c91db3babf4b75a063ac9c79504213f8fa0174d471f86bc403e375353c7"
-
-[[files]]
-file = "config/yosbr/config/charm-common.toml"
-hash = "d365134952270ead0c180afb83f01a8b77d8d9cfc51ca664ea71b6085cadc267"
-
-[[files]]
-file = "config/yosbr/config/charmonium-client.toml"
-hash = "c387dd0bcb19a62c86e360cb4a0f473bd794e2c4f16b380344da43bf515c57fe"
-
-[[files]]
-file = "config/yosbr/config/charmony-common.toml"
-hash = "255baf1a58b275de818a0d555373df02c8b1570a129d4a52045109954c925fb2"
-
-[[files]]
-file = "config/yosbr/config/cinderscapes.json"
-hash = "3478f237c2d98faf9c61139be44cb0cb0cbc2808dd6b9e01c1b881995288c8a0"
-
-[[files]]
 file = "config/yosbr/config/clienttweaks-common.toml"
 hash = "510772150524e38f50f3c68369d75b61018ba5fe2510385d3329a5f8d86993ce"
 
 [[files]]
-file = "config/yosbr/config/comforts-server.toml"
-hash = "e5ccb95513c64cf71bd84023adeff3e5073d1ecd4db31c91025d24ce5f3605f3"
-
-[[files]]
 file = "config/yosbr/config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
-
-[[files]]
-file = "config/yosbr/config/cropped.json"
-hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
@@ -209,20 +309,8 @@ file = "config/yosbr/config/dynamic_fps.json"
 hash = "dd7771b682b0b666cda04d3891aba8bbfa5c32a51c664c99f93ea3a8454ad2c3"
 
 [[files]]
-file = "config/yosbr/config/elytra-trims.json"
-hash = "0cc9e6051ff7fb9a0c924da2c38e28363d17ffd15694f872fab747c32618f4d7"
-
-[[files]]
 file = "config/yosbr/config/emi.css"
 hash = "7179a3363efdc82d4892a3b4e724310e07c1dc1db543566fa84e703ff471a58e"
-
-[[files]]
-file = "config/yosbr/config/enchantedshulkers.toml"
-hash = "2905cd3f82f03ec43bf15887d96ccadf0f4ba567ee138c32e22f029e091af9ff"
-
-[[files]]
-file = "config/yosbr/config/enchantmentdisabler.json"
-hash = "4856a2441682406ff44f88091f860504c87592887c91a2342f5c1e630e7d3920"
 
 [[files]]
 file = "config/yosbr/config/enchdesc.json"
@@ -233,72 +321,8 @@ file = "config/yosbr/config/enhanced_bes.properties"
 hash = "8ca65a51f695ee7f572c395c6e33c200b92a9ea77d7a83242d72cfee6ef09c05"
 
 [[files]]
-file = "config/yosbr/config/expandedstorage.json"
-hash = "066cc1f450ef78951488624a451825f62c00a6dec2627430d455f4f31280b13f"
-
-[[files]]
-file = "config/yosbr/config/fabrication/block_logo.ini"
-hash = "1a58d3ffaaf266eb0f6f3574f15559689fa237be980a13b741834d640d9a8375"
-
-[[files]]
-file = "config/yosbr/config/fabrication/block_logo.png"
-hash = "f2938cfb35d857049425b51f59ce557dd8f329e6b76bef68ffb561f118a4def0"
-
-[[files]]
-file = "config/yosbr/config/fabrication/classic_block_drops.ini"
-hash = "45e501b8528ef8d27c2a67efd27304c81cd0503f8b0671094e6653eefd394b12"
-
-[[files]]
-file = "config/yosbr/config/fabrication/dimensional_tools.ini"
-hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
-
-[[files]]
-file = "config/yosbr/config/fabrication/features.ini"
-hash = "c43f6abc0ffc0d5268e15e48eb6fead2c663e66b2ba4a8a0c7dde3000cdcf030"
-
-[[files]]
-file = "config/yosbr/config/fabrication/fscript.ini"
-hash = "06d742af1c186bd89bb808f7ff407865f1c08b1ebf7bb2e52ae2d042b64acd16"
-
-[[files]]
-file = "config/yosbr/config/fabrication/gear_components.ini"
-hash = "5a9291467f9f7918687a0d138a61e396cb9299b0b4ea2e4cf4f4d6f3594f865b"
-
-[[files]]
-file = "config/yosbr/config/fabrication/item_despawn.ini"
-hash = "24b26ac0b8ff13889b6b3b00b2309366eb72c36014a9679a82f4cbff46c275f4"
-
-[[files]]
-file = "config/yosbr/config/fabrication/taggable_players.ini"
-hash = "fe069b4316f910f2f3b703cedd9930b73eed74c2ae86909f8b43a8ffd3d1af45"
-
-[[files]]
-file = "config/yosbr/config/fabrication/yeet_recipes.ini"
-hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
-
-[[files]]
 file = "config/yosbr/config/fallingleaves.json"
 hash = "cc51b88a3952831f14d31ad0edc987a52b8648a68ce4b89336afc43764423f48"
-
-[[files]]
-file = "config/yosbr/config/fallingtree.json"
-hash = "922a0a06c316eb1f0aba285f5bc59f4421b51b6f861661f3cdab38bbd44e4927"
-
-[[files]]
-file = "config/yosbr/config/grindenchantments.json"
-hash = "7a42f31a0b3296f4033bff371a5af21ed1d5d333abc00f4faceb7e1e893518b6"
-
-[[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "021d490ab7d4725231dbb2b99f40bf698d5229ee6bf17a6260a5d772370f3fd4"
-
-[[files]]
-file = "config/yosbr/config/inmis.json"
-hash = "19d078bac203426bdc2aee8053b6a5d3b8e583b6bb60355ca01b2edd861954a8"
-
-[[files]]
-file = "config/yosbr/config/interactic.json5"
-hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -333,20 +357,12 @@ file = "config/yosbr/config/jade/usernamecache.json"
 hash = "68a490cec7622a371851ddaf2aff55d21be7acdcefef8d9e4a6f541a17cb604a"
 
 [[files]]
-file = "config/yosbr/config/lambdynlights.toml"
-hash = "5ec2a06cfebe74cb153e82b39aad10e613e9c7fcd0550301cbd8b318464273f1"
-
-[[files]]
 file = "config/yosbr/config/mixtape.json"
 hash = "baf045876fc82c900a1518bd2d72083dc81c79a9236a67b20b16c86ff8e3beff"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "30421c0e41aa372471d4499a4e5c8ff71fe3a41af29788d27250af9e94a89aa9"
-
-[[files]]
-file = "config/yosbr/config/no-shield-delay.toml"
-hash = "fab4a3180a4167f02fa614fa1b3962a0ab0b64224cd4254d4d0a34dba4396652"
 
 [[files]]
 file = "config/yosbr/config/particlerain.json5"
@@ -381,22 +397,6 @@ file = "config/yosbr/config/seamless_loading_screen.json"
 hash = "22e843baec858551d452bf3faa8698caf70b51bd61b5217b39059b32226e383e"
 
 [[files]]
-file = "config/yosbr/config/seasons.json"
-hash = "b9a8b8b96af7b0cf8c6e0a674364ea5c8474cbf458be0d178f22ce96878b0b8f"
-
-[[files]]
-file = "config/yosbr/config/simplefog.json"
-hash = "c37c973a398b8c78737ecc823f6e4df08473305085b79a6fa5dca8eb30ed1e07"
-
-[[files]]
-file = "config/yosbr/config/sleepwarp-client.json"
-hash = "e704fea8c5bf5e57ec7a2aa8bfd5c314ac3c2de280fac8134b60e8fb2207c3db"
-
-[[files]]
-file = "config/yosbr/config/sleepwarp-server.json"
-hash = "e704fea8c5bf5e57ec7a2aa8bfd5c314ac3c2de280fac8134b60e8fb2207c3db"
-
-[[files]]
 file = "config/yosbr/config/smoothswapping.json"
 hash = "932d460b708b2f5b296398d5d972bf823e8da33c4ac0522780114ef2be9fb61a"
 
@@ -417,10 +417,6 @@ file = "config/yosbr/config/sound_physics_remastered/soundphysics.properties"
 hash = "b25372a3bf1a5caebd9ce9d965c112e1c3f35df7e334174dce7796dbfbbe401f"
 
 [[files]]
-file = "config/yosbr/config/spiceoffabric.hjson"
-hash = "eeb7329630b8e671b3792a74d4e9a7cacf1532d367f2dbdb2cd6d18b261a2f20"
-
-[[files]]
 file = "config/yosbr/config/spyglass-improvements/settings.json"
 hash = "31fc47b995ea2df5af5fecb091d8e03ea3b6682ea8c34772ffc07abd36da5a06"
 
@@ -437,14 +433,6 @@ file = "config/yosbr/config/tiefix.json"
 hash = "f344dbbc1dae0321ddd30c87243f643b48a8e3fa85fe76dcf6e90adf41f42542"
 
 [[files]]
-file = "config/yosbr/config/tinkerers_smithing.toml"
-hash = "35550d663763a21656420e8bd70da0f0f650e3ed9f8021f6b5d60fcbfb1b7066"
-
-[[files]]
-file = "config/yosbr/config/universal-graves/config.json"
-hash = "9e36c241c8df2a4c2f2040d911ce1200f1e01ac27b056566efe5a9838146522d"
-
-[[files]]
 file = "config/yosbr/config/visuality.json"
 hash = "c519130ed2a114005c50595f73da39321667815c3d3c6088d431584c6926a475"
 
@@ -458,7 +446,7 @@ hash = "d9f73c3bcbbf019648db47d778d6f606c8124e56fdd35ff96a457ed7b2a31e45"
 
 [[files]]
 file = "credits.txt"
-hash = "461a1127e30f37c2d8e15b4f02f7fa688d31c74953247dd7680da7ac5c3444d9"
+hash = "6317f6d2b023305c9bf2a2a1555fc4cbcda55ee2bc71cc695699814d19da3f06"
 
 [[files]]
 file = "index.html"
@@ -506,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "f124ad96e4f74989b30ce93c729327ea6990f0a934603b50e1dbe584bc32b591"
+hash = "190bc59070c8ec161623b0be2442add137fd3b190bea23420e0862f082830073"
 metafile = true
 
 [[files]]
@@ -595,6 +583,11 @@ hash = "06fbb3bad511e9c763595965c53ab377b39e9d8acf2f54f85ac5b68bb9fe8eae"
 metafile = true
 
 [[files]]
+file = "mods/caffeinated.pw.toml"
+hash = "e07e9a0d4a0f64a1d47fb05b671b1a8d9470ad0ee07626d44b49f85446c1d979"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
 metafile = true
@@ -611,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm-of-undying.pw.toml"
-hash = "7e5eb9b88836a9f66c9c8f24d51bc9001546a0bb8b2b40b95a1b79647a5d115a"
+hash = "bb8cb321888f275138f31bae4999e869f2a92402d353933bb9f6103584b672a8"
 metafile = true
 
 [[files]]
@@ -756,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantedshulkers.pw.toml"
-hash = "56d433964b2a93f0afc0a073a91b9eba0783659d3e5e822d950a62caa962fe82"
+hash = "7cb70cf22e1a4fb243bc11d3ebeebacf1417cf37b8986769b63e9cb0e645d107"
 metafile = true
 
 [[files]]
@@ -841,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "dff520bc4934ac3bf7fa1b0634c25a8d3b150117d20860f2d13b2d88664c52f1"
+hash = "01e047ce12403a657fc6669ff521a0d43cdc849aaccd217b7a055c58197cea99"
 metafile = true
 
 [[files]]
@@ -870,11 +863,6 @@ hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
 metafile = true
 
 [[files]]
-file = "mods/immersive-weathering.pw.toml"
-hash = "c1b5c4e32953b35fed5caf375451543fa3315385b956cf9cb49dcb032e972fb6"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
@@ -891,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/interactic.pw.toml"
-hash = "65365b605f52731fab6e0452ce91e46eafd4475cfeef5a4dd152e6aa3fa423f0"
+hash = "a7ef559159e38d3ebac9d2fef6c33a5c906e1848ae100b008f7ecda3e3c5be53"
 metafile = true
 
 [[files]]
@@ -961,7 +949,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1ddc6a247e23e9cb6cafa89d6befd01dd35e36f1347c593d53eccf7f893b942a"
+hash = "961a62a68dcb0da829ecc14d0cdb6040388ac05ddd1a29df0a4c9c3c9b96b0a7"
 metafile = true
 
 [[files]]
@@ -1005,6 +993,11 @@ hash = "1f265c12c3649ab889b96bf8a3f5263521e5afc82c66e094983bfd003b3200a2"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
@@ -1031,7 +1024,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
-hash = "6b24857345b0220f0b9560d856df67d0edeef32a45e5b46f85beded5a9c72487"
+hash = "ef84d9a7ee3b67688643b6f9a8d03f6e8211adbf4b0fbe62f4ed5982da29c453"
 metafile = true
 
 [[files]]
@@ -1215,8 +1208,16 @@ hash = "3f0ac032a4f89382745b03a8e1078041f728d9e4f2df14fa9eb910382b98b1c4"
 metafile = true
 
 [[files]]
+file = "patchouli_books/affogato_guide/book.json"
+hash = "c158440fbdfab803c9ff15d97d4c41633968b6649712f8ee8ebe8ccc8d108feb"
+
+[[files]]
 file = "resourcepacks/VanillaTweaks.zip"
 hash = "f1a19d9e142d691edcff0b4fb785d7fb9ad81e28eb9b9440e7e9eac5cef15b56"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2.txt"
+hash = "fc2dfbed1341cb02bebea4da19456af1f18033eaddcac8d5d3295fb6949a3933"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
@@ -1226,3 +1227,7 @@ hash = "563a1173a3ff421ae930cb26a0db7b70b71b963ab9e964a7a21d07045811e22f"
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
 metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels_r0.1_beta2.zip.txt"
+hash = "719819d42eaaed77428c914fc8305bb8c3e617209ab832e0480ad810e8c553c1"

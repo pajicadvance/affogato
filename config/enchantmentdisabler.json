@@ -44,6 +44,7 @@
   "enchantedshulkers:refill": true,
   "enchantedshulkers:vacuum": true,
   "enchantedshulkers:void": true,
+  "enchantedshulkers:augment": true,
   "aileron:smokestack": true,
   "aileron:cloudskipper": true,
   "farmersdelight:backstabbing": false,
