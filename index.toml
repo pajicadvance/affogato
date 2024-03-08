@@ -442,7 +442,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d9f73c3bcbbf019648db47d778d6f606c8124e56fdd35ff96a457ed7b2a31e45"
+hash = "3fb585db0d21f7acf1590f19f1f046e9c5c8575a57b97d03058b2ad298114e63"
 
 [[files]]
 file = "credits.txt"

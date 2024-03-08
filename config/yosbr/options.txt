@@ -32,7 +32,7 @@ damageTiltStrength:1.0
 highContrast:false
 gamma:0.5
 renderDistance:12
-simulationDistance:6
+simulationDistance:7
 entityDistanceScaling:1.0
 guiScale:0
 particles:0
