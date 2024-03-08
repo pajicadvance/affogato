@@ -138,7 +138,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "287d368ee551d1896240ea3f51f14adf39bc946a9cc93297383541226a88dd0d"
+hash = "d12adf94e50895740b526c880fa2c218a9a37b3a0ed7b603fbbb0b46d0a32b97"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -214,7 +214,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ebf6756a1c5b3f43fca8702f24fe7a520e404479fa02be6aabc3837b5b5f4836"
+hash = "582e8d61564f4650ee0fd5c987d031b03401e0d0b1f6dccf46e0b47bb46cbccc"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -993,6 +993,11 @@ hash = "bf90fb21fcd2f9ea1f8b6b9abdd489e3fa56cb706602ea37741234630efd56ad"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "708c3992f04530d2366b570ad6503b97881d039f2d79530c861b8f276b2ec591"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "1f265c12c3649ab889b96bf8a3f5263521e5afc82c66e094983bfd003b3200a2"
 metafile = true
@@ -1231,7 +1236,7 @@ hash = "fc2dfbed1341cb02bebea4da19456af1f18033eaddcac8d5d3295fb6949a3933"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
-hash = "563a1173a3ff421ae930cb26a0db7b70b71b963ab9e964a7a21d07045811e22f"
+hash = "8eb1dc279690e46174b0bc25a8a8cbca353b499babbfead67717f3036fa6e111"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
