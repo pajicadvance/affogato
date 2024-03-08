@@ -138,7 +138,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "fa6003b42342d451cf0a60e7b2d404887ce907c4aff93317e25b556f9872799a"
+hash = "fa94f6a491ea9ae7cdb4be06893a6dae2f09f460052d2609bfee7c5e9bae2088"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -150,7 +150,7 @@ hash = "2905cd3f82f03ec43bf15887d96ccadf0f4ba567ee138c32e22f029e091af9ff"
 
 [[files]]
 file = "config/enchantmentdisabler.json"
-hash = "4e58bc8c269c59808b75457056eeced58ec19f33fa49e3b684d530ebc48d9a9f"
+hash = "f1b98e5174d2622ffd3743ad3ee3351b24890dd85dd954aed91f36051a648a64"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -214,7 +214,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b2328b9617afb70b3496cd6239e0b69312dc4a86e07f42af0129ef036facd2ee"
+hash = "f6bd776e82a01ed56e9f6bd679ee55d80431552004e715838b2945b3de34db23"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "190bc59070c8ec161623b0be2442add137fd3b190bea23420e0862f082830073"
+hash = "f67a482b5b419fc413ad02b0f4f2ea9ff6fe5899000bd499003169ca04de1307"
 metafile = true
 
 [[files]]

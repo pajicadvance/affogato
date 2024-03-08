@@ -1,5 +1,5 @@
 {
-  "minecraft:protection": true,
+  "minecraft:protection": false,
   "minecraft:fire_protection": true,
   "minecraft:feather_falling": false,
   "minecraft:blast_protection": false,
