@@ -138,7 +138,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "fa94f6a491ea9ae7cdb4be06893a6dae2f09f460052d2609bfee7c5e9bae2088"
+hash = "287d368ee551d1896240ea3f51f14adf39bc946a9cc93297383541226a88dd0d"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -214,7 +214,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f6bd776e82a01ed56e9f6bd679ee55d80431552004e715838b2945b3de34db23"
+hash = "ebf6756a1c5b3f43fca8702f24fe7a520e404479fa02be6aabc3837b5b5f4836"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "f67a482b5b419fc413ad02b0f4f2ea9ff6fe5899000bd499003169ca04de1307"
+hash = "6644d7df9bd009c158e7724099f7c4dd703e947e8321c08294772c64ca73b3f8"
 metafile = true
 
 [[files]]
@@ -545,6 +545,11 @@ metafile = true
 [[files]]
 file = "mods/better-controls.pw.toml"
 hash = "79620d104855c3699a62efd9c4de9071c0482f19c2a56cf85c2391748804238a"
+metafile = true
+
+[[files]]
+file = "mods/better-lush-caves.pw.toml"
+hash = "0232fb367a120bcd5564a8bfb542a4d178e097a338ccbc5be01796a33fc007c5"
 metafile = true
 
 [[files]]
@@ -779,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -1090,6 +1095,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "4fb915d2bc266c1ed7a0dce77e3da295305c5dbec7a7ae1d142b3abf621be309"
+metafile = true
+
+[[files]]
+file = "mods/subsurface.pw.toml"
+hash = "b5897d3a8d4f258a5989b135b16a136bf5945cb201e13b2b7ca84c4d27647b1f"
 metafile = true
 
 [[files]]
