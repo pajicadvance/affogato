@@ -45,8 +45,8 @@
     "block_in_protected_area": {},
     "blacklisted_worlds": [],
     "blacklisted_areas": {},
-    "creation_default_failure_text": "<red><lang:'text.graves.creation_failed':'<gold>${position}':'<yellow>${world}'>",
-    "creation_claim_failure_text": "<red><lang:'text.graves.creation_failed_claim':'<gold>${position}':'<yellow>${world}'>"
+    "creation_default_failure_text": "<red><lang:'text.graves.creation_failed':'<yellow>${world}'>",
+    "creation_claim_failure_text": "<red><lang:'text.graves.creation_failed_claim':'<yellow>${world}'>"
   },
   "teleportation": {
     "cost": {
@@ -60,7 +60,7 @@
     "text": {
       "timer": "<lang:'text.graves.teleport.teleport_timer':'${time}'>",
       "timer_allow_moving": "<lang:'text.graves.teleport.teleport_timer_moving':'${time}'>",
-      "location": "<lang:'text.graves.teleport.teleport_location':'${position}'>",
+      "location": "<lang:'text.graves.teleport.teleport_location'>",
       "canceled": "<red><lang:'text.graves.teleport.teleport_cancelled'>"
     }
   },
@@ -78,7 +78,7 @@
       "base": {
         "icon": "minecraft:chest",
         "text": [
-          "${position} <gray>(${world})",
+          "<gray>(${world})",
           "<yellow>${death_cause}",
           "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
           "<blue><lang:'text.graves.protected_time':'<white>${protection_time}'>",
@@ -88,7 +88,7 @@
       "alt": {
         "icon": "minecraft:trapped_chest",
         "text": [
-          "${position} <gray>(${world})",
+          "<gray>(${world})",
           "<yellow>${death_cause}",
           "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
           "<blue><lang:'text.graves.not_protected'>",
@@ -100,7 +100,7 @@
       "base": {
         "icon": "minecraft:chest",
         "text": [
-          "<dark_gray>[<white>${player}</>]</> ${position} <gray>(${world})",
+          "<dark_gray>[<white>${player}</>]</> <gray>(${world})",
           "<yellow>${death_cause}",
           "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
           "<blue><lang:'text.graves.protected_time':'<white>${protection_time}'>",
@@ -110,7 +110,7 @@
       "alt": {
         "icon": "minecraft:trapped_chest",
         "text": [
-          "<dark_gray>[<white>${player}</>]</> ${position} <gray>(${world})",
+          "<dark_gray>[<white>${player}</>]</> <gray>(${world})",
           "<yellow>${death_cause}",
           "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
           "<blue><lang:'text.graves.not_protected'>",
@@ -122,7 +122,7 @@
       "base": {
         "icon": "minecraft:oak_sign",
         "text": [
-          "${position} <gray>(${world})",
+          "$<gray>(${world})",
           "<yellow>${death_cause}",
           "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
           "<blue><lang:'text.graves.protected_time':'<white>${protection_time}'>",
@@ -132,7 +132,7 @@
       "alt": {
         "icon": "minecraft:oak_sign",
         "text": [
-          "${position} <gray>(${world})",
+          "$<gray>(${world})",
           "<yellow>${death_cause}",
           "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
           "<blue><lang:'text.graves.not_protected'>",
@@ -302,7 +302,7 @@
   "text": {
     "grave_created": "Grave created at your death location!",
     "protection_ended": "Your grave is no longer protected!",
-    "grave_expired": "<red><lang:'text.graves.expired':'<gold>${position}':'<white>${world}':'<yellow>${item_count}'>",
+    "grave_expired": "<red><lang:'text.graves.expired':'<white>${world}':'<yellow>${item_count}'>",
     "grave_broken": "Your grave was broken!",
     "grave_access_payment_no_access": "<red><lang:'text.graves.grave_unlock_payment.no_access'>",
     "grave_payment_accepted": "<white><lang:'text.graves.grave_unlock_payment.accepted'>",

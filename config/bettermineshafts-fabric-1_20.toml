@@ -13,7 +13,7 @@ smallShaftChestMinecartSpawnRate = 0.00125
 mainShaftChestMinecartSpawnRate = 0.01
 smallShaftTntMinecartSpawnRate = 0.0024999999441206455
 mainShaftTntMinecartSpawnRate = 0.0024999999441206455
-zombieVillagerRoomSpawnChance = 2
+zombieVillagerRoomSpawnChance = 0
 smallShaftPieceChainLength = 9
 
 [ores]

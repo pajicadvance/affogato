@@ -66,7 +66,7 @@ hash = "69a3aa51ef5a881f01a6515f72a57a10b8df7c7b93588f424fc07c864a0933e1"
 
 [[files]]
 file = "config/bettermineshafts-fabric-1_20.toml"
-hash = "f61537c78da4a153c2f3bccc8fb5e36f846c9a4ed5b2535d7c18586c75c1d238"
+hash = "3597836029f379d6396094a34e5a3334e228e6faf4345f2cfdd0a26c85f1e1a6"
 
 [[files]]
 file = "config/betteroceanmonuments-fabric-1_20.toml"
@@ -138,7 +138,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "d12adf94e50895740b526c880fa2c218a9a37b3a0ed7b603fbbb0b46d0a32b97"
+hash = "68e5fe7e5c61f76c4563967a4d1b5516af1c4da04448ba07cb4611912c76ac53"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -214,11 +214,15 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "582e8d61564f4650ee0fd5c987d031b03401e0d0b1f6dccf46e0b47bb46cbccc"
+hash = "c260ddcb3516f5c3ea261b523cc034ecce322e30782fcc0bea1f02ce6247328e"
 
 [[files]]
 file = "config/lambdynlights.toml"
 hash = "5ec2a06cfebe74cb153e82b39aad10e613e9c7fcd0550301cbd8b318464273f1"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "3a6ea57d3df58dfb10c9a80b0d122e7874e0cbb76d3363e608cb6f3c2962b525"
 
 [[files]]
 file = "config/seasons.json"
@@ -246,7 +250,7 @@ hash = "35550d663763a21656420e8bd70da0f0f650e3ed9f8021f6b5d60fcbfb1b7066"
 
 [[files]]
 file = "config/universal-graves/config.json"
-hash = "34d89e67c5ba72e197d6af1f256104db2599ae77024337b29afc26bb00489b84"
+hash = "3f43dfe2230336ae35747fdc6d8cf626973c8fe711b7ea20ff33d799bee92db9"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
@@ -494,12 +498,12 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "6644d7df9bd009c158e7724099f7c4dd703e947e8321c08294772c64ca73b3f8"
+hash = "2722d5860d6a82bf73715b6845a43860f30f90174de7baa5547407c16fe1c26f"
 metafile = true
 
 [[files]]
 file = "mods/aileron.pw.toml"
-hash = "fac871bd4bba50812adf076976679eb5dc1fccc0e303e109b2e86e59f053c933"
+hash = "a4a201b32bda6d32357250fac9c25ff608146532111c8d6c6d71d67878d5d30b"
 metafile = true
 
 [[files]]
@@ -519,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
+hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
@@ -559,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "1429c87ce179acbdbf9d63ef480d145e135bc9ea10cfd4546bd1be8558e07cff"
+hash = "3104e69c401940e8d624c9795798b4cd6d2e031e18c7178c88a7e6c8a13ea552"
 metafile = true
 
 [[files]]
@@ -1039,7 +1043,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
+hash = "938b135f37da76c099b14ba0f381a8515a0a28de62445caff9b2de94737e8894"
 metafile = true
 
 [[files]]
