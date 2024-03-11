@@ -15,7 +15,7 @@
 
 [Atlases]
 	#Storage for maps that automatically updates the displayed map as you explore.
-	"Atlases enabled" = true
+	"Atlases enabled" = false
 	#Allow opening the atlas while it is in the off-hand.
 	"Open in off hand" = false
 	#Map scale used in atlases by default.

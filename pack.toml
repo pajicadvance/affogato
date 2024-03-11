@@ -1,12 +1,12 @@
 name = "Affogato"
 author = "pajic"
-version = "Beta-27"
+version = "Beta-28"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "04a59e8d57f4c420bbd67fa863b4508ca1fb820c75cdb8c5a6aecf1b0d041a0a"
+hash = "9881bbee4de08f52ac47a843df1f0db559e7be7d7acce58274bf448750ac4d96"
 
 [versions]
 fabric = "0.15.6"

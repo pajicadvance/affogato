@@ -118,7 +118,7 @@ hash = "b82a4c91db3babf4b75a063ac9c79504213f8fa0174d471f86bc403e375353c7"
 
 [[files]]
 file = "config/charm-common.toml"
-hash = "d365134952270ead0c180afb83f01a8b77d8d9cfc51ca664ea71b6085cadc267"
+hash = "b8619e8d3f1a795d2f03412bd0b0fc14da76a7f26d74757c1c474aafbaa738c9"
 
 [[files]]
 file = "config/charmonium-client.toml"
@@ -138,7 +138,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "68e5fe7e5c61f76c4563967a4d1b5516af1c4da04448ba07cb4611912c76ac53"
+hash = "1fadf93374e30bed0fbbcd20fb15b3ed854dc0de0f43301921060bf24141049d"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -151,6 +151,10 @@ hash = "2905cd3f82f03ec43bf15887d96ccadf0f4ba567ee138c32e22f029e091af9ff"
 [[files]]
 file = "config/enchantmentdisabler.json"
 hash = "f1b98e5174d2622ffd3743ad3ee3351b24890dd85dd954aed91f36051a648a64"
+
+[[files]]
+file = "config/everycomp-common.json"
+hash = "e90389d1a88363b8b42e63dd7f5fbbe8b4fba3dc8955a9acef189e1bc4221417"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -170,7 +174,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "c43f6abc0ffc0d5268e15e48eb6fead2c663e66b2ba4a8a0c7dde3000cdcf030"
+hash = "7af660352bdd641b663ec8ac054e31d9f00276e67c3e45024ee5c481b342a463"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -214,7 +218,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c260ddcb3516f5c3ea261b523cc034ecce322e30782fcc0bea1f02ce6247328e"
+hash = "95dbe2f0d920740530fe66b026d6781a846aa87c75f5b59a5b723f508cc723a3"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -386,7 +390,7 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
 [[files]]
 file = "config/yosbr/config/presencefootsteps/userconfig.json"
-hash = "3cc4e53ac7ece755277aed8fdbb2ca59388f93702a4ef78a19c887b9e8ed08ca"
+hash = "30019e813048b0f27f8c98b408842639863ec1a9c563d59799cc9792236a05ab"
 
 [[files]]
 file = "config/yosbr/config/quickstack.json"
@@ -445,8 +449,12 @@ file = "config/yosbr/config/waterdripsound.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/yosbr/options.nmuk.txt"
+hash = "c74e528bf07b1f11139ea1b9a1e2dae2a7f3a5e9fbd3311a28e6c04d093b997e"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "3fb585db0d21f7acf1590f19f1f046e9c5c8575a57b97d03058b2ad298114e63"
+hash = "1ef4db8545e2fb60f37f043facbf31506e582e06f8ac6a711f4195803403dac6"
 
 [[files]]
 file = "credits.txt"
@@ -498,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "2722d5860d6a82bf73715b6845a43860f30f90174de7baa5547407c16fe1c26f"
+hash = "56d8e41c336a21250eca25c970850fa1e199f66cf9b0c94a3cf10c6194c40140"
 metafile = true
 
 [[files]]
@@ -519,6 +527,11 @@ metafile = true
 [[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "95b586178217fdae2e946ed163d294725c70284fa09386a8d5b1edb41b8bda4b"
 metafile = true
 
 [[files]]
@@ -743,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b65744fcf3ebfd08258a1d930f7821dd9b9df32f88295433b2bbdb9d4d78664d"
+hash = "216924d46f884bd7d4e545ed39f947336ef94fcdf75eccc293ce1fef24127242"
 metafile = true
 
 [[files]]
@@ -1143,7 +1156,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
