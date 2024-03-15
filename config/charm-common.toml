@@ -181,7 +181,7 @@
 
 [ExtraStews]
 	#Suspicious stews can be crafted from pitcher plants and sunflowers.
-	"ExtraStews enabled" = true
+	"ExtraStews enabled" = false
 	#Number of seconds of strength and regeneration from a pitcher plant.
 	"Pitcher plant effect duration" = 8
 	#Number of seconds of health boost from a sunflower.
@@ -266,11 +266,11 @@
 [Mooblooms]
 	#Mooblooms are cow-like mobs that come in a variety of flower types.
 	#They spawn flowers where they walk and can be milked for suspicious stew.
-	"Mooblooms enabled" = true
+	"Mooblooms enabled" = false
 
 [NearbyWorkstations]
 	#Use workstations such as crafting tables when in range of the block.
-	"NearbyWorkstations enabled" = true
+	"NearbyWorkstations enabled" = false
 	#Range from which player can access a workstation.
 	Distance = 6
 

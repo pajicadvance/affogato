@@ -118,7 +118,7 @@ hash = "b82a4c91db3babf4b75a063ac9c79504213f8fa0174d471f86bc403e375353c7"
 
 [[files]]
 file = "config/charm-common.toml"
-hash = "b8619e8d3f1a795d2f03412bd0b0fc14da76a7f26d74757c1c474aafbaa738c9"
+hash = "75cb619128ab11002c94583ea2cb4870b28239df85669934d8989b3783cfa8b6"
 
 [[files]]
 file = "config/charmonium-client.toml"
@@ -130,7 +130,7 @@ hash = "255baf1a58b275de818a0d555373df02c8b1570a129d4a52045109954c925fb2"
 
 [[files]]
 file = "config/cinderscapes.json"
-hash = "3478f237c2d98faf9c61139be44cb0cb0cbc2808dd6b9e01c1b881995288c8a0"
+hash = "ce191e1704db0a75993861f19b8f0567386e9477025ee9c98bee3f7d84a56be0"
 
 [[files]]
 file = "config/cropped.json"
@@ -138,7 +138,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "1fadf93374e30bed0fbbcd20fb15b3ed854dc0de0f43301921060bf24141049d"
+hash = "f08a6f4f7728dcd06aee1ed652894e43d0999d525334062d96bddcb1dfb7fcd5"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -218,7 +218,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "95dbe2f0d920740530fe66b026d6781a846aa87c75f5b59a5b723f508cc723a3"
+hash = "df5dccc15bf618d5f0737e8bc28f475951fcc3b0f604fa171254963203fb4307"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -450,11 +450,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yosbr/options.nmuk.txt"
-hash = "c74e528bf07b1f11139ea1b9a1e2dae2a7f3a5e9fbd3311a28e6c04d093b997e"
+hash = "98025ddebd5bc4c9c037f511ef452ead1795940683bdf7ccdbc2207ce1edd725"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1ef4db8545e2fb60f37f043facbf31506e582e06f8ac6a711f4195803403dac6"
+hash = "e15f072d4aebb7359b4ea41fc6b1feeb0e64401d7036a659a301161e67d6ae8b"
 
 [[files]]
 file = "credits.txt"
@@ -506,12 +506,12 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "56d8e41c336a21250eca25c970850fa1e199f66cf9b0c94a3cf10c6194c40140"
+hash = "4808764ca8a1a6565ebb703ccbbb9c76835c7b94cb4e3209ea4d31455194af7d"
 metafile = true
 
 [[files]]
 file = "mods/aileron.pw.toml"
-hash = "a4a201b32bda6d32357250fac9c25ff608146532111c8d6c6d71d67878d5d30b"
+hash = "92c0c8ce733ad75ae5a207b20786dd7c712d90e9d0d5a390a5cbc00bf1cdf3bb"
 metafile = true
 
 [[files]]
@@ -1035,6 +1035,11 @@ hash = "5341729624c64ecf2ca254c5cf31ce33c4937fd071a33193d573b86358e28db0"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "a14a9d2c780c25e86d23a923504c8a1d6265fc31b949053dfa8f0c2dc4c5acbe"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "a874d77f08289eb1b597c0b63eb1abe85263ff69648369057a99382d9c608da1"
 metafile = true
@@ -1131,7 +1136,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "65fa078fab8243283a0c8d569787a7146c4ee3d57f865cd5cb159b184ea1764b"
+hash = "e0e96b021a88ad21e3d2509fdea470fe373981663fa15130919ba37a499b55ff"
 metafile = true
 
 [[files]]
