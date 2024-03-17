@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","itemswapper:default","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","Fabrication","Fabrication grayscale","Moonlight Mods Dynamic Assets","mixtape:unused_music","file/VanillaTweaks.zip","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","itemswapper:default","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","Fabrication","Fabrication grayscale","Moonlight Mods Dynamic Assets","mixtape:unused_music","file/VanillaTweaks.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

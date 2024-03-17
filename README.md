@@ -14,6 +14,6 @@ HaXrBOT, for their [unofficial fork of True Darkness](https://www.curseforge.com
 
 lonefelidae16, for their [unofficial port of ExtraSounds](https://github.com/lonefelidae16/extra-sounds), and allowing me to include it in this modpack
 
-Sindercube, for their [unofficial fork of Aileron](https://github.com/Sindercube/Aileron), and allowing me to include it in this modpack
-
 douira, for the excellent 3D render of the affogato cup used in the modpack icon and banner
+
+All the other mod authors whose mods are included in this modpack, for making my life easier

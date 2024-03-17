@@ -138,7 +138,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "f08a6f4f7728dcd06aee1ed652894e43d0999d525334062d96bddcb1dfb7fcd5"
+hash = "8632761ae8b292bbd8e25f8260587563cfc2600a66a8f8cd78b6634e86519843"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -218,7 +218,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "df5dccc15bf618d5f0737e8bc28f475951fcc3b0f604fa171254963203fb4307"
+hash = "a1a02a31d0dddbe915596cbbea27ed270a058ee463a2500b36ae438863136d60"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -287,10 +287,6 @@ hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
 [[files]]
 file = "config/yosbr/config/clienttweaks-common.toml"
 hash = "510772150524e38f50f3c68369d75b61018ba5fe2510385d3329a5f8d86993ce"
-
-[[files]]
-file = "config/yosbr/config/continuity.json"
-hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
@@ -397,6 +393,10 @@ file = "config/yosbr/config/quickstack.json"
 hash = "e2d2c964619b3715f1acebd158a32cc5752715e5c590cd8ff84845b1f11be3c2"
 
 [[files]]
+file = "config/yosbr/config/raised.json"
+hash = "fb0127d49254d1076bdb791be2e24c00d046c63037d98e8646259d0ebee04683"
+
+[[files]]
 file = "config/yosbr/config/reacharound.json"
 hash = "9240e617374d7c0691c537b940b1c5d417a94c4301908a1d9fbf08506a346ab1"
 
@@ -454,7 +454,7 @@ hash = "98025ddebd5bc4c9c037f511ef452ead1795940683bdf7ccdbc2207ce1edd725"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e15f072d4aebb7359b4ea41fc6b1feeb0e64401d7036a659a301161e67d6ae8b"
+hash = "2fa5f8f2ef1d62ab8427a9e61cc3f4deb3b17d8ee55f915d3bc0a7adfe1ddfdf"
 
 [[files]]
 file = "credits.txt"
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "95b586178217fdae2e946ed163d294725c70284fa09386a8d5b1edb41b8bda4b"
+hash = "23fdaae1b77f170941c271fda99fb24e72f6f362b76b484c1cab6475c342d55b"
 metafile = true
 
 [[files]]
@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "3104e69c401940e8d624c9795798b4cd6d2e031e18c7178c88a7e6c8a13ea552"
+hash = "5ec1499fde198ac315df007311135d8d63858adb14c6c95e9730760732d61032"
 metafile = true
 
 [[files]]
@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "56a4d9f9b47a65b3508192e519163ff73c712354d3ff907938f2593d18ea166e"
+hash = "8a069d8b237eb6807fb27f7b19867055293190f25b03e83dad183dfcdad9efd7"
 metafile = true
 
 [[files]]
@@ -652,11 +652,6 @@ metafile = true
 [[files]]
 file = "mods/companion.pw.toml"
 hash = "97cca2014971c73073f0ce99fcd0f27ad56620949c0c009b77aabcb5a6ea7aa9"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
 
 [[files]]
@@ -781,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "8f5efdd43bb0a57bc70d3710bb42c85e49a6688e1e829cd7d4f71fc220eca90b"
+hash = "ec3b8ff39fe73101cf0b2517c3985762bbf835ff245a5772a4b647d34604b69e"
 metafile = true
 
 [[files]]
@@ -791,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "2b917cb7ce42faa92e029b4468e6dd580074e49630580b9b3b8014e14c914b07"
+hash = "3f8e8ac176ba49b38534ebebdbf062b8731b7399f7284eea48a56c286f0dc271"
 metafile = true
 
 [[files]]
@@ -1070,6 +1065,11 @@ hash = "c6423eeef60aacad291b03c9b348e10e9243ffa317ccc0feeeadc08cb08316c5"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "0a0284ef44b16dad0a7b00e728598d673a359a4a04c892501ca3f4ac6fc3720f"
+metafile = true
+
+[[files]]
 file = "mods/reacharound.pw.toml"
 hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
 metafile = true
@@ -1254,7 +1254,7 @@ hash = "f1a19d9e142d691edcff0b4fb785d7fb9ad81e28eb9b9440e7e9eac5cef15b56"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2.txt"
-hash = "fc2dfbed1341cb02bebea4da19456af1f18033eaddcac8d5d3295fb6949a3933"
+hash = "e67acb840915514b28c0c928d3962125ddd960aa3fc92ef1573798fdf1cebc54"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
@@ -1267,4 +1267,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels_r0.1_beta2.zip.txt"
-hash = "719819d42eaaed77428c914fc8305bb8c3e617209ab832e0480ad810e8c553c1"
+hash = "0d1b8fa017335958a740a5fc1892d654e56aec7196bb60641fc2bb90d4166516"
