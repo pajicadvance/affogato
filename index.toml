@@ -6,7 +6,7 @@ hash = "975671e63ca414e0c8ed9f8bd2689f4601701411167378233812be6d4edb5e0a"
 
 [[files]]
 file = "README.md"
-hash = "f0ff51b9c0e254784233f1eeb99139ea052207267ca585adc5482e64eb4b184c"
+hash = "b71540009b59baed1a3fbf828349bd08e826f1d48d5ed81fd9e334955ee8e14f"
 
 [[files]]
 file = "config/HorseBuff.toml"
@@ -458,7 +458,7 @@ hash = "2fa5f8f2ef1d62ab8427a9e61cc3f4deb3b17d8ee55f915d3bc0a7adfe1ddfdf"
 
 [[files]]
 file = "credits.txt"
-hash = "6317f6d2b023305c9bf2a2a1555fc4cbcda55ee2bc71cc695699814d19da3f06"
+hash = "f22715f0350426b9e07da7f6c2894296dfd94e4cc6fa5734296f387bf14ed6af"
 
 [[files]]
 file = "index.html"
