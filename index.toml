@@ -138,7 +138,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "8632761ae8b292bbd8e25f8260587563cfc2600a66a8f8cd78b6634e86519843"
+hash = "4ca3a75f09bafc17903aad14dbe2230ef6a71b6948ce629e67c0f0d506f6866b"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -151,6 +151,10 @@ hash = "2905cd3f82f03ec43bf15887d96ccadf0f4ba567ee138c32e22f029e091af9ff"
 [[files]]
 file = "config/enchantmentdisabler.json"
 hash = "f1b98e5174d2622ffd3743ad3ee3351b24890dd85dd954aed91f36051a648a64"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
 
 [[files]]
 file = "config/everycomp-common.json"
@@ -218,7 +222,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a1a02a31d0dddbe915596cbbea27ed270a058ee463a2500b36ae438863136d60"
+hash = "80664a11ce11a7f84be874fa858966bd8dec2e7acc07ec0aa49ed6a11c78a397"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -290,7 +294,7 @@ hash = "510772150524e38f50f3c68369d75b61018ba5fe2510385d3329a5f8d86993ce"
 
 [[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
-hash = "b9f0f1775875c900b6b265212b8ea3d194009e75533dfab2a37fc3cea7f4e829"
+hash = "fb80ef9b18b13e2c34f7715be7c6ce86ff255480f01cf57f32f8b02fa28692dd"
 
 [[files]]
 file = "config/yosbr/config/damagevignette.json"
@@ -322,7 +326,7 @@ hash = "0ef70a95ec5f5890fc40040926b546e5689044b3976a497a2b1ef91436a43a7f"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
-hash = "8ca65a51f695ee7f572c395c6e33c200b92a9ea77d7a83242d72cfee6ef09c05"
+hash = "fc05b02418c78f230a6f5fe8d9c0cb43ff89b1c4b21c1f740d4bcc6d52bc7a52"
 
 [[files]]
 file = "config/yosbr/config/fallingleaves.json"
@@ -506,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "4808764ca8a1a6565ebb703ccbbb9c76835c7b94cb4e3209ea4d31455194af7d"
+hash = "c498b26910f2a72a5e98777c19554b8874479a02e08fc276a2aaea6ea3b2ef87"
 metafile = true
 
 [[files]]
@@ -772,6 +776,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "a8d3244d58d7722735a72eee2a869d15e5fe38ec7d9a54ff555aadd53cae637c"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
 
 [[files]]
