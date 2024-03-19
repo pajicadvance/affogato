@@ -138,7 +138,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "4ca3a75f09bafc17903aad14dbe2230ef6a71b6948ce629e67c0f0d506f6866b"
+hash = "3c4a99d821031adc588b4240cdd4b55c77232011f7c70da94d2d5eddfe58ff3b"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -222,7 +222,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "80664a11ce11a7f84be874fa858966bd8dec2e7acc07ec0aa49ed6a11c78a397"
+hash = "e9d17da14a81d70b0057aaacbbd086f1f181872e03a889756b573185003090db"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -350,7 +350,7 @@ hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
 
 [[files]]
 file = "config/yosbr/config/jade/jade.json"
-hash = "016322ad58d9202cc0f82265178d46953130ee23a2bd435ddd0e2bf43907f410"
+hash = "80d64ae7a9f3214a5a1d003eb40f417647f30f52e02c18e0ad2314e4d58fd447"
 
 [[files]]
 file = "config/yosbr/config/jade/plugins.json"
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "c498b26910f2a72a5e98777c19554b8874479a02e08fc276a2aaea6ea3b2ef87"
+hash = "43b20327a6a5315611763ca8f92bd16d65c75a790e6da1896bcd6fb9e6a7d60c"
 metafile = true
 
 [[files]]
@@ -1215,7 +1215,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island.pw.toml"
-hash = "9ce21f5c13551a2dce4fbb0b98e30ac273c798bba58339f00b2bccf48300160c"
+hash = "470d51d25045b6050ab52cc0ea37f1e9b23c82c3401dc8d10e832cb11c7cd3dd"
 metafile = true
 
 [[files]]
@@ -1230,7 +1230,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "bf6e15464cc97754591cb7265ac9402085813c06917f76d99cd79abc61ae5181"
+hash = "13daa687a4ba568dc869e6275969995380016fb08a968673e2a94b33383fa5a7"
 metafile = true
 
 [[files]]
