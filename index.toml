@@ -105,6 +105,14 @@ file = "config/betterwitchhuts-fabric-1_20.toml"
 hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
 [[files]]
+file = "config/carpet/default_carpet-fixes.conf"
+hash = "e761d297f43ad55e06a66905407eaa873b711c43fa6a488d7f99e3b2d5e58f9d"
+
+[[files]]
+file = "config/carpet/default_carpet.conf"
+hash = "d3253dcf51e8408cc2adcabda8bac21ae3a31b77cb959664a84b8868e81a3923"
+
+[[files]]
 file = "config/cavedust.json"
 hash = "588f9c88f18538df7478aef4fc5cd8ba4035b628ae58c98a3ddebfcc5bc07fbe"
 
@@ -138,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "3c4a99d821031adc588b4240cdd4b55c77232011f7c70da94d2d5eddfe58ff3b"
+hash = "53845bf1286dd27149f5512d9f78d499c637b9e90f10b35033db148c1d7d1037"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -222,7 +230,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e9d17da14a81d70b0057aaacbbd086f1f181872e03a889756b573185003090db"
+hash = "5b7d13915a03bcc7582bd831ab85af59f14055169af75f8c97bc0eb87d4ad285"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -510,12 +518,17 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "43b20327a6a5315611763ca8f92bd16d65c75a790e6da1896bcd6fb9e6a7d60c"
+hash = "2917cca3b892e2f38ddc135a08d2290ef54d1eabcbc8c42fedb4fd7b8d95c153"
 metafile = true
 
 [[files]]
 file = "mods/aileron.pw.toml"
 hash = "92c0c8ce733ad75ae5a207b20786dd7c712d90e9d0d5a390a5cbc00bf1cdf3bb"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "a54e4390b9359fa2503c611f6d0228d5cb98d678dd4b8e5a74577d914e0aa412"
 metafile = true
 
 [[files]]
@@ -580,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "5ec1499fde198ac315df007311135d8d63858adb14c6c95e9730760732d61032"
+hash = "052f488d4631346ace35ddb7849d68471b268293dd52ec702d054003c4747c89"
 metafile = true
 
 [[files]]
@@ -611,6 +624,16 @@ metafile = true
 [[files]]
 file = "mods/caffeinated.pw.toml"
 hash = "e07e9a0d4a0f64a1d47fb05b671b1a8d9470ad0ee07626d44b49f85446c1d979"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "a35b7fc965ebe1beee30331a01aa88c9476cfe350be04882c38d1ac201d8ce72"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
@@ -654,6 +677,11 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "ae3c8677a574757a519780f8c4f461763ebc19c590a42f3af0f9447bf7ef4a94"
+metafile = true
+
+[[files]]
 file = "mods/companion.pw.toml"
 hash = "97cca2014971c73073f0ce99fcd0f27ad56620949c0c009b77aabcb5a6ea7aa9"
 metafile = true
@@ -675,7 +703,12 @@ metafile = true
 
 [[files]]
 file = "mods/damagevignette.pw.toml"
-hash = "f8dc47162043e0bcfdf633c7b48fda0b297a06e2bef9f9318ba2defc0d762a51"
+hash = "da55c41822e62c2449bfa0d467eb4894117699292745b9937908d9b59d811a13"
+metafile = true
+
+[[files]]
+file = "mods/dawn.pw.toml"
+hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
 
 [[files]]
@@ -725,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "13baf86c7202df729de43ea5ac8766581c39e35651391d080a9a2a33252c2996"
+hash = "d6f3249ad3a27395ebeaa97bd4601587169f0ffa50ddefabc0538358eee8b555"
 metafile = true
 
 [[files]]
@@ -740,7 +773,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "4fdb3fed87f0b60a09bd5ad1a0c3007ab0ea9a8b8508af10bc1c7a750c85f237"
+hash = "ecbe7125b57e5c2990a7aa81f22adf687b298f748e5734a47ab216aded67851e"
 metafile = true
 
 [[files]]
@@ -755,7 +788,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "216924d46f884bd7d4e545ed39f947336ef94fcdf75eccc293ce1fef24127242"
+hash = "89556771a29b247e12fc58be469262f67ab1b736854381ae6cc4a7a1158ecebd"
 metafile = true
 
 [[files]]
@@ -785,7 +818,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "ec3b8ff39fe73101cf0b2517c3985762bbf835ff245a5772a4b647d34604b69e"
+hash = "d8bf41c5a1a03870e7683d4bd6462adf338ea6dddd3ebe6998a17dd0183e4629"
 metafile = true
 
 [[files]]
@@ -830,7 +863,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
+hash = "9912c3485adbc87f85505e519287518bf4b5b72a941008070a0e6ddc18c40fbf"
 metafile = true
 
 [[files]]
@@ -885,7 +918,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -912,6 +945,10 @@ metafile = true
 file = "mods/iris.pw.toml"
 hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
 metafile = true
+
+[[files]]
+file = "mods/itemfavorites-1.0.51.20.1.jar"
+hash = "5934a215dcefd4ab1ab814deb6de1035b0f602f665a172fa03c08019e3e2c43d"
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
@@ -970,12 +1007,12 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "6ff047f3b0e73e22bf5ad0d6751f82cd6f6a4e164a911a37839eba667fa85502"
+hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "961a62a68dcb0da829ecc14d0cdb6040388ac05ddd1a29df0a4c9c3c9b96b0a7"
+hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
 metafile = true
 
 [[files]]
@@ -1006,6 +1043,11 @@ metafile = true
 [[files]]
 file = "mods/nerb.pw.toml"
 hash = "91b6ddaebfb96b92e89d69123606266fd1109190131061d9a8f58e9f9f7a91ff"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "030992dda4ed112d764c1e0fbc0ecf3bfb9f2efb40ab91cc26155be7e3f8a98a"
 metafile = true
 
 [[files]]
@@ -1125,7 +1167,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
-hash = "4d864bdfc5a507071a1d63c49256481b1198d7275adc6312b6e278f1aa601775"
+hash = "7057dde371e4d8224f8e6a16a15535d1be9632129b8babe7ec7c95d201c6e97b"
 metafile = true
 
 [[files]]
@@ -1176,6 +1218,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "4371feacbfd7b741fdd3616f8cd7845e8cb2a0773ec96ac20cc7a5b2f688000f"
+metafile = true
+
+[[files]]
+file = "mods/universal_ores.pw.toml"
+hash = "a31a9db89b6b0a610ae4b78edcf0f20527e6bde59bf47814d0d817be7c9a9dd6"
 metafile = true
 
 [[files]]
@@ -1252,10 +1299,6 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "3f0ac032a4f89382745b03a8e1078041f728d9e4f2df14fa9eb910382b98b1c4"
 metafile = true
-
-[[files]]
-file = "patchouli_books/affogato_guide/book.json"
-hash = "c158440fbdfab803c9ff15d97d4c41633968b6649712f8ee8ebe8ccc8d108feb"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"

@@ -1,0 +1,13 @@
+name = "NetherPortalFix"
+filename = "netherportalfix-fabric-1.20-13.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nPZr02ET/versions/NANcEzKA/netherportalfix-fabric-1.20-13.0.1.jar"
+hash-format = "sha1"
+hash = "a47e66e53bb9afddfc26f66319ce2e7936fd6d68"
+
+[update]
+[update.modrinth]
+mod-id = "nPZr02ET"
+version = "NANcEzKA"
