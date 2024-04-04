@@ -1,0 +1,13 @@
+name = "ItemFavorites-CarpetFix"
+filename = "itemfavorites-1.0.5+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m2OZcELD/versions/yWmJJwMs/itemfavorites-1.0.5%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "dbcf741e6c26551655a455d1d0d321aebbbc5da0"
+
+[update]
+[update.modrinth]
+mod-id = "m2OZcELD"
+version = "yWmJJwMs"

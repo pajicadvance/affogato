@@ -13,11 +13,11 @@
     },
     "types": {
       "leaves_type": {
-        "traverse.red_autumnal": true,
-        "traverse.brown_autumnal": true,
-        "traverse.orange_autumnal": true,
-        "traverse.yellow_autumnal": true,
-        "traverse.fir": true
+        "traverse.red_autumnal": false,
+        "traverse.brown_autumnal": false,
+        "traverse.orange_autumnal": false,
+        "traverse.yellow_autumnal": false,
+        "traverse.fir": false
       },
       "wood_type": {
         "charm.azalea": true,

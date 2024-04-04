@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "08170d1ba718e675ad824703943e1a92dea40c845d0af4a6150dd0bec9e08ed4"
+hash = "06ef765b93fb211da527f76823387ca3640a84db39222ea73acd06ee8789ffc7"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -166,7 +166,7 @@ hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
 
 [[files]]
 file = "config/everycomp-common.json"
-hash = "e90389d1a88363b8b42e63dd7f5fbbe8b4fba3dc8955a9acef189e1bc4221417"
+hash = "4695a335f99869b5889dc05016c386315b772ac7717939da1ac11bfeef52279d"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -230,7 +230,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e12785d32f897104f0d8029b5cd289537e4176e9ab5d6127ad319ac746f24a5a"
+hash = "4c56865f2ad77b515b1833c9d8c13e3539ef7665866c348541aafab16caa950f"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -266,7 +266,7 @@ hash = "35550d663763a21656420e8bd70da0f0f650e3ed9f8021f6b5d60fcbfb1b7066"
 
 [[files]]
 file = "config/universal-graves/config.json"
-hash = "3f43dfe2230336ae35747fdc6d8cf626973c8fe711b7ea20ff33d799bee92db9"
+hash = "eaeb22d83f8fcb144ef2cf4971852008e3ec0338dc9d7901dd75991cf3df9816"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
@@ -483,17 +483,17 @@ metafile = true
 
 [[files]]
 file = "mods/[override]charm.pw.toml"
-hash = "845acbd34e796f58789802b302469d3d24175a2f354597924e4d89705aed3af4"
+hash = "b4221296185ec607d21cb1b6b99d461618598cdc9ffc83ff225ab75124a18590"
 metafile = true
 
 [[files]]
 file = "mods/[override]charmonium.pw.toml"
-hash = "7fda75c9993cde462cd293c8c435cfb6f0a8cdad9d740785c43030fc83a521ed"
+hash = "fd05930d6614108ad3afe3a416cdb51a095cf4f883ca7279d08bcc30d2a2c59a"
 metafile = true
 
 [[files]]
 file = "mods/[override]extrasounds.pw.toml"
-hash = "27865703eefa285627f71fd98de81857b07a4acf9700697d5f8f5c504d5d4977"
+hash = "f0e8ced3937e269e2cf50c0722613b965564ec4c5d4458497b83a4fef2d060e3"
 metafile = true
 
 [[files]]
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "fefa1a7ff9b1b5a92dda44c3fb0b17529c96501b9b8779b4faed6e4b2d70987d"
+hash = "8d1f2e016a27ac3aa09940b2e89477728caba57f0a490bde0264044f43ab467d"
 metafile = true
 
 [[files]]
@@ -548,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "23fdaae1b77f170941c271fda99fb24e72f6f362b76b484c1cab6475c342d55b"
+hash = "bd2ab4c0d8bd0b4d9ed194108578262303ec442864b51b5e3a1990555b043063"
 metafile = true
 
 [[files]]
@@ -618,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "mods/bounced.pw.toml"
-hash = "06fbb3bad511e9c763595965c53ab377b39e9d8acf2f54f85ac5b68bb9fe8eae"
+hash = "5f3a9bccd6ca727d4fcd8105320e636429c7f3c642c3a3e7689b0df25d52ff65"
 metafile = true
 
 [[files]]
@@ -947,8 +947,9 @@ hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
 metafile = true
 
 [[files]]
-file = "mods/itemfavorites-1.0.51.20.1.jar"
-hash = "5934a215dcefd4ab1ab814deb6de1035b0f602f665a172fa03c08019e3e2c43d"
+file = "mods/itemfavorites-carpetfix.pw.toml"
+hash = "4592a2b082078f79db758af6ac1a3de4a36182c91689b06ca90bf1b77728469f"
+metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
@@ -968,6 +969,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/lavender.pw.toml"
+hash = "66bf8dde3ef8075f20d5b3b93ff35df80e56063000a46b0878b90cb19f7b0ce1"
 metafile = true
 
 [[files]]
@@ -1032,7 +1038,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
 
 [[files]]
@@ -1088,11 +1094,6 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "a874d77f08289eb1b597c0b63eb1abe85263ff69648369057a99382d9c608da1"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
@@ -1187,7 +1188,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "e0e96b021a88ad21e3d2509fdea470fe373981663fa15130919ba37a499b55ff"
+hash = "26dfeb77490195cbe1ff5c6a94cc3de23657261144958c3c247647bda64e43e5"
 metafile = true
 
 [[files]]
@@ -1319,4 +1320,8 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels_r0.1_beta2.zip.txt"
+hash = "0d1b8fa017335958a740a5fc1892d654e56aec7196bb60641fc2bb90d4166516"
+
+[[files]]
+file = "shaderpacks/rethinking-voxels_r0.1_beta3-fix1.zip.txt"
 hash = "0d1b8fa017335958a740a5fc1892d654e56aec7196bb60641fc2bb90d4166516"
