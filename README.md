@@ -2,7 +2,9 @@
 
 > _An affogato, more traditionally known as "affogato al caffè", is an Italian coffee-based dessert. It usually takes the form of a scoop of plain milk-flavored or vanilla gelato or ice cream topped or "drowned" with a shot of hot espresso._
 
-# Work in progress
+### [Download from Modrinth](https://modrinth.com/modpack/affogato)
+
+### [Discussion, support and feature requests on Discord](https://discord.gg/5RkzS66zWb)
 
 # Credits
 Vanilla Tweaks: https://vanillatweaks.net, for providing amazing vanilla-friendly tweaks
