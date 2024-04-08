@@ -28,7 +28,7 @@
 
 [AutoRestock]
 	#Refills hotbar from your inventory.
-	"AutoRestock enabled" = true
+	"AutoRestock enabled" = false
 
 [AzaleaWood]
 	#Azalea wood is obtainable from naturally occurring azalea trees or by growing azalea saplings.
@@ -239,7 +239,7 @@
 
 [InventoryTidying]
 	#Button to automatically tidy inventories.
-	"InventoryTidying enabled" = true
+	"InventoryTidying enabled" = false
 
 [Kilns]
 	#A functional block that speeds up cooking of clay, glass, bricks and terracotta.

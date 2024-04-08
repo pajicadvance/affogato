@@ -1,0 +1,9 @@
+name = "Fabric Seasons: Delight Compat Refabricated"
+filename = "fabric-seasons-delight-1.20.1-2.0.13+refabricated-compat-1.0-affogato.jar"
+side = "both"
+
+[download]
+url = "https://github.com/pajicadvance/fabric-seasons-delight-compat/releases/download/1.0-affogato/fabric-seasons-delight-1.20.1-2.0.13+refabricated-compat-1.0-affogato.jar"
+
+hash-format = "sha1"
+hash = "74e09e0fcf579ce27f31f9ff52eb59237e90a3ff"

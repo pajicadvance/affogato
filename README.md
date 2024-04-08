@@ -4,7 +4,7 @@
 
 ### [Download from Modrinth](https://modrinth.com/modpack/affogato)
 
-### [Discussion, support and feature requests on Discord](https://discord.gg/5RkzS66zWb)
+### [Discussion, support and suggestions on Discord](https://discord.gg/5RkzS66zWb)
 
 # Credits
 Vanilla Tweaks: https://vanillatweaks.net, for providing amazing vanilla-friendly tweaks
