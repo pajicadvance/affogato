@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "7166f3c8894a6e5070bfdbbeb17d2ff8af35b621164287248ffe0f23630dfae6"
+hash = "639cf72ff0bbc52c4d9b9a7843a10e8b42152f44103567807bad4943ac8f5300"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -230,7 +230,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c9adc330372a9c5e663509aa79753a0dce4a8cb21549fe45cbdee1ba37ae5391"
+hash = "9d852794c69fa1a35d2e63d3639f9b8b174ae96bc89dcf72a4f49245322d4b45"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "052f488d4631346ace35ddb7849d68471b268293dd52ec702d054003c4747c89"
+hash = "f4851f2689192aafe145a4b588262cd93553555eb57111cb5112c4c690400421"
 metafile = true
 
 [[files]]
@@ -827,8 +827,13 @@ hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
 
 [[files]]
+file = "mods/environmental-creepers.pw.toml"
+hash = "93104ebb7bc38bdd475f9755f95fc21753da4a79c2801a680be2625d89d727a6"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
-hash = "acb935b4f199a20842914eed9701432dfdaf2a6ab16efa1ff1ddef99c7d4c4d7"
+hash = "df56a218fcadbffbc9cd9f29c2a7ab3eccb6e4d0ff6f26fea2b5ad0c65a0304e"
 metafile = true
 
 [[files]]
@@ -843,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
 metafile = true
 
 [[files]]
@@ -878,7 +883,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "022ebc65982f1c881d80e99b9fc4a5f3234c9b9b776665c6f10376add89135e4"
+hash = "aad27d850a8fdac514018c20d41a3a1cb9d288b176e6f0a068dfe48851098972"
 metafile = true
 
 [[files]]
@@ -1038,7 +1043,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b91afc0cc0069f645835be6bf7a9da309e61f9bc207e486fe8cb5af7012632d9"
+hash = "00182b70ce5df8fc5489d0fbab65e93fee367fa6afc8879a816d2b2e6fc80f96"
 metafile = true
 
 [[files]]
