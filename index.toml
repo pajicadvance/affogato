@@ -106,7 +106,7 @@ hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
 [[files]]
 file = "config/carpet/default_carpet-fixes.conf"
-hash = "4886be3339e15bb2eed58d0addb8c93fa5669b67cbcafebd9e5cdce649e5b338"
+hash = "5681cfa47a4c8dfd9e9479d4159853a9513ba7d414930e7d5e699944da049686"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "639cf72ff0bbc52c4d9b9a7843a10e8b42152f44103567807bad4943ac8f5300"
+hash = "853c9b89651088ec91803676379410010613ed1fdb807450aba5970805e0de45"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -230,7 +230,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9d852794c69fa1a35d2e63d3639f9b8b174ae96bc89dcf72a4f49245322d4b45"
+hash = "2f49160b762758c3016a137b8bc4c2b32ebbb27e1d556c10a1b5a05b2448e013"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -326,7 +326,7 @@ hash = "dd7771b682b0b666cda04d3891aba8bbfa5c32a51c664c99f93ea3a8454ad2c3"
 
 [[files]]
 file = "config/yosbr/config/emi.css"
-hash = "7179a3363efdc82d4892a3b4e724310e07c1dc1db543566fa84e703ff471a58e"
+hash = "dc9c104ae55998ebf6bfdbdaa86e2c5ca4049ad310f01ed30b9e4468b704c53f"
 
 [[files]]
 file = "config/yosbr/config/enchdesc.json"
@@ -342,7 +342,7 @@ hash = "cc51b88a3952831f14d31ad0edc987a52b8648a68ce4b89336afc43764423f48"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "8e15871e29039c055a900abe343fc03f3f77452a40aae842d54971beaba69439"
+hash = "b0be4ebaeec403158fd0d477a3ab701637a2bd98517a3ee0fb2e55f3cfa0f86e"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -528,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "f78e2aaceec45e431ecb659b35c8a5f1f378afae612cd73df700ee5808c783b0"
+hash = "29964b17eef4d45b4b45ccfcd756edbd95d2f9981ca772fbb9bc451b54a52596"
 metafile = true
 
 [[files]]
@@ -618,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "2f6093d5d0bca4253ca66a4f4909bac6fa36e2e6a9c0a54fb5c56d7707b6283f"
+hash = "9022ec899edf2af44a13d5d715b10661f394672306e3cff5b29bdd7452c783f7"
 metafile = true
 
 [[files]]
@@ -833,17 +833,12 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "df56a218fcadbffbc9cd9f29c2a7ab3eccb6e4d0ff6f26fea2b5ad0c65a0304e"
+hash = "e0b1801e39d808c69a119daca1e7f7a062caf9cb28d7a25ffeec2e78f82f95fb"
 metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
-metafile = true
-
-[[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-hash = "3f8e8ac176ba49b38534ebebdbf062b8731b7399f7284eea48a56c286f0dc271"
 metafile = true
 
 [[files]]
@@ -1043,7 +1038,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "00182b70ce5df8fc5489d0fbab65e93fee367fa6afc8879a816d2b2e6fc80f96"
+hash = "292707b2bb462d684dac93cc1eadadf6ae57e3d808e73631d7df810245e37013"
 metafile = true
 
 [[files]]
