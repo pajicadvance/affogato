@@ -147,8 +147,6 @@ key_key.modmenu.open_menu:key.keyboard.unknown
 key_ping-wheel.key.name-labels:key.keyboard.v
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_seamless_loading_screen.keybind.config:key.keyboard.unknown
-key_key.shifty_hotbar.row_modifier:key.keyboard.unknown
-key_key.shifty_hotbar.row_in_selected_column_modifier:key.keyboard.left.alt
 key_key.spyglass-improvements.use:key.keyboard.c
 key_iris.keybind.reload:key.keyboard.i
 key_iris.keybind.toggleShaders:key.keyboard.k

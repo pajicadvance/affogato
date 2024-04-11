@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "e1c40ec17ca16b592047d1b421f6f162a597c2eaefef903fdc6a97c2334c0f20"
+hash = "526dc6b10db6bbb95858e874764cc685ccc88a5e1d948cae12f3200affe3b674"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -230,7 +230,11 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5cb05f3c7be9d4749cbff70a027d4691f38526c95ed75331d8c1106ab2be6370"
+hash = "8ade83e6463e5c12a21d0b48c4d8cf4ed4e684c1211a66eef612e96e58dad7d8"
+
+[[files]]
+file = "config/itemswapper.json"
+hash = "e0836649eaa2200e47748b1d513957db48188439b63d2b62d4b0e6882fd3cf6e"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -466,7 +470,7 @@ hash = "98025ddebd5bc4c9c037f511ef452ead1795940683bdf7ccdbc2207ce1edd725"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "878f80d96913b5f5e73e8f33ca3f07cc35e51fef793c1f6edc47191736105c9b"
+hash = "0579eb11231ba08f79f01a89b866d56bacf835de2991ff59d0c4762c1bbd0426"
 
 [[files]]
 file = "credits.txt"
@@ -528,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "05d831313fac6965decddfd193416e24204c6ea9de008099ecbe257542f2287d"
+hash = "27e6390f1d0a411dab6ec0f1b6d889413a5140d55b0f702340c67b7e027ee80f"
 metafile = true
 
 [[files]]
@@ -603,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "f4851f2689192aafe145a4b588262cd93553555eb57111cb5112c4c690400421"
+hash = "a661c9e77ef0d696db835fbc78e270843bf079bf969bdc6dc79cf66c5ff11ccc"
 metafile = true
 
 [[files]]
@@ -962,6 +966,11 @@ hash = "4592a2b082078f79db758af6ac1a3de4a36182c91689b06ca90bf1b77728469f"
 metafile = true
 
 [[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "81cd4292d023a2601532959101d42a0bd26c8b66519dde5cd21700102e7faac3"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
 metafile = true
@@ -1038,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "292707b2bb462d684dac93cc1eadadf6ae57e3d808e73631d7df810245e37013"
+hash = "dbf0d2e7c313030080e7ca5919f6cb095ce023ed97bd1b34f3c9ff27ba32cb64"
 metafile = true
 
 [[files]]
@@ -1139,11 +1148,6 @@ metafile = true
 [[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "1cc8781b7c9b2fe9a7a3b9ab2ae6742374a007fc075c865827f97ece36f2919d"
-metafile = true
-
-[[files]]
-file = "mods/shifty-hotbar.pw.toml"
-hash = "fefb6790576c84473f5b9af773ea9b245013096e0aef37a0b7bedadeb781da69"
 metafile = true
 
 [[files]]
