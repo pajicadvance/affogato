@@ -1,6 +1,6 @@
 name = "Environmental Creepers"
 filename = "environmentalcreepers-fabric-1.20.1-1.6.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2tZXc39v/versions/FGH9OF8N/environmentalcreepers-fabric-1.20.1-1.6.0.jar"

@@ -257,7 +257,7 @@
 
 [Lumberjacks]
 	#Lumberjacks are villagers that trade wooden items. Their job site is the woodcutter.
-	"Lumberjacks enabled" = true
+	"Lumberjacks enabled" = false
 
 [MakeSuspiciousBlocks]
 	#Use a piston to push an item into sand or gravel, making it suspicious.
@@ -402,5 +402,5 @@
 
 [Woodcutters]
 	#A functional block that adds more efficient recipes for crafting wooden stairs and slabs.
-	"Woodcutters enabled" = true
+	"Woodcutters enabled" = false
 
