@@ -16,6 +16,8 @@ HaXrBOT, for their [unofficial fork of True Darkness](https://www.curseforge.com
 
 lonefelidae16, for their [unofficial port of ExtraSounds](https://github.com/lonefelidae16/extra-sounds), and allowing me to include it in this modpack
 
+AkashiiKun, for their [unofficial Fabric port of Trinket Lanterns](https://github.com/AkashiiKun/TrinketLanterns), and allowing me to include it in this modpack
+
 douira, for the excellent 3D render of the affogato cup used in the modpack icon and banner
 
 All the other mod authors whose mods are included in this modpack, for making my life easier
