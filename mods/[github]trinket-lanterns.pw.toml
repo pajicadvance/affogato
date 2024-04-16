@@ -1,0 +1,9 @@
+name = "Trinket Lanterns"
+filename = "trinketlanterns-1.0.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://github.com/AkashiiKun/TrinketLanterns/releases/download/v1.0.0%2B1.20-fabric/trinketlanterns-1.0.0+1.20.jar"
+
+hash-format = "sha1"
+hash = "b46bff29433d98efd9234860951291daa77ae644"

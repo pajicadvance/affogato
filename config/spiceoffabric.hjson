@@ -6,12 +6,12 @@
 	respawn: {
 		// default: max(14, hunger)
 		// 	Must be a valid expression
-		hunger: max(14, hunger)
+		hunger: max(5, hunger)
 		// default: saturation
 		// 	Must be a valid expression
-		saturation: saturation
+		saturation: max(5, saturation)
 		// default: false
-		reset-history: false
+		reset-history: true
 		// default: false
 		reset-carrot-mode: false
 	}

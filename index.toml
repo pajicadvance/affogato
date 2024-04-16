@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "7cd52d087860ae9d640753b1b50603e3bc54064094f21520d019682c425dde60"
+hash = "f934efc621f852b3e7434bfc33b7905c260f8b59b2d0c21b022c32bd1520d20f"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -230,7 +230,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "984656b7e24c623d73d38bdf36cd0972f3869a2414baf20a78c1bab6d24e8253"
+hash = "ad65e235491878c367e786ad7a96f9c48410c15ec88f8daaa53a4e68e74e29bb"
 
 [[files]]
 file = "config/itemswapper.json"
@@ -246,7 +246,7 @@ hash = "3a6ea57d3df58dfb10c9a80b0d122e7874e0cbb76d3363e608cb6f3c2962b525"
 
 [[files]]
 file = "config/sawmill-common.json"
-hash = "7fc7a98bb07e143520c1352afb9fde12433caecbc476978fb4f395ff9e8e5a59"
+hash = "bdab52f808f06d2c423df51f389bb388de7a71bcd600bb7af4b8e0b53358d75b"
 
 [[files]]
 file = "config/seasons.json"
@@ -266,7 +266,7 @@ hash = "e704fea8c5bf5e57ec7a2aa8bfd5c314ac3c2de280fac8134b60e8fb2207c3db"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "eeb7329630b8e671b3792a74d4e9a7cacf1532d367f2dbdb2cd6d18b261a2f20"
+hash = "39e06f102c7677ac7ddb203bf9273fcb50ada0bd9fff7fd97cfa73debec022ad"
 
 [[files]]
 file = "config/tinkerers_smithing.toml"
@@ -470,7 +470,7 @@ hash = "98025ddebd5bc4c9c037f511ef452ead1795940683bdf7ccdbc2207ce1edd725"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0579eb11231ba08f79f01a89b866d56bacf835de2991ff59d0c4762c1bbd0426"
+hash = "bd450a2efc70f1c68670c52b336cfbf9a90ffb5877b3768eff2a657555fba478"
 
 [[files]]
 file = "credits.txt"
@@ -516,6 +516,11 @@ hash = "0bd86f34cb948213d8fcdd83f0767a0a1934ffdde363196b85ab8b109cc5f922"
 metafile = true
 
 [[files]]
+file = "mods/[github]trinket-lanterns.pw.toml"
+hash = "6a8bd8be2a1e8fb3ba80e07aa2897aaf58f84e3ee8608676527e644741807953"
+metafile = true
+
+[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "29857ebb80e0c8a7cb570ac609b49e7ac3f3262b6dcce93614dd23cda51e7c1d"
 metafile = true
@@ -532,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "ccf26d3b365449d0d248485f909a3a797482ad5460a77b08769329277428542b"
+hash = "aa4e139ddabb24ff5d0d4788c5f2b5bd698642d731e460b462e954cde53115f2"
 metafile = true
 
 [[files]]
@@ -787,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "ecbe7125b57e5c2990a7aa81f22adf687b298f748e5734a47ab216aded67851e"
+hash = "94a2d8a60407b11276b5abbed5d2602b440960dcd8c2289203928d97d27c5036"
 metafile = true
 
 [[files]]
@@ -797,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
 metafile = true
 
 [[files]]
@@ -837,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "e0b1801e39d808c69a119daca1e7f7a062caf9cb28d7a25ffeec2e78f82f95fb"
+hash = "d59685835cd570f069534f8833bb280f77badd37e73aea966aeebf0a6b12d565"
 metafile = true
 
 [[files]]
@@ -1037,7 +1042,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
+hash = "2bcdb590588b04be48afdff98ba338c4470c84b159ddcdef7b932ea0417653ba"
 metafile = true
 
 [[files]]
@@ -1128,6 +1133,11 @@ metafile = true
 [[files]]
 file = "mods/quickstack.pw.toml"
 hash = "c6423eeef60aacad291b03c9b348e10e9243ffa317ccc0feeeadc08cb08316c5"
+metafile = true
+
+[[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "0a5a51cdcc6c1a69e5d6d2cf4a55df9a5c572e2d4218ec1a5b28354580d9ec3e"
 metafile = true
 
 [[files]]
