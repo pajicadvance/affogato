@@ -6,7 +6,7 @@ hash = "975671e63ca414e0c8ed9f8bd2689f4601701411167378233812be6d4edb5e0a"
 
 [[files]]
 file = "README.md"
-hash = "bc6376fe1ca1c9f8e0d8a91d6da59ac73fdb8016c9663ff621e76ac3ccbc7fae"
+hash = "1864db2449c0af2e439d156edbdacdd85a09fe8a475b26fe9ea2a9d05a8c98c0"
 
 [[files]]
 file = "config/HorseBuff.toml"
@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "f934efc621f852b3e7434bfc33b7905c260f8b59b2d0c21b022c32bd1520d20f"
+hash = "3a5d35de17edead9a66908ec44f7205a59d86c25179d5882b6c6b0bcc9fe55ee"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -230,7 +230,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ad65e235491878c367e786ad7a96f9c48410c15ec88f8daaa53a4e68e74e29bb"
+hash = "40a6191838b6f57b4acb98600c5f3b51988d1e37bb5ca955c89e46ba116ed060"
 
 [[files]]
 file = "config/itemswapper.json"
@@ -246,7 +246,7 @@ hash = "3a6ea57d3df58dfb10c9a80b0d122e7874e0cbb76d3363e608cb6f3c2962b525"
 
 [[files]]
 file = "config/sawmill-common.json"
-hash = "bdab52f808f06d2c423df51f389bb388de7a71bcd600bb7af4b8e0b53358d75b"
+hash = "49b0fb50343c4b49817ab2ed88756744d39ffcc02db519818c06d660b745bb1b"
 
 [[files]]
 file = "config/seasons.json"
@@ -465,12 +465,8 @@ file = "config/yosbr/config/waterdripsound.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/yosbr/options.nmuk.txt"
-hash = "98025ddebd5bc4c9c037f511ef452ead1795940683bdf7ccdbc2207ce1edd725"
-
-[[files]]
 file = "config/yosbr/options.txt"
-hash = "bd450a2efc70f1c68670c52b336cfbf9a90ffb5877b3768eff2a657555fba478"
+hash = "7023d9aec59d76a28ab2de5c8a833fa8120cb3d2a40700e067999b68072e824d"
 
 [[files]]
 file = "credits.txt"
@@ -537,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "aa4e139ddabb24ff5d0d4788c5f2b5bd698642d731e460b462e954cde53115f2"
+hash = "d39e8b2732f9c03128de41a7bbbe601e023c795305257d3cd463d174fd5844f1"
 metafile = true
 
 [[files]]
@@ -796,16 +792,6 @@ hash = "94a2d8a60407b11276b5abbed5d2602b440960dcd8c2289203928d97d27c5036"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "89556771a29b247e12fc58be469262f67ab1b736854381ae6cc4a7a1158ecebd"
 metafile = true
@@ -813,11 +799,6 @@ metafile = true
 [[files]]
 file = "mods/emiffect.pw.toml"
 hash = "2ad35d1b513308d702e9fe45f3c711d63dd1abb8fcbbb40d9a1d7c37d4d5d367"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
@@ -1042,7 +1023,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2bcdb590588b04be48afdff98ba338c4470c84b159ddcdef7b932ea0417653ba"
+hash = "8f0af1f5e27da3027d01516d0ebd8a0f86a528fe2f1ccd461f2a8e3b3ca847fa"
 metafile = true
 
 [[files]]

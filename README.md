@@ -6,6 +6,8 @@
 
 ### [Discussion, support and suggestions on Discord](https://discord.gg/5RkzS66zWb)
 
+[Detailed documentation **(SPOILERS)**](https://gist.github.com/pajicadvance/54b47511f43ed2901d2e8e312cae088d)
+
 # Credits
 Vanilla Tweaks: https://vanillatweaks.net, for providing amazing vanilla-friendly tweaks
 

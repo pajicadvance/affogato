@@ -145,6 +145,7 @@ key_key.mixtape.pause:key.keyboard.unknown
 key_key.mixtape.play:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_ping-wheel.key.name-labels:key.keyboard.v
+key_ping-wheel.key.ping-location:key.keyboard.x
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_seamless_loading_screen.keybind.config:key.keyboard.unknown
 key_key.spyglass-improvements.use:key.keyboard.c

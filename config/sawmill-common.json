@@ -8,7 +8,7 @@
       "framedblocks"
     ],
     "limit_planks_input_to_one": true,
-    "wider_gui": true,
+    "wider_gui": false,
     "search_bar_mode": "AUTOMATIC",
     "search_bar_threshold": 32,
     "special_recipe_costs": {

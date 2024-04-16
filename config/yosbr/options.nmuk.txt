@@ -1,1 +1,0 @@
-key_ping-wheel.key.ping-location%0:key.keyboard.x
