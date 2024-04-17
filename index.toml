@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "3a5d35de17edead9a66908ec44f7205a59d86c25179d5882b6c6b0bcc9fe55ee"
+hash = "db2d2f7b5ab843a9aefafde8fb097903a9acefc02402af5b81c7f4e0c0f64121"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -230,7 +230,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "40a6191838b6f57b4acb98600c5f3b51988d1e37bb5ca955c89e46ba116ed060"
+hash = "282a7132973390afa5fd71c400eb38f62fb534a5bef9fca4a3a906c2852f1f8a"
 
 [[files]]
 file = "config/itemswapper.json"
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "d39e8b2732f9c03128de41a7bbbe601e023c795305257d3cd463d174fd5844f1"
+hash = "d496a37668a474a148094e6f06e77680bef0e21928e89164d3ce8c43d7c288e5"
 metafile = true
 
 [[files]]
