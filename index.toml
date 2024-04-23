@@ -106,7 +106,7 @@ hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
 [[files]]
 file = "config/carpet/default_carpet-fixes.conf"
-hash = "5681cfa47a4c8dfd9e9479d4159853a9513ba7d414930e7d5e699944da049686"
+hash = "27d6c49535008fc2e4e7dc343447cdb7811df8c648390e3d03041aa7868ef06d"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "db2d2f7b5ab843a9aefafde8fb097903a9acefc02402af5b81c7f4e0c0f64121"
+hash = "d15b8ffd53e0b24228f1855a72cb681aca015c06bac6451a7a1fa3ca864cb858"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -230,7 +230,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "282a7132973390afa5fd71c400eb38f62fb534a5bef9fca4a3a906c2852f1f8a"
+hash = "da04a0f565149ff23e1e9d6cc7973db8857fc3f89b242bcfce47000a00c24bdd"
 
 [[files]]
 file = "config/itemswapper.json"
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "d496a37668a474a148094e6f06e77680bef0e21928e89164d3ce8c43d7c288e5"
+hash = "638af92328bf3549c1b6f53a52e320af81366fbe8a37275dba857cbb5a949866"
 metafile = true
 
 [[files]]
@@ -563,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "299e9bb9446e7b10045c0848eba53edd8bdb64630805f24441d0af8c25579b18"
+hash = "6ddf7431483166f10ac732ded0b344358ed66eea5351bfcbca1beb7fbd43d893"
 metafile = true
 
 [[files]]
@@ -823,7 +823,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d59685835cd570f069534f8833bb280f77badd37e73aea966aeebf0a6b12d565"
+hash = "47c608fdc8a0cf639f1c5f470ef2b1fe2a99400276ed222f9bad6d897c9a7744"
 metafile = true
 
 [[files]]
@@ -973,7 +973,7 @@ metafile = true
 
 [[files]]
 file = "mods/lavender.pw.toml"
-hash = "66bf8dde3ef8075f20d5b3b93ff35df80e56063000a46b0878b90cb19f7b0ce1"
+hash = "409991ec6a4c7055cbddfa4ef1408550a6d3eb36ce43ef03e37737d78d1cd70f"
 metafile = true
 
 [[files]]
@@ -1088,7 +1088,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "a14a9d2c780c25e86d23a923504c8a1d6265fc31b949053dfa8f0c2dc4c5acbe"
+hash = "8a470a617a7da85f88259ff61b04e3a7004d85bb21d1ac55a3ab683c3bfd0a61"
 metafile = true
 
 [[files]]
@@ -1258,7 +1258,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "58de55cfb9a33cb71eb7a50a55d6fdd9cc970fd866e603ab5373c9c3087a6d84"
+hash = "715036507f7d22a8749b80321bb11377d85e0f4b89d27c7461417af189513547"
 metafile = true
 
 [[files]]
