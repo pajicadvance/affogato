@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "d15b8ffd53e0b24228f1855a72cb681aca015c06bac6451a7a1fa3ca864cb858"
+hash = "4e061cd22c71172667262e5e1dd1090f7f17ff314f31cdefa885132def031f41"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -230,7 +230,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "da04a0f565149ff23e1e9d6cc7973db8857fc3f89b242bcfce47000a00c24bdd"
+hash = "33bb7fe88212fa1335ee84051f2a7f1e753225d55722f64054297ead0f50f365"
 
 [[files]]
 file = "config/itemswapper.json"
@@ -478,7 +478,7 @@ hash = "737e6daf77521604fc482aa91e8bed8c47f4815c624e61e49c45ecbb5832f708"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
+hash = "c4ac5a501db3bf4ff72430963f95f0228e74e6376c9136b44d2809b57d875d17"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "638af92328bf3549c1b6f53a52e320af81366fbe8a37275dba857cbb5a949866"
+hash = "5a26bd5eb2c8f7a4eb4e9d59c9ff6a761689bd5f9251a6dd094bd6f6b870b1c2"
 metafile = true
 
 [[files]]
@@ -563,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "6ddf7431483166f10ac732ded0b344358ed66eea5351bfcbca1beb7fbd43d893"
+hash = "8d47de6a378f312e752c0ddd444107608f58d0825f07a64476bb4c4b05512082"
 metafile = true
 
 [[files]]
@@ -768,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
+hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
 
 [[files]]
@@ -877,6 +877,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/fish-no-stuck.pw.toml"
+hash = "6e6a83616df3dea4f255e997173a9273e6f3539bd424be3b46dd8f5677954ec2"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -943,7 +948,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
 
 [[files]]
@@ -953,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "81cd4292d023a2601532959101d42a0bd26c8b66519dde5cd21700102e7faac3"
+hash = "eb71aa6e9b0ae557fa172a52ca67af7be8311baf4695f4d89acb4241c543d0bb"
 metafile = true
 
 [[files]]
@@ -1238,7 +1243,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f2855ca462a5ef36206a941612989aed049b1cd49559f0f2d4d247505566e546"
+hash = "ddc0fba9a49d146e4d100fafbe7a19177da115bceea9aca3da81df933bbd217a"
 metafile = true
 
 [[files]]

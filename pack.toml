@@ -1,13 +1,13 @@
 name = "Affogato"
 author = "pajic"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8ed752d6e38b0c9e763e754daa1c612461dff79788fc85fa790a4718ede16cfa"
+hash = "e912dd4d45535db3b73874cd0ec2b1071b919bf2aa0476a683c0b10d5a9173fd"
 
 [versions]
-fabric = "0.15.7"
+fabric = "0.15.10"
 minecraft = "1.20.1"
