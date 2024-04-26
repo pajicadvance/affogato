@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "4e061cd22c71172667262e5e1dd1090f7f17ff314f31cdefa885132def031f41"
+hash = "b55477db9cb11da75fcf6b669cd653dfd573bdf901a4fe437a6a0dbc46b47ba0"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -230,7 +230,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "33bb7fe88212fa1335ee84051f2a7f1e753225d55722f64054297ead0f50f365"
+hash = "79054ffab8e3ad2b12115ae074465d471da1005249052c6239a95ffa6a95bdcc"
 
 [[files]]
 file = "config/itemswapper.json"
@@ -469,6 +469,14 @@ file = "config/yosbr/options.txt"
 hash = "7023d9aec59d76a28ab2de5c8a833fa8120cb3d2a40700e067999b68072e824d"
 
 [[files]]
+file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2.txt"
+hash = "e67acb840915514b28c0c928d3962125ddd960aa3fc92ef1573798fdf1cebc54"
+
+[[files]]
+file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
+hash = "8eb1dc279690e46174b0bc25a8a8cbca353b499babbfead67717f3036fa6e111"
+
+[[files]]
 file = "credits.txt"
 hash = "f22715f0350426b9e07da7f6c2894296dfd94e4cc6fa5734296f387bf14ed6af"
 
@@ -533,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "5a26bd5eb2c8f7a4eb4e9d59c9ff6a761689bd5f9251a6dd094bd6f6b870b1c2"
+hash = "6194164b82fe669b92133287795a3d8d0617ee5359e82ed105b1172031260c00"
 metafile = true
 
 [[files]]
@@ -788,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "94a2d8a60407b11276b5abbed5d2602b440960dcd8c2289203928d97d27c5036"
+hash = "d356177b98557d3a9d385dae4d5042e73a7e81e5cafc2fd9073a952d572e7af7"
 metafile = true
 
 [[files]]
@@ -823,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "47c608fdc8a0cf639f1c5f470ef2b1fe2a99400276ed222f9bad6d897c9a7744"
+hash = "71b587e0de4a30a8be05817a1db39ad8bb0a5dcf830f16a6f96189c6ebcb8ea4"
 metafile = true
 
 [[files]]
@@ -1028,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8f0af1f5e27da3027d01516d0ebd8a0f86a528fe2f1ccd461f2a8e3b3ca847fa"
+hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
 metafile = true
 
 [[files]]
@@ -1093,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "8a470a617a7da85f88259ff61b04e3a7004d85bb21d1ac55a3ab683c3bfd0a61"
+hash = "cd88ccc655f617b533ba44fcb9d83fa45059c3b9ae70a3662c896d26b9bcc9a6"
 metafile = true
 
 [[files]]
@@ -1243,7 +1251,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ddc0fba9a49d146e4d100fafbe7a19177da115bceea9aca3da81df933bbd217a"
+hash = "b0da7edfef408febcb721292cc11f27a5c2b234f6aea003ad7e0e787be10a979"
 metafile = true
 
 [[files]]
@@ -1308,15 +1316,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
-hash = "f1a19d9e142d691edcff0b4fb785d7fb9ad81e28eb9b9440e7e9eac5cef15b56"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2.txt"
-hash = "e67acb840915514b28c0c928d3962125ddd960aa3fc92ef1573798fdf1cebc54"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
-hash = "8eb1dc279690e46174b0bc25a8a8cbca353b499babbfead67717f3036fa6e111"
+hash = "b3e7e33c6b6f2259b7e712764a857e8528c91bd2ee39b9df8cb774fdec5ec22d"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
