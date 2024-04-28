@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "b55477db9cb11da75fcf6b669cd653dfd573bdf901a4fe437a6a0dbc46b47ba0"
+hash = "182d9561316c3fb30f0f36588b98aea957e5b853c3e98fee1b791c19321d10c5"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -230,7 +230,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "79054ffab8e3ad2b12115ae074465d471da1005249052c6239a95ffa6a95bdcc"
+hash = "67421de0ee5ef81f6d269d6c96c64ee02e612fab8ef82204371ae1ae2f82c31f"
 
 [[files]]
 file = "config/itemswapper.json"
@@ -334,7 +334,7 @@ hash = "dd7771b682b0b666cda04d3891aba8bbfa5c32a51c664c99f93ea3a8454ad2c3"
 
 [[files]]
 file = "config/yosbr/config/emi.css"
-hash = "dc9c104ae55998ebf6bfdbdaa86e2c5ca4049ad310f01ed30b9e4468b704c53f"
+hash = "3b8e7f6e67938c970fc37bb14e4168b677b9dd11f39f355431256d079935b641"
 
 [[files]]
 file = "config/yosbr/config/enchdesc.json"
@@ -530,18 +530,13 @@ hash = "29857ebb80e0c8a7cb570ac609b49e7ac3f3262b6dcce93614dd23cda51e7c1d"
 metafile = true
 
 [[files]]
-file = "mods/adaptive-tooltips.pw.toml"
-hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
-metafile = true
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "6194164b82fe669b92133287795a3d8d0617ee5359e82ed105b1172031260c00"
+hash = "565c705c2f2d1d074c1d9f39ceca6d812007f8e26b6d08399d6a036a07d47925"
 metafile = true
 
 [[files]]
@@ -876,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "b7a1fb2faac9cd962d6ce3fad226e9deeb2194b10f6b545b10ce65fc2e63f73d"
+hash = "47bafe11594fcb8478584c0be20d7b530fb058f3f788dca343359a4b40984532"
 metafile = true
 
 [[files]]
@@ -892,6 +887,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "c92090c3030c3b75a4e9361456864276b10f2bb6d0cb4356ee073d5f24322e59"
 metafile = true
 
 [[files]]
@@ -926,7 +926,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
+hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
 metafile = true
 
 [[files]]
@@ -971,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
+hash = "36239f4c9522551f995919bef9b18bba61940319e44af88bdfa28b2e249dc86c"
 metafile = true
 
 [[files]]
@@ -1080,6 +1080,11 @@ hash = "bf90fb21fcd2f9ea1f8b6b9abdd489e3fa56cb706602ea37741234630efd56ad"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "534011a1f0d612202fed7d8a6e835ac6ed9e27d3d755df231ca449683ca3cc64"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "1f265c12c3649ab889b96bf8a3f5263521e5afc82c66e094983bfd003b3200a2"
 metafile = true
@@ -1101,7 +1106,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "cd88ccc655f617b533ba44fcb9d83fa45059c3b9ae70a3662c896d26b9bcc9a6"
+hash = "bcab2649d66eaf63afd6cd4cbfed7d3721adfc042b5f942932fe90e65526b556"
 metafile = true
 
 [[files]]
@@ -1176,7 +1181,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
-hash = "7057dde371e4d8224f8e6a16a15535d1be9632129b8babe7ec7c95d201c6e97b"
+hash = "e536ca7466bae8e4e77c89793c115b014c1a6cd7a27ff1d6a66e9cd9ed9f1ada"
 metafile = true
 
 [[files]]
@@ -1206,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "11dccafab119acae8f6cedab810dcee120944d3eae83048d671787de4d28d3ea"
+hash = "859050254587484c22443ae4a9a90a4779666e6464b0540960e48f2aed6a58f0"
 metafile = true
 
 [[files]]
@@ -1247,11 +1252,6 @@ metafile = true
 [[files]]
 file = "mods/why-stacks-of-16.pw.toml"
 hash = "f9f5b870d089b3afbed24ca01e6e8cd6d13ec6e8f8f5c62d8e3a71f1eaa853fd"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "b0da7edfef408febcb721292cc11f27a5c2b234f6aea003ad7e0e787be10a979"
 metafile = true
 
 [[files]]
