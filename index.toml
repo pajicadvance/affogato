@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "182d9561316c3fb30f0f36588b98aea957e5b853c3e98fee1b791c19321d10c5"
+hash = "c996112f48ccc28d532eb238c45d388dbe527a63f07f2561f663a86983c97b94"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -230,7 +230,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "67421de0ee5ef81f6d269d6c96c64ee02e612fab8ef82204371ae1ae2f82c31f"
+hash = "77d91cf7049ffb51b1ffec1c1bcd3678066a2382237a7cd77a0df4a7fe3aa9af"
 
 [[files]]
 file = "config/itemswapper.json"
@@ -542,11 +542,6 @@ metafile = true
 [[files]]
 file = "mods/aileron.pw.toml"
 hash = "92c0c8ce733ad75ae5a207b20786dd7c712d90e9d0d5a390a5cbc00bf1cdf3bb"
-metafile = true
-
-[[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "a54e4390b9359fa2503c611f6d0228d5cb98d678dd4b8e5a74577d914e0aa412"
 metafile = true
 
 [[files]]
