@@ -1,0 +1,13 @@
+name = "Chai's Build Tools"
+filename = "build_tools-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/swsFw76C/versions/6rephUZe/build_tools-1.0.1.jar"
+hash-format = "sha1"
+hash = "f3b90e64bce71e43211808920f179f475a6731a1"
+
+[update]
+[update.modrinth]
+mod-id = "swsFw76C"
+version = "6rephUZe"

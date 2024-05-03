@@ -197,13 +197,13 @@
 	#If true, leatherworkers will sell leather in return for rotten flesh.
 	"Leather for rotten flesh" = true
 	#If true, butchers will sell beef in return for rotten flesh.
-	"Beef for rotten flesh" = true
+	"Beef for rotten flesh" = false
 	#If true, leatherworkers will sell bundles in return for emeralds.
 	Bundles = true
 	#If true, clerics will sell phantom membrane in return for emeralds.
 	"Phantom membrane" = true
 	#If true, wandering traders have a chance to sell various items from Charm mods.
-	"Charm mod items" = true
+	"Charm mod items" = false
 
 [ExtractableEnchantments]
 	#Extract enchantments from any enchanted item onto an empty book using the grindstone.

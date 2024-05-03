@@ -132,7 +132,7 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.inmis.open_backpack:key.keyboard.b
 key_key.interactic.pickup_item:key.keyboard.unknown
-key_key.itemfavorites.favorite_item:key.keyboard.g
+key_key.itemfavorites.favorite_item:key.keyboard.left.alt
 key_key.itemswapper.itemswitcher:key.keyboard.r
 key_key.itemswapper.openInventory:key.keyboard.unknown
 key_key.jade.config:key.keyboard.unknown

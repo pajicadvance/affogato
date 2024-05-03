@@ -6,7 +6,7 @@ hash = "975671e63ca414e0c8ed9f8bd2689f4601701411167378233812be6d4edb5e0a"
 
 [[files]]
 file = "README.md"
-hash = "1864db2449c0af2e439d156edbdacdd85a09fe8a475b26fe9ea2a9d05a8c98c0"
+hash = "40ec06ff072a0234ca376b3a4087fef4c1a8b4b125045534e80bcd54aa9fa455"
 
 [[files]]
 file = "config/HorseBuff.toml"
@@ -126,7 +126,7 @@ hash = "b82a4c91db3babf4b75a063ac9c79504213f8fa0174d471f86bc403e375353c7"
 
 [[files]]
 file = "config/charm-common.toml"
-hash = "03fa781b3edecb656f332bbf5620373d130024a7ade1adb208bdd8486af38e60"
+hash = "e70e18e5609e6a167fa8b0b5829b892d6065f778bf3a6022f57f253911424b42"
 
 [[files]]
 file = "config/charmonium-client.toml"
@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "c996112f48ccc28d532eb238c45d388dbe527a63f07f2561f663a86983c97b94"
+hash = "17285838d1c93fc9fad5b63bdd1582d867ae338f669591fe44760a0f671ef588"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -230,7 +230,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "77d91cf7049ffb51b1ffec1c1bcd3678066a2382237a7cd77a0df4a7fe3aa9af"
+hash = "1db12150ebcc222c287cfab97c7b0f320e80f1b090682f033edd10dbbbddf00a"
 
 [[files]]
 file = "config/itemswapper.json"
@@ -349,10 +349,6 @@ file = "config/yosbr/config/fallingleaves.json"
 hash = "cc51b88a3952831f14d31ad0edc987a52b8648a68ce4b89336afc43764423f48"
 
 [[files]]
-file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "b0be4ebaeec403158fd0d477a3ab701637a2bd98517a3ee0fb2e55f3cfa0f86e"
-
-[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "5be6bdb0a914f809760759c2f45e3ca1c71851aa3f4cf7a700666b84a9c0afc7"
 
@@ -466,7 +462,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "7023d9aec59d76a28ab2de5c8a833fa8120cb3d2a40700e067999b68072e824d"
+hash = "6f03fc02452662de4c62efcc4de9dc13cd738f94a1a14c262f851a60c24bc2f2"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2.txt"
@@ -486,7 +482,7 @@ hash = "737e6daf77521604fc482aa91e8bed8c47f4815c624e61e49c45ecbb5832f708"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "c4ac5a501db3bf4ff72430963f95f0228e74e6376c9136b44d2809b57d875d17"
+hash = "bc4677b5d9ff2bca2d8e031faf781a10bc578b95cdb709527b8eb85d79e4daae"
 metafile = true
 
 [[files]]
@@ -530,13 +526,18 @@ hash = "29857ebb80e0c8a7cb570ac609b49e7ac3f3262b6dcce93614dd23cda51e7c1d"
 metafile = true
 
 [[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "565c705c2f2d1d074c1d9f39ceca6d812007f8e26b6d08399d6a036a07d47925"
+hash = "d7522004470695e1f601194243bd7b337c9e04b21f801fd96f6063a03837dc54"
 metafile = true
 
 [[files]]
@@ -561,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "8d47de6a378f312e752c0ddd444107608f58d0825f07a64476bb4c4b05512082"
+hash = "e029273dccf35e11b264943cd7d9f432492ac01286d19f35a2920f4b41886407"
 metafile = true
 
 [[files]]
@@ -652,6 +653,16 @@ metafile = true
 [[files]]
 file = "mods/centered-crosshair.pw.toml"
 hash = "629d0db10c6710ddcf60b0ce7780cad8ae66c926ff95277db5dbff778b655292"
+metafile = true
+
+[[files]]
+file = "mods/chais-build-tools.pw.toml"
+hash = "d9e7c5f0ec275da99142a7611a990ae1b0491533b38498d8756a5c293bf90005"
+metafile = true
+
+[[files]]
+file = "mods/chais-inventory-sorter.pw.toml"
+hash = "1aa02a11a64403e722e2757adc965626ce88c28d4d9b5b19f820f26a77cec166"
 metafile = true
 
 [[files]]
@@ -786,12 +797,12 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "d356177b98557d3a9d385dae4d5042e73a7e81e5cafc2fd9073a952d572e7af7"
+hash = "f132ac43dedd265981f1bd2b76db7f8176641934fac9c0562a217c9e3277e04b"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "89556771a29b247e12fc58be469262f67ab1b736854381ae6cc4a7a1158ecebd"
+hash = "587142b33082d5677c233f1cf91e3c7390c15b371335118abe42802ec3303802"
 metafile = true
 
 [[files]]
@@ -866,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "47bafe11594fcb8478584c0be20d7b530fb058f3f788dca343359a4b40984532"
+hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
 metafile = true
 
 [[files]]
@@ -921,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
+hash = "51614a206b26e8a54d3f2392ba4d4300a5f7f60ed1814dc24eb242b0c4c0a3ba"
 metafile = true
 
 [[files]]
@@ -945,11 +956,6 @@ hash = "a7ef559159e38d3ebac9d2fef6c33a5c906e1848ae100b008f7ecda3e3c5be53"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "c9f4a8f985932269b8c9159c320929f81216f7197c2909c24c1498346f371b32"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
@@ -961,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "eb71aa6e9b0ae557fa172a52ca67af7be8311baf4695f4d89acb4241c543d0bb"
+hash = "e61f43300796c115920c31eed47b86a2e93193fd03c703919077bfe8e6ee6fb2"
 metafile = true
 
 [[files]]
@@ -981,12 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/lavender.pw.toml"
-hash = "409991ec6a4c7055cbddfa4ef1408550a6d3eb36ce43ef03e37737d78d1cd70f"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "3de6db38b0870f8bc8c61b2698d4b64ac1610b9066536be1b22b3a8257ab73fe"
+hash = "c6336dbc672b4b11347845e30f7f08e781e73e91fe85e03f343195d6cae8f85b"
 metafile = true
 
 [[files]]
@@ -1041,7 +1042,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dbf0d2e7c313030080e7ca5919f6cb095ce023ed97bd1b34f3c9ff27ba32cb64"
+hash = "cb2cb6c5a89af4b588343028ad03044fcd3aa7ba39b3b29c99372346387b7fd0"
 metafile = true
 
 [[files]]
@@ -1076,7 +1077,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "534011a1f0d612202fed7d8a6e835ac6ed9e27d3d755df231ca449683ca3cc64"
+hash = "265cd890e280c9dfd5baae1e928282f756d1f75d3f07939909f60bf741036b52"
 metafile = true
 
 [[files]]
@@ -1191,7 +1192,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "1770b6174098a4030168201496a481fd9c335010104770b84636f17f3ef523c2"
+hash = "751551d8ce556a64e31a9c8f4e27c4997e8c1806e7eccab468977adcb6736941"
 metafile = true
 
 [[files]]
@@ -1231,7 +1232,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
-hash = "8d531e14178e1273592625607dd194bee84cdbfc4bee4459621f400d8e583c05"
+hash = "a15087bd783afca2842403164088e0420985adc1b0d60a8ae6f5c81080bb4bf4"
 metafile = true
 
 [[files]]
@@ -1247,6 +1248,11 @@ metafile = true
 [[files]]
 file = "mods/why-stacks-of-16.pw.toml"
 hash = "f9f5b870d089b3afbed24ca01e6e8cd6d13ec6e8f8f5c62d8e3a71f1eaa853fd"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "34108efa4206b09f00d088be089236914a6fb04852aae5b6ce6293412ed6a6f7"
 metafile = true
 
 [[files]]
