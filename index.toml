@@ -106,7 +106,7 @@ hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
 [[files]]
 file = "config/carpet/default_carpet-fixes.conf"
-hash = "27d6c49535008fc2e4e7dc343447cdb7811df8c648390e3d03041aa7868ef06d"
+hash = "37f075b3915dea2d50b9e7436d5a5e4b9450654a98bdd9f93ecb0ad497c9fab1"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "17285838d1c93fc9fad5b63bdd1582d867ae338f669591fe44760a0f671ef588"
+hash = "ac39570ff4ecaf6330d494bc97c353277c54fc284700af49109e4eb73f18e233"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -230,7 +230,7 @@ hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1db12150ebcc222c287cfab97c7b0f320e80f1b090682f033edd10dbbbddf00a"
+hash = "ed9626c9d570da7806adff2690c7b9f4ecf5f6c54b9bbb48dda639b5258919bd"
 
 [[files]]
 file = "config/itemswapper.json"
