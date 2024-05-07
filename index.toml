@@ -106,7 +106,7 @@ hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
 [[files]]
 file = "config/carpet/default_carpet-fixes.conf"
-hash = "37f075b3915dea2d50b9e7436d5a5e4b9450654a98bdd9f93ecb0ad497c9fab1"
+hash = "6a6ed10c75382968597b329b5ff5c1942a98232a4f317bfb8ceb12396ccb727b"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
@@ -239,6 +239,10 @@ hash = "e0836649eaa2200e47748b1d513957db48188439b63d2b62d4b0e6882fd3cf6e"
 [[files]]
 file = "config/lambdynlights.toml"
 hash = "5ec2a06cfebe74cb153e82b39aad10e613e9c7fcd0550301cbd8b318464273f1"
+
+[[files]]
+file = "config/mixtape.json"
+hash = "0df6e8af35b5f0c86d3970826f014567487298050e4b32516a6e49ba57578ed6"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -375,10 +379,6 @@ hash = "131b40b2404e202b30a88f6040d5de20a6f8d834fe098ae5f507d22c778455e0"
 [[files]]
 file = "config/yosbr/config/jade/usernamecache.json"
 hash = "68a490cec7622a371851ddaf2aff55d21be7acdcefef8d9e4a6f541a17cb604a"
-
-[[files]]
-file = "config/yosbr/config/mixtape.json"
-hash = "baf045876fc82c900a1518bd2d72083dc81c79a9236a67b20b16c86ff8e3beff"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "d7522004470695e1f601194243bd7b337c9e04b21f801fd96f6063a03837dc54"
+hash = "7ba1006f0d603bb65f27ee3ec203cb96f0c9a20baeb37203d8dcbfdea0e7bc77"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "e029273dccf35e11b264943cd7d9f432492ac01286d19f35a2920f4b41886407"
+hash = "e853b0a08068b6cdaa7f84702b71b336c0fdedc3ea84642ea095d05b3796a05d"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/chais-inventory-sorter.pw.toml"
-hash = "1aa02a11a64403e722e2757adc965626ce88c28d4d9b5b19f820f26a77cec166"
+hash = "f34cb43dc7a0203f1a9d5d45f17c2b7bd97dbfe152530d2b9d1fae6636bb68cd"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "f132ac43dedd265981f1bd2b76db7f8176641934fac9c0562a217c9e3277e04b"
+hash = "23fdb1b707c102aee7eb288fd41030f3a29858a4b0692eaaddc2aa94fd1bf53d"
 metafile = true
 
 [[files]]
@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "71b587e0de4a30a8be05817a1db39ad8bb0a5dcf830f16a6f96189c6ebcb8ea4"
+hash = "098c9c1a245ca39825d7185483414d639910699e891933f1be931d72bf175644"
 metafile = true
 
 [[files]]
@@ -897,7 +897,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "c92090c3030c3b75a4e9361456864276b10f2bb6d0cb4356ee073d5f24322e59"
+hash = "af0a1c16ea26417e97cfecbc48e10fc2cef8649c70d2a7f1adf425a94b482300"
 metafile = true
 
 [[files]]
@@ -932,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "51614a206b26e8a54d3f2392ba4d4300a5f7f60ed1814dc24eb242b0c4c0a3ba"
+hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
@@ -973,11 +973,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "36239f4c9522551f995919bef9b18bba61940319e44af88bdfa28b2e249dc86c"
-metafile = true
-
-[[files]]
-file = "mods/labels.pw.toml"
-hash = "dd4349579a8951e8174862000c6c8a02e9fb99388976953eb557db52e1f99083"
 metafile = true
 
 [[files]]
@@ -1042,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "cb2cb6c5a89af4b588343028ad03044fcd3aa7ba39b3b29c99372346387b7fd0"
+hash = "1870620ac0fb128b9a6f2cb8c6f887cb2a5f42bdf4aed1851f2f4f3d542fffc3"
 metafile = true
 
 [[files]]
@@ -1086,6 +1081,11 @@ hash = "1f265c12c3649ab889b96bf8a3f5263521e5afc82c66e094983bfd003b3200a2"
 metafile = true
 
 [[files]]
+file = "mods/numeral-ping.pw.toml"
+hash = "302fd17aa449bfa848e2460ebd01dfb2862c815bd9403548f57155b7dde47f9b"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/packages.pw.toml"
-hash = "5341729624c64ecf2ca254c5cf31ce33c4937fd071a33193d573b86358e28db0"
+hash = "21fde8b12697f1a58de50f5b0c6c1db0df16c3c1c8f3240f5e4bf46744f1927f"
 metafile = true
 
 [[files]]
