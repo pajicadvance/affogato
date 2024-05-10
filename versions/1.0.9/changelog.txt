@@ -1,0 +1,2 @@
+- Enchantment upgrade smithing template duplication recipe now actually duplicates the item (oops)
+- Updated Elytra Trims to fix an incompatibility with Cinderscapes
