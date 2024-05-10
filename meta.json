@@ -1,0 +1,26 @@
+{
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "versions": [
+        {
+            "id": "1.0.9",
+            "releasedAt": 1715114071,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/affogato/version/1.0.9"
+                }
+            },
+            "updateType": "minor"
+        },
+        {
+            "id": "1.0.10",
+            "releasedAt": 1715365954,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/affogato/version/1.0.10"
+                }
+            },
+            "updateType": "minor"
+        }
+    ]
+  }
