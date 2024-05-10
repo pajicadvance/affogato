@@ -1,0 +1,4 @@
+- Updated the Vanilla Tweaks resource pack to include the fix for iron bars z-fighting
+- Fixed Aerial Affinity being much more rare than intended
+- Shader pack configs won't be reset on modpack update anymore
+- Updated a few mods

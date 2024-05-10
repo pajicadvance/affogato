@@ -1,0 +1,12 @@
+- Added back Noisium
+- Fixed an oversight in the condition for granting the Enchanter advancement
+- Disabled the batched renderer in EMI due to visual issues with shaders enabled
+  - This won't override your own EMI settings, if darkened items in the item index are bothering you, you can disable the batched renderer by yourself in the mod config
+- Updated Spyglass Improvements
+  - Fixes spyglass trinket slot not working on the server
+- Updated Tinkerer's Smithing
+  - Fixes shapeless repair allowing invalid recipes which deleted excess items
+- Removed Yet Another Config Lib
+  - Currently has an incompatibility with Antique Atlas 4, will be added back once the issue gets resolved
+  - The only mod that required it was Adaptive Tooltips, which is also removed
+- Updated several other mods

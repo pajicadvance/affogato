@@ -1,0 +1,21 @@
+# First release!!!
+
+After several months of work and copious amounts of testing, it's finally here!
+
+### Special thanks to:
+- Sky, for sizable contributions to the modpack and playtesting
+- All the other playtesters:
+  - Dapper Core
+  - douira
+  - Gameo
+  - Moonkey
+  - Timo
+  - Zalgo
+  - Hisami
+- BreadLoaf, for voluntarily hosting a server for playtesting the modpack
+- All the mod authors whose mods are included in this modpack
+
+## Release 1.0.0 changelog:
+- Added a recipe for the guide book
+- Final tweaks to the guide book for better usability
+- Final tweaks to some chest loot tables

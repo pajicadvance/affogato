@@ -13,13 +13,13 @@
       "function": {
         "type": "grindenchantments:count_min_power"
       },
-      "factor": 0.3,
-      "offset": 8.0,
+      "factor": 0.4,
+      "offset": 0.0,
       "type": "grindenchantments:transform"
     }
   },
   "move_enchantments": {
-    "enabled": true,
+    "enabled": false,
     "cost_function": {
       "function": {
         "function": {

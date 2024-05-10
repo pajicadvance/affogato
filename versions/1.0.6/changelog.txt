@@ -1,0 +1,2 @@
+Removed Alternate Current
+- Unfortunately, this mod caused some puzzles from YUNG's structures to not work properly. I don't have a better fix for this at the moment.

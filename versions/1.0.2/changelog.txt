@@ -1,0 +1,5 @@
+- Fixed fir slab not dropping anything
+- Fixed copper piston immediately breaking on activation and dropping regular piston
+- Prevented potions from stacking in the brewing stand in order to avoid crafting issues
+- Updated Antique Atlas 4 - now has multiplayer features like map sharing and player tracking - see the [full changelog](https://modrinth.com/mod/antique-atlas-4/changelog)
+- Updated several other mods

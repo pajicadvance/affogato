@@ -1,0 +1,1 @@
+Fix custom replaceable by snow rules for Fabric Seasons not applying

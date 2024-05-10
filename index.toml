@@ -106,7 +106,7 @@ hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
 [[files]]
 file = "config/carpet/default_carpet-fixes.conf"
-hash = "6a6ed10c75382968597b329b5ff5c1942a98232a4f317bfb8ceb12396ccb727b"
+hash = "7183fc896ee1c7d874c050a644653c82f334c794608fe149636e33da0e619b42"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "b747c9a63e6e1e80a5040de4b1c629ae64242c804aa68392f709d431ca3131e8"
+hash = "a13236ab6e8b6088cb8b8e325949839d3fd46423367ead22cc7dd6babf8a5322"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -214,7 +214,7 @@ hash = "922a0a06c316eb1f0aba285f5bc59f4421b51b6f861661f3cdab38bbd44e4927"
 
 [[files]]
 file = "config/grindenchantments.json"
-hash = "7a42f31a0b3296f4033bff371a5af21ed1d5d333abc00f4faceb7e1e893518b6"
+hash = "cb8540c6e06e3d0208be35736ae049a382acc122b3f4886f97391823fb395de4"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -227,10 +227,6 @@ hash = "19d078bac203426bdc2aee8053b6a5d3b8e583b6bb60355ca01b2edd861954a8"
 [[files]]
 file = "config/interactic.json5"
 hash = "4fcfec05ecfeadd5afc52221c124f7a0da29eadffc82d6242afb9f1b249a6500"
-
-[[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "c97d0acea05091ca1a5da9b86e51e234ef5c9a4ede7a2862156642696d553fd4"
 
 [[files]]
 file = "config/itemswapper.json"
@@ -247,6 +243,14 @@ hash = "0df6e8af35b5f0c86d3970826f014567487298050e4b32516a6e49ba57578ed6"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "3a6ea57d3df58dfb10c9a80b0d122e7874e0cbb76d3363e608cb6f3c2962b525"
+
+[[files]]
+file = "config/modpack-update-checker-info.txt"
+hash = "252b71f39b5782551cacb144a27b427dc315697a147ae9ca918543e267b4198d"
+
+[[files]]
+file = "config/modpack-update-checker/config.json"
+hash = "23d3975d695938dcaaa9e35003b6133a21e14dd19d974d0da21986466392683b"
 
 [[files]]
 file = "config/sawmill-common.json"
@@ -461,8 +465,12 @@ file = "config/yosbr/config/waterdripsound.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/yosbr/config/world-host.json5"
+hash = "8e6c1a2aa8c7702d12fd638f13cc3603914cf1dcc60b8395af60b2ca1e4b9c66"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "6f03fc02452662de4c62efcc4de9dc13cd738f94a1a14c262f851a60c24bc2f2"
+hash = "c9ea6c061da283ca800bb169045c7db2f6d935c2af7d2da43eb1ae29632dc232"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2.txt"
@@ -479,6 +487,10 @@ hash = "f22715f0350426b9e07da7f6c2894296dfd94e4cc6fa5734296f387bf14ed6af"
 [[files]]
 file = "index.html"
 hash = "737e6daf77521604fc482aa91e8bed8c47f4815c624e61e49c45ecbb5832f708"
+
+[[files]]
+file = "meta.json"
+hash = "41ba46e90c350bc17d272c6c0b62bb5d1f735cabdd01aa669e9002559c86265a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -537,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "d3e1192a7d1d762318ac1db4b9fbac2eb2c909a8c3e62ef49138c39ece6e0265"
+hash = "d6e2233995cbfde221d9c3b7f261f92ccc9212143ddd7893a3d842b7093a9d58"
 metafile = true
 
 [[files]]
@@ -811,6 +823,11 @@ hash = "2ad35d1b513308d702e9fe45f3c711d63dd1abb8fcbbb40d9a1d7c37d4d5d367"
 metafile = true
 
 [[files]]
+file = "mods/emuno.pw.toml"
+hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
+metafile = true
+
+[[files]]
 file = "mods/enchantedshulkers.pw.toml"
 hash = "7cb70cf22e1a4fb243bc11d3ebeebacf1417cf37b8986769b63e9cb0e645d107"
 metafile = true
@@ -847,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
 metafile = true
 
 [[files]]
@@ -888,6 +905,11 @@ metafile = true
 [[files]]
 file = "mods/fish-no-stuck.pw.toml"
 hash = "6e6a83616df3dea4f255e997173a9273e6f3539bd424be3b46dd8f5677954ec2"
+metafile = true
+
+[[files]]
+file = "mods/fix-keyboard-on-linux.pw.toml"
+hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
@@ -972,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "36239f4c9522551f995919bef9b18bba61940319e44af88bdfa28b2e249dc86c"
+hash = "9ed18369fbabb887d04cf9eeb7027cd0f52158cff74aa0a3f6d009f9d96ab974"
 metafile = true
 
 [[files]]
@@ -988,6 +1010,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/loqui.pw.toml"
+hash = "8e273299702b68a6503a2d4bd42a05b629a207d84e7fcb6e7510276ac16e0c89"
 metafile = true
 
 [[files]]
@@ -1033,6 +1060,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/modpack-update-checker.pw.toml"
+hash = "bd80eef8ae9ff26a8ffc96456a2892eab23d3bcd01b9bf059a159ea80c8729f1"
 metafile = true
 
 [[files]]
@@ -1217,7 +1249,7 @@ metafile = true
 
 [[files]]
 file = "mods/trimmable-tools.pw.toml"
-hash = "17631374fb5a81876cd84aa55322cf7ca8f0534447f9ea7e43c94211491ae985"
+hash = "adba03545d7492fb0e943ad93afc84e9d8b830615afa164f3e5e3544fd077785"
 metafile = true
 
 [[files]]
@@ -1251,6 +1283,11 @@ hash = "f9f5b870d089b3afbed24ca01e6e8cd6d13ec6e8f8f5c62d8e3a71f1eaa853fd"
 metafile = true
 
 [[files]]
+file = "mods/world-host.pw.toml"
+hash = "2200914b42056b8c7d5e4d6f0ae0365da45294cab7a13361c1cece483706297b"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "34108efa4206b09f00d088be089236914a6fb04852aae5b6ce6293412ed6a6f7"
 metafile = true
@@ -1262,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
+hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
 metafile = true
 
 [[files]]
@@ -1282,7 +1319,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "6253563e28616a16656b12762f897d6007ab19d27e7330030bf9c5af65e3941b"
+hash = "2d4b093e3023eb9e411ea9c2a7998bc895e284ece476ee4213256a0ae6eb8aa7"
 metafile = true
 
 [[files]]
@@ -1316,6 +1353,10 @@ hash = "3f0ac032a4f89382745b03a8e1078041f728d9e4f2df14fa9eb910382b98b1c4"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Charm_override.zip"
+hash = "1930277f17449e5a8450cfa2f01b2f2e1ba1fedc4632e02601d01ef7039c022b"
+
+[[files]]
 file = "resourcepacks/VanillaTweaks.zip"
 hash = "b3e7e33c6b6f2259b7e712764a857e8528c91bd2ee39b9df8cb774fdec5ec22d"
 
@@ -1323,3 +1364,43 @@ hash = "b3e7e33c6b6f2259b7e712764a857e8528c91bd2ee39b9df8cb774fdec5ec22d"
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
 metafile = true
+
+[[files]]
+file = "versions/1.0.0/changelog.txt"
+hash = "a4d59416248b3a72cabc5fcb869f175fc7af55508c728e55766fab516f145026"
+
+[[files]]
+file = "versions/1.0.1/changelog.txt"
+hash = "328b81227b05485ec5d77566d82b648b9cc2d640e163cc6102fc946cb2945a5e"
+
+[[files]]
+file = "versions/1.0.10/changelog.txt"
+hash = "3b11a00d3af96dae90c968a867561fa94a8a937ae01e5827f66a4d2784cf19b5"
+
+[[files]]
+file = "versions/1.0.2/changelog.txt"
+hash = "de928bfaa9ae5c313abd9c30844b7d3e3998ee941e348ce787f770ed68e5b3af"
+
+[[files]]
+file = "versions/1.0.3/changelog.txt"
+hash = "aa4dd0f8656b36536f9d54682b882d68b3e2ca2b94fcabf8d8d1dfca915931e9"
+
+[[files]]
+file = "versions/1.0.4/changelog.txt"
+hash = "0e9026952ab740987661720be4868f48adbcf172cc444cb16710d710993b444b"
+
+[[files]]
+file = "versions/1.0.5/changelog.txt"
+hash = "605479fd3fa86b7fabd2f01306362d5d158faf4b6ce17824d06c02557cd31094"
+
+[[files]]
+file = "versions/1.0.6/changelog.txt"
+hash = "bb38392ee91941d603ba378d1c0d9907ed7d53254257ea99f919a5400eb0ceb1"
+
+[[files]]
+file = "versions/1.0.8/changelog.txt"
+hash = "5e011b1b7e40460ad8fdd765f150eb3b59f33bf174dd73124fe252cdb6a0a6a3"
+
+[[files]]
+file = "versions/1.0.9/changelog.txt"
+hash = "4d859cff2e2d054ac5427f93411fbe36e3b1a7515826e0292f901a4522ca0b44"

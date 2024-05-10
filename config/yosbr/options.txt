@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","itemswapper:default","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","Fabrication","Fabrication grayscale","Moonlight Mods Dynamic Assets","mixtape:unused_music","file/VanillaTweaks.zip"]
+resourcePacks:["vanilla","fabric","Fabrication","Fabrication grayscale","Moonlight Mods Dynamic Assets","itemswapper:default","itemswapper:experimental_addon","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","mixtape:unused_music","file/VanillaTweaks.zip","file/Charm_override.zip","seasons:seasonal_lush_caves","affogatotweaks:affogatotweaks"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

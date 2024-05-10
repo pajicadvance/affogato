@@ -1,0 +1,24 @@
+This update contains all the changes from the previously pulled 1.0.7 version, plus the following:
+
+- Fixed [#1](https://github.com/pajicadvance/affogato/issues/1)
+- Fixed [#2](https://github.com/pajicadvance/affogato/issues/2)
+- Fixed [#4](https://github.com/pajicadvance/affogato/issues/4)
+- Removed Storage Labels (see [#3](https://github.com/pajicadvance/affogato/issues/3))
+- Rebalanced the enchantment upgrade mechanic
+  - Upgrading now costs diamonds instead of lapis
+  - The amount of diamonds required is based on the upgraded enchantment's current level
+  - Duplicating the template now requires less diamonds (diamond block -> diamond)
+- Added Numeral Ping
+- Updated default Mixtape config
+  - If you had your own changes to Mixtape's config, you'll have to redo them
+
+The original 1.0.7 changelog:
+
+- Added Chai's Inventory Sorter
+  - Replaces Inventory Profiles Next
+- Added Chai's Build Tools
+- Added back Adaptive Tooltips and Yet Another Config Lib
+- Removed the Augment enchantment from loot
+  - Ended up being a bit too overpowered. If you made some shulkers with Augment already, then congrats, you get to keep them!
+- Fixed wandering traders selling disabled items from Charm
+- Updated a lot of mods, fixing several bugs

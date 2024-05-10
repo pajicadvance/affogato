@@ -1,1 +1,14 @@
-To be filled out
+- Added World Host
+  - Provides an easy way to play with friends without setting up a dedicated server
+- Added Modpack Update Checker
+  - Provides in-game modpack update notifications, modpack info, version changelogs, and breakage warnings
+- Added Loqui
+  - Provides translation strings for a lot of mods in the modpack
+- Added Fix keyboard on Linux
+- Added EmuNO
+- Added replacements for some mob texture variants from Charm
+- Added a guide book entry about upgrading equipment to the next tier
+- Reduced the XP cost of transferring enchantments from gear to books in the grindstone
+- Fixed bees not being able to enter their hives after the chunk is unloaded and loaded again
+- Fixed an oversight in the way the best food to eat is found in Spice of Fabric containers
+- Updated a bunch of mods to their latest versions

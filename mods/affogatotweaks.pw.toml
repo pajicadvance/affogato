@@ -1,13 +1,13 @@
 name = "Affogato Tweaks"
-filename = "affogatotweaks-1.7.6.jar"
+filename = "affogatotweaks-1.7.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q8yzjHI3/versions/TRwjKQPV/affogatotweaks-1.7.6.jar"
+url = "https://cdn.modrinth.com/data/Q8yzjHI3/versions/zR0O3pvR/affogatotweaks-1.7.8.jar"
 hash-format = "sha1"
-hash = "8df3c035aa7852eb367c0b008bb205b234df8ed9"
+hash = "827bc5c62cc8b717b0ac95bb87691b2d5f0ffc22"
 
 [update]
 [update.modrinth]
 mod-id = "Q8yzjHI3"
-version = "TRwjKQPV"
+version = "zR0O3pvR"

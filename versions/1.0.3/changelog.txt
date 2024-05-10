@@ -1,0 +1,7 @@
+- Added Fish No Stuck
+- Fixed azalea stairs breaking instantly
+- Updated to Fabric Loader 0.15.10
+- Updated several mods
+- Affogato Tweaks technical changes:
+  - Switched to Parchment mappings from Yarn
+  - Refactored and cleaned up some mixins
