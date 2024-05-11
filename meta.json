@@ -4,7 +4,7 @@
     "versions": [
         {
             "id": "1.0.0",
-            "releasedAt": 1713290820,
+            "releasedAt": 1713290820000,
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/affogato/version/1.0.0"
@@ -14,7 +14,7 @@
         },
         {
             "id": "1.0.1",
-            "releasedAt": 1713393120,
+            "releasedAt": 1713393120000,
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/affogato/version/1.0.1"
@@ -24,7 +24,7 @@
         },
         {
             "id": "1.0.2",
-            "releasedAt": 1713870780,
+            "releasedAt": 1713870780000,
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/affogato/version/1.0.2"
@@ -34,7 +34,7 @@
         },
         {
             "id": "1.0.3",
-            "releasedAt": 1713969060,
+            "releasedAt": 1713969060000,
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/affogato/version/1.0.3"
@@ -44,7 +44,7 @@
         },
         {
             "id": "1.0.4",
-            "releasedAt": 1714149180,
+            "releasedAt": 1714149180000,
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/affogato/version/1.0.4"
@@ -54,7 +54,7 @@
         },
         {
             "id": "1.0.5",
-            "releasedAt": 1714315260,
+            "releasedAt": 1714315260000,
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/affogato/version/1.0.5"
@@ -64,7 +64,7 @@
         },
         {
             "id": "1.0.6",
-            "releasedAt": 1714325100,
+            "releasedAt": 1714325100000,
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/affogato/version/1.0.6"
@@ -74,7 +74,7 @@
         },
         {
             "id": "1.0.8",
-            "releasedAt": 1715101140,
+            "releasedAt": 1715101140000,
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/affogato/version/1.0.8"
@@ -84,7 +84,7 @@
         },
         {
             "id": "1.0.9",
-            "releasedAt": 1715114040,
+            "releasedAt": 1715114040000,
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/affogato/version/1.0.9"
@@ -94,7 +94,7 @@
         },
         {
             "id": "1.0.10",
-            "releasedAt": 1715365954,
+            "releasedAt": 1715365954000,
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/affogato/version/1.0.10"
