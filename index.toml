@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "a13236ab6e8b6088cb8b8e325949839d3fd46423367ead22cc7dd6babf8a5322"
+hash = "fa5f95f9f09edf3c9c48a97af5e6c6b7e2f8dd36ac787f7e79ee5e83be857d33"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -250,7 +250,7 @@ hash = "252b71f39b5782551cacb144a27b427dc315697a147ae9ca918543e267b4198d"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "23d3975d695938dcaaa9e35003b6133a21e14dd19d974d0da21986466392683b"
+hash = "95d2341ab6e76288c8cf1ca0f28b23e5f169d8f0777ae21c104bcc02c1d528b5"
 
 [[files]]
 file = "config/sawmill-common.json"
@@ -490,7 +490,7 @@ hash = "737e6daf77521604fc482aa91e8bed8c47f4815c624e61e49c45ecbb5832f708"
 
 [[files]]
 file = "meta.json"
-hash = "41ba46e90c350bc17d272c6c0b62bb5d1f735cabdd01aa669e9002559c86265a"
+hash = "815f7d24f998e87cadae9e1af63cced6c2e96406563c313285a48663d558d2be"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -674,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/chais-inventory-sorter.pw.toml"
-hash = "f34cb43dc7a0203f1a9d5d45f17c2b7bd97dbfe152530d2b9d1fae6636bb68cd"
+hash = "5237097e7a65c3966ceb7107333ec65ecd41e6ba689acd740b144972cd0cb5da"
 metafile = true
 
 [[files]]
@@ -1376,6 +1376,10 @@ hash = "328b81227b05485ec5d77566d82b648b9cc2d640e163cc6102fc946cb2945a5e"
 [[files]]
 file = "versions/1.0.10/changelog.txt"
 hash = "3b11a00d3af96dae90c968a867561fa94a8a937ae01e5827f66a4d2784cf19b5"
+
+[[files]]
+file = "versions/1.0.11/changelog.txt"
+hash = "67bb3402bb65295a71bf5edc07a2dc5a376daf7e5eb9c52b42829219d1e744c8"
 
 [[files]]
 file = "versions/1.0.2/changelog.txt"

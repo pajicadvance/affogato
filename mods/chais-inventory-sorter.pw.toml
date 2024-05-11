@@ -1,13 +1,13 @@
 name = "Chai's Inventory Sorter"
-filename = "inventory_sort-1.2.2+1.20.jar"
+filename = "inventory_sort-1.2.3+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/s9XXQTOb/versions/UJRFRDGi/inventory_sort-1.2.2%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/s9XXQTOb/versions/QcyLJVAR/inventory_sort-1.2.3%2B1.20.jar"
 hash-format = "sha1"
-hash = "bc17044c1acc8d4a2cecebc71d32e9ab2a46cc91"
+hash = "9df8700f9dd5c7590cf908ce110da9b44c334e9e"
 
 [update]
 [update.modrinth]
 mod-id = "s9XXQTOb"
-version = "UJRFRDGi"
+version = "QcyLJVAR"
