@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "fa5f95f9f09edf3c9c48a97af5e6c6b7e2f8dd36ac787f7e79ee5e83be857d33"
+hash = "ac55d798b5ec9e98da17813af05da323e9b4bd08424c3591ec66a2312efc1aa8"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -250,7 +250,7 @@ hash = "252b71f39b5782551cacb144a27b427dc315697a147ae9ca918543e267b4198d"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "95d2341ab6e76288c8cf1ca0f28b23e5f169d8f0777ae21c104bcc02c1d528b5"
+hash = "145e5d87511d67fe5372c282e8f21fb01b30601b5c32b449dfbeae9fa48b0677"
 
 [[files]]
 file = "config/sawmill-common.json"
@@ -409,10 +409,6 @@ file = "config/yosbr/config/presencefootsteps/userconfig.json"
 hash = "30019e813048b0f27f8c98b408842639863ec1a9c563d59799cc9792236a05ab"
 
 [[files]]
-file = "config/yosbr/config/quickstack.json"
-hash = "e2d2c964619b3715f1acebd158a32cc5752715e5c590cd8ff84845b1f11be3c2"
-
-[[files]]
 file = "config/yosbr/config/reacharound.json"
 hash = "9240e617374d7c0691c537b940b1c5d417a94c4301908a1d9fbf08506a346ab1"
 
@@ -490,7 +486,7 @@ hash = "737e6daf77521604fc482aa91e8bed8c47f4815c624e61e49c45ecbb5832f708"
 
 [[files]]
 file = "meta.json"
-hash = "815f7d24f998e87cadae9e1af63cced6c2e96406563c313285a48663d558d2be"
+hash = "7a38080a4afeb24527d443ae2fd97b45bb296a5e25389ddb408371cb47461243"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -549,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "d6e2233995cbfde221d9c3b7f261f92ccc9212143ddd7893a3d842b7093a9d58"
+hash = "6ff0e766bfe5ae7d37fad53eaf68262c0dfd763daa593c3e73aafdf93d594be0"
 metafile = true
 
 [[files]]
@@ -1158,11 +1154,6 @@ hash = "74058d27cf4f2eaa273b7e3e7068e573a196d12116d2290c9088cdb5895c3aa8"
 metafile = true
 
 [[files]]
-file = "mods/quickstack.pw.toml"
-hash = "c6423eeef60aacad291b03c9b348e10e9243ffa317ccc0feeeadc08cb08316c5"
-metafile = true
-
-[[files]]
 file = "mods/radiant-gear.pw.toml"
 hash = "f6d1e9e7ae5c58e553b7ed878a835b60516243663c0f9fb57c547f1ca61ba8ea"
 metafile = true
@@ -1284,7 +1275,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "2200914b42056b8c7d5e4d6f0ae0365da45294cab7a13361c1cece483706297b"
+hash = "b80d2173378335579b66137bd303843cb771c3b86d87d80bce68184b4f54f528"
 metafile = true
 
 [[files]]
@@ -1380,6 +1371,10 @@ hash = "3b11a00d3af96dae90c968a867561fa94a8a937ae01e5827f66a4d2784cf19b5"
 [[files]]
 file = "versions/1.0.11/changelog.txt"
 hash = "67bb3402bb65295a71bf5edc07a2dc5a376daf7e5eb9c52b42829219d1e744c8"
+
+[[files]]
+file = "versions/1.0.12/changelog.txt"
+hash = "ab01f6f236ad1335ef393d2c90e76a0004097e79f49b7e019a4333e9ca8b08cf"
 
 [[files]]
 file = "versions/1.0.2/changelog.txt"

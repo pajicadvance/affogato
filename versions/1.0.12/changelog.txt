@@ -1,0 +1,4 @@
+- Removed QuickStack
+  - Sometimes the mod seems to think that the chest its transferring the items to has enough space to fit the items when it actually does not, causing item loss. I'm not interested in fixing this by myself.
+- Removed the Storage Labels guide book entry
+  - Storage Labels was removed a few versions ago, this entry was accidentally left untouched.
