@@ -1,7 +1,7 @@
 noWander = true
 portalPatch = true
 rubberBand = true
-breakSpeed = true
+breakSpeed = false
 stepHeight = true
 noBuck = true
 swim = true

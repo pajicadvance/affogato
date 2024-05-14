@@ -121,6 +121,16 @@
                 }
             },
             "updateType": "minor"
+        },
+        {
+            "id": "1.0.13",
+            "releasedAt": 1715714521000,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/affogato/version/1.0.13"
+                }
+            },
+            "updateType": "minor"
         }
     ]
   }

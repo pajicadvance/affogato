@@ -10,7 +10,7 @@ hash = "40ec06ff072a0234ca376b3a4087fef4c1a8b4b125045534e80bcd54aa9fa455"
 
 [[files]]
 file = "config/HorseBuff.toml"
-hash = "3c6de1de3a0992d41a22740b7ad5e70295960b09a3e72a8024991f826414eba1"
+hash = "8f54bf4c85e65f4b0deb8c12e268b09548f10313520e2279774b144e0d2ec9fc"
 
 [[files]]
 file = "config/TrueDarknessFork.json5"
@@ -146,7 +146,7 @@ hash = "c409bb32210f0a73c8f4d866cdb8ba0e26a0213e35c82b29122001f798887bec"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "ac55d798b5ec9e98da17813af05da323e9b4bd08424c3591ec66a2312efc1aa8"
+hash = "ae4a21acc8ecb7dae8c879f4adc20b2f5ed6251934a2aa4ff5578bf7f9ce2836"
 
 [[files]]
 file = "config/elytra-trims.json"
@@ -250,7 +250,7 @@ hash = "252b71f39b5782551cacb144a27b427dc315697a147ae9ca918543e267b4198d"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "145e5d87511d67fe5372c282e8f21fb01b30601b5c32b449dfbeae9fa48b0677"
+hash = "0f553e933569efbfbfae69b912437b7d22be97974a220ec317395313c003b5bd"
 
 [[files]]
 file = "config/sawmill-common.json"
@@ -486,7 +486,7 @@ hash = "737e6daf77521604fc482aa91e8bed8c47f4815c624e61e49c45ecbb5832f708"
 
 [[files]]
 file = "meta.json"
-hash = "7a38080a4afeb24527d443ae2fd97b45bb296a5e25389ddb408371cb47461243"
+hash = "fc3b544c66d8c563abee028b52f2dca2bf01ce18fb6ce8ecf9bcf84accdfcee1"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "6ff0e766bfe5ae7d37fad53eaf68262c0dfd763daa593c3e73aafdf93d594be0"
+hash = "2237de40b0914d5f4dbccc7e4fb7401b808bfb390fa8252888f150327e6a1d2f"
 metafile = true
 
 [[files]]
@@ -690,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8a069d8b237eb6807fb27f7b19867055293190f25b03e83dad183dfcdad9efd7"
+hash = "6fa6853ce4c5fb25ab835b857628b6965a77e911af660d1f819bef9334510801"
 metafile = true
 
 [[files]]
@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "1ef3c7d64edfb38f5ca9bb3d0a3ed1eee10f486edfef1853bf75614fcd24c104"
+hash = "5b792e6c4e4214a9c2f60cf444b158cae8201d176f12ac89a6d351c4edb48f8e"
 metafile = true
 
 [[files]]
@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "9ed18369fbabb887d04cf9eeb7027cd0f52158cff74aa0a3f6d009f9d96ab974"
+hash = "d24bd05367fb73abe1e50347adc64ebe360b8f19019f37aeb991b9b722fe95a1"
 metafile = true
 
 [[files]]
@@ -1025,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "d5020abb71080f181795e24f7e8816087e4448612efb2fb5bd814f317d2ff6c2"
+hash = "a33681d86966b22d6cd5d7b0c5582edf7f84ee8e7a891758e4aa7f685381a4c4"
 metafile = true
 
 [[files]]
@@ -1255,7 +1255,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
-hash = "a15087bd783afca2842403164088e0420985adc1b0d60a8ae6f5c81080bb4bf4"
+hash = "c2d1affa6b1dcab23384492cd1606bc83ac9563a53ef17faa6ed1719cb1a4982"
 metafile = true
 
 [[files]]
@@ -1375,6 +1375,10 @@ hash = "67bb3402bb65295a71bf5edc07a2dc5a376daf7e5eb9c52b42829219d1e744c8"
 [[files]]
 file = "versions/1.0.12/changelog.txt"
 hash = "ab01f6f236ad1335ef393d2c90e76a0004097e79f49b7e019a4333e9ca8b08cf"
+
+[[files]]
+file = "versions/1.0.13/changelog.txt"
+hash = "e51a146d019c0a16c3e5734820ba2dd7f856f60c71877489792c9f960aae2631"
 
 [[files]]
 file = "versions/1.0.2/changelog.txt"

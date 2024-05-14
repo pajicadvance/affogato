@@ -1,0 +1,17 @@
+- Slightly adjusted enchanted book loot chances, mostly to address Melee Protection being more common than other protection enchantments
+- Reduced the cost of the following recipes:
+  - Activator Rail
+  - Chain
+  - Detector Rail
+  - Heavy Weighted Pressure Plate
+  - Hopper
+  - Iron Bars
+  - Iron Bridge
+  - Iron Cheval De Frise
+  - Iron Door
+  - Iron Trapdoor
+  - Light Weighted Pressure Plate
+  - Powered Rail
+  - Rail
+- Fixed Aerial Affinity giving a ridiculously high mining speed boost when on horseback
+- Updated several mods to their latest versions
