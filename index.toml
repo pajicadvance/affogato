@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE.txt"
+hash = "0bdfb0201d1803634f268cdff0993b8349d2c70e956a06dbb667c8dd65254ec5"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "f90bfd99629374fdeaa63aef21917d6907e0cc86cac6e886ccea30966c2bd69b"
 
