@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/configurable.pw.toml"
-hash = "df89df67cdf46391415ed4cf1f8b4c9f59d68aa787fd7e5e28c323145e16191f"
+hash = "b449cf542c7506828a71c44f1c43970cc5597d36484887df99956ed2e90eb823"
 metafile = true
 
 [[files]]
