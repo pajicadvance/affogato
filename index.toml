@@ -197,8 +197,9 @@ file = "config/yosbr/options.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "datapacks/SoV_custom_RS_config.zip"
-hash = "7e3ecb8654e359726382c704707f5da639a972e256ed34ab9b96bb44998e3c75"
+file = "datapacks/custom_rs_config.pw.toml"
+hash = "93754dfdc732440d2c79856589ec093300dd3d7c50f2bdb03d1ceb9d35c7ff75"
+metafile = true
 
 [[files]]
 file = "datapacks/repurposed-structures-better-dungeons-compat.pw.toml"
@@ -951,6 +952,11 @@ hash = "052b70117c2e9a3a697a36f449b220be7bfba215f3a2e43b5ce7faff9e88b2e6"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
+
+[[files]]
 file = "mods/your-reputation-jade.pw.toml"
 hash = "382090fcd5db9ba034c4ed470f7262ca6603f99bbb4198fcfe91d90fed0018a0"
 metafile = true
@@ -1011,14 +1017,6 @@ hash = "745fd5cd0b5ddaca6b0fba915428c63a47d32ee9e281c3661b41aa34dd8b653b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/CleanGlass.zip"
-hash = "f9c2920fcc01fb19669cd1dc0f946a66586ac925ce1bc071d653ffb0c1fd5458"
-
-[[files]]
-file = "resourcepacks/VanillaTweaks.zip"
-hash = "90c0eaa286460cd6dfaf83afd734a39d7a387583cd456524bda682608fd470d4"
-
-[[files]]
 file = "resourcepacks/better-looking-torches.pw.toml"
 hash = "958a7665d6d399a3471244d3baa5774ac94f108d02363680dbccd5bcb891bac8"
 metafile = true
@@ -1046,6 +1044,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/spryzeens-ore-glint.pw.toml"
 hash = "e5d49e5f536476c809f6d55a1c7227a440335f8ae41afada4a3f18adf51cfdc1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vt_clean_glass.pw.toml"
+hash = "cfc593127ca643c914b0940d0b1a84a993e7079dd604f11adbcb1ff597dc14d1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vt_pack.pw.toml"
+hash = "d2291d98bed1413a8df72aed50deccca43e80115986744c7bfe32bca4e3f1b5a"
 metafile = true
 
 [[files]]

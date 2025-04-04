@@ -6,3 +6,6 @@
 
 # Exclude server installer
 server/
+
+# Exclude offsite files
+offsite/

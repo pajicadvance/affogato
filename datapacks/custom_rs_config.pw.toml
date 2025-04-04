@@ -1,0 +1,8 @@
+name = "RS Custom Config"
+filename = "SoV_custom_RS_config.zip"
+side = "both"
+
+[download]
+url = "https://github.com/pajicadvance/svo/raw/refs/heads/1.21.1/offsite/SoV_custom_RS_config.zip"
+hash-format = "sha512"
+hash = "244c2dc22ad71d0345f96aa14b84a15abfc8cc94a2c6b92278f386529f1df9efe5daa12eeb54d748d987496eeaf2d30d6f89a2bd8be968b01759589337b7f680"

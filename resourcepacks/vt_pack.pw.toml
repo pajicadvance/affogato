@@ -1,0 +1,8 @@
+name = "Vanilla Tweaks Pack"
+filename = "VanillaTweaks.zip"
+side = "client"
+
+[download]
+url = "https://github.com/pajicadvance/svo/raw/refs/heads/1.21.1/offsite/VanillaTweaks.zip"
+hash-format = "sha512"
+hash = "48b0824b7e9fd9c0c7b5fdfcdc4b2eed805d25cb4456791ecc9ae36a4fb4e248c41791b9249bcc1354923a11adcd1ba84400368c4fe5642f0575c24286c85460"
