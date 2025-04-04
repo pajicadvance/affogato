@@ -201,6 +201,10 @@ file = "config/yosbr/options.txt"
 hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
+file = "credits.txt"
+hash = "63c7a18a56d4c1912554f92cf493ae6b746ada7fb099afb7c97f0b9a73866a5a"
+
+[[files]]
 file = "datapacks/custom_rs_config.pw.toml"
 hash = "93754dfdc732440d2c79856589ec093300dd3d7c50f2bdb03d1ceb9d35c7ff75"
 metafile = true
