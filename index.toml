@@ -210,6 +210,11 @@ hash = "93754dfdc732440d2c79856589ec093300dd3d7c50f2bdb03d1ceb9d35c7ff75"
 metafile = true
 
 [[files]]
+file = "datapacks/disable_yung_dungeons_advancements.pw.toml"
+hash = "f9da693bb36911fefa2eab8c0a309dcdd0830793d37ded3ee8088e8a1133a4aa"
+metafile = true
+
+[[files]]
 file = "datapacks/repurposed-structures-better-dungeons-compat.pw.toml"
 hash = "7eb564ad28701496eaa9c017a789dd937d2d1b08fb233b50e583c8335995ab6a"
 metafile = true
@@ -530,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "1950cc9e81e89586672663fb9b2c64b5770b3c6bedb2d4893165b1b7063899f2"
+hash = "c73fc3680d04bd42fafb0ac3e5e2dfc9e50cff44453ecf91b1bebca6da5107eb"
 metafile = true
 
 [[files]]
@@ -655,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/mod-glue.pw.toml"
-hash = "0c31602cbc825c4fb8df37c9d0e0942d9f7ed0a1f53248f7ee2fc6e4fbcb5c6e"
+hash = "57661f93b0151825aa6579dcad000315d00dfb2b17fa6a312f54174c7ec544d1"
 metafile = true
 
 [[files]]

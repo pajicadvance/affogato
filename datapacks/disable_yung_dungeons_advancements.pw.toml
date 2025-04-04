@@ -1,0 +1,8 @@
+name = "Disable Yungs Dungeons Advancements"
+filename = "DisableYungsDungeonsAdvancement.zip"
+side = "both"
+
+[download]
+url = "https://github.com/pajicadvance/svo/raw/refs/heads/1.21.1/offsite/DisableYungsDungeonsAdvancement.zip"
+hash-format = "sha512"
+hash = "acc9f1bd2da0b91f32e8b30542f279590673bc231620d7b7e02f6ac3163f5305185d7ade52113eb4d5c2a14ab6dae5133fe4ba9a34118521f0961146bc7369da"
