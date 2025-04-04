@@ -1,0 +1,13 @@
+name = "Sketch"
+filename = "sketch-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4erSrc0h/versions/FIrvx2L9/sketch-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "7fe83b420f618d19b2157f5afa4a0df9d9cee9063d9eb5d8cdb1e28da500760cc8805147d8d49f819cd11672962b8107833040acb232a0941eba3595781d0c59"
+
+[update]
+[update.modrinth]
+mod-id = "4erSrc0h"
+version = "FIrvx2L9"

@@ -1,0 +1,13 @@
+name = "KleeSlabs"
+filename = "kleeslabs-fabric-1.21.1-21.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7uh75ruZ/versions/8r7UMcCz/kleeslabs-fabric-1.21.1-21.1.4.jar"
+hash-format = "sha512"
+hash = "f586a9e85745413e48abd2cbaa5e2f7d2fad4a5fb68b3f30c197fd36e3dee7b37774ab5bae2cc7e2188fafc44205ef310972a8f9f3bf37e7721150f14ad6ee11"
+
+[update]
+[update.modrinth]
+mod-id = "7uh75ruZ"
+version = "8r7UMcCz"

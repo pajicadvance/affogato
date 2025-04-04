@@ -1,0 +1,13 @@
+name = "Simple Smithing Overhaul"
+filename = "simple_smithing_overhaul-2.0.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U5TJjZc3/versions/TD6nuJhT/simple_smithing_overhaul-2.0.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "b4b6116ba25f596286c76963c5a190bc2c2b535f043eecf36b9781448648c3362848d83e159277c3de55e050b7232ca7e067f42d70e6a17f0e9cd5e2e61237de"
+
+[update]
+[update.modrinth]
+mod-id = "U5TJjZc3"
+version = "TD6nuJhT"

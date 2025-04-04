@@ -1,0 +1,13 @@
+name = "Leather Bundles"
+filename = "leather-bundles-1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8WzVT6LC/versions/ZdW6tEtb/leather-bundles-1-1.1.jar"
+hash-format = "sha512"
+hash = "d2ca9b3680a8343c9f14f6a463671bce5dfb85a580de62003c51f36c7be08287475e56bac061cb14ea9c475445d7e393426d86e93901d19b6d47d90b1a8fceb0"
+
+[update]
+[update.modrinth]
+mod-id = "8WzVT6LC"
+version = "ZdW6tEtb"

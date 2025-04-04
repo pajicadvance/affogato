@@ -1,0 +1,13 @@
+name = "RuntimeTrims"
+filename = "RuntimeTrims-1.0.6-fabric+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eRg6mpBy/versions/POwV8W5M/RuntimeTrims-1.0.6-fabric%2B1.21.jar"
+hash-format = "sha512"
+hash = "d2c90035da5984632e3f540c544e642e57b014691885242930ed62534e11e638c4edfbdfc68f1be1c13fbe0e942d7f1e8e11470b66809c0a0e3de23183e8db52"
+
+[update]
+[update.modrinth]
+mod-id = "eRg6mpBy"
+version = "POwV8W5M"

@@ -1,0 +1,13 @@
+name = "OmniBlast: Blast Furnace and Smoker recipe list completed"
+filename = "omniblast-1.48.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9n0nv1CR/versions/Hyh7F2TR/omniblast-1.48.1.jar"
+hash-format = "sha512"
+hash = "ca7bd2897db880191af8b568cce482b5ef817fbf74245df088113fa5cfd86bcdb18a6eb6ef886728875d55b89f98857c85444fc421d90c974609bccade0067e6"
+
+[update]
+[update.modrinth]
+mod-id = "9n0nv1CR"
+version = "Hyh7F2TR"

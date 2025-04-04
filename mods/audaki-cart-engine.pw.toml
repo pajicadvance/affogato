@@ -1,0 +1,13 @@
+name = "Audaki Cart Engine (Faster Minecarts)"
+filename = "ACE_mc1.20.6-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V8qsCwta/versions/RLAkkIZ6/ACE_mc1.20.6-3.1.1.jar"
+hash-format = "sha512"
+hash = "d53e3a09aaab2615fdccd5d32858f825fb075169d72bf17c5c69f5c182be889bcf0e28f91a1a6f9a28303dcf1df478f9476eacbf7017274533fa4addeb9705b7"
+
+[update]
+[update.modrinth]
+mod-id = "V8qsCwta"
+version = "RLAkkIZ6"

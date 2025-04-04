@@ -1,0 +1,11 @@
+{
+	enableNextTrackKeybind: true,
+	stopMusicOnJukeboxUse: true,
+	creativeMusicInSurvival: true,
+	situationalMusicInCreative: true,
+	unlockSituationalMusic: false,
+	situationalMusicChance: 70,
+	modifyMusicDelays: true,
+	musicMinDelay: 450,
+	musicMaxDelay: 600
+}

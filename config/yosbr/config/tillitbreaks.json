@@ -1,0 +1,10 @@
+{
+  "show_durability_if_bar_full": false,
+  "show_durability_num_if_full": true,
+  "show_durability_bar": false,
+  "show_durability_number": true,
+  "color_durability_number": true,
+  "color_durability_num_white_if_full": true,
+  "show_arrow_count": true,
+  "text_size": 100
+}

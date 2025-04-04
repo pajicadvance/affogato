@@ -1,0 +1,13 @@
+name = "Simple Ender Backpack"
+filename = "simple_ender_backpack-1.0.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6LdAHg5g/versions/9izFlGjP/simple_ender_backpack-1.0.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "264e2cfa405fe22f050b3bcc81b51b975f086e6f0bd05e860098c81a3b6fa3ae9f8f6490819f758063c9e17d0c730a91c3acce97ea220f80e06be142bf2a8cff"
+
+[update]
+[update.modrinth]
+mod-id = "6LdAHg5g"
+version = "9izFlGjP"

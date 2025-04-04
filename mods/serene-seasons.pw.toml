@@ -1,0 +1,13 @@
+name = "Serene Seasons"
+filename = "SereneSeasons-fabric-1.21.1-10.1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0bNACJD/versions/UqA7miTT/SereneSeasons-fabric-1.21.1-10.1.0.1.jar"
+hash-format = "sha512"
+hash = "b60eaacd452ea1a99198a8562f5bc4a10c42ae18853cdccb79fd4d33da784cbad7fa354a431fe33e157b82523ed4bcdd14e1c4b03f9f49ccac2e794b4223e73c"
+
+[update]
+[update.modrinth]
+mod-id = "e0bNACJD"
+version = "UqA7miTT"

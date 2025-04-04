@@ -1,0 +1,13 @@
+name = "Eleron"
+filename = "eleron-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zSqjq7Lw/versions/MgQPG62D/eleron-1.2.0.jar"
+hash-format = "sha512"
+hash = "dc6285c3491a2bf6562a37db1e16eb6945d70127f0ad8b0d52a708d15d0dbafbaebdf7e9c5f93303a7d18ed1b3e1f8db4ca6363357e148361a3fcdd7e2edd7dc"
+
+[update]
+[update.modrinth]
+mod-id = "zSqjq7Lw"
+version = "MgQPG62D"

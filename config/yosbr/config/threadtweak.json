@@ -1,0 +1,13 @@
+{
+  "threadCount": {
+    "bootstrap": 1,
+    "main": 27
+  },
+  "threadPriority": {
+    "game": 8,
+    "bootstrap": 1,
+    "main": 3,
+    "io": 5,
+    "integratedServer": 8
+  }
+}

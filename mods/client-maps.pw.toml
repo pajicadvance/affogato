@@ -1,0 +1,13 @@
+name = "Client Maps"
+filename = "client_maps-1.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/K7BL4mb2/versions/oLGPUIhL/client_maps-1.0.5.jar"
+hash-format = "sha512"
+hash = "0525696a08b8ecfdd10501a6c10f801a7b6627f454e9ffa6ca1220c9a56f12639e1f3bdd836a3d4a2f76ceff0b8ed82dd4f22bd57d0114d032723c2e0feb9a2f"
+
+[update]
+[update.modrinth]
+mod-id = "K7BL4mb2"
+version = "oLGPUIhL"

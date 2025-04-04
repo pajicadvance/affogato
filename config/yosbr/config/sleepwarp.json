@@ -1,0 +1,17 @@
+{
+  "action_bar_messages": true,
+  "use_sleep_percentage": true,
+  "tick_game_time": true,
+  "tick_block_entities": true,
+  "tick_random_block": true,
+  "tick_snow_accumulation": true,
+  "tick_ice_freezing": true,
+  "tick_lightning": true,
+  "tick_monsters": true,
+  "tick_animals": true,
+  "max_ticks_added": 40,
+  "player_multiplier": 0.6,
+  "monster_tick_multiplier": 1.0,
+  "animal_tick_multiplier": 1.0,
+  "log_error_messages": false
+}

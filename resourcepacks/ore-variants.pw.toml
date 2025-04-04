@@ -1,0 +1,13 @@
+name = "Ore Variants"
+filename = "Ore Variants v2.9.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LgvDiFDR/versions/PuZ17n5T/Ore%20Variants%20v2.9.zip"
+hash-format = "sha512"
+hash = "a786b44accef5356b90bc1ce17f4a2ad28febf268b9e5de4491cccc3d7d10171221a943e649b94e0ae891ef7f36700af8cd366ddf6631a49f98d533bc27b4b22"
+
+[update]
+[update.modrinth]
+mod-id = "LgvDiFDR"
+version = "PuZ17n5T"

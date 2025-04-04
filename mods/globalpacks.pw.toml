@@ -1,0 +1,13 @@
+name = "Global Packs"
+filename = "globalpacks-fabric-1.21-21.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/4DGCC9Z2/globalpacks-fabric-1.21-21.0.0.jar"
+hash-format = "sha512"
+hash = "da3bda7974556ce1b6c40dd65b2618cef0730ee1ecef900018870f0e7168d09f6e865ba63843b7e5c076f9e0015cdafd6c4709e9679f5c6fed82127c937028f9"
+
+[update]
+[update.modrinth]
+mod-id = "NRLPy2mk"
+version = "4DGCC9Z2"

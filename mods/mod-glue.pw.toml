@@ -1,0 +1,13 @@
+name = "Mod Glue"
+filename = "ModGlue-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r4XcUYt6/versions/eVgrn4j5/ModGlue-1.2.2.jar"
+hash-format = "sha512"
+hash = "24cc2512c7b7f2443c3e52ace338fa61b9f62f53e791242012c3c8899f50695393fd5329aef26c71a326a1bf249c05d4359e27607ccbc7963cf90a0debb07b8f"
+
+[update]
+[update.modrinth]
+mod-id = "r4XcUYt6"
+version = "eVgrn4j5"

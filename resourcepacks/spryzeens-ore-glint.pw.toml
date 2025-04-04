@@ -1,0 +1,13 @@
+name = "Spryzeen's Ore Glint"
+filename = "§6OreGlint_Sodium.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ktOGSHXh/versions/VEDM8IKA/%C2%A76OreGlint_Sodium.zip"
+hash-format = "sha512"
+hash = "78faa21e44fb7001058aad0c2c807c5a4f2d2ad2f424c578e922576ff70af57a5c0778990e2ccac6dd011037681d960d8e19db024bcba36a1889e691741e926e"
+
+[update]
+[update.modrinth]
+mod-id = "ktOGSHXh"
+version = "VEDM8IKA"

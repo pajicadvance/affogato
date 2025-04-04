@@ -1,0 +1,68 @@
+{
+	"multishot": {
+		"multishotAbility": true,
+		"multishotCooldown": 120,
+		"multishotAdditionalArrows": 6
+	},
+	"piercingShot": {
+		"piercingShotAbility": true,
+		"piercingShotCooldown": 160
+	},
+	"sweepingEdge": {
+		"sweepingEdgeAbility": true,
+		"sweepingEdgeCooldown": 160,
+		"sweepingEdgeAdditionalDamagePerMob": 1.5,
+		"maxMobAmountUsedForDamageIncrease": 6
+	},
+	"cripplingBlow": {
+		"cripplingBlowAbility": true,
+		"cripplingBlowCooldown": 200,
+		"cripplingBlowBleedingDuration": 120,
+		"cripplingBlowBaseBleedingDPS": 1.0,
+		"cripplingBlowBleedingDPSIncreasePerLevel": 0.5,
+		"cripplingBlowSlownessDuration": 20,
+		"cripplingBlowBaseSlownessAmplifier": 3,
+		"cripplingBlowSlownessAmplifierIncreasePerLevel": 1
+	},
+	"bow": {
+		"enablePerfectShot": true,
+		"perfectShotAdditionalDamage": 2,
+		"perfectShotTimeframe": 0.1,
+		"enableBackstep": true,
+		"backstepTimeframe": 5,
+		"playerDrawingSounds": true,
+		"mobDrawingSounds": true,
+		"acceptMultishot": true,
+		"bowNetheriteVariant": true
+	},
+	"crossbow": {
+		"fixedArrowDamage": true,
+		"fixedArrowDamageAmount": 10,
+		"modifyFireworkDamage": true,
+		"baseFireworkDamage": 12,
+		"damagePerFireworkStar": 3,
+		"modifyLoadSpeed": true,
+		"loadTime": 2.0,
+		"rejectMultishot": true,
+		"acceptPower": true,
+		"acceptInfinity": true,
+		"crossbowNetheriteVariant": true
+	},
+	"sword": {
+		"enableCriticalCounter": true,
+		"criticalCounterTimeframe": 10,
+		"rejectKnockback": true
+	},
+	"axe": {
+		"acceptKnockback": true,
+		"acceptLooting": true
+	},
+	"meleeProtection": true,
+	"elementalProtection": true,
+	"magicProtection": true,
+	"allowMultipleProtectionEnchantments": true,
+	"maxProtectionEnchantments": 2,
+	"infinityFix": true,
+	"infinimending": false,
+	"craftTippedArrowsWithRegularPotions": true
+}

@@ -1,0 +1,17 @@
+name = "Simple Vanilla Overhaul"
+author = "pajic"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "80947374e465e1926fc9b31f1942db2964d0054351ef9464a0ffe1523ef83b90"
+
+[versions]
+fabric = "0.16.12"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21", "1.21.1"]
+datapack-folder = "datapacks"

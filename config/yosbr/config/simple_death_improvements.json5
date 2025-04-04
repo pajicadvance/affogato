@@ -1,0 +1,8 @@
+{
+	"noItemSplatterOnDeath": true,
+	"noDeathItemDespawn": true,
+	"tryItemLavaSaveOnDeath": true,
+	"tryItemVoidSaveOnDeath": true,
+	"playerDropMoreXpOnDeath": true,
+	"droppedExperiencePercent": 80
+}

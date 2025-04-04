@@ -1,0 +1,13 @@
+name = "Symbols 'n' Stuff"
+filename = "symbols_n_stuff-0.1.2+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/itOw2agq/versions/dJRVNLcg/symbols_n_stuff-0.1.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "e50cb3a1a2797040dec8710114552253733640a1f216d273b572cbfabcbb7c4fb96b428b518ff3785bf60932f73178d5b452efd435f40a811108e4f6f383490c"
+
+[update]
+[update.modrinth]
+mod-id = "itOw2agq"
+version = "dJRVNLcg"

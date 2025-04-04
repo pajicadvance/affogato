@@ -1,0 +1,13 @@
+name = "Disable Double Tap to Sprint"
+filename = "no-double-tap-sprint-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5MO4Sr56/versions/qvRUFyKw/no-double-tap-sprint-1.0.0.jar"
+hash-format = "sha512"
+hash = "50ffd76f0fdcaac1afadad61916e52047d3045b04219eaddf647b3dc7e9da9a4da058f06c34bad424fe52350b91321a08ddca92740ab98006dbc0bf6b574db7e"
+
+[update]
+[update.modrinth]
+mod-id = "5MO4Sr56"
+version = "qvRUFyKw"

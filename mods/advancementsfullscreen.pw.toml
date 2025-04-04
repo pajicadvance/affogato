@@ -1,0 +1,13 @@
+name = "AdvancementsFullscreen"
+filename = "advancementsfullscreen-mc1.20.5+1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7BgsROit/versions/zLfNjpTi/advancementsfullscreen-mc1.20.5%2B1.0.jar"
+hash-format = "sha512"
+hash = "1fc6c842def161148c3b22b6facb24326c359eee4b349b8c2e016ccc65512cae1c5f6df7a1e29dacaf46fafea494fee8973fe70d698abc7d2977dde575067ab9"
+
+[update]
+[update.modrinth]
+mod-id = "7BgsROit"
+version = "zLfNjpTi"

@@ -1,0 +1,15 @@
+# These configs are general configs that don't fit any other category.
+[general]
+
+	# Set to true to pause the server when all players are paused.
+	pauseWhenAllPlayersPaused = false
+
+	# Set to true to pause the server when no players are connected.
+	pauseWhenNoPlayers = true
+
+	# Set to true to send a chat message to all players when the server pause state changes.
+	sendChatMessageWhenPauseStateChanges = false
+
+	# Set to true to send a chat message to all players (and to the server log) when the a player's pause state changes.
+	sendChatMessageWhenPlayerPauseStateChanges = false
+

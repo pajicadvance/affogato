@@ -1,0 +1,13 @@
+name = "Better Looking Torches"
+filename = "better_looking_torches_v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dMkHsjRW/versions/whTpr038/better_looking_torches_v1.0.zip"
+hash-format = "sha512"
+hash = "cf0917348226707a0e1ba5e8998f4b07c180e6c748b48ca16dddf6a5e294527238e876baf81478067745943d272533dec0b43f361bd18653f9e2a3abbadef71d"
+
+[update]
+[update.modrinth]
+mod-id = "dMkHsjRW"
+version = "whTpr038"

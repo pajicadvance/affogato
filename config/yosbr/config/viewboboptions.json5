@@ -1,0 +1,13 @@
+{
+	show_in_options: true,
+	separate_bobs: true,
+	all_bobbing_strength: 100,
+	hand_bobbing_strength: 100,
+	camera_bobbing_strength: 0,
+	stationary_items: [
+		"minecraft:clock",
+		"minecraft:recovery_compass",
+		"minecraft:filled_map",
+		"minecraft:compass"
+	]
+}

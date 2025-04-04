@@ -1,0 +1,19 @@
+{
+	"sneakingPreventsBerryBushDamage": true,
+	"legArmorPreventsBerryBushDamage": true,
+	"lodestoneChangesBackport": true,
+	"elytraSwimTweak": true,
+	"soulSpeedNoDamage": true,
+	"thornsNoDamage": true,
+	"creeperExplosionDropsAllItems": true,
+	"flammableCobweb": true,
+	"fasterObsidianMining": true,
+	"obsidianMiningSpeedMultiplier": 1.6,
+	"randomizeDiscLoot": true,
+	"preventShulkerDuplication": false,
+	"lowerShield": true,
+	"shields": [
+		"minecraft:shield",
+		"guarding:netherite_shield"
+	]
+}

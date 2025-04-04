@@ -1,0 +1,10 @@
+{
+	"doAltitudeBasedSpawning": true,
+	"spawnStartHeight": 128,
+	"spawnFrequencyBase": 10,
+	"spawnFrequencyRandomOffsetBound": 10,
+	"phantomsRepelledByItem": true,
+	"repellentItems": [
+		"minecraft:phantom_membrane"
+	]
+}
