@@ -98,7 +98,7 @@ hash = "e724108ade2f4fbc7f5a20034372c0404e6f9171a2b6f1eae4bb9a57bec2ffbb"
 
 [[files]]
 file = "config/yosbr/config/jade/jade.json"
-hash = "0343140af01f8930271befd766dde60fcb6d802f2c37a3d7477e988f705742da"
+hash = "63934f456107ed5790439fdfcba76625298ef49a59ed077f6b1db4bee5ab354b"
 
 [[files]]
 file = "config/yosbr/config/jade/plugins.json"
@@ -198,7 +198,7 @@ hash = "e5b04f1809e0c7935512bc75210bb2169d7dd4ade4184fcd7727936f0f643266"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
+hash = "007aa4ea8f5a0dc9cfc26f2589a296e3754456cffe84e8ddfe654b238c3e7df0"
 
 [[files]]
 file = "credits.txt"
