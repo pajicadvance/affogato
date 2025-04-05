@@ -21,6 +21,10 @@ file = "config/yosbr/config/HorseBuff.toml"
 hash = "ddbebe1a8833b3717eeec13dcb214d82b5c66abf5c943676141d5a11ee9085b2"
 
 [[files]]
+file = "config/yosbr/config/MouseTweaks.cfg"
+hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
+
+[[files]]
 file = "config/yosbr/config/accessories.json5"
 hash = "67ba98d85b9694e2a6d568ae95f36a2c171a8494d5a784f237401989d64ff2f8"
 
@@ -110,7 +114,7 @@ hash = "f008c5fe465e6aa179ed025a334feb27df6871c2fa94bdaa2ca64b4c0eef3af2"
 
 [[files]]
 file = "config/yosbr/config/microdurability.json5"
-hash = "07426df65afbf0fa513c089d3372d6278e17f3639fe4276f285e0e59982982b2"
+hash = "88c1fa6b7b6408153b50d868bb8dd61b5bdf90617e8bc38b9a5b8a4dab172b52"
 
 [[files]]
 file = "config/yosbr/config/misctweaks.json5"
@@ -198,7 +202,7 @@ hash = "e5b04f1809e0c7935512bc75210bb2169d7dd4ade4184fcd7727936f0f643266"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "007aa4ea8f5a0dc9cfc26f2589a296e3754456cffe84e8ddfe654b238c3e7df0"
+hash = "c2b2cb43ba3cfbc6f01df259a78c42e37cf7c17e702b201badaa456d43eb1dba"
 
 [[files]]
 file = "credits.txt"

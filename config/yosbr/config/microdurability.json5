@@ -12,7 +12,7 @@
 		"displayWarningForArmor": true,
 		"onlyOnMendingItems": false,
 		// An item's durability has to be below both the minimum point value and the minimum percentage for the warning to show!
-		"minDurabilityPointsBeforeWarning": 50,
+		"minDurabilityPointsBeforeWarning": 100,
 		// An item's durability has to be below both the minimum point value and the minimum percentage for the warning to show!
 		"minDurabilityPercentageBeforeWarning": 5,
 		// Set to 0 to disable blinking.
