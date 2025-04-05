@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "datapacks/disable_yung_dungeons_advancements.pw.toml"
-hash = "f9da693bb36911fefa2eab8c0a309dcdd0830793d37ded3ee8088e8a1133a4aa"
+hash = "4f0df34af6de5397973f6050e3e9979b779d51412eb52c3144e75350b0b4ebad"
 metafile = true
 
 [[files]]
