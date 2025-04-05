@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "322f6171ee160e5606ca645fc5c5630c77362b27b2a5bcf0a534e42fb9dc19f2"
+hash = "5194ee03a902a4784c38740ae80e178f0db6a325b8982e1a22eaded0f04bd9f9"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "8199a53b59c27c8cc46e45d10da22b3081b88e4af8d7572de909bef15b9c6a6c"
+hash = "774fc473f81b3e2a2b563aed3350dbb0ee03825c44771d981a633653af1adea9"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "b693d00c26799c28260f95e37e604f4866a33b5ede03a9c9b910d8679bb4d580"
+hash = "bc57d568dc7b3bb30a190231322916e71be6809cbe37a13fbfe54c6784170903"
 metafile = true
 
 [[files]]
@@ -844,7 +844,7 @@ metafile = true
 
 [[files]]
 file = "mods/sensible-stackables.pw.toml"
-hash = "725b4b960bb194e22206cd4d674cae12cb460c9ff21b56f6aa5732e0f687cd4b"
+hash = "2a2cdf548bd7edfcede62baa544ccd7563b7d9bb2aaa980a1b5c06aa6a477b36"
 metafile = true
 
 [[files]]
@@ -854,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "e70ee73f93b80bd018e9770663017e180e375dbcedeb852f1df98232387fe470"
+hash = "a83adbd7c1e5b8fe05068e76a3ef7ff61612c3d194a9f278c1d13f3e492033c3"
 metafile = true
 
 [[files]]
@@ -1088,5 +1088,5 @@ hash = "e21049e1505b849d2996e1390a6e91e3030a44277b873242cadfc074b576662d"
 metafile = true
 
 [[files]]
-file = "versions/1.0/changelog.txt"
+file = "versions/1.0.0/changelog.txt"
 hash = "aae407e8ce105c5b51a1170c9ad4476616f635c1e7978b9d56e83947b50f58f2"
