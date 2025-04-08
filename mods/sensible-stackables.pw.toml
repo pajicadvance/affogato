@@ -1,13 +1,13 @@
 name = "Sensible Stackables"
-filename = "sensible_stackables-1.0.5+1.21.1.jar"
+filename = "sensible_stackables-1.0.6+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5lQcMjaC/versions/38Z7tv1x/sensible_stackables-1.0.5%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/5lQcMjaC/versions/ySjjKjH2/sensible_stackables-1.0.6%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "ba6de4ad69f6d4998240c97ad59c73524c3a361c3736d0fa6d257c1e05b54604d6edaa085dc7aa0e8c6a2f58be9405af6a6e73ad3a10afbc8a50f0de11006fd2"
+hash = "af0008ab203a6e9749ce22124174e57932df7f6b3c566ccdc6ef580343010ec62dfb2a0a3479798653fd315320773bd1205ede28eb14a17418ca51154a10db22"
 
 [update]
 [update.modrinth]
 mod-id = "5lQcMjaC"
-version = "38Z7tv1x"
+version = "ySjjKjH2"

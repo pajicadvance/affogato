@@ -10,6 +10,15 @@
                     "modrinth": "https://modrinth.com/modpack/svo"
                 }
             }
+        },
+        {
+            "id": "1.0.1",
+            "releasedAt": 1744116065000,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/svo"
+                }
+            }
         }
     ]
 }

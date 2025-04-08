@@ -7,9 +7,12 @@
 	},
 	"pinnacleEnchantment": {
 		"enablePinnacleEnchantment": true,
-		"pinnacleExperienceCost": 30,
+		"pinnacleBaseExperienceCost": 30,
+		"pinnacleExperienceCostIncrease": 5,
 		"excludedFromMaxedOutCheck": [
-			"minecraft:mending"
+			"minecraft:mending",
+			"minecraft:thorns",
+			"minecraft:fire_aspect"
 		]
 	},
 	"whetstone": {

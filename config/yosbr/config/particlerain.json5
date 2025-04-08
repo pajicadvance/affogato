@@ -1,8 +1,8 @@
 {
-	"maxParticleAmount": 1500,
-	"particleDensity": 250,
-	"particleStormDensity": 500,
-	"particleRadius": 32,
+	"maxParticleAmount": 500,
+	"particleDensity": 100,
+	"particleStormDensity": 200,
+	"particleRadius": 25,
 	"doRainParticles": true,
 	"doSplashParticles": true,
 	"doSmokeParticles": true,
@@ -27,15 +27,15 @@
 	},
 	"snow": {
 		"density": 40,
-		"gravity": 0.10000000149011612,
+		"gravity": 0.07999999821186066,
 		"rotationAmount": 0.029999999329447746,
 		"stormRotationAmount": 0.05000000074505806,
-		"windStrength": 0.5,
-		"stormWindStrength": 2.0,
+		"windStrength": 1.0,
+		"stormWindStrength": 3.0,
 		"size": 2.0
 	},
 	"sand": {
-		"density": 80,
+		"density": 4,
 		"gravity": 0.20000000298023224,
 		"windStrength": 0.30000001192092896,
 		"moteSize": 0.10000000149011612,
@@ -44,7 +44,7 @@
 		"matchTags": "minecraft:camel_sand_step_sound_blocks"
 	},
 	"shrub": {
-		"density": 2,
+		"density": 1,
 		"gravity": 0.20000000298023224,
 		"rotationAmount": 0.20000000298023224,
 		"bounciness": 0.20000000298023224
@@ -66,7 +66,7 @@
 		"size": 8.0
 	},
 	"renderVanillaWeather": false,
-	"tickVanillaWeather": false,
+	"tickVanillaWeather": true,
 	"biomeTint": true,
 	"tintMix": 50,
 	"spawnAboveClouds": false,

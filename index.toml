@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "5194ee03a902a4784c38740ae80e178f0db6a325b8982e1a22eaded0f04bd9f9"
+hash = "4ec3941e716a4026de547834ae4b0fb7db3baf870147d6cd92a9c2a0de37573f"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -130,7 +130,7 @@ hash = "68e9f33802188ad7fb08370529bc0f72c9513bcc678eb9db136abab833298a3c"
 
 [[files]]
 file = "config/yosbr/config/particlerain.json5"
-hash = "4260265c4cfbd167334b9f361277bd6b67ecfa8fd45c2d0c4f051df0ebf2a426"
+hash = "8cdff01963b4e0e8a44f089233d1f6d04da9a51f627bef3df3f97373e1b54a04"
 
 [[files]]
 file = "config/yosbr/config/particular.json5"
@@ -174,7 +174,7 @@ hash = "3f687b172081e7734d0bf2d57692b255c6f841f97af5a81f66c07156711b42ea"
 
 [[files]]
 file = "config/yosbr/config/simple_smithing_overhaul.json5"
-hash = "4bd41b57459d0684c969ea537030949f4511f8487254e4d44bae81b3dafcd8f3"
+hash = "996956af03c688be565aef586d4555985c70e79d69fc5a74c0a13a4be311f116"
 
 [[files]]
 file = "config/yosbr/config/sleepwarp.json"
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "774fc473f81b3e2a2b563aed3350dbb0ee03825c44771d981a633653af1adea9"
+hash = "a95a6dcec560917f7fcccdd21bf029d75a3d313e1ac1cf6d84a8537b5072f2ed"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "bc57d568dc7b3bb30a190231322916e71be6809cbe37a13fbfe54c6784170903"
+hash = "f87486f3fd36a84a276221c1a68dae7bdee6f3ef7dcf50471b4a454dae9ae915"
 metafile = true
 
 [[files]]
@@ -674,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6be9bf8af4c867d6cc7c680df870e2b878fbec4090160f3df3a8426c61216472"
+hash = "d2eef785df399c7b45f20ecc3d07e1749b4bff2b2f87dc1c47d3a339996569c2"
 metafile = true
 
 [[files]]
@@ -844,7 +844,7 @@ metafile = true
 
 [[files]]
 file = "mods/sensible-stackables.pw.toml"
-hash = "2a2cdf548bd7edfcede62baa544ccd7563b7d9bb2aaa980a1b5c06aa6a477b36"
+hash = "09b91531c1f7e04733a72cd058f73e2d54384a6c78c434aa68d4e1e32e8b88bc"
 metafile = true
 
 [[files]]
@@ -879,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "730672fc6fa236554438106e5e8e434479206ac1102abde1e3dcd29f2baa2fd4"
+hash = "6e9c3ef3801241165328aeaf8752e68bf4f148a238064a73a512e54bb98f7281"
 metafile = true
 
 [[files]]
@@ -1090,3 +1090,7 @@ metafile = true
 [[files]]
 file = "versions/1.0.0/changelog.txt"
 hash = "aae407e8ce105c5b51a1170c9ad4476616f635c1e7978b9d56e83947b50f58f2"
+
+[[files]]
+file = "versions/1.0.1/changelog.txt"
+hash = "37285507c557b270fc48fb19195d74a253a2c5e6185e7020d960baae37121a9e"
