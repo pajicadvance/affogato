@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "4ec3941e716a4026de547834ae4b0fb7db3baf870147d6cd92a9c2a0de37573f"
+hash = "58cb375ae1948eb725f9f64e0b29c414ee2ac0bcca2c6036c7e3d90a918ab725"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -150,7 +150,7 @@ hash = "145366e422b537bb7647445478baec42f00a39731174dc029885b207120d1645"
 
 [[files]]
 file = "config/yosbr/config/rearm.json5"
-hash = "dd4a54096dd693da474f834a7f777cd08e4059a4930f04cbc37e8e8553da5816"
+hash = "8e518a889d21fff78f42320799f143220859878d228b55030c818c66284da855"
 
 [[files]]
 file = "config/yosbr/config/sereneseasons/seasons.toml"
@@ -202,7 +202,7 @@ hash = "e5b04f1809e0c7935512bc75210bb2169d7dd4ade4184fcd7727936f0f643266"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c2b2cb43ba3cfbc6f01df259a78c42e37cf7c17e702b201badaa456d43eb1dba"
+hash = "007aa4ea8f5a0dc9cfc26f2589a296e3754456cffe84e8ddfe654b238c3e7df0"
 
 [[files]]
 file = "credits.txt"
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "a95a6dcec560917f7fcccdd21bf029d75a3d313e1ac1cf6d84a8537b5072f2ed"
+hash = "e0e5754f41ddc9f835c421e43db149cc7b54750b7c88970aae878329aa17e71f"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "dffa285e358e9524a8cc65e007e779ff946de2516da5a9e5fee78e0078eab31c"
+hash = "b14f5b5f2139166e304a4544a8bd40453bfc190d9b16fb49f52909a7b880d533"
 metafile = true
 
 [[files]]
@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "f56578b8a2cf2de8d125e02262b7bcf0adcbc0498bf54886cee5e393689459f1"
+hash = "f5dd989a0235c1e8200a981c9c33c8f6a1201e66f4b2bcf4be22791d213a0c9d"
 metafile = true
 
 [[files]]
@@ -659,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/misctweaks.pw.toml"
-hash = "fef577d8b26fd7ca32153484ea73a5c6b632ad05448e620c38ac704e6cde1351"
+hash = "271f201ddb5efb3d151e72b74d8beae747129ffed9264c58d35aff3d980553c6"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "23f4322551960ed5fa21fae987c1a8c4ba5b154ad4cca697dae79b64749869ff"
+hash = "3ecb49498a9bfd8fb1f980236dbca36d42d5b458f539770b4b4124ffad9d76b5"
 metafile = true
 
 [[files]]
@@ -909,7 +909,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "810c95d1b25f37e995427d68a3d1b1bc2d69d172896d8a36cb3dc9a71fa2429f"
+hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
 metafile = true
 
 [[files]]
@@ -1093,4 +1093,8 @@ hash = "aae407e8ce105c5b51a1170c9ad4476616f635c1e7978b9d56e83947b50f58f2"
 
 [[files]]
 file = "versions/1.0.1/changelog.txt"
+hash = "37285507c557b270fc48fb19195d74a253a2c5e6185e7020d960baae37121a9e"
+
+[[files]]
+file = "versions/1.0.2/changelog.txt"
 hash = "37285507c557b270fc48fb19195d74a253a2c5e6185e7020d960baae37121a9e"

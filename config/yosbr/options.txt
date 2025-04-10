@@ -17,7 +17,7 @@ key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
 key_key.crawl:key.keyboard.z
-key_text.HorseBuff.keybinding.horsePlayerInventory:key.keyboard.left.alt
+key_text.HorseBuff.keybinding.horsePlayerInventory:key.keyboard.j
 key_key.itemswapper.itemswitcher:key.keyboard.r
 key_key.itemswapper.openInventory:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0

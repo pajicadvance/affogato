@@ -27,7 +27,7 @@
 	"bow": {
 		"enablePerfectShot": true,
 		"perfectShotAdditionalDamage": 2,
-		"perfectShotTimeframe": 0.1,
+		"perfectShotTimeframe": 0.2,
 		"enableBackstep": true,
 		"backstepTimeframe": 5,
 		"playerDrawingSounds": true,
