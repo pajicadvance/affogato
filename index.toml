@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "58cb375ae1948eb725f9f64e0b29c414ee2ac0bcca2c6036c7e3d90a918ab725"
+hash = "5c0e978bf1533d043f321f8e1b66e3dc8f3d1ca66765117c02534d2a82c847dd"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "e0e5754f41ddc9f835c421e43db149cc7b54750b7c88970aae878329aa17e71f"
+hash = "e84a3bc30f7602ad9d6551f0fe90c5d11387c1b8241a814e8caaca7457bf9f77"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "e13be2af4140fbe0beba3661a5d3d8233d11a939858d182dccf64fb0d883eb0f"
+hash = "c336c03706840fdcbcd8693cd416e255371f80e9d1cddf098fe6168cdfcd43ea"
 metafile = true
 
 [[files]]
@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "955bb0f19b8da0ac72a5f8b9e014fd2e0c15647fb129542791f47bbeb26fef7e"
+hash = "9d1cbb1985de93e2ee506a3aa7a36b4489a35a735ea2c4e090bbf58b7cc29b09"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "f87486f3fd36a84a276221c1a68dae7bdee6f3ef7dcf50471b4a454dae9ae915"
+hash = "adad9d60c3ca810f316d83c42220ad19542c2115b3db9742ac94d83c7a7e7c23"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "981438ab40fcb62a1e41dc6e16b11f351bd49134d8c0b9ace25acaac31993ec9"
+hash = "71314f7a5609378c77f372c31d2c501a330cc901c6e4f6e060d7f3095d362086"
 metafile = true
 
 [[files]]
@@ -714,7 +714,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
-hash = "a4fcce84f8c8ce16d5681da0474d625a968400339c9407ffc3b133d8fbb9d7aa"
+hash = "9d07f835c6cc1384f6e021217a5c350fd36a7fac91b0d2219127631dcde4dbf8"
 metafile = true
 
 [[files]]
@@ -879,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "6e9c3ef3801241165328aeaf8752e68bf4f148a238064a73a512e54bb98f7281"
+hash = "da3f7a513ccd5beeb5c6a85371c54dd147f38a20ec94b2635dcf5a6470aa7bfc"
 metafile = true
 
 [[files]]
@@ -1098,3 +1098,7 @@ hash = "37285507c557b270fc48fb19195d74a253a2c5e6185e7020d960baae37121a9e"
 [[files]]
 file = "versions/1.0.2/changelog.txt"
 hash = "37285507c557b270fc48fb19195d74a253a2c5e6185e7020d960baae37121a9e"
+
+[[files]]
+file = "versions/1.0.3/changelog.txt"
+hash = "f7287cfd30ca196d3bc3901427b10eb58fc6a69cba350a392a972fbb7409f163"

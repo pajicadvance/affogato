@@ -1,13 +1,13 @@
 name = "Multiplayer Server Pause"
-filename = "MultiplayerServerPause-1.21-Fabric-1.3.1.jar"
+filename = "MultiplayerServerPause-1.21-Fabric-1.3.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/RPXnAvtA/versions/JWZvUTFB/MultiplayerServerPause-1.21-Fabric-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/RPXnAvtA/versions/6ZaJGDmk/MultiplayerServerPause-1.21-Fabric-1.3.3.jar"
 hash-format = "sha512"
-hash = "e9872c82acf6f91f4fc7428fc94d0b91c17936f7061f876b4644f81374d5638a1c5f2c43bc4a2de05e7b399aefa98652967a3c023ad9a456ec96362edca130de"
+hash = "78c04f3f80f8c4431a935f7365534283d966b67307ebc8d2c7ae066c9aefaeade582882abaee297c7ccf5e0ff6dc16bfbe5d4b8dcf7fff2d0818c5b15ed941e4"
 
 [update]
 [update.modrinth]
 mod-id = "RPXnAvtA"
-version = "JWZvUTFB"
+version = "6ZaJGDmk"
