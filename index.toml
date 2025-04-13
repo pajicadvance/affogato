@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "5c0e978bf1533d043f321f8e1b66e3dc8f3d1ca66765117c02534d2a82c847dd"
+hash = "31ffd72f1f183f72ee8c94e49ec9a94a4243aceea335fe6097fbea2547cb56bc"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "e84a3bc30f7602ad9d6551f0fe90c5d11387c1b8241a814e8caaca7457bf9f77"
+hash = "ad249ab8029584b59425b3968bf94caea1dbac247845f9b302401f9b98ef5a1c"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "adad9d60c3ca810f316d83c42220ad19542c2115b3db9742ac94d83c7a7e7c23"
+hash = "50bff344eae689a23afbb1f45321e4029039f3bd0a50cead863c302269b83cd9"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "aecba23ed8a7fe93fda92b64d9017ff3a5439767f5579b94b1ae4e7bf4efb088"
+hash = "3cdfaf7098cce1249fa72da3b86d099e096994b40fc19b4b7c036aab4c31c413"
 metafile = true
 
 [[files]]
@@ -844,7 +844,7 @@ metafile = true
 
 [[files]]
 file = "mods/sensible-stackables.pw.toml"
-hash = "09b91531c1f7e04733a72cd058f73e2d54384a6c78c434aa68d4e1e32e8b88bc"
+hash = "2fe9fe4544dce3258ffb1118470ba45d9930c64c90ff36f00ec6398e4da77380"
 metafile = true
 
 [[files]]
@@ -864,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-death-improvements.pw.toml"
-hash = "ff92ce05e27a4fdd985d84366a4dfab67cfc45712abb18a25e2cd051405b38f0"
+hash = "13a72b712108dc3762bd5928575f2781f607007818c46ed3017d7565322f42d8"
 metafile = true
 
 [[files]]
@@ -1102,3 +1102,7 @@ hash = "37285507c557b270fc48fb19195d74a253a2c5e6185e7020d960baae37121a9e"
 [[files]]
 file = "versions/1.0.3/changelog.txt"
 hash = "f7287cfd30ca196d3bc3901427b10eb58fc6a69cba350a392a972fbb7409f163"
+
+[[files]]
+file = "versions/1.0.4/changelog.txt"
+hash = "d7482665aa6e4fe98a46cd9676a9fa793aa3247fd9f823c6e34e2f65ef723790"
