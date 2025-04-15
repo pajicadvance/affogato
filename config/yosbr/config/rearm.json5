@@ -1,41 +1,21 @@
 {
-	"multishot": {
-		"multishotAbility": true,
-		"multishotCooldown": 120,
-		"multishotAdditionalArrows": 6
-	},
-	"piercingShot": {
-		"piercingShotAbility": true,
-		"piercingShotCooldown": 160
-	},
-	"sweepingEdge": {
-		"sweepingEdgeAbility": true,
-		"sweepingEdgeCooldown": 160,
-		"sweepingEdgeAdditionalDamagePerMob": 1.5,
-		"maxMobAmountUsedForDamageIncrease": 6
-	},
-	"cripplingBlow": {
-		"cripplingBlowAbility": true,
-		"cripplingBlowCooldown": 200,
-		"cripplingBlowBleedingDuration": 120,
-		"cripplingBlowBaseBleedingDPS": 1.0,
-		"cripplingBlowBleedingDPSIncreasePerLevel": 0.5,
-		"cripplingBlowSlownessDuration": 20,
-		"cripplingBlowBaseSlownessAmplifier": 3,
-		"cripplingBlowSlownessAmplifierIncreasePerLevel": 1
-	},
 	"bow": {
 		"enablePerfectShot": true,
 		"perfectShotAdditionalDamage": 2,
 		"perfectShotTimeframe": 0.2,
 		"enableBackstep": true,
 		"backstepTimeframe": 5,
+		"improvedMultishot": true,
+		"maxMultishotLevel": 3,
+		"additionalArrowsPerLevel": 1,
 		"playerDrawingSounds": true,
 		"mobDrawingSounds": true,
 		"acceptMultishot": true,
 		"bowNetheriteVariant": true
 	},
 	"crossbow": {
+		"improvedPiercing": true,
+		"percentArmorIgnoredPerLevel": 15,
 		"fixedArrowDamage": true,
 		"fixedArrowDamageAmount": 10,
 		"modifyFireworkDamage": true,
@@ -51,9 +31,18 @@
 	"sword": {
 		"enableCriticalCounter": true,
 		"criticalCounterTimeframe": 10,
+		"improvedSweepingEdge": true,
+		"sweepingEdgeAdditionalDamagePerMob": 1.0,
+		"maxMobAmountUsedForDamageIncrease": 10,
 		"rejectKnockback": true
 	},
 	"axe": {
+		"cripplingThrow": true,
+		"cripplingThrowBleedingDuration": 120,
+		"cripplingThrowBaseBleedingDPS": 1.0,
+		"cripplingThrowBleedingDPSIncreasePerLevel": 0.5,
+		"cripplingThrowBaseSlownessAmplifier": 1,
+		"cripplingThrowSlownessAmplifierIncreasePerLevel": 1,
 		"acceptKnockback": true,
 		"acceptLooting": true
 	},

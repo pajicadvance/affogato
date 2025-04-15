@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "31ffd72f1f183f72ee8c94e49ec9a94a4243aceea335fe6097fbea2547cb56bc"
+hash = "18f31412f9383b61db0af020f1776f1ff39acbc636da73faca6efed14fccecbb"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -150,7 +150,7 @@ hash = "145366e422b537bb7647445478baec42f00a39731174dc029885b207120d1645"
 
 [[files]]
 file = "config/yosbr/config/rearm.json5"
-hash = "8e518a889d21fff78f42320799f143220859878d228b55030c818c66284da855"
+hash = "94218a4da4dbf078b4eb33f7fd10b464d4a67b636c1606abde32c69968120c3a"
 
 [[files]]
 file = "config/yosbr/config/sereneseasons/seasons.toml"
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "ad249ab8029584b59425b3968bf94caea1dbac247845f9b302401f9b98ef5a1c"
+hash = "50b263c65027ff45cb958e9034e8f184755ef40f185b2000f62c190842fd7e96"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "50bff344eae689a23afbb1f45321e4029039f3bd0a50cead863c302269b83cd9"
+hash = "250325230187d9c6251e24091d6396ac54d73601e04c96ca5be0af864623a7c5"
 metafile = true
 
 [[files]]
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "7a488f0a685a3c77e90bb8ab013ffa9d92cc7a895925d8f8629d355ab6b8c07c"
+hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
 
 [[files]]
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "4646be22e91592e50d1024a501f14d5374df63a038a089f86b5f345bfd9feef3"
+hash = "e50e04848833bce47d4bff1f56fee962cbdffa8342707ba9ae94962ea436508b"
 metafile = true
 
 [[files]]
@@ -1106,3 +1106,7 @@ hash = "f7287cfd30ca196d3bc3901427b10eb58fc6a69cba350a392a972fbb7409f163"
 [[files]]
 file = "versions/1.0.4/changelog.txt"
 hash = "c423d74704aaca2435faa65499ebba1a06b95628bd64be1bdce5bb8f4d6b31a8"
+
+[[files]]
+file = "versions/1.1.0/changelog.txt"
+hash = "1636540946ae0fe38f6e43dacb2253b5c6dd03219355f4a9b57c98d8f6560d2e"
