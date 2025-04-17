@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "18f31412f9383b61db0af020f1776f1ff39acbc636da73faca6efed14fccecbb"
+hash = "8670692e3b2ea2aeb727e964edc00268ae7b4e45d411d56410a9cec5c5a4979e"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "50b263c65027ff45cb958e9034e8f184755ef40f185b2000f62c190842fd7e96"
+hash = "86ff3907168967c0d21b9999c199229dcadcffff25f7c295b26a298615561db4"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "e50e04848833bce47d4bff1f56fee962cbdffa8342707ba9ae94962ea436508b"
+hash = "9d987a2ceb8e3efaf7975ebe557e88f9b4443bfe35e8822a0e21ce4adf027a1e"
 metafile = true
 
 [[files]]
@@ -1110,3 +1110,7 @@ hash = "c423d74704aaca2435faa65499ebba1a06b95628bd64be1bdce5bb8f4d6b31a8"
 [[files]]
 file = "versions/1.1.0/changelog.txt"
 hash = "1636540946ae0fe38f6e43dacb2253b5c6dd03219355f4a9b57c98d8f6560d2e"
+
+[[files]]
+file = "versions/1.1.1/changelog.txt"
+hash = "231f5f698f1f218e002143111caa702189ab3e28627531adcf6496e23c843d87"
