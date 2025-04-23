@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/pajicadvance/svo/raw/refs/heads/1.21.1/offsite/DisableYungsDungeonsAdvancements.zip"
 hash-format = "sha512"
-hash = "acc9f1bd2da0b91f32e8b30542f279590673bc231620d7b7e02f6ac3163f5305185d7ade52113eb4d5c2a14ab6dae5133fe4ba9a34118521f0961146bc7369da"
+hash = "6f066def1513db8734cd4b1eea613cf9b999c315789970b973d4302d28c3f7f4ef8be51c851fe8c15287c7d3bd9226a5b0678b770772928bd2bbd5794ee69a2a"
