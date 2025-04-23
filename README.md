@@ -25,7 +25,7 @@
 - Pay less experience levels with [Tax Free Levels](https://modrinth.com/mod/tax-free-levels)
 ### 🌾 **Farming**
 - Cook stronger meals and grow new types of crops with [Farmer's Delight](https://modrinth.com/mod/farmers-delight-refabricated)
-- Right-click harvest your crops and watch them grow faster in the rain with [Cropped](https://modrinth.com/mod/cropped)
+- Right-click harvest your crops and use the hoe to harvest in a greater area with [RightClickHarvest](https://modrinth.com/mod/rightclickharvest)
 ### 🧭 **Navigation**
 - Equip the compass and clock as accessories to get your bearings, time and weather with [Accessorify](https://modrinth.com/mod/accessorify)
 - Write [Notes](https://modrinth.com/mod/notes) to keep track of your plans and interesting places you find
