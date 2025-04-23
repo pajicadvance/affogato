@@ -1,0 +1,13 @@
+name = "Trample No More"
+filename = "tramplenomore-fabric-1.21.1-21.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bc9bwujS/versions/RTshS05W/tramplenomore-fabric-1.21.1-21.1.2.jar"
+hash-format = "sha512"
+hash = "4d53431580fe8b935ddf7ca2a8fb11708ee5a83babcbe055e77ca062190fac6eb36f6ad3c1ff2465e84b7b99511e1e980c24e7538ee09be88ba81c66d6eab276"
+
+[update]
+[update.modrinth]
+mod-id = "Bc9bwujS"
+version = "RTshS05W"

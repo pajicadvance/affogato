@@ -1,13 +1,13 @@
 name = "Simple Death Improvements"
-filename = "simple-death-improvements-1.1.1+1.21.1.jar"
+filename = "simple-death-improvements-1.2.0+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2JFsuD70/versions/gSnPmNUb/simple-death-improvements-1.1.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/2JFsuD70/versions/AW69H81d/simple-death-improvements-1.2.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "92c6a14da68eaf296b1e0f975396b9168d9a6503ef2c16dfbf085b17e898d38bd57be9eb39c45a04a8080793650da345e4cf46fb7270fca3504316142b2d7d87"
+hash = "d045cd6dd17f14eafe41b9e656a9688d45851c2e664416acc1e5744c8fa032d399713f407dfeaefd11abb6587cff4769c333224825458239947999140026ef82"
 
 [update]
 [update.modrinth]
 mod-id = "2JFsuD70"
-version = "gSnPmNUb"
+version = "AW69H81d"

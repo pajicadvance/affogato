@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "146de85dacb12e1e5f44049d2b9db88295f3db8deef04b9652521bd64d1719d2"
+hash = "116ed069fb084b3cd39ae8a791507f045f9ef8e4ee137542680dd70218e7b6a6"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -97,6 +97,10 @@ file = "config/yosbr/config/experimentalist.json"
 hash = "8cfce334dbc58601b1ad2a5d2a55574e5c623e85c1c9f2606494be9a97c2b5db"
 
 [[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "9c9844e3e8fadd0ee6b295ea1c9e50f557d720b8532cfaafac084723bdb31386"
+
+[[files]]
 file = "config/yosbr/config/itemswapper.json"
 hash = "e724108ade2f4fbc7f5a20034372c0404e6f9171a2b6f1eae4bb9a57bec2ffbb"
 
@@ -151,6 +155,10 @@ hash = "145366e422b537bb7647445478baec42f00a39731174dc029885b207120d1645"
 [[files]]
 file = "config/yosbr/config/rearm.json5"
 hash = "94218a4da4dbf078b4eb33f7fd10b464d4a67b636c1606abde32c69968120c3a"
+
+[[files]]
+file = "config/yosbr/config/rightclickharvest.json5"
+hash = "eff791601a226a6784ac64100b37549af94e4fb92c8e9966fe1a089eea0e5382"
 
 [[files]]
 file = "config/yosbr/config/sereneseasons/seasons.toml"
@@ -225,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "8a8199d7a51f56fbae3a83a6a0deb701211f4d7bd4fefd68a88cb5b93ae3b4d8"
+hash = "1cba549e76b1191963a00b04e597d47d1f970b0b1ec1f7f7eb02a6b744a04fba"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -234,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "c336c03706840fdcbcd8693cd416e255371f80e9d1cddf098fe6168cdfcd43ea"
+hash = "bb6f0e56a9aefee5c449c1b5a48f5edfb4ea1cd7e274a8227413f5ecc6389f63"
 metafile = true
 
 [[files]]
@@ -294,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "9d1cbb1985de93e2ee506a3aa7a36b4489a35a735ea2c4e090bbf58b7cc29b09"
+hash = "ef031e859a6f4fc358334863d71fd87a3107924ed40ec8e380600a509886eee2"
 metafile = true
 
 [[files]]
@@ -329,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "250325230187d9c6251e24091d6396ac54d73601e04c96ca5be0af864623a7c5"
+hash = "22d3f910fd4b529bf4e735395db2f632b40d4bd667423ec698e4330a5bfc819a"
 metafile = true
 
 [[files]]
@@ -403,11 +411,6 @@ hash = "cc91ff5c3286c387df7304de706d3d5c85ea0676175f21f2677e9d7436e48c5a"
 metafile = true
 
 [[files]]
-file = "mods/cropped.pw.toml"
-hash = "ddc18b35211c306e61263a66d14a05e36481e5037b04c3accaa9ccd024178076"
-metafile = true
-
-[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "4ab83564a6e16a9b61b13b05e7f13d86ac05069a4b45b678eb0f3b6a66b460d0"
 metafile = true
@@ -469,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "353fee63b9660eaa2d484f1fb7e3d19178802b2ada7e7423cb1a83709d9f588c"
+hash = "0297d2dc4d06bb54560911ffc610fc301646621fabff02f5e50315d559a9a51d"
 metafile = true
 
 [[files]]
@@ -504,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9ee84bdf71ae7963fabc99e8bb44acb72334d281b02ddac913e25daf7b81c143"
+hash = "7e27ab32357a80c066e6cdfabafc87f31f778a1ebaefe03f82e38d0763de760b"
 metafile = true
 
 [[files]]
@@ -539,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "c73fc3680d04bd42fafb0ac3e5e2dfc9e50cff44453ecf91b1bebca6da5107eb"
+hash = "87d16e6f43df61a8fb025a9977343bc2f026570d198f48d82ef087be0d9e29eb"
 metafile = true
 
 [[files]]
@@ -603,13 +606,18 @@ hash = "f81cb55c77a9610109346d67eeaff52d38c459340fd8a8daa9f73096faa094b5"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "6e212e9056ddaf5dda18ff6a243c118b1cf839a8ba42b999c594f85751896a33"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "b81427f9f7580470d1680035d05a8c49178d043e92536a50127af0e7daacb9e4"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "b51341c6f2ff3732617d7ffa3b3ed3d09c05d2d24fbc243734aefbe47f149f83"
+hash = "fcd2efc7933249606e692b7cfd6d041f4ab01e8d35c365c2497bbebbd476027f"
 metafile = true
 
 [[files]]
@@ -759,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "e738806b1099f2b4b950ec57816582f3b7afd7a0074a250e3f120aa78350bc7e"
+hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
@@ -774,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular.pw.toml"
-hash = "7d44aac0137dc9ca5de82b350e1e2602db35f599874627477a42d6e64e6b9403"
+hash = "9bceeadea46405d869a5b781efb109ac9fd7b4455c9c536092ccc93a135bad96"
 metafile = true
 
 [[files]]
@@ -819,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "9240fbe6244f61a6fa77547f25dd6f7abbbf0a8db8cf426e5b4bc1342e8d85f9"
+hash = "13ebec19d7e23c704bbe42e796ac37c3d78f41df8db47bb7c9886dacccc8aeb3"
 metafile = true
 
 [[files]]
@@ -835,6 +843,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-farmers-delight-compat.pw.toml"
 hash = "1b9625747845eac9c4a92135ec74201039b9f7677abbf42bc8b61f51986b5a1a"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "85a16f6d04a20d0ec7284621f1ab51407ce5fb08f260f71831498a786c9bbcc7"
 metafile = true
 
 [[files]]
@@ -864,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-death-improvements.pw.toml"
-hash = "13a72b712108dc3762bd5928575f2781f607007818c46ed3017d7565322f42d8"
+hash = "849f7e2735082499f72075fe50189c3e239521f30dd8535dda5b2fe2b376f2e6"
 metafile = true
 
 [[files]]
@@ -935,6 +948,11 @@ metafile = true
 [[files]]
 file = "mods/till-it-breaks-updated.pw.toml"
 hash = "82158ec8b6ffdc63e3658737663e68fda6bf30657bbe19ea8bf4c3ac51d49306"
+metafile = true
+
+[[files]]
+file = "mods/trample-no-more.pw.toml"
+hash = "8971b0ec0a0edc2e9f72a3a24f8a3ea4aff9e3a1cf8f475e8b49f009ac05a083"
 metafile = true
 
 [[files]]
@@ -1084,7 +1102,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "e21049e1505b849d2996e1390a6e91e3030a44277b873242cadfc074b576662d"
+hash = "8bf0e8313ec1a14958e26d47d8bcece9a5d74e26c37b8c8a095a22217c9a850a"
 metafile = true
 
 [[files]]
@@ -1118,3 +1136,7 @@ hash = "231f5f698f1f218e002143111caa702189ab3e28627531adcf6496e23c843d87"
 [[files]]
 file = "versions/1.1.2/changelog.txt"
 hash = "8af5b121a1943f41a74c0d4441fe98545f98bcb35bd50c45d0e54034a919afc2"
+
+[[files]]
+file = "versions/1.1.3/changelog.txt"
+hash = "a7a0cd9026dc182b807096f7277a70a6fdc225190611c7a2d3c978c28a3d82c8"
