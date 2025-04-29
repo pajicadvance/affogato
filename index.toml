@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "116ed069fb084b3cd39ae8a791507f045f9ef8e4ee137542680dd70218e7b6a6"
+hash = "e4311b846b3c0e565ec06cbb30c3a73d8acc62638fb67996c0c402ad91f27601"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "1cba549e76b1191963a00b04e597d47d1f970b0b1ec1f7f7eb02a6b744a04fba"
+hash = "a05328b797247977f00aef6f9fcc1ae55342f26a290fef4a35fa9f689e3db571"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessorify.pw.toml"
-hash = "415391c8f077b4eb310323688207f995849c5c83a51aa5a7af36fadda27bc823"
+hash = "c177716adab5bbcfcabffdd3bab154407d911a1ee52e8694d50a1b1e2e427cae"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "22d3f910fd4b529bf4e735395db2f632b40d4bd667423ec698e4330a5bfc819a"
+hash = "68eea01a09b45caa9db73aff2ebf6b9cbc6a4029738b5fe6568b52460109275b"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/crawl.pw.toml"
-hash = "cc91ff5c3286c387df7304de706d3d5c85ea0676175f21f2677e9d7436e48c5a"
+hash = "0c16cfd2b543608d3ce04f0a8110fd2e47a6b53f955f0113ee822c23ff4bc64d"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "06a6eb5eb9e1ccd8d9047617152f082a53a63f46a3ef9ca7fc34735a80d4848d"
+hash = "5536b1728eae600a820193a94f00ca54c8ee55e46c7d62f76362ba7bf40e7465"
 metafile = true
 
 [[files]]
@@ -812,7 +812,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "fb8c82bd41ae3eccb939cc7dae2d805171d7575ccfc6788591e96ab4097655a0"
+hash = "f55842e2485d7be3fcd497cf0e5d003a72a859bc0607c3b7d93b600b6eea4a47"
 metafile = true
 
 [[files]]
@@ -827,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "13ebec19d7e23c704bbe42e796ac37c3d78f41df8db47bb7c9886dacccc8aeb3"
+hash = "40befe7a1d1448e48cbbccf6e195461e2904d37f5b0bff2cc81512931f422be5"
 metafile = true
 
 [[files]]
@@ -1097,12 +1097,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "8bf0e8313ec1a14958e26d47d8bcece9a5d74e26c37b8c8a095a22217c9a850a"
+hash = "db3eac9aaadd5d732180a0dd7ae8a322c07386259a971b177f4f2fef50a29c6f"
 metafile = true
 
 [[files]]
@@ -1140,3 +1140,7 @@ hash = "8af5b121a1943f41a74c0d4441fe98545f98bcb35bd50c45d0e54034a919afc2"
 [[files]]
 file = "versions/1.1.3/changelog.txt"
 hash = "a7a0cd9026dc182b807096f7277a70a6fdc225190611c7a2d3c978c28a3d82c8"
+
+[[files]]
+file = "versions/1.1.4/changelog.txt"
+hash = "085d1bd85b5efef75f1f9988a4f58f84b5facd518651d58f2a0d9f6653610c6d"
