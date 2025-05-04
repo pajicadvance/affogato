@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "e4311b846b3c0e565ec06cbb30c3a73d8acc62638fb67996c0c402ad91f27601"
+hash = "3d7e2225444c64c2a3bd45c9acd22485a51eb680c4c16d421891ec3ee1f475db"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -210,7 +210,7 @@ hash = "e5b04f1809e0c7935512bc75210bb2169d7dd4ade4184fcd7727936f0f643266"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "007aa4ea8f5a0dc9cfc26f2589a296e3754456cffe84e8ddfe654b238c3e7df0"
+hash = "28e51f1e582369be2e58b7a85d8cc730dfaa1d129a0925b1a1865f3b31d00667"
 
 [[files]]
 file = "credits.txt"
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "a05328b797247977f00aef6f9fcc1ae55342f26a290fef4a35fa9f689e3db571"
+hash = "9eafcb2f1fe2e3d6df5a789500840818db9bdaea18d1ec50b4cfd119b087bac6"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "24828835695c3e91f506dab3bdd47e54cb31412187ab0670bbb09cfeb710994c"
+hash = "812c45e6d4bb3e7fda349dc1562222b7df1933033665476d11b95e5d65a87a87"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "da756fc8e9d124170b0ddfb68815335de72832f6ff973f7798765615bc867fab"
+hash = "d127299ac94c4f4bc105a911ab4057cc5aa6a3eeb5ad1628fdadc656bc989e56"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "f81cb55c77a9610109346d67eeaff52d38c459340fd8a8daa9f73096faa094b5"
+hash = "e7f5e2783c982ce541742165d90ea4567e75d4ed9efdca19b92eac7140b84342"
 metafile = true
 
 [[files]]
@@ -812,7 +812,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "f55842e2485d7be3fcd497cf0e5d003a72a859bc0607c3b7d93b600b6eea4a47"
+hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
 metafile = true
 
 [[files]]
@@ -877,12 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-death-improvements.pw.toml"
-hash = "849f7e2735082499f72075fe50189c3e239521f30dd8535dda5b2fe2b376f2e6"
-metafile = true
-
-[[files]]
-file = "mods/simple-ender-backpack.pw.toml"
-hash = "7136f87165f6028da02210e6658c4c3f0f1339c0e3368363e6684775f9c857f4"
+hash = "77a1879bc9a4baa313c40633bc5cd900d8bbd3abab6952157fc5fecda701cd69"
 metafile = true
 
 [[files]]
@@ -1002,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "19bfaf808255bb6a5508cb2c861779c433a5ed58e7889755938dc12cb479e912"
+hash = "2a72d78e734a09f3034fa77d850cc252cad1bc2b146754491e4792959d4cff96"
 metafile = true
 
 [[files]]
@@ -1144,3 +1139,7 @@ hash = "a7a0cd9026dc182b807096f7277a70a6fdc225190611c7a2d3c978c28a3d82c8"
 [[files]]
 file = "versions/1.1.4/changelog.txt"
 hash = "085d1bd85b5efef75f1f9988a4f58f84b5facd518651d58f2a0d9f6653610c6d"
+
+[[files]]
+file = "versions/1.1.5/changelog.txt"
+hash = "5698c027d81ef73418b3cf09a6f482359fc7df4e0602ed1befda914380ded68e"

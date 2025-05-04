@@ -11,6 +11,7 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.accessorify.use_spyglass:key.keyboard.c
 key_key.accessorify.open_shulker_box:key.keyboard.b
+key_key.accessorify.open_ender_chest:key.keyboard.v
 key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown
 key_net.clayborn.accurateblockplacement.togglefastbreaking:key.keyboard.unknown
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
@@ -46,7 +47,6 @@ key_key.shouldersurfing.toggle_third_person_front:key.keyboard.unknown
 key_key.shouldersurfing.toggle_third_person_back:key.keyboard.unknown
 key_key.shouldersurfing.free_look:key.keyboard.unknown
 key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.unknown
-key_key.simple_ender_backpack.open_ender_backpack:key.keyboard.v
 key_key.simple_music_control.next_music_track:key.keyboard.m
 key_viewboboptions.add_item_bind:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.i
