@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "24faf6fbd013cca4d1299e2a1ab5dd04c1bf9de47d983fc5169640b7de483d3e"
+hash = "71c8bd141638534a6651eb8ddaeacc658481fdf3380021dffe6f2bce6a468d0a"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
