@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "929fda6ecc4324cd141a3f085784c62ce01b17f4c05e4cf3906840ff50601c49"
+hash = "16c244822a20af119ff440ae9306b6fe42c8f775144f87628eea8685f16de8ac"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "71c8bd141638534a6651eb8ddaeacc658481fdf3380021dffe6f2bce6a468d0a"
+hash = "4ca9c4e22ae89c7df8ed2822d436ef895dfba1c9b2fc7534b3a35c979d5b1818"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-potions.pw.toml"
-hash = "673e58634dd7f37d43652ec247293f1e09249f967518f47b2887f5f027ee5139"
+hash = "b7c7c8020ec6784c85fe56860c6cd3022790e50225964ca29527105f744c8ae3"
 metafile = true
 
 [[files]]
@@ -1132,3 +1132,7 @@ hash = "5698c027d81ef73418b3cf09a6f482359fc7df4e0602ed1befda914380ded68e"
 [[files]]
 file = "versions/1.1.6/changelog.txt"
 hash = "322ce69e4cf08c3c0e49c8fd0b4faf3085f02ee3476443d957e78ed71a3452d1"
+
+[[files]]
+file = "versions/1.1.7/changelog.txt"
+hash = "0a89edfe7262f6afc2402613376ecb7de1a168c2984b9cc717600d66dd7e6c74"

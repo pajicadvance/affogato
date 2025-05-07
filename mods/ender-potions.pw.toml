@@ -1,13 +1,13 @@
 name = "Ender Potions"
-filename = "ender_potions-1.0.0+1.21.1.jar"
+filename = "ender_potions-1.1.0+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/i1OXfCg4/versions/z5mzEHeU/ender_potions-1.0.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/i1OXfCg4/versions/Y0cAR8dT/ender_potions-1.1.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "0efa212427372c520af32791538eb52a4542dd0d89cc4217d520bf5a21d8ed366650003b17ae22ae7ea2ace42a944710cc7da74b8fb5de5c2502fceb6e5c4ac9"
+hash = "5000f49807acce63cd730883f0c466505b03eb86e21c59d34c43ba0d16ecf3957abf03af960e4dee39652e219f91b81e1c31c5fd610e46030b9ebd01633c6302"
 
 [update]
 [update.modrinth]
 mod-id = "i1OXfCg4"
-version = "z5mzEHeU"
+version = "Y0cAR8dT"
