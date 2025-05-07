@@ -49,10 +49,7 @@
 - Create a mass storage room with [Basic Storage](https://modrinth.com/mod/basic-storage)
 - Inspect the contents of chiseled bookshelves with [Bookshelf Inspector](https://modrinth.com/mod/bookshelf-inspector)
 ### 🎒 **Equipment**
-- Equip many items such as the Elytra, spyglass and shulker boxes as accessories with [Accessorify](https://modrinth.com/mod/accessorify)
-- Equip a lantern as an accessory and light your way with [Immersive Lanterns](https://modrinth.com/mod/immersive-lanterns)
-- Craft an Ender Backpack and manage your ender chest on the go with [Simple Ender Backpack](https://modrinth.com/mod/simple-ender-backpack)
-- Use sleeping bags to sleep on the go and hammocks to sleep through the day with [Comforts](https://modrinth.com/mod/comforts)
+- Equip many items such as the Elytra, spyglass, ender chest and shulker boxes as accessories with [Accessorify](https://modrinth.com/mod/accessorify)
 - Trim your tools and the Elytra for brand new looks with [Trimmable Tools](https://modrinth.com/datapack/trimmable-tools) and [Elytra Trims](https://modrinth.com/mod/elytra-trims)
 - Dye your bundles into unique colors with [Dyed Bundles](https://modrinth.com/mod/dyed-bundles)
 ### 📖 **Recipes**

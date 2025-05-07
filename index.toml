@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "3d7e2225444c64c2a3bd45c9acd22485a51eb680c4c16d421891ec3ee1f475db"
+hash = "929fda6ecc4324cd141a3f085784c62ce01b17f4c05e4cf3906840ff50601c49"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -146,7 +146,7 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
 [[files]]
 file = "config/yosbr/config/presencefootsteps/userconfig.json"
-hash = "987f6a6809a3dc76265c337d382cf7e27e88e9dc6e844b3d90734f2f1772ea97"
+hash = "d4efb9a5d1fbf29fe0c6e4d852f6d032057235f7bfc2a6ecb8c1049ab63ee742"
 
 [[files]]
 file = "config/yosbr/config/raised.json"
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "9eafcb2f1fe2e3d6df5a789500840818db9bdaea18d1ec50b4cfd119b087bac6"
+hash = "24faf6fbd013cca4d1299e2a1ab5dd04c1bf9de47d983fc5169640b7de483d3e"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -337,12 +337,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "68eea01a09b45caa9db73aff2ebf6b9cbc6a4029738b5fe6568b52460109275b"
+hash = "e3571ab81421bdc6d30b8de464156fce698ae72de775f33f4f32db0456160844"
 metafile = true
 
 [[files]]
 file = "mods/bundle-scroll.pw.toml"
-hash = "1b014c7b27bb339004d40e7050665e1762882ae01ee754557f47d7bcdcc12a7e"
+hash = "5d217c8ce2812fbb2661ab2a5637b5846a03bf5073de68ca5c2f1333e84bf25e"
 metafile = true
 
 [[files]]
@@ -383,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
-metafile = true
-
-[[files]]
-file = "mods/comforts.pw.toml"
-hash = "157e9ed75307c70b4c768fa15f3975b21ac5a70fc3580cd455e0aa8e23ff5d55"
 metafile = true
 
 [[files]]
@@ -437,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "71314f7a5609378c77f372c31d2c501a330cc901c6e4f6e060d7f3095d362086"
+hash = "4c0e419f24a9568c99e993d917f1c5a80fd5e005ec5205fbef443daf6b2f36e3"
 metafile = true
 
 [[files]]
@@ -507,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7e27ab32357a80c066e6cdfabafc87f31f778a1ebaefe03f82e38d0763de760b"
+hash = "71c1a36f3a6dc674f1b89e3d254a8e67d2a831b70f66c64e37cc998c419ad977"
 metafile = true
 
 [[files]]
@@ -578,11 +573,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "e6b1db1ab68060617a18d798dc6041533bf58044a078df62ae09fab803eb6e4b"
-metafile = true
-
-[[files]]
-file = "mods/immersive-lanterns.pw.toml"
-hash = "67073e76c80987fe6193fdb50f4db0991467ba3fa265829a132ca878e5261c0a"
 metafile = true
 
 [[files]]
@@ -717,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "0aa27cfe48f3b4a1a485e6fddeb5d806301204130ac51a1352abc10cb05ca1aa"
+hash = "e337058ca8f7d085fac6130de06428a9c57e0bf23a0ef8549078f0f3ae1e780e"
 metafile = true
 
 [[files]]
@@ -827,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "40befe7a1d1448e48cbbccf6e195461e2904d37f5b0bff2cc81512931f422be5"
+hash = "b3b5f943d23b2927258711c515d98292019b51d0ec31cfb4ae78bc3e743c107c"
 metafile = true
 
 [[files]]
@@ -867,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "a83adbd7c1e5b8fe05068e76a3ef7ff61612c3d194a9f278c1d13f3e492033c3"
+hash = "3547b9b5a9d64f378d71dfb111dfa83f0752a80a5fd2569c0af0cb517af245af"
 metafile = true
 
 [[files]]
@@ -887,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "da3f7a513ccd5beeb5c6a85371c54dd147f38a20ec94b2635dcf5a6470aa7bfc"
+hash = "b7b193226d186206b0aa80cd90dacd5e2f55b432046b29f3a708c6d52c3d8edd"
 metafile = true
 
 [[files]]
@@ -942,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/till-it-breaks-updated.pw.toml"
-hash = "82158ec8b6ffdc63e3658737663e68fda6bf30657bbe19ea8bf4c3ac51d49306"
+hash = "0029b4c670ee338b92086a8305bf588f5befe4aa27189b76cb4d47620fc09810"
 metafile = true
 
 [[files]]
@@ -953,11 +943,6 @@ metafile = true
 [[files]]
 file = "mods/trimmable-tools.pw.toml"
 hash = "ac17bd479ff808f1820799d43275a4e71586a8848d4b3ea326d83df6332c9469"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
-hash = "6c05d12e439d7363fa189bcf9c86081fc5e9859f03fcfed0f32d4ca916f2c3c0"
 metafile = true
 
 [[files]]
@@ -1143,3 +1128,7 @@ hash = "085d1bd85b5efef75f1f9988a4f58f84b5facd518651d58f2a0d9f6653610c6d"
 [[files]]
 file = "versions/1.1.5/changelog.txt"
 hash = "5698c027d81ef73418b3cf09a6f482359fc7df4e0602ed1befda914380ded68e"
+
+[[files]]
+file = "versions/1.1.6/changelog.txt"
+hash = "322ce69e4cf08c3c0e49c8fd0b4faf3085f02ee3476443d957e78ed71a3452d1"
