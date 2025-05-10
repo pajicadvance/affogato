@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "16c244822a20af119ff440ae9306b6fe42c8f775144f87628eea8685f16de8ac"
+hash = "0b98dcb0a3bd2d63988ad0b55e720a2aaf5391c2908506efb2d4403c6162cbb1"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -210,7 +210,7 @@ hash = "e5b04f1809e0c7935512bc75210bb2169d7dd4ade4184fcd7727936f0f643266"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "28e51f1e582369be2e58b7a85d8cc730dfaa1d129a0925b1a1865f3b31d00667"
+hash = "8b73fdb592c71304b54e1ea509e626be2be0863b5e3e11ff92f66ede712329cd"
 
 [[files]]
 file = "credits.txt"
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "4ca9c4e22ae89c7df8ed2822d436ef895dfba1c9b2fc7534b3a35c979d5b1818"
+hash = "c00ed3b9febc2448a2adc76bc205d3286b071b530c35ad010a54e6357b2513a2"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -276,6 +276,11 @@ hash = "60cd797dfe0cc7a6be4762120a05eed6e7068111b267e4da5993ef2229ce74dc"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
@@ -302,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ef031e859a6f4fc358334863d71fd87a3107924ed40ec8e380600a509886eee2"
+hash = "4092817e6f13ebf37ab245093b1d917eca8652f5ed276a8d3fb5bfd480c6529a"
 metafile = true
 
 [[files]]
@@ -377,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.pw.toml"
-hash = "079bea3672d2749f9ef9557b58f7f24f422b5ae128d9ea17e6dc539abd64de0e"
+hash = "2c9342092638f141ec6b6e5645fafa7eeacd2c8dbca9988526206304388d7e56"
 metafile = true
 
 [[files]]
@@ -512,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "d127299ac94c4f4bc105a911ab4057cc5aa6a3eeb5ad1628fdadc656bc989e56"
+hash = "4c13890573a2b182ebda63de41943b63ba369fcae1f7e15f8735825bc37f6a19"
 metafile = true
 
 [[files]]
@@ -547,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/globalpacks.pw.toml"
-hash = "7b25966f27e5170a071f506fa4968f25ff9e271ecd444c4c15443f27e82ef953"
+hash = "ac1f1e2c8cc15acff65a71d3d6fee600a4ba74303b5143ebc53b4c8df0a7323f"
 metafile = true
 
 [[files]]
@@ -817,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "b3b5f943d23b2927258711c515d98292019b51d0ec31cfb4ae78bc3e743c107c"
+hash = "e6a51b7ef1825c42da7593698236985246ee1e823da8178d1a4c7a0e62e75c85"
 metafile = true
 
 [[files]]
@@ -847,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/sensible-stackables.pw.toml"
-hash = "2fe9fe4544dce3258ffb1118470ba45d9930c64c90ff36f00ec6398e4da77380"
+hash = "09b5fdd12486704003a39590aa11e3c889bde24c90e9ac3f4950e55326a19f4d"
 metafile = true
 
 [[files]]
@@ -872,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-music-control.pw.toml"
-hash = "d7adc04c6c3e8cb69bb9439e3a2cc9fa672c9ccacbeddb5057808f5fbb347f3a"
+hash = "1edbbc8e3e6a4790965c3ea61635eeac562f4439525ab0dd8799f355f502d57e"
 metafile = true
 
 [[files]]
@@ -913,6 +918,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
 
 [[files]]
@@ -1136,3 +1146,7 @@ hash = "322ce69e4cf08c3c0e49c8fd0b4faf3085f02ee3476443d957e78ed71a3452d1"
 [[files]]
 file = "versions/1.1.7/changelog.txt"
 hash = "0a89edfe7262f6afc2402613376ecb7de1a168c2984b9cc717600d66dd7e6c74"
+
+[[files]]
+file = "versions/1.2.0/changelog.txt"
+hash = "e9a9b73f3dc7a3e89e2e31a7cba80408f62cac5a573aac3ee754b8104ac2cc1a"

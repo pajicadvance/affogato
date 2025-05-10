@@ -27,6 +27,7 @@
 - Cook stronger meals and grow new types of crops with [Farmer's Delight](https://modrinth.com/mod/farmers-delight-refabricated)
 - Right-click harvest your crops and use the hoe to harvest in a greater area with [RightClickHarvest](https://modrinth.com/mod/rightclickharvest)
 ### 🧭 **Navigation**
+- Map out the world and create map markers with [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4)
 - Equip the compass and clock as accessories to get your bearings, time and weather with [Accessorify](https://modrinth.com/mod/accessorify)
 - Write [Notes](https://modrinth.com/mod/notes) to keep track of your plans and interesting places you find
 - Craft [Chalk](https://modrinth.com/mod/chalk) to make your cave system and mineshaft trips less nauseous

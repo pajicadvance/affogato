@@ -1,0 +1,4 @@
+- Added Antique Atlas 4. If updating, the keybind to open the map will conflict with the next track keybind from Simple Music Control. New defaults are M to open map and U for next track.
+- ReArm 2.0.8 -> 2.0.9
+- Sensible Stackables 1.0.7 -> 1.0.8
+- Simple Music Control 1.1.0-yacl -> 1.2.1
