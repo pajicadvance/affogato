@@ -5,8 +5,8 @@ file = "LICENSE.txt"
 hash = "0bdfb0201d1803634f268cdff0993b8349d2c70e956a06dbb667c8dd65254ec5"
 
 [[files]]
-file = "config/global_data_and_resourcepacks.toml"
-hash = "f90bfd99629374fdeaa63aef21917d6907e0cc86cac6e886ccea30966c2bd69b"
+file = "config/global_packs.toml"
+hash = "12a6a7fd2194b77fde61445b876ac44eb0c8240155b0b2682cf44b190d0824cf"
 
 [[files]]
 file = "config/modpack-update-checker-info.txt"
@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "0b98dcb0a3bd2d63988ad0b55e720a2aaf5391c2908506efb2d4403c6162cbb1"
+hash = "2e3ab98e58d4acc73acbf9d40bf39f750358163e9b763765bd30f8c1ed682b45"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -129,10 +129,6 @@ file = "config/yosbr/config/modmenu.json"
 hash = "40691e76d43ed552ec5b71ec05304869bec313cf48a5c014007c2058660f2049"
 
 [[files]]
-file = "config/yosbr/config/moreculling.toml"
-hash = "68e9f33802188ad7fb08370529bc0f72c9513bcc678eb9db136abab833298a3c"
-
-[[files]]
 file = "config/yosbr/config/particlerain.json5"
 hash = "8cdff01963b4e0e8a44f089233d1f6d04da9a51f627bef3df3f97373e1b54a04"
 
@@ -233,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "c00ed3b9febc2448a2adc76bc205d3286b071b530c35ad010a54e6357b2513a2"
+hash = "62c1ac259bca6c1081a4fd480f83d9f1bcf2c54e50afe81fc6d53a7ba3cebda8"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -247,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessorify.pw.toml"
-hash = "c177716adab5bbcfcabffdd3bab154407d911a1ee52e8694d50a1b1e2e427cae"
+hash = "da75c5f7e8a89b59c709433b320fa30a6d42bed3044e2916f61fc1136ca22a63"
 metafile = true
 
 [[files]]
@@ -307,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "4092817e6f13ebf37ab245093b1d917eca8652f5ed276a8d3fb5bfd480c6529a"
+hash = "418113be8ddd63987f3bbd7f4b4d93b291f1d1ee7664a365a05cc2981c5743c1"
 metafile = true
 
 [[files]]
@@ -407,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/crawl.pw.toml"
-hash = "0c16cfd2b543608d3ce04f0a8110fd2e47a6b53f955f0113ee822c23ff4bc64d"
+hash = "895602d01d010ba10c9662f61d382393cdc270ba02d7cd8fb0d95f5fc7768972"
 metafile = true
 
 [[files]]
@@ -497,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "5536b1728eae600a820193a94f00ca54c8ee55e46c7d62f76362ba7bf40e7465"
+hash = "52a0532915e92bc6945b1afcc425cb660c5a18788d83f44c9eacf82e82034955"
 metafile = true
 
 [[files]]
@@ -512,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -552,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/globalpacks.pw.toml"
-hash = "ac1f1e2c8cc15acff65a71d3d6fee600a4ba74303b5143ebc53b4c8df0a7323f"
+hash = "8640ab14458b2f172297a48280177b474e0a416d5986c9718edabc4d12b08b56"
 metafile = true
 
 [[files]]
@@ -698,11 +694,6 @@ metafile = true
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
 metafile = true
 
 [[files]]
@@ -867,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "1bf438bbb1ae206a0133eaa45a1ee4e733554759e73b0dd3f8e46a23d5fa12bf"
+hash = "43500505cd9ccb41d9722586a0040be415ce71b6a93758b45d8176e925bd7851"
 metafile = true
 
 [[files]]
@@ -877,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-music-control.pw.toml"
-hash = "1edbbc8e3e6a4790965c3ea61635eeac562f4439525ab0dd8799f355f502d57e"
+hash = "e606a4e99857cfce273f21a255fccd7d72068903c8c41fe26fc440b219447638"
 metafile = true
 
 [[files]]
@@ -1150,3 +1141,7 @@ hash = "0a89edfe7262f6afc2402613376ecb7de1a168c2984b9cc717600d66dd7e6c74"
 [[files]]
 file = "versions/1.2.0/changelog.txt"
 hash = "372ba1a36a6d94e37914e0209bf283c61be7613741bf64ddd7b3b2c4a67b538d"
+
+[[files]]
+file = "versions/1.2.1/changelog.txt"
+hash = "0e29b38feb0bfed9522e03a74457ea1fbd3a80e6996f4ba4bf19b0b3f9a2de34"

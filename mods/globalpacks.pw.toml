@@ -1,13 +1,13 @@
 name = "Global Packs"
-filename = "globalpacks-fabric-1.21.1-21.0.2.jar"
+filename = "globalpacks-fabric-1.21.1-21.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/zUbmGxkz/globalpacks-fabric-1.21.1-21.0.2.jar"
+url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/cXkVmSIV/globalpacks-fabric-1.21.1-21.0.3.jar"
 hash-format = "sha512"
-hash = "83e339e2697cef0e331b7b1e98dfbee08af68c624c3b19663e599afaef80da05efb158e016daca8a8ade89434356ec138f9b72e9422c684670f2174c18d48856"
+hash = "5eeb1e886c7970010d6fdc1d213b588275d15256571182d97a3d692494eb70b9a6923b0563edc2eb5bac96895b774552b79c6d50add19f8ae5b56e70be7e2fc2"
 
 [update]
 [update.modrinth]
 mod-id = "NRLPy2mk"
-version = "zUbmGxkz"
+version = "cXkVmSIV"
