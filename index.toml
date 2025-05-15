@@ -174,7 +174,7 @@ hash = "656ed75fbb97349e66b56ead74392dcb9e33e3856a80cab93917a09560aa4827"
 
 [[files]]
 file = "config/yosbr/config/simple_music_control.json5"
-hash = "3f687b172081e7734d0bf2d57692b255c6f841f97af5a81f66c07156711b42ea"
+hash = "2625813c71f7e2c4929ba19411fbce25f0002a510e32b3d77862185064739827"
 
 [[files]]
 file = "config/yosbr/config/simple_smithing_overhaul.json5"
