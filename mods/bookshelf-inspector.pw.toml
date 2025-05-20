@@ -1,13 +1,13 @@
 name = "Bookshelf Inspector"
-filename = "Bookshelfinspector-1.8+1.21.1.jar"
+filename = "Bookshelfinspector-1.11+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rOrXjyPb/versions/dj7k0i1W/Bookshelfinspector-1.8%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/rOrXjyPb/versions/G6GN2FRZ/Bookshelfinspector-1.11%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "3ca67014be371a052dfa3f787316b589ba0b6f5e48016d43b87549e3151a548e2d2ba95dfdc0f2e1d83cc735ae179b1950c575100435895b86d336533ed124b3"
+hash = "57442f0043f7f30430f3e617ac86ead640ea31841273961bae22c178ee4efc402268116d82b58e1624b368b8d377eb8521d1834092065e33a492e390e2c51dda"
 
 [update]
 [update.modrinth]
 mod-id = "rOrXjyPb"
-version = "dj7k0i1W"
+version = "G6GN2FRZ"

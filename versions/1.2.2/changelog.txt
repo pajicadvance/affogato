@@ -1,0 +1,5 @@
+- Added back Comforts as the conflict with Accessories got resolve
+- Changed default config for Shulker Box Tooltips
+- Accessories 1.1.0-beta.42 to 1.1.0-beta.43
+- Accessorify 1.4.2 to 1.4.3
+- ReArm 2.0.9 to 2.0.11

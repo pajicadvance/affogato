@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "2e3ab98e58d4acc73acbf9d40bf39f750358163e9b763765bd30f8c1ed682b45"
+hash = "5deef1ced8d392c01791cec74ff3fda611886c8bcb7a42d20997e79a2a5b51a5"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -169,6 +169,10 @@ file = "config/yosbr/config/shouldersurfing-client.toml"
 hash = "cfe4dd332e1d0b9f8fb6c2568599ae45a341a51147f154705ae4074a1cac034e"
 
 [[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "26f318609f76730d162840f27d0f70d4dad3ad36bc263650db803e834be7c552"
+
+[[files]]
 file = "config/yosbr/config/simple_death_improvements.json5"
 hash = "656ed75fbb97349e66b56ead74392dcb9e33e3856a80cab93917a09560aa4827"
 
@@ -229,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "62c1ac259bca6c1081a4fd480f83d9f1bcf2c54e50afe81fc6d53a7ba3cebda8"
+hash = "2895cb3e0399282b3cf9c994674567ce360b4dcff9b0cd376106ebc4d20f101c"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -238,12 +242,12 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "bb6f0e56a9aefee5c449c1b5a48f5edfb4ea1cd7e274a8227413f5ecc6389f63"
+hash = "05e3fa4144ef169a66d5af6bfe9868153986201f177239a95910855aaccba733"
 metafile = true
 
 [[files]]
 file = "mods/accessorify.pw.toml"
-hash = "da75c5f7e8a89b59c709433b320fa30a6d42bed3044e2916f61fc1136ca22a63"
+hash = "7b978041604bca94519def380bdfeb294fca1b08c3fa14dc3471ce9ff8238442"
 metafile = true
 
 [[files]]
@@ -333,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-inspector.pw.toml"
-hash = "fa7656f96a0a6a280197c858aca3e974739eacb354e42c82697a134970203c0e"
+hash = "6d83e3f3500b53bc17d90c0356a0b257bcb900acb8108f84145bf15fd563f7b5"
 metafile = true
 
 [[files]]
@@ -387,6 +391,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "157e9ed75307c70b4c768fa15f3975b21ac5a70fc3580cd455e0aa8e23ff5d55"
+metafile = true
+
+[[files]]
 file = "mods/configurable.pw.toml"
 hash = "b449cf542c7506828a71c44f1c43970cc5597d36484887df99956ed2e90eb823"
 metafile = true
@@ -418,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/deimos.pw.toml"
-hash = "e4c22c80648c7e96ee8e90675b6f8444ac64905882284d70a60d2a9211d717ac"
+hash = "6629036d01d281c001168ea901675909818e66a3e59dfb559cf20ab320ab65c4"
 metafile = true
 
 [[files]]
@@ -628,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "e903d9958d442f8cbd2dd05806a85e59a7e8a7d499a0b016853b2fe90cd98615"
+hash = "734dda44363d5dd67fb5478e018e62b2091c8d6173ce5d4ffb88b3e777ff594d"
 metafile = true
 
 [[files]]
@@ -673,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d2eef785df399c7b45f20ecc3d07e1749b4bff2b2f87dc1c47d3a339996569c2"
+hash = "e82c4d4a21b46e5e0c71750f4843a9816f79c0fc1ecda31df8f40c43daa30d12"
 metafile = true
 
 [[files]]
@@ -793,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "33fd0d8f99ff36c8d1c5ee622dd57df3b35e1e0e9b7411bf2c69d2ac71e9219d"
+hash = "fb64786c11ef1f6d2a6ca19aa9b20ebd5515f00abc48b64b9050b2fcdb1b1cdb"
 metafile = true
 
 [[files]]
@@ -813,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "e6a51b7ef1825c42da7593698236985246ee1e823da8178d1a4c7a0e62e75c85"
+hash = "5b88b8dc183f3a06be8b61955b091324e0ffaa7cce3fb427e63e95398d6710e0"
 metafile = true
 
 [[files]]
@@ -823,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "f2b2aecde8c0a147074e95a27fc59cde62997fce67dbb678f3c0f59af615f663"
+hash = "0d29b84ae287a5d6e0571fe1f55951b9f4991fb4005be3127b9d9c7964e71fc9"
 metafile = true
 
 [[files]]
@@ -853,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "3547b9b5a9d64f378d71dfb111dfa83f0752a80a5fd2569c0af0cb517af245af"
+hash = "b4dc119f054754428ccc84814f047cc368252d166e6a825e6a574302d3552f48"
 metafile = true
 
 [[files]]
@@ -1145,3 +1154,7 @@ hash = "372ba1a36a6d94e37914e0209bf283c61be7613741bf64ddd7b3b2c4a67b538d"
 [[files]]
 file = "versions/1.2.1/changelog.txt"
 hash = "0e29b38feb0bfed9522e03a74457ea1fbd3a80e6996f4ba4bf19b0b3f9a2de34"
+
+[[files]]
+file = "versions/1.2.2/changelog.txt"
+hash = "771377515cefcf9129e8a641a6f27d31b44e8e3a188f3f1a42f40d5a8a2e460a"
