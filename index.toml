@@ -14,7 +14,7 @@ hash = "d72feef1a181fc21fe61cf311aeb8a76cd9ea9b5cc207356bd273591373c92c3"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "5deef1ced8d392c01791cec74ff3fda611886c8bcb7a42d20997e79a2a5b51a5"
+hash = "522eb387ce9142c1645b019c86c60785f754182c71b016cfb231df2de9f58a7e"
 
 [[files]]
 file = "config/yosbr/config/HorseBuff.toml"
@@ -178,7 +178,7 @@ hash = "656ed75fbb97349e66b56ead74392dcb9e33e3856a80cab93917a09560aa4827"
 
 [[files]]
 file = "config/yosbr/config/simple_music_control.json5"
-hash = "2625813c71f7e2c4929ba19411fbce25f0002a510e32b3d77862185064739827"
+hash = "07a28b5125ebbd5aaa7e048387dd81ec53a27b868f1a5a51f0d51422074b8ccf"
 
 [[files]]
 file = "config/yosbr/config/simple_smithing_overhaul.json5"
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "meta.json"
-hash = "2895cb3e0399282b3cf9c994674567ce360b4dcff9b0cd376106ebc4d20f101c"
+hash = "298d7844f8ecc7aaa4ad82794102056de04fa6536ebd4056b64e52f522bce9c3"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -1173,3 +1173,7 @@ hash = "0e29b38feb0bfed9522e03a74457ea1fbd3a80e6996f4ba4bf19b0b3f9a2de34"
 [[files]]
 file = "versions/1.2.2/changelog.txt"
 hash = "771377515cefcf9129e8a641a6f27d31b44e8e3a188f3f1a42f40d5a8a2e460a"
+
+[[files]]
+file = "versions/1.2.3/changelog.txt"
+hash = "34dfb9fe995656b0b8fcadc743483acf7e14c09f821816360ef06f6823997acf"
