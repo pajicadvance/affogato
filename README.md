@@ -12,7 +12,7 @@
 <h2><center>Features</center></h2>
 
 ### 🌍 **World**
-- Improved Overworld with [Geophilic](https://modrinth.com/datapack/geophilic)
+- Improved Overworld with [Geophilic](https://modrinth.com/datapack/geophilic) and [Cliff under a Tree](https://modrinth.com/datapack/clifftree)
 - Improved Nether with [Amplified Nether](https://modrinth.com/datapack/amplified-nether)
 - Improved End with [Nullscape](https://modrinth.com/datapack/nullscape)
 - New and improved structures with [YUNG's structure mods](https://modrinth.com/user/YUNGNICKYOUNG) and [Repurposed Structures](https://modrinth.com/mod/repurposed-structures-fabric), extensively configured for vanilla consistency
@@ -51,6 +51,7 @@
 - Inspect the contents of chiseled bookshelves with [Bookshelf Inspector](https://modrinth.com/mod/bookshelf-inspector)
 ### 🎒 **Equipment**
 - Equip many items such as the Elytra, spyglass, ender chest and shulker boxes as accessories with [Accessorify](https://modrinth.com/mod/accessorify)
+- Use sleeping bags to sleep on the go and hammocks to sleep through the day with [Comforts](https://modrinth.com/mod/comforts)
 - Trim your tools and the Elytra for brand new looks with [Trimmable Tools](https://modrinth.com/datapack/trimmable-tools) and [Elytra Trims](https://modrinth.com/mod/elytra-trims)
 - Dye your bundles into unique colors with [Dyed Bundles](https://modrinth.com/mod/dyed-bundles)
 ### 📖 **Recipes**

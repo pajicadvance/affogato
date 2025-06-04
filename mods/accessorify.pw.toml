@@ -1,13 +1,13 @@
 name = "Accessorify"
-filename = "accessorify-1.4.3+1.21.1.jar"
+filename = "accessorify-1.4.4+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CVRzrXGP/versions/2SzzcYSO/accessorify-1.4.3%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/CVRzrXGP/versions/tpNl4yPQ/accessorify-1.4.4%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "c5570d7ae0b3005d321806344a10277999cd3e7127f58e49bfdb17a3d279c3b8f5c2ae46b3379696e488517831a67d9c5fb1af7d4a3efdb805e3a291af249ec6"
+hash = "61a94aa202c8a31b5ba05fbffca9a706f00c6d24dc9aab805d70281bfc85d05937d525f05dcf457bd405c61d356fbacffc780f66728c05830bbc6f749f2e9988"
 
 [update]
 [update.modrinth]
 mod-id = "CVRzrXGP"
-version = "2SzzcYSO"
+version = "tpNl4yPQ"
