@@ -15,11 +15,10 @@
 - Improved Overworld with [Geophilic](https://modrinth.com/datapack/geophilic) and [Cliff under a Tree](https://modrinth.com/datapack/clifftree)
 - Improved Nether with [Amplified Nether](https://modrinth.com/datapack/amplified-nether)
 - Improved End with [Nullscape](https://modrinth.com/datapack/nullscape)
-- New and improved structures with [YUNG's structure mods](https://modrinth.com/user/YUNGNICKYOUNG) and [Repurposed Structures](https://modrinth.com/mod/repurposed-structures-fabric), extensively configured for vanilla consistency
+- New vanilla structure variants with [Repurposed Structures](https://modrinth.com/mod/repurposed-structures-fabric), extensively configured for vanilla consistency
 ### ⚔️ **Combat**
 - Use brand new weapon abilities and take advantage of improved and rebalanced weaponry with [ReArm: Combat Overhaul](https://modrinth.com/mod/rearm)
 - Parry attacks and upgrade your shield with [Guarding](https://modrinth.com/mod/guarding)
-- Face more armored enemies with [Armorful](https://modrinth.com/mod/armorful)
 ### 🔨 **Smithing**
 - Repair your items over time and upgrade them in new ways with [Simple Smithing Overhaul](https://modrinth.com/mod/simple-smithing-overhaul)
 - Pay less experience levels with [Tax Free Levels](https://modrinth.com/mod/tax-free-levels)
@@ -33,9 +32,9 @@
 - Craft [Chalk](https://modrinth.com/mod/chalk) to make your cave system and mineshaft trips less nauseous
 - Use compasses on now cheaper Lodestones to make your way back to important places easier
 ### 🛞 **Transportation**
-- Figure out how to use the reworked Elytra efficiently without firework boosting with [Eleron](https://modrinth.com/mod/eleron)
+- Figure out how to use the reworked Elytra efficiently without firework boosting with [Aileron](https://modrinth.com/mod/aileron)
 - Create much faster railways with [Audaki's Cart Engine](https://modrinth.com/mod/audaki-cart-engine)
-- Ride significantly improved horses and equip them with enchanted horse armor and horseshoes with [Horse Buff](https://modrinth.com/mod/horsebuff) and [Vanilla* Horses](https://modrinth.com/mod/vanillastar-horses)
+- Ride significantly improved horses and equip them with enchanted horse armor and horseshoes with [Horseman](https://modrinth.com/mod/horseman) and [Vanilla* Horses](https://modrinth.com/mod/vanillastar-horses)
 - Transport villagers easily using camels and llamas with [Villager Transportation](https://modrinth.com/datapack/villager-transportation)
 ### 🏕️ **Survival**
 - Sleep in accelerated real time with [SleepWarp](https://modrinth.com/mod/sleep-warp-updated) - make sure to not sleep outside, or mobs may spawn and attack you during the night!
@@ -47,10 +46,10 @@
 - Equip the Calendar as an accessory to see the current season at all times with [Accessorify](https://modrinth.com/mod/accessorify)
 ### 🪑 **Furniture**
 - Decorate your home with pieces from [Another Furniture](https://modrinth.com/mod/another-furniture)
-- Create a mass storage room with [Basic Storage](https://modrinth.com/mod/basic-storage)
+- Create functional mass storage with [Storage Drawers](https://modrinth.com/mod/storagedrawers) and [Simple Copper Pipes](https://modrinth.com/mod/simple-copper-pipes)
 - Inspect the contents of chiseled bookshelves with [Bookshelf Inspector](https://modrinth.com/mod/bookshelf-inspector)
 ### 🎒 **Equipment**
-- Equip many items such as the Elytra, spyglass, ender chest and shulker boxes as accessories with [Accessorify](https://modrinth.com/mod/accessorify)
+- Equip many items such as the Elytra, spyglass, lanterns, ender chest and shulker boxes as accessories with [Accessorify](https://modrinth.com/mod/accessorify)
 - Use sleeping bags to sleep on the go and hammocks to sleep through the day with [Comforts](https://modrinth.com/mod/comforts)
 - Trim your tools and the Elytra for brand new looks with [Trimmable Tools](https://modrinth.com/datapack/trimmable-tools) and [Elytra Trims](https://modrinth.com/mod/elytra-trims)
 - Dye your bundles into unique colors with [Dyed Bundles](https://modrinth.com/mod/dyed-bundles)
@@ -61,9 +60,10 @@
 - Craft Bundles from regular leather
 ### ✨ **Visuals**
 - Turn on your favorite shader with [Iris Shaders](https://modrinth.com/mod/iris)
+- Included shader preset for [Euphoria Patches](https://modrinth.com/mod/euphoria-patches) specifically tailored for this modpack, with vanilla-appropriate visuals and seasonal effects. This shader is included with the modpack and is the recommended shader to use
 - Dynamic lights with [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 - Connected glass and many vanilla texture improvements with [Continuity](https://modrinth.com/mod/continuity) and [Vanilla Tweaks](https://vanillatweaks.net/)
-- Enjoy unique falling leaves, waterfalls, water splashes and many more particle effects with [Particular](https://modrinth.com/mod/particular)
+- Enjoy falling leaves, waterfalls, water splashes and many more particle effects with [Particular](https://modrinth.com/mod/particular) and [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 - Experience improved weather conditions and effects from [Particle Rain](https://modrinth.com/mod/particle-rain)
 - Have nicer boat trips with [Wakes](https://modrinth.com/mod/wakes)
 - Eat in style with [Eating Animation](https://modrinth.com/mod/eating-animation)
@@ -72,7 +72,7 @@
 - Listen to soothing ambient sounds from [Euphonium](https://modrinth.com/mod/euphonium)
 - Immerse yourself in realistic sound effects with [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
 - Enjoy incredibly detailed footstep sounds from [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
-- Control background music playback with [Simple Music Control](https://modrinth.com/mod/simple-music-control)
+- Now Playing widget and background music playback control with [Simple Music Control](https://modrinth.com/mod/simple-music-control)
 ### 📱 **User Interface**
 - View recipes, usages, craftable items and crafting history with [EMI](https://modrinth.com/mod/emi)
 - See information about things you're looking at with [Jade](https://modrinth.com/mod/jade)
@@ -117,7 +117,6 @@
 
 **Resource packs**
 - [Vanilla Tweaks](https://vanillatweaks.net/)
-- [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
 - [Fancy Crops](https://modrinth.com/resourcepack/fancy-crops)
 - [Ore Variants](https://modrinth.com/resourcepack/ore-variants/versions)
 - [Spryzeen's Ore Glint](https://modrinth.com/resourcepack/spryzeens-ore-glint)

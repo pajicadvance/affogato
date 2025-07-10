@@ -54,7 +54,7 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:0.5
-soundCategory_music:0.15
-soundCategory_record:0.04
+soundCategory_music:0.25
+soundCategory_record:0.05
 soundCategory_weather:0.5
 soundCategory_neutral:0.5

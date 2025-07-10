@@ -1,0 +1,10 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+doAltitudeBasedSpawning = true
+spawnStartHeight = 160
+spawnFrequencyBase = 10
+spawnFrequencyRandomOffsetBound = 10
+phantomsRepelledByItem = true
+repellentItems = [
+    "minecraft:phantom_membrane"
+]

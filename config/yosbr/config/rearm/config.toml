@@ -1,0 +1,65 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+
+[bow]
+enablePerfectShot = true
+perfectShotAdditionalDamage = 2
+perfectShotTimeframe = 0.2
+enableBackstep = true
+backstepTimeframe = 5
+improvedMultishot = true
+maxMultishotLevel = 3
+additionalArrowsPerLevel = 1
+playerDrawingSounds = true
+mobDrawingSounds = true
+acceptMultishot = true
+bowNetheriteVariant = true
+
+[crossbow]
+improvedPiercing = true
+percentArmorIgnoredPerLevel = 15
+stopPiercingOnArmoredEntity = true
+fixedArrowDamage = true
+fixedArrowDamageAmount = 10
+modifyFireworkDamage = true
+baseFireworkDamage = 12
+damagePerFireworkStar = 3
+modifyLoadSpeed = true
+loadTime = 2.0
+rejectMultishot = true
+acceptPower = true
+acceptInfinity = true
+crossbowNetheriteVariant = true
+
+[sword]
+enableCriticalCounter = true
+criticalCounterTimeframe = 10
+improvedSweepingEdge = true
+sweepingEdgeAdditionalDamagePerMob = 1.0
+maxMobAmountUsedForDamageIncrease = 10
+rejectKnockback = true
+
+[axe]
+cripplingThrow = true
+cripplingThrowBleedingDuration = 120
+cripplingThrowBaseBleedingDPS = 1.0
+cripplingThrowBleedingDPSIncreasePerLevel = 0.5
+cripplingThrowBaseSlownessAmplifier = 1
+cripplingThrowSlownessAmplifierIncreasePerLevel = 1
+maxTimeStuckInTarget = 240
+enableCriticalCounter = false
+acceptKnockback = true
+acceptLooting = true
+
+[protection]
+meleeProtection = true
+elementalProtection = true
+magicProtection = true
+normalizeEnchantmentCosts = true
+allowMultipleProtectionEnchantments = true
+maxProtectionEnchantments = 2
+
+[tweaks]
+infinityFix = true
+infinimending = false
+craftTippedArrowsWithRegularPotions = true

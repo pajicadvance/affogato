@@ -2,7 +2,7 @@
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
-    "harvest_tool.show_unbreakable": true,
+    "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
     "energy_storage.style": "PROGRESS_BAR",
@@ -40,7 +40,7 @@
     "entity_armor": true,
     "harvest_tool.creative": false,
     "horse_stats": true,
-    "item_tooltip": false,
+    "item_tooltip": true,
     "entity_health": true,
     "enchantment_power": true,
     "zombie_villager": true,
@@ -59,11 +59,6 @@
     "entity": true,
     "entity_variant": true
   },
-  "reputation": {
-    "iron_golem": true,
-    "villager_snitch": true,
-    "villager_reputation": true
-  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
@@ -71,11 +66,8 @@
     "distance": false,
     "block_face": false,
     "coordinates": false,
-    "registry_name": "OFF",
+    "registry_name": "ADVANCED_TOOLTIPS",
     "block_properties": false,
     "mod_name": false
-  },
-  "balm": {
-    "jade": true
   }
 }

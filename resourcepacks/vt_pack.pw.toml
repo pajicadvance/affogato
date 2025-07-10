@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://github.com/pajicadvance/svo/raw/refs/heads/1.21.1/offsite/VanillaTweaks.zip"
 hash-format = "sha512"
-hash = "48b0824b7e9fd9c0c7b5fdfcdc4b2eed805d25cb4456791ecc9ae36a4fb4e248c41791b9249bcc1354923a11adcd1ba84400368c4fe5642f0575c24286c85460"
+hash = "73f37e82951ea8bf39a74ee811a55eed7af13a48777d8c37d94791c4b55f47504be7764c42df80edde25f0837c0a708e1c23e8153504d5adecfc33bb9fe9ea0f"

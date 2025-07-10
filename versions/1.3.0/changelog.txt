@@ -1,0 +1,29 @@
+## This update is incompatible with worlds from older versions. You will be prevented from loading old worlds.
+
+Added:
+- Storage Drawers: Replaces Basic Storage as the main storage mod. Comes with a config preset that ups the base drawer capacity and disables a lot of upgrade templates that don't fit the modpack
+- CraftTweaker: To remove some recipes from Storage Drawers
+- Simple Copper Pipes: Complements Storage Drawers quite well and also finally you have something to spend the 28 million copper blocks on
+- Falling Leaves: Better compat for Serene Seasons compared to falling leaves from Particular, which are now disabled in the config
+- More Culling: Re-added with a config that ignores blocks from Another Furniture to prevent x-ray issues
+- Config preset for Euphoria Patches: This is now the recommended shader
+
+Notable updates:
+- Accessorify: Equippable lantern with dynamic light support, accessories now have their own dedicated accessory slots instead of using and copying default ones
+- Simple Smithing Overhaul: Increased chance of enchanted books in loot and adjusted repair unit costs for a few items
+- MiscTweaks: Backported saddle changes from 1.21.6
+- ReArm: Reduced durability of netherite bow and crossbow, and normalized protection enchantment costs
+- Jade: Updated config to make the widget less intrusive
+
+Replaced:
+- HorseBuff -> Horseman: Essentially a continuation of HorseBuff as the author has permitted adding all features from it to Horseman
+- Better Mount HUD -> Horseman: Has the same functionality
+- Eleron -> Aileron: Is now updated to 1.21.1 (Eleron was a fork) and has Accessories compatibility out of the box
+
+Removed:
+- All YUNG's structure mods: Decided that these don't fit the theme of this modpack after all
+- Basic Storage: Replaced by Storage Drawers
+- Particle Rain: Decided that the effects from this mod are not worth the performance impact
+- Ender Potions: It's my own mod and I ended up not liking it, also it seems to be buggy for some people and I can't figure out why
+- Armorful: Someone pointed out that the mod seems to be bugged and doesn't do anything, which seems true
+- Default Dark Mode: No longer provided by default, apparently turns off some optimizations from ImmediatelyFast due to core shaders which change the text color

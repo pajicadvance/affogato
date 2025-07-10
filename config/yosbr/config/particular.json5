@@ -3,7 +3,7 @@
 	"cascades": true,
 	"waterfallSpray": true,
 	"fireflies": true,
-	"fallingLeaves": true,
+	"fallingLeaves": false,
 	"caveDust": true,
 	"chestBubbles": true,
 	"soulSandBubbles": true,

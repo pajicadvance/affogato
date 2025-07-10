@@ -9,3 +9,7 @@ server/
 
 # Exclude offsite files
 offsite/
+
+# Exclude version checker data
+versions/
+/meta.json

@@ -1,0 +1,2 @@
+#Tooltip with horse stats will be shown when looking at a horse when holding a food item that animal likes.
+horse_stats_tooltip = false

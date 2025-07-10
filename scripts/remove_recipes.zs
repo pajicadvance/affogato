@@ -1,0 +1,9 @@
+craftingTable.remove(<item:storagedrawers:obsidian_storage_upgrade>);
+craftingTable.remove(<item:storagedrawers:iron_storage_upgrade>);
+craftingTable.remove(<item:storagedrawers:gold_storage_upgrade>);
+craftingTable.remove(<item:storagedrawers:diamond_storage_upgrade>);
+craftingTable.remove(<item:storagedrawers:emerald_storage_upgrade>);
+craftingTable.remove(<item:storagedrawers:void_upgrade>);
+craftingTable.remove(<item:storagedrawers:conversion_upgrade>);
+craftingTable.remove(<item:storagedrawers:illumination_upgrade>);
+craftingTable.remove(<item:storagedrawers:portability_upgrade>);
