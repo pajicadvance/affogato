@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/pajicadvance/affogato/raw/refs/heads/1.21.1/offsite/panda-anti-dupe-1.1.0_1.21.1.jar"
 hash-format = "sha512"
-hash = "73f37e82951ea8bf39a74ee811a55eed7af13a48777d8c37d94791c4b55f47504be7764c42df80edde25f0837c0a708e1c23e8153504d5adecfc33bb9fe9ea0f"
+hash = "018adbefd61209002733f538ee7485aa7adeb9ee8578a541e3f397d8075ff4977e0c0dccc9f90c36f536e938d7355fe5f6130a020b8082d4880713f18856ac79"
