@@ -1,5 +1,0 @@
-- Removed More Culling (Caused x-ray issues with certain modded items)
-- Accessorify 1.4.1 to 1.4.2
-- Euphoria Patches 1.6.1 to 1.6.2
-- Global Packs 21.0.2 to 21.0.3
-- Simple Music Control 1.2.1 to 1.3.0

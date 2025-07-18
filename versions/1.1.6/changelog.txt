@@ -1,6 +1,0 @@
-- Removed Immersive Lanterns (Not too fitting with the pack and sometimes causes item loss on equipping)
-- Removed Comforts (Library mod SpectreLib shipped with the mod caused accessory inventory to get wiped out on world change)
-- Updated Till It Breaks to count arrows from Accessorify arrow slots
-- Updated Simple Smithing Overhaul to improve disenchanting XP reward calculation
-- Fixed bundle scrolling not working in multiplayer
-- Reduced default global volume of Presence Footsteps

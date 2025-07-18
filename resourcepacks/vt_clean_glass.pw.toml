@@ -3,6 +3,6 @@ filename = "CleanGlass.zip"
 side = "client"
 
 [download]
-url = "https://github.com/pajicadvance/svo/raw/refs/heads/1.21.1/offsite/CleanGlass.zip"
+url = "https://github.com/pajicadvance/affogato/raw/refs/heads/1.21.1/offsite/CleanGlass.zip"
 hash-format = "sha512"
 hash = "e153040c10deea99b5352558728ddcbda4c2bdc54da9ba00680f1c058b03704422917ccf94974d6e0d2164c5cf7403c4d7dcb3e6e6c162139783155a9427aa16"

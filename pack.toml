@@ -1,12 +1,12 @@
-name = "Simple Vanilla Overhaul"
+name = "Affogato"
 author = "pajic"
-version = "1.3.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "02c26bf0b847e445165f7481941a1372d1e64ada926bb8ec5458853a0224fa0e"
+hash = "7ac9fc5539ad2ccc3a9447383147fbd0df894dbef81ac751042b369daf47728c"
 
 [versions]
 fabric = "0.16.14"

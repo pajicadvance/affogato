@@ -1,5 +1,0 @@
-- Removed Cropped
-- Added RightClickHarvest
-- Added Trample no More
-- Fixed achievements from YUNG's Better Dungeons still triggering even though they should be disabled
-- Updated mods to their latest versions

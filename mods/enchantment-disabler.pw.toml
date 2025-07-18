@@ -1,0 +1,13 @@
+name = "Enchantment Disabler"
+filename = "enchantmentdisabler-3.3.2+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kd03i2oU/versions/qDxq0gX5/enchantmentdisabler-3.3.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "e76878a03d3cb5fb4e474c34603441560708f9445dac92585baf70de8665c8618614453404c538aa80560bbab2ddb889dd90597652a456bb67e9f7fc26074f9b"
+
+[update]
+[update.modrinth]
+mod-id = "Kd03i2oU"
+version = "qDxq0gX5"

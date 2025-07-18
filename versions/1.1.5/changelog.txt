@@ -1,3 +1,0 @@
-- Removed Simple Ender Backpack (Accessorify allows equipping an ender chest in the back slot)
-- Updated Simple Death Improvements to fix accessory deletion bug
-- Updated other mods to their latest versions
