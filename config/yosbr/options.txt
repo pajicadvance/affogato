@@ -2,7 +2,7 @@ version:3955
 enableVsync:true
 maxFps:260
 simulationDistance:8
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","itemswapper:default","file/VanillaTweaks.zip","file/CleanGlass.zip","continuity:glass_pane_culling_fix","file/better_looking_torches_v1.0.zip","file/Fancy Crops v1.1.zip","file/Ore Variants v2.9.zip","file/§6OreGlint_Sodium.zip","modglue:fditemswap","modglue:guardingitemswap","modglue:chalkitemswap","modglue:comfortsitemswap"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","itemswapper:default","file/VanillaTweaks.zip","file/CleanGlass.zip","continuity:glass_pane_culling_fix","file/better_looking_torches_v1.0.zip","file/Fancy Crops v1.2.zip","file/Ore Variants v2.9.zip","file/§6OreGlint_Sodium.zip","modglue:fditemswap","modglue:guardingitemswap","modglue:chalkitemswap","modglue:comfortsitemswap"]
 incompatibleResourcePacks:["appleskin","balm","blastingraw","bookshelf","clienttweaks","comforts","elytratrims","enchdesc","globalpacks","immersivelanterns","jade","kleeslabs","modernfix","netherportalfix","sereneseasons","spectrelib","trimmable_tools","txnilib","yet_another_config_lib_v3","file/Ore Variants v2.9.zip"]
 onboardAccessibility:false
 key_key.saveToolbarActivator:key.keyboard.unknown

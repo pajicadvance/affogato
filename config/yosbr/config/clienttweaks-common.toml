@@ -5,8 +5,8 @@ fireworkItems = [ "minecraft:firework_rocket" ]
 
 # Blocks that should be protected in the prevent accidental mining tweak.
 fragileBlocks = [ 
-    "minecraft:small_amethyst_bud", 
     "minecraft:medium_amethyst_bud", 
+    "minecraft:small_amethyst_bud", 
     "minecraft:budding_amethyst", 
     "minecraft:large_amethyst_bud"
 ]
@@ -58,6 +58,9 @@ disablePavingWithBlockInOffhand = true
 # This option will disable step assist added by other mods.
 disableStepAssist = false
 
+# This prevents the last durability from being used up.
+doNotUseLastMending = false
+
 # This prevents the last torch in the offhand from being placed.
 doNotUseLastTorch = false
 
@@ -76,7 +79,7 @@ masterVolumeSlider = true
 # This adds back the music volume slider to the options screen. Saves you a click!
 musicVolumeSlider = true
 
-# This prevents fireworks from being launched from your off hand if you are wearing an Elytra, unless you're flying.
+# This prevents fireworks from being launched from your offhand if you are wearing an Elytra, unless you're flying.
 noOffhandFireworksWithElytra = true
 
 # This prevents torches from being placed from your offhand at all.
@@ -85,11 +88,14 @@ noOffhandTorchAtAll = false
 # This prevents torches from being placed from your offhand if you have a block in your main hand.
 noOffhandTorchWithBlock = true
 
-# This prevents torches from being placed from your off hand if you have an empty main hand.
+# This prevents torches from being placed from your offhand if you have an empty main hand.
 noOffhandTorchWithEmptyHand = false
 
 # This prevents torches from being placed from your offhand if you have food in your main hand.
 noOffhandTorchWithFood = true
+
+# This prevents items from being used from your offhand if you have food in your main hand.
+noOffhandUseWithFood = false
 
 # This option makes the recipe book not shift the inventory when opened. Works best with smaller GUI scales / bigger resolutions.
 noRecipeBookShifting = false

@@ -42,7 +42,7 @@ hash = "2d775b580b0a2e8722f6971c4a8da968a51e36b1bfa34e4aa7bdea510d9b81cf"
 
 [[files]]
 file = "config/yosbr/config/clienttweaks-common.toml"
-hash = "03806041336957f6c08392308f504a6d9cde623f2c5011163958d82dfa0c940d"
+hash = "aa06ed26c80dba8d02a99867f72106a9fa9a8a6dd25bbb665eccd4e6a7cc6b0f"
 
 [[files]]
 file = "config/yosbr/config/darkness.json5"
@@ -194,7 +194,7 @@ hash = "aedd54cc2fa381a315839a032ec272d3e6285a2213806f61b1efc7ebc8c7da8d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4c1ca9e29e43492295b51fe617d1b550b0be9d643e5977a33c8cacab1ee09e8e"
+hash = "56efe99322f87d99936e5f80270fd63464b9a0e2257a936983d95e72d2477561"
 
 [[files]]
 file = "credits.txt"
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "b3f4a7309cbed4b6a6232a5048da5a354e1f34f9307f48ffee69dd1946a62011"
+hash = "c35b659642e1ce9d818a5282aef9ddef78e03cf20a886f91214429da0ad2e6ec"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "17af73d22f449faa340426baabcc2e2e1955b79d43590fd44752989c1aaccba4"
+hash = "ce5ecc38c8f634e1d5d4daa6b0c8e338a8349bec6d68d8e11b786f5cb5c557f0"
 metafile = true
 
 [[files]]
@@ -882,7 +882,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "641c0d8e5946b9a39feb21b7ea94c98bf1914773a50861a601f22da5587a0e7f"
+hash = "5407dabfa5dfd544dc327d1d43aee78cd65554230045fc4fdd1be1867056bacb"
 metafile = true
 
 [[files]]
