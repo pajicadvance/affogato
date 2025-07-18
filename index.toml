@@ -781,8 +781,9 @@ hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
-file = "mods/panda-anti-dupe.toml"
+file = "mods/panda-anti-dupe.pw.toml"
 hash = "f6c4008a1cfc1ee24e993a2c6d9974bf1496dd23f9cfa7916c1c5befcea6f508"
+metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
