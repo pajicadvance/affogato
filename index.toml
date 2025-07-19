@@ -194,7 +194,7 @@ hash = "aedd54cc2fa381a315839a032ec272d3e6285a2213806f61b1efc7ebc8c7da8d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1ece8165c52c05b55b468b0ccb79c8b5dd16b525312ae61a9c15301ca6102ea4"
+hash = "56efe99322f87d99936e5f80270fd63464b9a0e2257a936983d95e72d2477561"
 
 [[files]]
 file = "credits.txt"
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "0c56661a6f4dd248b2e7de56517d2d161e7b3062ec7746597c09c85c1376bef1"
+hash = "9b333dbe5131c5bbc66983191e6325691e018b2b615e9f0578251fdaa3339376"
 metafile = true
 
 [[files]]
@@ -738,11 +738,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "14570af8f3dc013245fc42f57b4cdf4cdc4670db0d162d94a3c92c53c0cd7f8c"
-metafile = true
-
-[[files]]
-file = "mods/no-mining-cooldown.pw.toml"
-hash = "1bced5ff7be1fd1d62db9b3b00b11e923b62f6d558c19044a55f3ed7fe3505bd"
 metafile = true
 
 [[files]]
