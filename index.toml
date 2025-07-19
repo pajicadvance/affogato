@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "7454789452cf97da4f3a1bee94f7f05157ab89f41d1f7455ac71899fd0eb2b1a"
+hash = "0c56661a6f4dd248b2e7de56517d2d161e7b3062ec7746597c09c85c1376bef1"
 metafile = true
 
 [[files]]
@@ -1006,11 +1006,6 @@ hash = "31142080f81d478ef52758f19b3c00d469a1aeccd59670f035f604c514a50dce"
 metafile = true
 
 [[files]]
-file = "mods/villager-transportation.pw.toml"
-hash = "a91b65f28097cc0440d16bf3b59007a9dd67620783292c3a90c9e1cf74196e27"
-metafile = true
-
-[[files]]
 file = "mods/wakes.pw.toml"
 hash = "f47b75ab81d6334bf93962de5537a7889a80ac587a833cf582262b8694b135b0"
 metafile = true
@@ -1023,11 +1018,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
-metafile = true
-
-[[files]]
-file = "mods/your-reputation-jade.pw.toml"
-hash = "382090fcd5db9ba034c4ed470f7262ca6603f99bbb4198fcfe91d90fed0018a0"
 metafile = true
 
 [[files]]
