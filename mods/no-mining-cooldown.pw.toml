@@ -1,0 +1,13 @@
+name = "No Mining Cooldown"
+filename = "nmc-2.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/azfbyO6s/versions/unLfkFcC/nmc-2.3.jar"
+hash-format = "sha512"
+hash = "dde5408835fea5a9649777ce9953f8733051b2da694e618eca649ebad928617dea1a1bc8292c07913523f152611c07340a566e07f94580582f4c2baa01bb333a"
+
+[update]
+[update.modrinth]
+mod-id = "azfbyO6s"
+version = "unLfkFcC"

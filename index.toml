@@ -194,7 +194,7 @@ hash = "aedd54cc2fa381a315839a032ec272d3e6285a2213806f61b1efc7ebc8c7da8d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "56efe99322f87d99936e5f80270fd63464b9a0e2257a936983d95e72d2477561"
+hash = "1ece8165c52c05b55b468b0ccb79c8b5dd16b525312ae61a9c15301ca6102ea4"
 
 [[files]]
 file = "credits.txt"
@@ -491,6 +491,11 @@ hash = "3a1963f44125196bbab4300d00e39fd8a85c24138ffe9badf5baf265f698f8a1"
 metafile = true
 
 [[files]]
+file = "mods/extrasoundsforge.pw.toml"
+hash = "1b636c17a9bc68562c13d75439f9d8cbef3ba7005bac6eb7ac45baf7ba4e4226"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "c45656db928ed544c927449b5ceac0feef9488b0ea4154cab9199b37817cd4d5"
 metafile = true
@@ -538,11 +543,6 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "3b0341c1402b0319857591a4adc876fb98360b30995e01b280d6f4cd35d59325"
-metafile = true
-
-[[files]]
-file = "mods/geophilic.pw.toml"
-hash = "1eca834248d3420fd44ffb6cc17194c94c974e331e324f579ed5ae9a649a2526"
 metafile = true
 
 [[files]]
@@ -738,6 +738,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "14570af8f3dc013245fc42f57b4cdf4cdc4670db0d162d94a3c92c53c0cd7f8c"
+metafile = true
+
+[[files]]
+file = "mods/no-mining-cooldown.pw.toml"
+hash = "1bced5ff7be1fd1d62db9b3b00b11e923b62f6d558c19044a55f3ed7fe3505bd"
 metafile = true
 
 [[files]]
