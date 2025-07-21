@@ -1,6 +1,6 @@
 name = "Structure Layout Optimizer"
 filename = "structure_layout_optimizer-fabric-1.0.10.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ayPU0OHc/versions/WgynUIut/structure_layout_optimizer-fabric-1.0.10.jar"

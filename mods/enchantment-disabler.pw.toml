@@ -1,6 +1,6 @@
 name = "Enchantment Disabler"
 filename = "enchantmentdisabler-3.3.2+1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Kd03i2oU/versions/qDxq0gX5/enchantmentdisabler-3.3.2%2B1.21.1.jar"

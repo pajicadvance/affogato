@@ -202,12 +202,12 @@ hash = "63c7a18a56d4c1912554f92cf493ae6b746ada7fb099afb7c97f0b9a73866a5a"
 
 [[files]]
 file = "datapacks/rs_config.pw.toml"
-hash = "8c8a70c9a59df4bc6815279b47c58d7c9260a02357ccaf4b6a48bce5cb95273a"
+hash = "7e471e387bd3a7bc28331d05ecb5832dc96ede4d29d738b9981d6c419b330efe"
 metafile = true
 
 [[files]]
 file = "mods/abridged.pw.toml"
-hash = "85e82cbf77679afdfecd780c72b5d94b444af325676bdeb836b7ebd5989ee03d"
+hash = "158e2ba42a0f4cdc09dc8582a8c523fac6f82bfb787bca425f71b437f5029f8e"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "5f216949133d5a3edde1400800fda2f2d0de2ab0e6f78271d6c4b4801147bf5a"
+hash = "76abd867eaf6444facf009ec9f50268f395044ca266e6102102ce630f9da29cc"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "6d54a46692045cfc01f46f0112c658e8ca431bce160493f9669afbe9c1cbf007"
+hash = "180dec9fe7342d7a48b3dbe726b5611e823d364f26ea1b193b2343e792be3638"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-disabler.pw.toml"
-hash = "622e1848139032a3111895f716a282bfd840e4c2c6921740653e1a6ac11cc064"
+hash = "b43169184f3d96eab24d08cdc0069f3628aa860bacc652fb468296112d412ec0"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "46ac5822410dcc453731382dab9d23eef7cd3773e040c3dd3c6d5d0d88a4b21c"
+hash = "d48569865401a1a2e7c172be1c7b585a2d23abf9ec6bd3bcd22d25d98a278f9a"
 metafile = true
 
 [[files]]
@@ -837,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "ee111ee835211f4fb6c5a03cb3afe60760295e4c2512515cf63f8c2f0564bead"
+hash = "ed4c8526264cf7b19fbe8dc83803aa536d5a033fcecec890c4a8ffcbb7b3cc3b"
 metafile = true
 
 [[files]]
@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "8332883ba7749d4928d18aa3e23ebea16f0174b27c5f872c5664ac9fb8696edf"
+hash = "a388c7e1cb4e9d632f9b8acbc06b2b644bb06311048de26637c0bc1bdf2065e8"
 metafile = true
 
 [[files]]

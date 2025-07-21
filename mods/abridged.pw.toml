@@ -1,6 +1,6 @@
 name = "Abridged"
 filename = "abridged-2.0.0-fabric-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tb5O1ssC/versions/1i7fJ6Mf/abridged-2.0.0-fabric-1.21.1.jar"
