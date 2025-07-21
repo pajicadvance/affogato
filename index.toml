@@ -118,7 +118,7 @@ hash = "47fe56b1bb9f8163018e042b2685144bc7dbda692da111fb53ef0c5b2a538cc6"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "40691e76d43ed552ec5b71ec05304869bec313cf48a5c014007c2058660f2049"
+hash = "43f72c561333150cb63024ce9bcb5449e4c7e65d25f2c175e4f6139ee02f1446"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -194,7 +194,7 @@ hash = "aedd54cc2fa381a315839a032ec272d3e6285a2213806f61b1efc7ebc8c7da8d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "56efe99322f87d99936e5f80270fd63464b9a0e2257a936983d95e72d2477561"
+hash = "46e9fb7411141dce407dd8e92466e8cee2c18ab20077f22ac4dfe7d9559e72ab"
 
 [[files]]
 file = "credits.txt"
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "1f49a497c275646682484a72f0554e327de18b5f0854c8ee57713b02f694d917"
+hash = "5f216949133d5a3edde1400800fda2f2d0de2ab0e6f78271d6c4b4801147bf5a"
 metafile = true
 
 [[files]]
@@ -897,7 +897,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-death-improvements.pw.toml"
-hash = "cadb3727f5426ebd5587765251ac8e1926539cb25fbbeaa05320e9a183716b13"
+hash = "a39bec265fdcaea1c1a34ee6f0ae069016d5abf5a2ed5ffde2532fdd626de24d"
 metafile = true
 
 [[files]]
