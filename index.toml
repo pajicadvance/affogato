@@ -202,7 +202,7 @@ hash = "63c7a18a56d4c1912554f92cf493ae6b746ada7fb099afb7c97f0b9a73866a5a"
 
 [[files]]
 file = "datapacks/rs_config.pw.toml"
-hash = "7e471e387bd3a7bc28331d05ecb5832dc96ede4d29d738b9981d6c419b330efe"
+hash = "87533c9d3d5c834cb3a45f87564c836ae05dfe4ee845c1d25d88803c2f94d975"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "76abd867eaf6444facf009ec9f50268f395044ca266e6102102ce630f9da29cc"
+hash = "44b4477cc9485ee8a3770c80ef57bcdd14e8b98b03ef178a62cc8cfcd03ae7ab"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
+hash = "6afc47cce5b7aa63fb1841b92e532a49f4b9a480e5f99ce92b1a220013b53c21"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "b1283b9b478bbd75b4f46390a3cddb367306bb727289b096aa8ac1ed6e34d270"
+hash = "1cca91667385ce640a717f0a6df652fff15fa6df0e69de83ff8bce3a55b735d0"
 metafile = true
 
 [[files]]
