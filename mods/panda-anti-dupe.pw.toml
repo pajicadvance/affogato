@@ -1,8 +1,0 @@
-name = "Panda Anti Dupe"
-filename = "panda-anti-dupe-1.1.0_1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/pajicadvance/affogato/raw/refs/heads/1.21.1/offsite/panda-anti-dupe-1.1.0_1.21.1.jar"
-hash-format = "sha512"
-hash = "018adbefd61209002733f538ee7485aa7adeb9ee8578a541e3f397d8075ff4977e0c0dccc9f90c36f536e938d7355fe5f6130a020b8082d4880713f18856ac79"

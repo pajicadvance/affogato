@@ -1,0 +1,13 @@
+name = "Panda Anti-Dupe"
+filename = "panda-anti-dupe-1.1.0_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1h0il2JD/versions/wDWFZzJ9/panda-anti-dupe-1.1.0_1.21.1.jar"
+hash-format = "sha512"
+hash = "7af8a2258e7a22a7266716de31d1bc4b89e4b686f9acdba06ee199e6a63b1e8fa8d0f2cc1025ebb24621d1f255461d51ac68bcc521bce2ac88ee7fc825dc39b7"
+
+[update]
+[update.modrinth]
+mod-id = "1h0il2JD"
+version = "wDWFZzJ9"

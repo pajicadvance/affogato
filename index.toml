@@ -81,6 +81,10 @@ file = "config/yosbr/config/horseman-common.toml"
 hash = "2e873067595cab75b5e509256969e211709c3c147d08bbc15c4c48305c0eb156"
 
 [[files]]
+file = "config/yosbr/config/horseman-server.toml"
+hash = "8277a6af83dd9866ad5c4cb6b37560ef99984627c2e43adf3b25f5946fda562f"
+
+[[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "9c9844e3e8fadd0ee6b295ea1c9e50f557d720b8532cfaafac084723bdb31386"
 
@@ -781,8 +785,8 @@ hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
-file = "mods/panda-anti-dupe.pw.toml"
-hash = "8e1f9569233faaf1f0007d1e50779ae78ec3903863f49d03dd12e6ecf2246c6e"
+file = "mods/pandaantidupe.pw.toml"
+hash = "c753f1ae2903631e49ca030ed09cf3b0df09d7866d8ac2decb37e83af551bed0"
 metafile = true
 
 [[files]]
