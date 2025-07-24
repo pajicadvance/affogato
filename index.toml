@@ -1048,8 +1048,9 @@ hash = "dd520f2fd6ac537ba34519381e95f80c0f1e245c0edaf143e38027acdd108fe1"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fd_nourishment_bread.toml"
+file = "resourcepacks/fd_nourishment_bread.pw.toml"
 hash = "bfdaa63247903e807b4412bae4425b9ae5c503315eb02ff005125fc352c9b134"
+metafile = true
 
 [[files]]
 file = "resourcepacks/ore-variants.pw.toml"
