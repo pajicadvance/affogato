@@ -94,7 +94,7 @@ hash = "9c9844e3e8fadd0ee6b295ea1c9e50f557d720b8532cfaafac084723bdb31386"
 
 [[files]]
 file = "config/yosbr/config/interactic.json5"
-hash = "0ff1bd21c202e02e38f109e8bb0493acfb5bc366499753a131ab904ade015647"
+hash = "47799b309be8f911e0638dc23b58a1b4fad85d05b570d567ef7132d2d1043a36"
 
 [[files]]
 file = "config/yosbr/config/itemswapper.json"
@@ -1046,6 +1046,10 @@ metafile = true
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "dd520f2fd6ac537ba34519381e95f80c0f1e245c0edaf143e38027acdd108fe1"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fd_nourishment_bread.toml"
+hash = "bfdaa63247903e807b4412bae4425b9ae5c503315eb02ff005125fc352c9b134"
 
 [[files]]
 file = "resourcepacks/ore-variants.pw.toml"

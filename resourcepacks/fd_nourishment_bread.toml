@@ -1,0 +1,8 @@
+name = "FD Nourishment Overlay Bread Sprite"
+filename = "fd_nourishment_bread.zip"
+side = "client"
+
+[download]
+url = "https://github.com/pajicadvance/affogato/raw/refs/heads/1.21.1/offsite/fd_nourishment_bread.zip"
+hash-format = "sha512"
+hash = "7ca56e11660d5c678d89877537cab6e0184d6bf183c1d6f120686105d211b9d92a9bb2f9a52816355c48c3ff12f084577c9c18d742b21071b2ba3ff4cbe56512"
