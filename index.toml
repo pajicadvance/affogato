@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "d7831cee84e417b2a88d57889df4febe6603c307a6acf613c700dbc231f7a57d"
+hash = "c57d7ae88c379974dfc0e7965272e43695f1820f90807141396646ecdca2753b"
 metafile = true
 
 [[files]]
@@ -764,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "b98e9fd453261dc6aafd0d479444655e765f72d34cf1796f713e236ad132e73b"
+hash = "71dba581a68de19790dd6888e515d8b693debfc915a18ffb82af473c395f4dd3"
 metafile = true
 
 [[files]]
