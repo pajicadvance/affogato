@@ -1,0 +1,8 @@
+name = "Smooth Swapping"
+filename = "smoothswapping-0.9.3-1.21-fabric.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Riflusso/Smooth-Swapping/releases/download/0.9.3%2B1.21/smoothswapping-0.9.3-1.21-fabric.jar"
+hash-format = "sha512"
+hash = "5884644eb1b6f4bda1a194db6ba2481b97eff4b5c0875836ceb111e5d69d42eb8980f33bb471f379a4d65a1aa5a9819970a036fe1cba6046d9a8e17f02ab55e5"

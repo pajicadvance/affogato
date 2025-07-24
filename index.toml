@@ -21,6 +21,10 @@ file = "config/yosbr/config/MouseTweaks.cfg"
 hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
 
 [[files]]
+file = "config/yosbr/config/PandaAntiDupe.json"
+hash = "738fea7f23b3dfbd8fef6aca0953530211a4751e3ce7d44b3092fd865146a0de"
+
+[[files]]
 file = "config/yosbr/config/accessories.json5"
 hash = "3512b35e21138c944480273739b50f9eb39e99dfc8a6db542bc55af7020cd90a"
 
@@ -177,6 +181,10 @@ file = "config/yosbr/config/sleepwarp.json"
 hash = "3c9318aab5c5e0aa05b7fd1999119754accfd5b2b8a84733fd308aaf4b5a542a"
 
 [[files]]
+file = "config/yosbr/config/smoothswapping.json"
+hash = "932d460b708b2f5b296398d5d972bf823e8da33c4ac0522780114ef2be9fb61a"
+
+[[files]]
 file = "config/yosbr/config/soaring_phantoms/config.toml"
 hash = "2b76cbe8a083920633cf89a42742fa516bef3b103f6dbde5c0c01ee1a0c86dc3"
 
@@ -241,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "44b4477cc9485ee8a3770c80ef57bcdd14e8b98b03ef178a62cc8cfcd03ae7ab"
+hash = "d7831cee84e417b2a88d57889df4febe6603c307a6acf613c700dbc231f7a57d"
 metafile = true
 
 [[files]]
@@ -731,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "e337058ca8f7d085fac6130de06428a9c57e0bf23a0ef8549078f0f3ae1e780e"
+hash = "230b1f5cd118accacf41f268e122bd420420d9e5248d43513090804739a832f3"
 metafile = true
 
 [[files]]
@@ -922,6 +930,11 @@ metafile = true
 [[files]]
 file = "mods/sleep-warp-updated.pw.toml"
 hash = "4b64d90b57f471a659386b19092a58f59a024e6806997bb1c18dab394d31f13c"
+metafile = true
+
+[[files]]
+file = "mods/smoothswapping.pw.toml"
+hash = "335a5fc91cff591dfca20ddc9ead5d83cc24ea912bce0c662d0336c85632e0f6"
 metafile = true
 
 [[files]]
