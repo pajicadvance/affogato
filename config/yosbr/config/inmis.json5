@@ -1,0 +1,66 @@
+{
+	"backpacks": [
+		{
+			"name": "frayed",
+			"rowWidth": 7,
+			"numberOfRows": 1,
+			"isFireImmune": false,
+			"dyeable": true,
+			"openSound": "minecraft:item.armor.equip_leather"
+		},
+		{
+			"name": "plated",
+			"rowWidth": 7,
+			"numberOfRows": 2,
+			"isFireImmune": false,
+			"dyeable": false,
+			"openSound": "minecraft:item.armor.equip_iron"
+		},
+		{
+			"name": "gilded",
+			"rowWidth": 7,
+			"numberOfRows": 3,
+			"isFireImmune": false,
+			"dyeable": false,
+			"openSound": "minecraft:item.armor.equip_gold"
+		},
+		{
+			"name": "bejeweled",
+			"rowWidth": 7,
+			"numberOfRows": 4,
+			"isFireImmune": false,
+			"dyeable": false,
+			"openSound": "minecraft:item.armor.equip_diamond"
+		},
+		{
+			"name": "blazing",
+			"rowWidth": 7,
+			"numberOfRows": 5,
+			"isFireImmune": true,
+			"dyeable": false,
+			"openSound": "minecraft:item.armor.equip_netherite"
+		}
+	],
+	"unstackablesOnly": false,
+	// Whether Shulker Boxes should be blacklisted from being placed inside Inmis Backpacks.
+	"disableShulkers": true,
+	// Backpack item blacklist
+	"blacklist": [],
+	// Whether Backpacks should play a sound when opened.
+	"playSound": true,
+	// If true, players will not be able to open Backpacks by right-clicking. This will require the player to open backpacks as a Trinket or Armor slot item with the bound key.
+	"requireArmorTrinketToOpen": true,
+	"allowBackpacksInChestplate": false,
+	// If this value is set to false, players will not be able to equip or open backpacks in a Trinkets slot.
+	"enableTrinketCompatibility": true,
+	// If true, players will not be able to take backpacks out of armor/trinket slots if the backpack is not empty.
+	"requireEmptyForUnequip": true,
+	// If true, backpacks in armor/trinket slots will empty out into the world (scatter contents) when the player dies.
+	"spillArmorBackpacksOnDeath": false,
+	// If true, backpacks in main inventory slots will empty out into the world (scatter contents) when the player dies.
+	"spillMainBackpacksOnDeath": false,
+	// Set this value to false to disable Backpack rendering when using Trinkets.
+	"trinketRendering": true,
+	// Color of the text rendered in the INMIS GUI.
+	"guiTitleColor": "0x404040"
+}

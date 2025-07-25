@@ -7,3 +7,4 @@ craftingTable.remove(<item:storagedrawers:void_upgrade>);
 craftingTable.remove(<item:storagedrawers:conversion_upgrade>);
 craftingTable.remove(<item:storagedrawers:illumination_upgrade>);
 craftingTable.remove(<item:storagedrawers:portability_upgrade>);
+craftingTable.remove(<item:inmis:blazing_backpack>);

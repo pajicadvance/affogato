@@ -17,6 +17,7 @@ key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
 key_key.crawl:key.keyboard.z
+key_key.inmis.open_backpack:key.keyboard.g
 key_text.HorseBuff.keybinding.horsePlayerInventory:key.keyboard.j
 key_key.itemswapper.itemswitcher:key.keyboard.r
 key_key.itemswapper.openInventory:key.keyboard.unknown
@@ -27,7 +28,7 @@ key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details_alternative:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.openNotes:key.keyboard.n
-key_ping-wheel.key.ping-location:key.keyboard.g
+key_ping-wheel.key.ping-location:key.keyboard.y
 key_ping-wheel.key.open-settings:key.keyboard.unknown
 key_ping-wheel.key.name-labels:key.keyboard.unknown
 key_key.raised.options:key.keyboard.unknown

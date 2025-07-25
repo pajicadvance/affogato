@@ -1,0 +1,8 @@
+name = "Inmis"
+filename = "inmis-2.8.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/pajicadvance/inmis/releases/download/v2.8.1/inmis-2.8.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "b15e69c82796e1e7e5bed57f8dfb7fd28ac9a313695fa175738523db15af42fb2f192b1c7164c7be99a07e7763f745dae0753a72b15ab8b8fb7f3201005d35ca"

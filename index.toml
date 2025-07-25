@@ -93,6 +93,10 @@ file = "config/yosbr/config/immediatelyfast.json"
 hash = "9c9844e3e8fadd0ee6b295ea1c9e50f557d720b8532cfaafac084723bdb31386"
 
 [[files]]
+file = "config/yosbr/config/inmis.json5"
+hash = "c000d0838880412ac03f71117f5ef140662219a5574729e1d53b7c2614ff4cd1"
+
+[[files]]
 file = "config/yosbr/config/interactic.json5"
 hash = "47799b309be8f911e0638dc23b58a1b4fad85d05b570d567ef7132d2d1043a36"
 
@@ -206,7 +210,7 @@ hash = "aedd54cc2fa381a315839a032ec272d3e6285a2213806f61b1efc7ebc8c7da8d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "46e9fb7411141dce407dd8e92466e8cee2c18ab20077f22ac4dfe7d9559e72ab"
+hash = "b37cbeb485f197dfc477937f2157293a9c345ac2dd28af7babfb16f66c150a58"
 
 [[files]]
 file = "credits.txt"
@@ -249,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "c57d7ae88c379974dfc0e7965272e43695f1820f90807141396646ecdca2753b"
+hash = "b59081a34c8eeb958e3e9e94b2e0032eff045620da53c1e0ace24f0c35b9e123"
 metafile = true
 
 [[files]]
@@ -595,6 +599,16 @@ metafile = true
 [[files]]
 file = "mods/immersive-snow.pw.toml"
 hash = "d089105dee7810955ca398c23400cb56222d3cd887cfef2abefa9f1addabbf43"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "c09d608e3375c42de5f7b2c013f5ff8f867341aaab33b42d26ba7e32d306ba9d"
+metafile = true
+
+[[files]]
+file = "mods/inmisaddon.pw.toml"
+hash = "b97a5d23920a5f128566ce91d4728fd850316c72a9114e9c7ca88d02c0fbd4d2"
 metafile = true
 
 [[files]]
@@ -954,7 +968,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
+hash = "7207bcd8319f1e4b89806c7f909c87acdd3a5f96e5917d859ff704df8ff9a229"
 metafile = true
 
 [[files]]
@@ -1074,11 +1088,11 @@ metafile = true
 
 [[files]]
 file = "scripts/remove_recipes.zs"
-hash = "ba88aacd7591fb01d6c5f26bb8cf363a153cb586c91f66e51dfaaf081b14269a"
+hash = "76b20409cc29bec7ad79c8a762a2198051fd1881877bcb19de54ebe87201f8a2"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5.txt"
-hash = "744a070a8e596c4be890dc0477fbb984b5b7e8c64ff42b4ed692aef2216be6ea"
+hash = "74fcd8842f015480e3aa18569153b2d97e07600a857a0b8df3102cd20e9421ea"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
