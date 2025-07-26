@@ -3,11 +3,11 @@ filename = "affogatotweaks-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q8yzjHI3/versions/L4ZxQbw4/affogatotweaks-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/Q8yzjHI3/versions/Pl4Xxkyv/affogatotweaks-2.0.0.jar"
 hash-format = "sha512"
-hash = "e20bfc0d78ce2805a8a15bc0fd3bcc72f4fdd46362a7a785b2dc324e2ad3a91f77c8e2798fac67e10c2a07c9d2dc04d046bdf5199168544e0ff3249703229550"
+hash = "4d8b5d16afaaadcfeded6e7b55e25498d202a83f9195a5d12d367dec5be6206617e271491a3a00893588deedf327f7e14785ab8ae432ad5c6de01f60d38cbbd2"
 
 [update]
 [update.modrinth]
 mod-id = "Q8yzjHI3"
-version = "L4ZxQbw4"
+version = "Pl4Xxkyv"

@@ -36,7 +36,7 @@ maxTablePower = 15
 modifyLapisCost = false
 lapisCostFormula = "i+1"
 modifyXpCost = true
-xpCostFormula = "(3*i)+4"
+xpCostFormula = "2*(i+1)"
 
 [loot]
 modifyEnchantWithLevelsMaxPower = false

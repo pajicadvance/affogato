@@ -62,7 +62,7 @@ hash = "bcad20b423d4976a8244cb64a4af5fad6cd4ab92ffb93480776bc7bb81069cb7"
 
 [[files]]
 file = "config/yosbr/config/enchantmentdisabler/config.toml"
-hash = "ad9546268313423bdcc585bebd5cab004632d720bd447b5979756a91157e2a24"
+hash = "62d0439015154a5e29ac79a8aeeee829d1886c8acb26f57da572142aeae11bba"
 
 [[files]]
 file = "config/yosbr/config/enchdesc.json"
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessorify.pw.toml"
-hash = "e2f651d6eb38648416ebd19d180b6dbdf3e416ca87489fc8c14aafe182bfa8c6"
+hash = "a6daa750211c5196ff17b0f4a5e31ad6d9e9ec3f045d1735352b8cc1ee649325"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "b59081a34c8eeb958e3e9e94b2e0032eff045620da53c1e0ace24f0c35b9e123"
+hash = "d74b7ac8048dbd709adb9d7155fe6238b28aecacae2eaa89d15a410167f45461"
 metafile = true
 
 [[files]]
@@ -863,7 +863,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "ed4c8526264cf7b19fbe8dc83803aa536d5a033fcecec890c4a8ffcbb7b3cc3b"
+hash = "55487d8965163595efa45d23b483fb7b28a1cfc0a759b31d6c90bc28e9d40282"
 metafile = true
 
 [[files]]
@@ -1088,7 +1088,7 @@ metafile = true
 
 [[files]]
 file = "scripts/remove_recipes.zs"
-hash = "76b20409cc29bec7ad79c8a762a2198051fd1881877bcb19de54ebe87201f8a2"
+hash = "65dbededa115fc9466a20082dfc0cf017d7ae8d4db4b7ebb8279e5c7bb3b4007"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5.txt"
