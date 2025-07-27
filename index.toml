@@ -218,7 +218,7 @@ hash = "63c7a18a56d4c1912554f92cf493ae6b746ada7fb099afb7c97f0b9a73866a5a"
 
 [[files]]
 file = "datapacks/rs_config.pw.toml"
-hash = "87533c9d3d5c834cb3a45f87564c836ae05dfe4ee845c1d25d88803c2f94d975"
+hash = "7cfdea66d9fa9dc4bbec84cf5412b35b00978bdbbead2f7495259da71bffccd5"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "11fa1d6e3beaa11b98f03eb122a37cbc906ccabb8998e54c8233d783f5b8ad9e"
+hash = "799957a547f5ab99545cef8f1ea7dafa50ed09e3d03538b69488f47410e4028c"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "d74b7ac8048dbd709adb9d7155fe6238b28aecacae2eaa89d15a410167f45461"
+hash = "268ad248bf8fac1638974b9d332e0f3e261b234af15551718471b4d75dc1fb9f"
 metafile = true
 
 [[files]]
@@ -1089,6 +1089,14 @@ metafile = true
 [[files]]
 file = "scripts/remove_recipes.zs"
 hash = "65dbededa115fc9466a20082dfc0cf017d7ae8d4db4b7ebb8279e5c7bb3b4007"
+
+[[files]]
+file = "shaderpacks/AmethystShaders_2.3.2.zip.txt"
+hash = "2aa9342779a95b2326a37fd2b37ac6a175ab0fbef7ed0eed907675cebd29d9c5"
+
+[[files]]
+file = "shaderpacks/BSL_v10.0.zip.txt"
+hash = "6b5b04b1e90da13f839db896cf02803744c28d16df54a0322121197eb02044fd"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5.txt"
