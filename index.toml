@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "b14b586d694e3383634afb45a0cccf37f1164729aa1f2466aa4c28c64d220429"
+hash = "09f1fa7fbebebb77a4d040f766fdfceff0714b77a81ba9d861ca1f28c54ccf14"
 metafile = true
 
 [[files]]
@@ -933,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "4a248cde5a032a9b4da969d0385c71eb705d0d2d7051086ec61e9a4f5017eaff"
+hash = "c838a42d7edf6c9230adb55504ef11478d8160cdd44eb6312a7861e9ef88540a"
 metafile = true
 
 [[files]]
