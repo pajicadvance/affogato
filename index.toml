@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "0d0af37200313b917dcd76c1e388eeecb477186a38eafd5f940b0605cde28730"
+hash = "b14b586d694e3383634afb45a0cccf37f1164729aa1f2466aa4c28c64d220429"
 metafile = true
 
 [[files]]
@@ -648,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "ba5c3f46736bdb93afcfb86134f559e8e2f8161c58105eb15b799578b477d36c"
+hash = "7c044e37f7e557a2125c0a8eb54bb2c90a55d08ec91a924f45d444ec1a3035fb"
 metafile = true
 
 [[files]]
@@ -1033,7 +1033,7 @@ metafile = true
 
 [[files]]
 file = "mods/viewboboptions.pw.toml"
-hash = "31142080f81d478ef52758f19b3c00d469a1aeccd59670f035f604c514a50dce"
+hash = "6111f1ff0e369e94b875756f02570d4169aaa8fccaab02c0aac4caf099a2ffcc"
 metafile = true
 
 [[files]]
