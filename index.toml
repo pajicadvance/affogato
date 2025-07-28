@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "09f1fa7fbebebb77a4d040f766fdfceff0714b77a81ba9d861ca1f28c54ccf14"
+hash = "b321862a88c5fcf97f019b566af1d4efad837fa832f5b8dd64f86ecdace4a5a6"
 metafile = true
 
 [[files]]
@@ -399,11 +399,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
-metafile = true
-
-[[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "297f9bb25086de00c254ad685aae335634ad9e2c98e4fa3e01c5daf62942dec3"
 metafile = true
 
 [[files]]
@@ -1085,10 +1080,6 @@ metafile = true
 file = "resourcepacks/vt_pack.pw.toml"
 hash = "7b60bf6af834596f013c3428a7bc5eb261d500eb9e91440e7907600fd7887fc7"
 metafile = true
-
-[[files]]
-file = "scripts/remove_recipes.zs"
-hash = "65dbededa115fc9466a20082dfc0cf017d7ae8d4db4b7ebb8279e5c7bb3b4007"
 
 [[files]]
 file = "shaderpacks/AmethystShaders_2.3.2.zip.txt"
