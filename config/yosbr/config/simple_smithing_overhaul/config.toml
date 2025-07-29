@@ -1,0 +1,225 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+
+[enchantmentUpgrading]
+enableEnchantmentUpgrading = true
+upgradingHasExperienceCost = true
+upgradingBaseExperienceCost = 5
+ignoreTooExpensive = true
+
+[pinnacleEnchantment]
+enablePinnacleEnchantment = true
+pinnacleBaseExperienceCost = 30
+pinnacleExperienceCostIncrease = 5
+colorPinnacleItemName = true
+pinnacleItemNameColor = "Light Purple"
+excludedFromMaxedOutCheck = [
+    "minecraft:mending",
+    "minecraft:thorns",
+    "minecraft:fire_aspect",
+    "minecraft:punch",
+    "minecraft:knockback",
+    "minecraft:silk_touch"
+]
+
+[whetstone]
+enableWhetstone = true
+
+[streamlinedRepairs]
+netheriteRepairMaterial = "DIAMOND"
+modifyAnvilRepairUnitCosts = true
+modRepairableItems = [
+    [ "another_furniture:furniture_hammer", "#minecraft:planks" ],
+    [ "rearm:netherite_bow", "minecraft:diamond" ],
+    [ "#chalk:chalks", "minecraft:calcite" ],
+    [ "guarding:netherite_shield", "minecraft:diamond" ],
+    [ "#chalk:glow_chalks", "minecraft:glow_ink_sac" ],
+    [ "rearm:netherite_crossbow", "minecraft:diamond" ]
+]
+modItemUnitCosts = [
+    [ "rearm:netherite_crossbow", 3 ],
+    [ "#chalk:glow_chalks", 1 ],
+    [ "#chalk:chalks", 2 ],
+    [ "rearm:netherite_bow", 3 ],
+    [ "vshorses:horseshoe", 3 ],
+    [ "guarding:netherite_shield", 6 ],
+    [ "#farmersdelight:tools/knives", 1 ],
+    [ "another_furniture:furniture_hammer", 3 ]
+]
+
+[streamlinedRepairs.armor]
+headArmorUnits = 5
+chestArmorUnits = 8
+legArmorUnits = 7
+footArmorUnits = 4
+horseArmorUnits = 6
+wolfArmorUnits = 6
+
+[streamlinedRepairs.tools]
+pickaxeUnits = 3
+axeUnits = 3
+hoeUnits = 2
+swordUnits = 2
+shovelUnits = 1
+
+[streamlinedRepairs.uniqueItems]
+shieldUnits = 6
+elytraUnits = 2
+maceUnits = 2
+whetstoneUnits = 6
+bowUnits = 3
+crossbowUnits = 3
+flintAndSteelUnits = 1
+shearsUnits = 2
+tridentUnits = 3
+brushUnits = 1
+fishingRodUnits = 2
+carrotOnAStickUnits = 1
+warpedFungusOnAStickUnits = 1
+
+[anvilImprovements]
+modifyDegradationChance = true
+degradationChance = 6.0
+freeUnenchantedRepairs = true
+noWorkCostIncreaseOnRepair = true
+noPriorWorkCost = false
+freeRenames = true
+noTooExpensive = true
+
+[grindstoneImprovements]
+repairCostReductionRecipe = true
+increasedDisenchantXpGain = true
+
+[enchantedBookLootTweaks]
+weightedLevels = true
+additionalChestLoot = true
+bookLootLocations = [
+    [ "minecraft:chests/bastion_treasure", { chance = 100, count = 3 } ],
+    [ "betteroceanmonuments:chests/upper_side_chamber", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/deep", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/taiga", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/ocean", { chance = 100, count = 1 } ],
+    [ "betterdungeons:skeleton_dungeon/chests/middle", { chance = 50, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/soul", { chance = 100, count = 1 } ],
+    [ "betterdungeons:skeleton_dungeon/chests/common", { chance = 50, count = 1 } ],
+    [ "minecraft:chests/stronghold_crossing", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/icy", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/swamp", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/desert", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/icy", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/jungle", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/underwater_ruin_small", { chance = 50, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/warped", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/swamp", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/nether_bridge", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/dark_forest", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/nether", { chance = 100, count = 1 } ],
+    [ "betterdungeons:zombie_dungeon/chests/common", { chance = 50, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/badlands", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/pillager_outpost", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/stronghold_corridor", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/mushroom", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/stone", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/stronghold_library", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/basalt", { chance = 100, count = 1 } ],
+    [ "betterjungletemples:chests/treasure", { chance = 100, count = 2 } ],
+    [ "betterdungeons:small_nether_dungeon/chests/common", { chance = 50, count = 1 } ],
+    [ "minecraft:chests/simple_dungeon", { chance = 100, count = 1 } ],
+    [ "betterdungeons:spider_dungeon/chests/egg_room", { chance = 50, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/end", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/woodland_mansion", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/jungle_temple", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/abandoned_mineshaft", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/underwater_ruin_big", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/birch", { chance = 100, count = 1 } ],
+    [ "betterfortresses:chests/beacon", { chance = 100, count = 1 } ],
+    [ "betterfortresses:chests/keep", { chance = 20, count = 1 } ],
+    [ "minecraft:chests/buried_treasure", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/desert", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/desert_pyramid", { chance = 75, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/snow", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/dark_forest", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/jungle", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/ancient_city", { chance = 50, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/savanna", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/bastion_other", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/nether", { chance = 100, count = 1 } ],
+    [ "betterdungeons:zombie_dungeon/chests/tombstone", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/crimson", { chance = 100, count = 1 } ],
+    [ "betterdungeons:zombie_dungeon/chests/special", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/ocean", { chance = 100, count = 1 } ]
+]
+
+[improvedExperienceBottle]
+modifyXpReward = true
+minXp = 30
+maxXp = 50
+renameToExperienceBottle = true
+additionalChestLoot = true
+bottleLootLocations = [
+    [ "minecraft:chests/nether_bridge", { chance = 100, count = 1 } ],
+    [ "betterdungeons:zombie_dungeon/chests/tombstone", { chance = 100, count = 1 } ],
+    [ "betteroceanmonuments:chests/upper_side_chamber", { chance = 100, count = 3 } ],
+    [ "repurposed_structures:chests/dungeons/snow", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/jungle", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/end_city_treasure", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/bastion_other", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/crimson", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/ocean", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/savanna", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/badlands", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/pillager_outpost", { chance = 100, count = 2 } ],
+    [ "repurposed_structures:chests/dungeons/deep", { chance = 100, count = 1 } ],
+    [ "betterdungeons:spider_dungeon/chests/egg_room", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/end", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/desert", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/taiga", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/icy", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/woodland_mansion", { chance = 100, count = 3 } ],
+    [ "betterfortresses:chests/keep", { chance = 50, count = 1 } ],
+    [ "betterfortresses:chests/beacon", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/icy", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/nether", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/stronghold_crossing", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/ocean", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/buried_treasure", { chance = 100, count = 2 } ],
+    [ "minecraft:chests/jungle_temple", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/bastion_treasure", { chance = 100, count = 3 } ],
+    [ "betterdungeons:zombie_dungeon/chests/special", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/underwater_ruin_big", { chance = 100, count = 1 } ],
+    [ "betterjungletemples:chests/treasure", { chance = 100, count = 3 } ],
+    [ "betterdungeons:skeleton_dungeon/chests/common", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/mushroom", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/stronghold_corridor", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/dark_forest", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/ancient_city", { chance = 100, count = 1 } ],
+    [ "betterdungeons:zombie_dungeon/chests/common", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/nether", { chance = 100, count = 1 } ],
+    [ "betterdungeons:small_nether_dungeon/chests/common", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/basalt", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/simple_dungeon", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/abandoned_mineshaft", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/soul", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/dark_forest", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/stone", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/swamp", { chance = 100, count = 1 } ],
+    [ "betterdungeons:skeleton_dungeon/chests/middle", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/desert_pyramid", { chance = 75, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/birch", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/jungle", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/stronghold_library", { chance = 100, count = 2 } ],
+    [ "minecraft:chests/underwater_ruin_small", { chance = 50, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/desert", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/mineshafts/warped", { chance = 100, count = 1 } ],
+    [ "repurposed_structures:chests/dungeons/swamp", { chance = 100, count = 1 } ]
+]
+
+[enchantmentLimits]
+limitEnchantingTablePower = true
+enchantingTablePowerLimit = 10
+limitEnchantedLootPower = true
+enchantedLootPowerLimit = 20
+limitBookTradeLevel = true
+bookTradeLevelLimit = 1
+limitBookTradeUses = true
+bookTradeUsesLimit = 3

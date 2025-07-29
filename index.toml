@@ -98,7 +98,7 @@ hash = "c000d0838880412ac03f71117f5ef140662219a5574729e1d53b7c2614ff4cd1"
 
 [[files]]
 file = "config/yosbr/config/interactic.json5"
-hash = "47799b309be8f911e0638dc23b58a1b4fad85d05b570d567ef7132d2d1043a36"
+hash = "51a731f16c4a4b1824edeb7bb7065965c7435f036e4dc40d7987459ed5289377"
 
 [[files]]
 file = "config/yosbr/config/itemswapper.json"
@@ -181,6 +181,10 @@ file = "config/yosbr/config/simple_music_control.json5"
 hash = "978733f1e5a5a18067710d34c197dbb8f8238aa3ba8c6bdbb696a878d95e8437"
 
 [[files]]
+file = "config/yosbr/config/simple_smithing_overhaul/config.toml"
+hash = "cfad7479bd77f68d107284308e097486bbff9319c4138c013581261f4fe68499"
+
+[[files]]
 file = "config/yosbr/config/sleepwarp.json"
 hash = "3c9318aab5c5e0aa05b7fd1999119754accfd5b2b8a84733fd308aaf4b5a542a"
 
@@ -210,7 +214,7 @@ hash = "aedd54cc2fa381a315839a032ec272d3e6285a2213806f61b1efc7ebc8c7da8d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b37cbeb485f197dfc477937f2157293a9c345ac2dd28af7babfb16f66c150a58"
+hash = "c52d3a368780552a0a356f0bb0b3fd16868673d608e2f388232f38070e065a9c"
 
 [[files]]
 file = "credits.txt"
@@ -253,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "5a60a475b26f011c21b1536f405d4e2cfcdcf332521564a7a3fb3b7f3b0fc233"
+hash = "5a37aeba8c229636ba3a4c383e64f26c5559fc328fc077cf932d6bbde161f39a"
 metafile = true
 
 [[files]]

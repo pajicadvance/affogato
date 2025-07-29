@@ -7,7 +7,7 @@
 	// Whether the Item Filter should be loaded
 	"itemFilterEnabled": true,
 	// Whether items that have damage modifiers should also deal damage when thrown
-	"itemsActAsProjectiles": true,
+	"itemsActAsProjectiles": false,
 	// Whether players should be able to pick up items like normal
 	"autoPickup": true,
 	// Whether Interactic should override Minecraft's default item rendering with a more fancy version. Highly recommended
