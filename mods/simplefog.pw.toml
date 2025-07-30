@@ -1,0 +1,13 @@
+name = "Simple Fog Control"
+filename = "simplefog-fabric-1.21.1-2.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Glp1bwYc/versions/hJzrTbto/simplefog-fabric-1.21.1-2.0.5.jar"
+hash-format = "sha512"
+hash = "3277222598a61e4e17e036adbc85667a01a87a8b4e722bd5670f6181fcb209db02dd0ca4393339f3a8c4ecaedf5ae8bedda4a44994af984ee4ef0fe01aca096b"
+
+[update]
+[update.modrinth]
+mod-id = "Glp1bwYc"
+version = "hJzrTbto"

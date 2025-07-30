@@ -185,6 +185,10 @@ file = "config/yosbr/config/simple_smithing_overhaul/config.toml"
 hash = "cfad7479bd77f68d107284308e097486bbff9319c4138c013581261f4fe68499"
 
 [[files]]
+file = "config/yosbr/config/simplefog.json"
+hash = "2653c6f5c0b02a8ea54a443b78c6430d066c4614e1fff034921ea226b92fef61"
+
+[[files]]
 file = "config/yosbr/config/sleepwarp.json"
 hash = "3c9318aab5c5e0aa05b7fd1999119754accfd5b2b8a84733fd308aaf4b5a542a"
 
@@ -214,7 +218,7 @@ hash = "aedd54cc2fa381a315839a032ec272d3e6285a2213806f61b1efc7ebc8c7da8d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c52d3a368780552a0a356f0bb0b3fd16868673d608e2f388232f38070e065a9c"
+hash = "44c36cc2c868dbc701db8141a7fdac6c9832da2375735a7bc8c31879fe91966a"
 
 [[files]]
 file = "credits.txt"
@@ -257,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "5a37aeba8c229636ba3a4c383e64f26c5559fc328fc077cf932d6bbde161f39a"
+hash = "93e4b2a032321ab5d7e7bed1d4e017065652dc5762cffaf4a50f83cbb81cf32a"
 metafile = true
 
 [[files]]
@@ -582,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseman.pw.toml"
-hash = "d84b43668815581bf0296cb6688a37b2387d8e7f651798cbdaf5b2f935d44ca5"
+hash = "ec09f34b6eb9af39fd7cb5a35acb758658f211691199787d7e25e95a96fff384"
 metafile = true
 
 [[files]]
@@ -936,6 +940,11 @@ hash = "c838a42d7edf6c9230adb55504ef11478d8160cdd44eb6312a7861e9ef88540a"
 metafile = true
 
 [[files]]
+file = "mods/simplefog.pw.toml"
+hash = "cabe8fb83bb069431798b84da7678892ac2bdaf8b6100cedd9c2744efdca3c08"
+metafile = true
+
+[[files]]
 file = "mods/sketch.pw.toml"
 hash = "d68ba63b7d24eed973f5bc38233633a300ed264a216f549a36b56d6bdd97f550"
 metafile = true
@@ -1048,6 +1057,16 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
+
+[[files]]
+file = "resourcepacks/aa4-abridged.pw.toml"
+hash = "5599fe0cbfb9a1c3bb346de44be9c95568a5adf792b643dce084906df3a52855"
+metafile = true
+
+[[files]]
+file = "resourcepacks/antique-atlas-4-compat.pw.toml"
+hash = "e87a52259b5d41da9ff1a4b013fadcd5f3b90c23490f2c229432401089eab49c"
 metafile = true
 
 [[files]]
