@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "93e4b2a032321ab5d7e7bed1d4e017065652dc5762cffaf4a50f83cbb81cf32a"
+hash = "a14fa8ceb9e3ca39de08cbc3d9797fd39808c3c20e50e0b15e4819ca8b5c6cf0"
 metafile = true
 
 [[files]]
@@ -986,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "7f9f8bb60319bf9284dabefa07d8e0b92b393cfe3ae3cff66d099eea0028291a"
+hash = "6f0aeb65b2a72be9f4dcb7eb25fd8ddfd87d1bfed19a9b2edc1fd8a4b89d81e3"
 metafile = true
 
 [[files]]
