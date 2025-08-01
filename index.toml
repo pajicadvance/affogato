@@ -246,12 +246,12 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "799957a547f5ab99545cef8f1ea7dafa50ed09e3d03538b69488f47410e4028c"
+hash = "6b44ee71e806a9575160429aaec800d7c2d8cfd92e7060efd3ba14e387113966"
 metafile = true
 
 [[files]]
 file = "mods/accessorify.pw.toml"
-hash = "a6daa750211c5196ff17b0f4a5e31ad6d9e9ec3f045d1735352b8cc1ee649325"
+hash = "e5bea31107e224615a4b200fc2f85356d19c2561d22d3dacf3e9d5053ea4249f"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "a14fa8ceb9e3ca39de08cbc3d9797fd39808c3c20e50e0b15e4819ca8b5c6cf0"
+hash = "72dd85562d5682f893ead8ad8db0d0a8547a1eb792890e5984bf20b0c82d668e"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "8945ea290647fec8b91c24bd81821ee1d73d84a968d23260dbee24ceb951db4d"
+hash = "ad4e8689c50fedd770fb5cf28561edbd41f6b483bcfd6e3dd3d0c337789c0110"
 metafile = true
 
 [[files]]
@@ -986,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "6f0aeb65b2a72be9f4dcb7eb25fd8ddfd87d1bfed19a9b2edc1fd8a4b89d81e3"
+hash = "d1ee4deb79a817c6d49ff442421cf40d7c404f4043c2ce77d8861395a19a688e"
 metafile = true
 
 [[files]]
