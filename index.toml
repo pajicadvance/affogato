@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "6b44ee71e806a9575160429aaec800d7c2d8cfd92e7060efd3ba14e387113966"
+hash = "bc93795384d5f304da0d318e8e71becf5c15aa26b853cbefed937d43a0bcc9f6"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "72dd85562d5682f893ead8ad8db0d0a8547a1eb792890e5984bf20b0c82d668e"
+hash = "3aee9216b29ae0ddb59dc087fe285ee1ccdfb274968d4728209d67dcd34c8dd1"
 metafile = true
 
 [[files]]
