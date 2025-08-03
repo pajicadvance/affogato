@@ -1,13 +1,13 @@
 name = "MiscTweaks"
-filename = "misctweaks-1.2.1+1.21.1.jar"
+filename = "misctweaks-1.2.2+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9sMkzzYU/versions/kd1xP569/misctweaks-1.2.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/9sMkzzYU/versions/vvgRUvPd/misctweaks-1.2.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "4db935d8bc8dade843e060eac012232be242ed18b05d818aab8671c77dbeecaf332b96f1a5d15f1cd6869e9ee6938d1ca2ed63e7906e33a96714cb2c48d5802d"
+hash = "6b0104f591ae4d8cba4753ec462cb437ba541c2679b18df158a13602a9d191225653f11660daef27788d9ff775151df4e6658b1c0e27994e45a26f24895647d8"
 
 [update]
 [update.modrinth]
 mod-id = "9sMkzzYU"
-version = "kd1xP569"
+version = "vvgRUvPd"

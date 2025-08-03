@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "3aee9216b29ae0ddb59dc087fe285ee1ccdfb274968d4728209d67dcd34c8dd1"
+hash = "08f0dda7228c040b9a2bd5052c877940556472bcabc12a647e89c17045464ac9"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ce5ecc38c8f634e1d5d4daa6b0c8e338a8349bec6d68d8e11b786f5cb5c557f0"
+hash = "699010afc3867305441c3d5b3bcdf491a7aa3614ad199b0589f368689a68859e"
 metafile = true
 
 [[files]]
@@ -706,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/misctweaks.pw.toml"
-hash = "d08a97ec32bbfab22a8ac759d718d111d34806094ac8ccba1a92f075d998311e"
+hash = "5a384f6ffe3b240087b2e9885b9b9923e4fe69736b5ec12ff08bce0bdc3458cc"
 metafile = true
 
 [[files]]
