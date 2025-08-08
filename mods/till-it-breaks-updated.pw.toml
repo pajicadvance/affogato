@@ -1,13 +1,13 @@
 name = "Till It Breaks Updated"
-filename = "tillitbreaks-0.6.6+1.21.jar"
+filename = "till-it-breaks-1.0.0+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GG12dlQh/versions/T2EIn8Ew/tillitbreaks-0.6.6%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/GG12dlQh/versions/V5wdugDQ/till-it-breaks-1.0.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "b1494d2c97d9b8bea23fedc2bd6aabe2fe22a5be47c4c0f9cf85a1d9677dec7708ad505e6d16c79ead6372573e24fe2662a7e5639ca190423eaee0cec1e165e7"
+hash = "5cce2811e3bcb49f4e13ea5c9c8f6377f14710f052a0b32fb7179ec50db89e7bb40b182577a3c101ffbbb93be994e8ea613a02af85874b1c851239912a5cc368"
 
 [update]
 [update.modrinth]
 mod-id = "GG12dlQh"
-version = "T2EIn8Ew"
+version = "V5wdugDQ"

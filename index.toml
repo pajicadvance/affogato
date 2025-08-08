@@ -146,7 +146,7 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
 [[files]]
 file = "config/yosbr/config/presencefootsteps/userconfig.json"
-hash = "d4efb9a5d1fbf29fe0c6e4d852f6d032057235f7bfc2a6ecb8c1049ab63ee742"
+hash = "20b688aa32b54efd77d1f4846fc67fbb805cf7296e5cf52731fdde7764cd890b"
 
 [[files]]
 file = "config/yosbr/config/raised.json"
@@ -218,7 +218,7 @@ hash = "aedd54cc2fa381a315839a032ec272d3e6285a2213806f61b1efc7ebc8c7da8d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "44c36cc2c868dbc701db8141a7fdac6c9832da2375735a7bc8c31879fe91966a"
+hash = "74266a9f6d3d3de89e2f02e7fd1d9c1333f993bf8aaca7f09edc047fd58f4e7a"
 
 [[files]]
 file = "credits.txt"
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessorify.pw.toml"
-hash = "e5bea31107e224615a4b200fc2f85356d19c2561d22d3dacf3e9d5053ea4249f"
+hash = "7d25397c7f6792675a829e541ab64aae5abe3a950ef418fcfc6917943389c7cf"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "632b6f4f43937bd8dc0c4fc2bee588897ccc4638a2767f8622b719049ab5ff84"
+hash = "dba4014b343eaca1c5ddd743a715e7ab2afaea0b7ea251e8b630c962815e2346"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "812c45e6d4bb3e7fda349dc1562222b7df1933033665476d11b95e5d65a87a87"
+hash = "be29598337af357cd80b5a60d4eb1e06ff50008fe8d9ca0b52d1279be96a785a"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/configurable.pw.toml"
-hash = "b449cf542c7506828a71c44f1c43970cc5597d36484887df99956ed2e90eb823"
+hash = "6e00012374abf5c16cf1253e6fdbbf018a51c35fc310fa1095f7930ae8e2a925"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c45656db928ed544c927449b5ceac0feef9488b0ea4154cab9199b37817cd4d5"
+hash = "b3811242f9230b57ec349147921309a05e17b1d9866cb5197926495d8f8e9400"
 metafile = true
 
 [[files]]
@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "3b0341c1402b0319857591a4adc876fb98360b30995e01b280d6f4cd35d59325"
+hash = "5390b58bdcd06b724b38b9ddebc1ac6a1d4da60864cf6ea66ab3974842f1f4f2"
 metafile = true
 
 [[files]]
@@ -851,12 +851,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
+hash = "9bb377938c2fcfad53c925fd0d8c670496bf47239e031f604813dc3a5cf5de14"
 metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "2bffa6c1567434052a06d500eb52cf88f3df7231abe751d3248cb0e3ca7aa718"
+hash = "d39a20a65461bd044709ee816861f4317c4474022a50e3bb45f20fae87795e5c"
 metafile = true
 
 [[files]]
@@ -926,7 +926,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-death-improvements.pw.toml"
-hash = "a39bec265fdcaea1c1a34ee6f0ae069016d5abf5a2ed5ffde2532fdd626de24d"
+hash = "46bc62dd676879d2b4d1c4632a70e4664d56d3702b5368f167c57c7bb1ead48d"
 metafile = true
 
 [[files]]
@@ -986,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "d1ee4deb79a817c6d49ff442421cf40d7c404f4043c2ce77d8861395a19a688e"
+hash = "a68b8bd7e8248b3e60df9e8c6a6356d43274751cea27600af525ac3d697dcc4f"
 metafile = true
 
 [[files]]
@@ -1016,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "mods/till-it-breaks-updated.pw.toml"
-hash = "3b4e6e6146a941c55be76d11b2d3a03d584e59de8bf57b913735c7be321eaada"
+hash = "9254f9b00beccca09e7890ed1a9c006f5c425a95323cc4ba4142af62d9bc7e67"
 metafile = true
 
 [[files]]
