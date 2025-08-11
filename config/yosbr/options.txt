@@ -1,7 +1,7 @@
 version:3955
 enableVsync:true
 maxFps:260
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","itemswapper:default","file/VanillaTweaks.zip","file/CleanGlass.zip","continuity:glass_pane_culling_fix","file/better_looking_torches_v1.0.zip","file/Fancy Crops v1.2.zip","file/Ore Variants v2.9.zip","file/§6OreGlint_Sodium.zip","file/fd_nourishment_bread.zip","file/§6Antique Atlas 4 §fCompat§8§o§k.zip","file/aa4-abridged.zip","modglue:fditemswap","modglue:guardingitemswap","modglue:chalkitemswap","modglue:comfortsitemswap"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","itemswapper:default","file/VanillaTweaks.zip","file/CleanGlass.zip","continuity:glass_pane_culling_fix","file/better_looking_torches_v1.0.zip","file/Fancy Crops v1.2.zip","file/Ore Variants v2.9.zip","file/§6OreGlint_Sodium.zip","file/fd_nourishment_bread.zip","file/§6Antique Atlas 4 §fCompat§8§o§k.zip","file/aa4-abridged.zip","modglue:fditemswap","modglue:guardingitemswap","modglue:chalkitemswap","modglue:comfortsitemswap","affogatotweaks:itemswap","file/better_copper_torch.zip"]
 incompatibleResourcePacks:["appleskin","balm","blastingraw","bookshelf","clienttweaks","comforts","elytratrims","enchdesc","globalpacks","immersivelanterns","jade","kleeslabs","modernfix","netherportalfix","sereneseasons","spectrelib","trimmable_tools","txnilib","yet_another_config_lib_v3","file/Ore Variants v2.9.zip"]
 onboardAccessibility:false
 key_key.saveToolbarActivator:key.keyboard.unknown

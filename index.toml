@@ -230,7 +230,7 @@ hash = "aedd54cc2fa381a315839a032ec272d3e6285a2213806f61b1efc7ebc8c7da8d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "74266a9f6d3d3de89e2f02e7fd1d9c1333f993bf8aaca7f09edc047fd58f4e7a"
+hash = "f1e9da78fa27c71f40884a047f53c2de9913e79cc3fb76f4e04cfe0890acdb8f"
 
 [[files]]
 file = "credits.txt"
@@ -1104,6 +1104,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-looking-torches.pw.toml"
 hash = "958a7665d6d399a3471244d3baa5774ac94f108d02363680dbccd5bcb891bac8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better_copper_torch.pw.toml"
+hash = "575d7cf63c317e3def1b5f8f950cc7ca9cf136673590632ab60d51d35d58ee21"
 metafile = true
 
 [[files]]

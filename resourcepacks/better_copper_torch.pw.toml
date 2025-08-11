@@ -1,0 +1,8 @@
+name = "Better Torches addon for Affogato"
+filename = "better_copper_torch.zip"
+side = "client"
+
+[download]
+url = "https://github.com/pajicadvance/affogato/raw/refs/heads/1.21.1/offsite/better_copper_torch.zip"
+hash-format = "sha512"
+hash = "c41f388c95ee726a3fe4c331bb7d282d070629d7289d4701db2092a4bbd8d252a0440e80d8949f0dc7b3fccc6b5872b9f7e59a181f7504d90c22d67c453a4da7"
