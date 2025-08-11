@@ -81,8 +81,12 @@ file = "config/yosbr/config/experimentalist.json"
 hash = "8cfce334dbc58601b1ad2a5d2a55574e5c623e85c1c9f2606494be9a97c2b5db"
 
 [[files]]
+file = "config/yosbr/config/explorify/structure_toggles.json5"
+hash = "2172425e100d96c4e2454a0a3382d0660f26f30eaad01204291cf0bd560036c5"
+
+[[files]]
 file = "config/yosbr/config/fog/config.json"
-hash = "8e322489f7dc364c6bcb087bfa29f08214c631a390a8c61a9778219e85cb586e"
+hash = "baea85064df972b70c61e4d90bc28704e42b4ea4ed089920c6bdcddc33b6507c"
 
 [[files]]
 file = "config/yosbr/config/horseman-common.toml"
@@ -269,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "7ddc03c1cc6a69ce1a2267bf51f56ea09140786ee7c488346eea5c30724c0fcf"
+hash = "d2ac49147fff062b39d8ac990ab3a88bcf5325a29287aaff903fdc29d1e487cc"
 metafile = true
 
 [[files]]
@@ -428,6 +432,11 @@ hash = "895602d01d010ba10c9662f61d382393cdc270ba02d7cd8fb0d95f5fc7768972"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "91a75f0b5bea7356c7c1018be47d506aa984d37fd0e6f0b8d3336ef71e8b3862"
+metafile = true
+
+[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "4ab83564a6e16a9b61b13b05e7f13d86ac05069a4b45b678eb0f3b6a66b460d0"
 metafile = true
@@ -518,6 +527,11 @@ hash = "3a1963f44125196bbab4300d00e39fd8a85c24138ffe9badf5baf265f698f8a1"
 metafile = true
 
 [[files]]
+file = "mods/explorify.pw.toml"
+hash = "a0b3f914a386d4236744bc749156bb7eca1014179a50e340af1ea4741198782f"
+metafile = true
+
+[[files]]
 file = "mods/extrasoundsforge.pw.toml"
 hash = "1b636c17a9bc68562c13d75439f9d8cbef3ba7005bac6eb7ac45baf7ba4e4226"
 metafile = true
@@ -590,6 +604,11 @@ metafile = true
 [[files]]
 file = "mods/guarding.pw.toml"
 hash = "84013d61742ee4bae93b4b500ecdfc70c11ee602c51b6350aa67c21385a4a5c9"
+metafile = true
+
+[[files]]
+file = "mods/hearths.pw.toml"
+hash = "e85a99b873be94bc88f82dc924b3db1e14b70c3cd2962384ee3e0a998fb31f62"
 metafile = true
 
 [[files]]
@@ -825,6 +844,11 @@ metafile = true
 [[files]]
 file = "mods/pandaantidupe.pw.toml"
 hash = "c753f1ae2903631e49ca030ed09cf3b0df09d7866d8ac2decb37e83af551bed0"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "c0969cf2bc2301c45c2bfcfc31a7132aad2bfbc893b340e804116dd6a3843f0b"
 metafile = true
 
 [[files]]

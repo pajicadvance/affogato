@@ -1,0 +1,13 @@
+name = "Hearths"
+filename = "Hearths v1.0.4 f12-80.mod.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XCIMrYn0/versions/lSHELdna/Hearths%20v1.0.4%20f12-80.mod.jar"
+hash-format = "sha512"
+hash = "6059f753f51825d46710bdb7d60c80b73a8501bf7c62b0d9b69f76625deacad78ef51c3a2ef81118cb48a7d2f2d74064c36028d280d63b4408963bc251922e42"
+
+[update]
+[update.modrinth]
+mod-id = "XCIMrYn0"
+version = "lSHELdna"

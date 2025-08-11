@@ -2,17 +2,18 @@
 	"enableMod": true,
 	"disabledBiomes": [
 		"minecraft:the_end",
-		"nullscape:void_barrens",
-		"nullscape:shadowlands",
-		"nullscape:crystal_peaks",
 		"minecraft:end_midlands",
 		"minecraft:end_highlands",
 		"minecraft:end_barrens",
+		"minecraft:small_end_islands",
 		"minecraft:nether_wastes",
 		"minecraft:crimson_forest",
 		"minecraft:warped_forest",
 		"minecraft:soul_sand_valley",
-		"minecraft:basalt_deltas"
+		"minecraft:basalt_deltas",
+		"nullscape:void_barrens",
+		"nullscape:shadowlands",
+		"nullscape:crystal_peaks"
 	],
 	"rainFogMultiplier": 0.9,
 	"undergroundFogMultiplier": 0.5,
