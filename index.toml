@@ -81,6 +81,10 @@ file = "config/yosbr/config/experimentalist.json"
 hash = "8cfce334dbc58601b1ad2a5d2a55574e5c623e85c1c9f2606494be9a97c2b5db"
 
 [[files]]
+file = "config/yosbr/config/fog/config.json"
+hash = "8e322489f7dc364c6bcb087bfa29f08214c631a390a8c61a9778219e85cb586e"
+
+[[files]]
 file = "config/yosbr/config/horseman-common.toml"
 hash = "2e873067595cab75b5e509256969e211709c3c147d08bbc15c4c48305c0eb156"
 
@@ -159,6 +163,10 @@ hash = "54cbcdb4e43c31d069e429a8422dd9a4824ff6bb677be1f21f4baf1c825b6ea8"
 [[files]]
 file = "config/yosbr/config/rightclickharvest.json5"
 hash = "eff791601a226a6784ac64100b37549af94e4fb92c8e9966fe1a089eea0e5382"
+
+[[files]]
+file = "config/yosbr/config/sereneseasons/fertility.toml"
+hash = "cd7e37f007aefe5bbbf72d986b6a0d4741abbda62850557106bcb4ab07bf5c9b"
 
 [[files]]
 file = "config/yosbr/config/sereneseasons/seasons.toml"
@@ -261,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "dba4014b343eaca1c5ddd743a715e7ab2afaea0b7ea251e8b630c962815e2346"
+hash = "751eb131a2bb6fc57c36d7e8f9e4e234286d00170e4c46d3d7236c4a843dd239"
 metafile = true
 
 [[files]]
@@ -411,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/crate-delight.pw.toml"
-hash = "ff2fea595e3c3759e777179d20c3f6040d0bc0abdc3c70df49450fb7105277ea"
+hash = "7647a4128a858a8cc6c6fcda628357d26edbecce7a58796b4091bff64a1e5793"
 metafile = true
 
 [[files]]
@@ -550,6 +558,11 @@ hash = "eb26663dcc0956abea73e069fbb0aa65e1d651e95c5a1e3af94461ed5effe5ef"
 metafile = true
 
 [[files]]
+file = "mods/fog.pw.toml"
+hash = "6f80336d0cdda5ad2698fc1c2dd2b25c9f586aa538cd1a1548cef20b0bb97971"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "6afc47cce5b7aa63fb1841b92e532a49f4b9a480e5f99ce92b1a220013b53c21"
 metafile = true
@@ -646,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "e5fec0d549661a32911e647b7efb16697da797d7f511b09e0d49a5de82d594c4"
+hash = "ecedc62ed0891e9f732f88e4aeaf36aaec85eaa305770d3cbf218b49367f1e51"
 metafile = true
 
 [[files]]
