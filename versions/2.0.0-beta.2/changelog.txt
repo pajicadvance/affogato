@@ -1,0 +1,2 @@
+- Fixed copper torches not dropping themselves.
+- Adjusted copper torch recipe so that it's craftable in a 2x2 grid.

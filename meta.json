@@ -11,6 +11,16 @@
                     "modrinth": "https://modrinth.com/modpack/affogato"
                 }
             }
+        },
+        {
+            "id": "2.0.0-beta.2",
+            "releasedAt": 1754955685000,
+            "updateType": "minor",
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/affogato"
+                }
+            }
         }
     ]
 }

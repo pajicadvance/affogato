@@ -14,7 +14,7 @@ hash = "62f89200b6bb01fdef300c22dd86138b152afcf487c699b103178e103cc44ff2"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "e6b33ba07399be8c8f385202957b8799c86a04b698580e821d6ec483ba6b4c00"
+hash = "37136cac4a3663214c3bc0e8ce6f50e33cbf55b9a879af7dcbe8f63013687686"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
