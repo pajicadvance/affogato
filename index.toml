@@ -968,7 +968,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "c838a42d7edf6c9230adb55504ef11478d8160cdd44eb6312a7861e9ef88540a"
+hash = "d70c9482a19850a053b141beb79aedaa112bf0a08d3ae01f02c7e306ac110ec7"
 metafile = true
 
 [[files]]
