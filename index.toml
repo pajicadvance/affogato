@@ -206,7 +206,7 @@ hash = "932d460b708b2f5b296398d5d972bf823e8da33c4ac0522780114ef2be9fb61a"
 
 [[files]]
 file = "config/yosbr/config/soaring_phantoms/config.toml"
-hash = "2b76cbe8a083920633cf89a42742fa516bef3b103f6dbde5c0c01ee1a0c86dc3"
+hash = "dec7dbb46f52aa9e7742818b64f581482f8a13237ab1d249b7825bce056c9751"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "77af6fc81a2971ca78b4e4cc059aed2a0791b759c534f5eeca57b69cb8fb1d0e"
+hash = "7ddc03c1cc6a69ce1a2267bf51f56ea09140786ee7c488346eea5c30724c0fcf"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/configurable.pw.toml"
-hash = "6e00012374abf5c16cf1253e6fdbbf018a51c35fc310fa1095f7930ae8e2a925"
+hash = "1679c7a389ab236b1d1391a9f668d14e5056daa74d3e5a6adc6aef656f114096"
 metafile = true
 
 [[files]]
@@ -864,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "9bb377938c2fcfad53c925fd0d8c670496bf47239e031f604813dc3a5cf5de14"
+hash = "ea6b2156e703ca65e0cf4a7119e2c4a9ea81018860859dd949cd2832dfa3bf07"
 metafile = true
 
 [[files]]
@@ -974,7 +974,7 @@ metafile = true
 
 [[files]]
 file = "mods/soaring-phantoms.pw.toml"
-hash = "11d5bb6c79b27a2bf6be32e770089b9db07a6ea31997eea67b6af66e85301276"
+hash = "245c2a8c4544f0eb6684696dddb9a5a24fdd91c3aca9466b078967686a2ac00d"
 metafile = true
 
 [[files]]
@@ -999,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "a68b8bd7e8248b3e60df9e8c6a6356d43274751cea27600af525ac3d697dcc4f"
+hash = "6a58a477cc39f10e3cb7faf2ede2d58196ad00069f51c5e4c063a786f0cd1910"
 metafile = true
 
 [[files]]

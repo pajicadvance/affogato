@@ -1,13 +1,13 @@
 name = "Soaring Phantoms"
-filename = "soaring-phantoms-1.1.0+1.21.1.jar"
+filename = "soaring-phantoms-1.2.0+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/d4Rp6J8P/versions/SLuFb83B/soaring-phantoms-1.1.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/d4Rp6J8P/versions/Kt5iWb17/soaring-phantoms-1.2.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "c4652189db841f1d93855100207f05dbe197748fb89c313fb52029f70544ed36b4a71ee8cc5084299f3423fc702e526ada65f7b6832d7089045e7934e30870d4"
+hash = "665a0a0f3a50774e58d424ae3bc9f2c37e15af23e10362901c7447aed20c3c6a8c3e4b2cb941f9f3f5047ffb58705cb8353b78f99be63362028c416e4e695fe9"
 
 [update]
 [update.modrinth]
 mod-id = "d4Rp6J8P"
-version = "SLuFb83B"
+version = "Kt5iWb17"
