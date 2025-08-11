@@ -1,9 +1,9 @@
 {
   "schemaVersion": 7,
-  "currentVersion": "2.0.0",
+  "currentVersion": "2.0.0-beta.1",
   "modpackName": "Affogato",
   "modpackAuthor": "pajic",
-  "modpackReleaseType": "stable",
+  "modpackReleaseType": "beta",
   "updateCheckerId": "https://raw.githubusercontent.com/pajicadvance/affogato/1.21.1/",
   "advanced": {
     "addButton": false

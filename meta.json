@@ -3,8 +3,9 @@
     "hotfixesFormat": null,
     "versions": [
         {
-            "id": "2.0.0",
-            "releasedAt": 1743798268000,
+            "id": "2.0.0-beta.1",
+            "releasedAt": 1754946576000,
+            "updateType": "incompatible",
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/affogato"
