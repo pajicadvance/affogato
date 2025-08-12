@@ -1,0 +1,3 @@
+- Changed out of season crops to grow slowly instead of not grow at all.
+- Disabled mechanic where growing crops underground or inside made them ignore out of season rules.
+- Changed Jade config to not display fluids at all.

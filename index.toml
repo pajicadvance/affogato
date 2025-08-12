@@ -9,12 +9,20 @@ file = "config/global_packs.toml"
 hash = "12a6a7fd2194b77fde61445b876ac44eb0c8240155b0b2682cf44b190d0824cf"
 
 [[files]]
+file = "config/jade/jade.json"
+hash = "2bba313d788c265ec1530d277c077690d4c9ed961d6c20aaec27875cd355c25a"
+
+[[files]]
 file = "config/modpack-update-checker-info.txt"
 hash = "62f89200b6bb01fdef300c22dd86138b152afcf487c699b103178e103cc44ff2"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "37136cac4a3663214c3bc0e8ce6f50e33cbf55b9a879af7dcbe8f63013687686"
+hash = "e5961232e9f7ab8f0f55e1eb4d7ce9964a24e4b32e85ca2624cbd843e93e78b9"
+
+[[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "c71c6b8dae83ec2d5d61622535746cb3210911bed4077612770b1492a78dd03c"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
@@ -113,10 +121,6 @@ file = "config/yosbr/config/itemswapper.json"
 hash = "e724108ade2f4fbc7f5a20034372c0404e6f9171a2b6f1eae4bb9a57bec2ffbb"
 
 [[files]]
-file = "config/yosbr/config/jade/jade.json"
-hash = "61982646f0bee2580c1517fd5ad4e84d2a88e4e066c25ef11c4460546e7da1f2"
-
-[[files]]
 file = "config/yosbr/config/jade/plugins.json"
 hash = "374e177ac2bd1f7704f284a1e17b0e21c93779db389673d895fed42d44b81d19"
 
@@ -167,10 +171,6 @@ hash = "54cbcdb4e43c31d069e429a8422dd9a4824ff6bb677be1f21f4baf1c825b6ea8"
 [[files]]
 file = "config/yosbr/config/rightclickharvest.json5"
 hash = "eff791601a226a6784ac64100b37549af94e4fb92c8e9966fe1a089eea0e5382"
-
-[[files]]
-file = "config/yosbr/config/sereneseasons/fertility.toml"
-hash = "cd7e37f007aefe5bbbf72d986b6a0d4741abbda62850557106bcb4ab07bf5c9b"
 
 [[files]]
 file = "config/yosbr/config/sereneseasons/seasons.toml"
