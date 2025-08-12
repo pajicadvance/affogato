@@ -18,11 +18,15 @@ hash = "62f89200b6bb01fdef300c22dd86138b152afcf487c699b103178e103cc44ff2"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "e5961232e9f7ab8f0f55e1eb4d7ce9964a24e4b32e85ca2624cbd843e93e78b9"
+hash = "887833be29306679a65155919081254b343f8138737e7472c794844f657c2978"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
 hash = "c71c6b8dae83ec2d5d61622535746cb3210911bed4077612770b1492a78dd03c"
+
+[[files]]
+file = "config/storagedrawers-common.v2.toml"
+hash = "71c302c8d39b9d72b965bc276d3541c782ba14c2311f86dceb0b90a2d889dcbb"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
@@ -273,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "ceb03e154608cfb6a151fbb60d35e3896f62c3a037b58fbde733e8a8413fb6fd"
+hash = "b28db5345f05cc0e43af6996b68d12b308fd8f2d979d43033953b45274ad2571"
 metafile = true
 
 [[files]]
