@@ -13,3 +13,6 @@ offsite/
 # Exclude version checker data
 versions/
 /meta.json
+
+# Exclude documentation
+/docs.md

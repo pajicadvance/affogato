@@ -1,0 +1,3 @@
+- Copper lanterns can now be equipped in the lantern slot.
+- Removed SleepWarp due to performance issues on servers.
+- Removed Comforts due to a bug causing accessory inventory deletion on world switching.

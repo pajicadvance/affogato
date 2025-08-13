@@ -18,7 +18,7 @@ hash = "62f89200b6bb01fdef300c22dd86138b152afcf487c699b103178e103cc44ff2"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "74420150d7a6242830bd8b0544955bf92e9ca1083a4ed5ea386d919972db431c"
+hash = "cac06cab907909a709f2d8312ad4e15a62655ed7383595cca067801660bbd041"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "282b86ea674e8bdc898a7c10f9c5a03c41c60a373699e093a25d56557f780e27"
+hash = "f2f0c63a1e7547d786faed680a091f388fa67035be67af6d32721b0a146775a1"
 metafile = true
 
 [[files]]
@@ -403,11 +403,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
-metafile = true
-
-[[files]]
-file = "mods/comforts.pw.toml"
-hash = "55176d940577a671525a837cb9db04380a0d3339f2b93314d5df9001653347f9"
 metafile = true
 
 [[files]]
@@ -983,11 +978,6 @@ metafile = true
 [[files]]
 file = "mods/sketch.pw.toml"
 hash = "d68ba63b7d24eed973f5bc38233633a300ed264a216f549a36b56d6bdd97f550"
-metafile = true
-
-[[files]]
-file = "mods/sleep-warp-updated.pw.toml"
-hash = "4b64d90b57f471a659386b19092a58f59a024e6806997bb1c18dab394d31f13c"
 metafile = true
 
 [[files]]
