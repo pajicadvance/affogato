@@ -1,0 +1,2 @@
+- Fixed shaderpack selection screen not finding any shaders on Linux.
+- Added TAA Project to the shaderpack whitelist.

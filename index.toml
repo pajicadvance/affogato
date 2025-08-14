@@ -18,7 +18,7 @@ hash = "62f89200b6bb01fdef300c22dd86138b152afcf487c699b103178e103cc44ff2"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "cac06cab907909a709f2d8312ad4e15a62655ed7383595cca067801660bbd041"
+hash = "a258c15e43f6f88aff4e335682b18b637908896740b55bab7881ce76728ab7be"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "f2f0c63a1e7547d786faed680a091f388fa67035be67af6d32721b0a146775a1"
+hash = "bd59da1b1d9608bf290d90ff5060081abe223e6ffb4ae1c0b7b4629cb8b4c4fc"
 metafile = true
 
 [[files]]
