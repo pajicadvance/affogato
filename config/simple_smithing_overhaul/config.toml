@@ -42,7 +42,7 @@ modItemUnitCosts = [
     [ "#chalk:chalks", 2 ],
     [ "rearm:netherite_bow", 3 ],
     [ "vshorses:horseshoe", 3 ],
-    [ "guarding:netherite_shield", 6 ],
+    [ "guarding:netherite_shield", 3 ],
     [ "#farmersdelight:tools/knives", 1 ],
     [ "another_furniture:furniture_hammer", 3 ]
 ]

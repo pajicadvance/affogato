@@ -18,11 +18,15 @@ hash = "62f89200b6bb01fdef300c22dd86138b152afcf487c699b103178e103cc44ff2"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "a258c15e43f6f88aff4e335682b18b637908896740b55bab7881ce76728ab7be"
+hash = "8832fa58280619f736c9a5e7fbd5be0968566e68dc07f19a41445313790af916"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
 hash = "c71c6b8dae83ec2d5d61622535746cb3210911bed4077612770b1492a78dd03c"
+
+[[files]]
+file = "config/simple_smithing_overhaul/config.toml"
+hash = "e7badebd4e5b33bdfdb5b51530f7278e01f3b3225c3b1b0d3b8f8531e13ccece"
 
 [[files]]
 file = "config/storagedrawers-common.v2.toml"
@@ -195,10 +199,6 @@ hash = "26f318609f76730d162840f27d0f70d4dad3ad36bc263650db803e834be7c552"
 [[files]]
 file = "config/yosbr/config/simple_music_control.json5"
 hash = "978733f1e5a5a18067710d34c197dbb8f8238aa3ba8c6bdbb696a878d95e8437"
-
-[[files]]
-file = "config/yosbr/config/simple_smithing_overhaul/config.toml"
-hash = "cfad7479bd77f68d107284308e097486bbff9319c4138c013581261f4fe68499"
 
 [[files]]
 file = "config/yosbr/config/simplefog.json"
@@ -378,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "be29598337af357cd80b5a60d4eb1e06ff50008fe8d9ca0b52d1279be96a785a"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "a8ae61415adbfd8eea60a67c61b376f3077c39ba7d3c0909f1eddebd1427c5b7"
 metafile = true
 
 [[files]]
@@ -642,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/interactic.pw.toml"
-hash = "402fbceea05265ad9b6b1d8086c011e6000919786e7d62d082b74b29045fa4f3"
+hash = "e4fde167c45beaffec1960af85d04d41c5ed8952849b61bcdc7a29831c3397fb"
 metafile = true
 
 [[files]]
@@ -763,11 +768,6 @@ metafile = true
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "f07847cfa82a4a22d8b0421e743ddf03971e90478efff85d169fd8ebe4dad2ce"
-metafile = true
-
-[[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
 metafile = true
 
 [[files]]

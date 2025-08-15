@@ -1,0 +1,4 @@
+- Reduced the amount of diamonds required to repair netherite shields from 6 to 3.
+- Added Chat Patches.
+- Removed More Chat History.
+- Fixed Interactic not being installed on the server.
