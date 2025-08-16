@@ -1,0 +1,2 @@
+- Increased the amount of quartz dropped from nether quartz ore.
+- Fixed normal skeletons still spawning in nether fortresses.
