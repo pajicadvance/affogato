@@ -1,0 +1,1 @@
+- Animals now search for nearby food on the ground and eat it on their own.
