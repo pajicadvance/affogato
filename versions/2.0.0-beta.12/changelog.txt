@@ -1,0 +1,2 @@
+- Flint can now be used to repair unenchanted items on the go, as an early game alternative to whetstones. Flint is good for one repair and is consumed on use.
+- Increased drop chance of jungle leaves.

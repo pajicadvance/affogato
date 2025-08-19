@@ -18,7 +18,7 @@ hash = "62f89200b6bb01fdef300c22dd86138b152afcf487c699b103178e103cc44ff2"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "503beaafab42d4d545ed6afeffe6a761b5685ae922c4e193b89864b8c7f78d36"
+hash = "ec386e714d204ba3273ddb37f691b68ef3a6328e0bd3141be7c7beb7ff7a2754"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "0c900009455c6ad98ec1b4fab03e4f4685f56d3715930ede4bc19f3b791e000d"
+hash = "1d04e51b24bff6709fde5e8142d19ee00626d55624769dedccf53cb03cabb423"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-disabler.pw.toml"
-hash = "b43169184f3d96eab24d08cdc0069f3628aa860bacc652fb468296112d412ec0"
+hash = "e6299efce5a4fb6d53ceefcef675c5b081fec5c40610ded0770843020ea467cf"
 metafile = true
 
 [[files]]
@@ -971,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "d70c9482a19850a053b141beb79aedaa112bf0a08d3ae01f02c7e306ac110ec7"
+hash = "bb2d92fc056f5bf12beccc8c3df4397b0d444aebe643f6ad36dd0d969fb72c4e"
 metafile = true
 
 [[files]]
