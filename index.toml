@@ -18,7 +18,7 @@ hash = "62f89200b6bb01fdef300c22dd86138b152afcf487c699b103178e103cc44ff2"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "440e34b5c7ec967eb6e7ecbcbe543ae5f80e9c94cf87809d3f4f92ba8d6c040a"
+hash = "503beaafab42d4d545ed6afeffe6a761b5685ae922c4e193b89864b8c7f78d36"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -221,6 +221,10 @@ file = "config/yosbr/config/sodium-extra-options.json"
 hash = "c2eb9dd0d25677665de415b7ae4811060ef59efe8b101802217bf57cdc627547"
 
 [[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "1cfb801674a9262acd7b109235e88a7e322578feb14d8f57f86ce5aa29085235"
+
+[[files]]
 file = "config/yosbr/config/storagedrawers-common.toml"
 hash = "8a2794aa06c3508c99665c6b53ca3f8ac7b0b799dd1e3025d7abe5cc1e5deb5e"
 
@@ -277,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "ffe567e88a84793c983370f8dec3d67f00601e436e77bd73a39738b69f34264b"
+hash = "0c900009455c6ad98ec1b4fab03e4f4685f56d3715930ede4bc19f3b791e000d"
 metafile = true
 
 [[files]]
@@ -417,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/configurable.pw.toml"
-hash = "1679c7a389ab236b1d1391a9f668d14e5056daa74d3e5a6adc6aef656f114096"
+hash = "42f5cf9a7f39340458df1c1a66e4c5123d110424da1f4451cc2fcfb597b8cbf2"
 metafile = true
 
 [[files]]
@@ -981,6 +985,11 @@ hash = "d68ba63b7d24eed973f5bc38233633a300ed264a216f549a36b56d6bdd97f550"
 metafile = true
 
 [[files]]
+file = "mods/sleep-warp-updated.pw.toml"
+hash = "c80f786ca809ba354365e038393c6c3ac6539b93bf9ef9f8348411769485e55c"
+metafile = true
+
+[[files]]
 file = "mods/smoothswapping.pw.toml"
 hash = "335a5fc91cff591dfca20ddc9ead5d83cc24ea912bce0c662d0336c85632e0f6"
 metafile = true
@@ -1012,7 +1021,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "f54481490c1d58ce0ff8be3703fccc0f663488d76f76aa033ff096a7cff2fe90"
+hash = "f60df2b3d877926f42f28aa414c52f8ada44f57e350b1322e5d64997722d696a"
 metafile = true
 
 [[files]]

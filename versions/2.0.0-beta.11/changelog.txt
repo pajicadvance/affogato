@@ -1,0 +1,3 @@
+- Re-added SleepWarp as a singleplayer only mod.
+- Disabled Sodium fog occlusion to prevent visual issues with Fog.
+- Tweaked the color of Absorption to not look so similar to the color of Strength.
