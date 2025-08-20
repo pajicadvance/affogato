@@ -1,13 +1,13 @@
 name = "Simple Smithing Overhaul"
-filename = "simple_smithing_overhaul-2.4.1+1.21.1.jar"
+filename = "simple_smithing_overhaul-2.4.2+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/U5TJjZc3/versions/E2s6iFCM/simple_smithing_overhaul-2.4.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/U5TJjZc3/versions/RjWc6rNR/simple_smithing_overhaul-2.4.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "091ede8f2d3179da0227e4c9b051e48b4838162b9fd372dc7766f669da255a5a56711e97a1b2a180229641e2f40f28afd54f61c6597a4dc915c6683406f511e9"
+hash = "c56a1597ad1aa18abe6d9505790065138adec52f7f5c8f9b273f66e6f2d1d2c21eaa35570047dec49fb01837e80af5d98a53e4fcb8f3a13539587fdb89b0bee7"
 
 [update]
 [update.modrinth]
 mod-id = "U5TJjZc3"
-version = "E2s6iFCM"
+version = "RjWc6rNR"
