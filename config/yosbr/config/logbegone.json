@@ -1,0 +1,10 @@
+{
+  "logbegone": {
+    "phrases": [
+      "Can't access registry ResourceKey[minecraft:root / minecraft:game_event]"
+    ],
+    "regex": [
+      "Can't access registry ResourceKey[minecraft:root / minecraft:game_event]"
+    ]
+  }
+}

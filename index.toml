@@ -18,7 +18,7 @@ hash = "62f89200b6bb01fdef300c22dd86138b152afcf487c699b103178e103cc44ff2"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "ec386e714d204ba3273ddb37f691b68ef3a6328e0bd3141be7c7beb7ff7a2754"
+hash = "6d73be3dcfa35a9b44ef53f8e23fbae65007b99093fbb8959e9fb6c416829b06"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -101,10 +101,6 @@ file = "config/yosbr/config/explorify/structure_toggles.json5"
 hash = "2172425e100d96c4e2454a0a3382d0660f26f30eaad01204291cf0bd560036c5"
 
 [[files]]
-file = "config/yosbr/config/fog/config.json"
-hash = "baea85064df972b70c61e4d90bc28704e42b4ea4ed089920c6bdcddc33b6507c"
-
-[[files]]
 file = "config/yosbr/config/horseman-common.toml"
 hash = "2e873067595cab75b5e509256969e211709c3c147d08bbc15c4c48305c0eb156"
 
@@ -135,6 +131,10 @@ hash = "374e177ac2bd1f7704f284a1e17b0e21c93779db389673d895fed42d44b81d19"
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "f008c5fe465e6aa179ed025a334feb27df6871c2fa94bdaa2ca64b4c0eef3af2"
+
+[[files]]
+file = "config/yosbr/config/logbegone.json"
+hash = "90582b8cb98e82fc3a31bd81303be9c0ab9eae2cf929a1daa0caf9b7c2fe1a73"
 
 [[files]]
 file = "config/yosbr/config/microdurability.json5"
@@ -219,10 +219,6 @@ hash = "dec7dbb46f52aa9e7742818b64f581482f8a13237ab1d249b7825bce056c9751"
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "c2eb9dd0d25677665de415b7ae4811060ef59efe8b101802217bf57cdc627547"
-
-[[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "1cfb801674a9262acd7b109235e88a7e322578feb14d8f57f86ce5aa29085235"
 
 [[files]]
 file = "config/yosbr/config/storagedrawers-common.toml"
@@ -580,11 +576,6 @@ hash = "eb26663dcc0956abea73e069fbb0aa65e1d651e95c5a1e3af94461ed5effe5ef"
 metafile = true
 
 [[files]]
-file = "mods/fog.pw.toml"
-hash = "6f80336d0cdda5ad2698fc1c2dd2b25c9f586aa538cd1a1548cef20b0bb97971"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "6afc47cce5b7aa63fb1841b92e532a49f4b9a480e5f99ce92b1a220013b53c21"
 metafile = true
@@ -626,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseman.pw.toml"
-hash = "ec09f34b6eb9af39fd7cb5a35acb758658f211691199787d7e25e95a96fff384"
+hash = "173ff766a371c2902734cec81b935904d4317ab17b4d04cb96c8a0a9bb0f4111"
 metafile = true
 
 [[files]]
@@ -712,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "d48569865401a1a2e7c172be1c7b585a2d23abf9ec6bd3bcd22d25d98a278f9a"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "e4e3d2e7fe998a93d69479ff95cc00098d1107b2cb2f703634f80d4631b682ee"
 metafile = true
 
 [[files]]
@@ -971,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "bb2d92fc056f5bf12beccc8c3df4397b0d444aebe643f6ad36dd0d969fb72c4e"
+hash = "a8ecb36ea58b1094be6a0320788ff83270c442b0341072bdfef37b4f5d80d317"
 metafile = true
 
 [[files]]

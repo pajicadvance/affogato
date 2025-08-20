@@ -1,0 +1,5 @@
+- Items now won't be destroyed when they break. Instead, they will remain at 0 durability but will be non-functional until repaired.
+- Changed the description and icon of the Pocket Smith advancement.
+- Removed Fog mod.
+- Re-enabled fog occlusion in Sodium.
+- Added Log Begone to filter out harmless log spam caused by Simple Copper Pipes.
