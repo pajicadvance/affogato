@@ -18,7 +18,7 @@ hash = "62f89200b6bb01fdef300c22dd86138b152afcf487c699b103178e103cc44ff2"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "d3768689a1de1d5bf384a7e59d36f688f1864799ae80038e9389af9dca7d13e3"
+hash = "d112e503a2662997fecc0275c6b91ac3f2f456e1138a55f9108cb720419e2373"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "1cb11082faa1727e8b1251a4c1fd0041ef99a9245d7adc63c9c942f59b6ef578"
+hash = "e175d2ef1d5af85b8bc7c53dcf37fa9a7427317b91064af2e4e89ff0b0458aef"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/configurable.pw.toml"
-hash = "42f5cf9a7f39340458df1c1a66e4c5123d110424da1f4451cc2fcfb597b8cbf2"
+hash = "fa618e78773a68e1035bf2da428e2c4499d7ff63c9eabe726e9bfd7a0e8a3343"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "161123eca0678a132b41010d1c1bbefae031c54f331f4681d09466c93004431a"
+hash = "3aa1ea0bc9be0c13cf05b17ded80b3f099ff29371a6550da1df2573b14ea434e"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "fb64786c11ef1f6d2a6ca19aa9b20ebd5515f00abc48b64b9050b2fcdb1b1cdb"
+hash = "3f3cd8f19e6c720d34646c60a2be057a0773f67b964f176476a1cae64f822bfe"
 metafile = true
 
 [[files]]
@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "9635ccba189d8565c867d880a94b05afc93d6437d3516dbaba5baba9f1ddb6ef"
+hash = "8ebf5563f895b04657878555548c1e25e80933d036202f52175c1bce7833005c"
 metafile = true
 
 [[files]]
