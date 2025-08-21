@@ -18,7 +18,7 @@ hash = "62f89200b6bb01fdef300c22dd86138b152afcf487c699b103178e103cc44ff2"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "d112e503a2662997fecc0275c6b91ac3f2f456e1138a55f9108cb720419e2373"
+hash = "fe50a47e793a4cea992d0b427417f0e5c672be72d73ead0d43855c33c3d3a3c6"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "8ebf5563f895b04657878555548c1e25e80933d036202f52175c1bce7833005c"
+hash = "2c5fc46d6336e684725734e014183baaf1b0b773d74e4477551016edb3f89cc3"
 metafile = true
 
 [[files]]

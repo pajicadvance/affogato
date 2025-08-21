@@ -1,0 +1,1 @@
+- Fixed another bug with Simple Smithing Overhaul.
