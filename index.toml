@@ -14,11 +14,11 @@ hash = "2bba313d788c265ec1530d277c077690d4c9ed961d6c20aaec27875cd355c25a"
 
 [[files]]
 file = "config/modpack-update-checker-info.txt"
-hash = "62f89200b6bb01fdef300c22dd86138b152afcf487c699b103178e103cc44ff2"
+hash = "fdeb925bc645a9112bddcdd452b5c9cf55a908bb46ec9db0b5e1522d369aaee4"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "fe50a47e793a4cea992d0b427417f0e5c672be72d73ead0d43855c33c3d3a3c6"
+hash = "db22abd0c81761b0e018bccef06b274d816c82c71790843614017a67205e54d2"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "1d04e51b24bff6709fde5e8142d19ee00626d55624769dedccf53cb03cabb423"
+hash = "477cc73ec5b14bcdb11937ee98bee7df39da4e72ab4801754dab4e9aa5865862"
 metafile = true
 
 [[files]]
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/misctweaks.pw.toml"
-hash = "5a384f6ffe3b240087b2e9885b9b9923e4fe69736b5ec12ff08bce0bdc3458cc"
+hash = "11d1a42b019781dd48b93b406eee95cbaf8f09e9c5baabde4d503e71a32ee11d"
 metafile = true
 
 [[files]]
@@ -1017,7 +1017,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "f60df2b3d877926f42f28aa414c52f8ada44f57e350b1322e5d64997722d696a"
+hash = "59fb248a921d8b3025a919c932201597cd8667c4b63054f22775c4a15868269b"
 metafile = true
 
 [[files]]

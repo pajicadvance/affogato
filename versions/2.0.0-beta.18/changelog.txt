@@ -1,0 +1,3 @@
+- Fixed lightning rods not oxidizing.
+- Fixed armored mobs unintentionally having a higher chance to drop an enchanted book.
+- Fixed armored mobs spawned from a mob spawner dropping XP when they shouldn't.
