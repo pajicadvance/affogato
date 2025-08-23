@@ -1,0 +1,5 @@
+- Removed XP from clay smelting recipes.
+- Ender dragon no longer drops XP on kills after the first one.
+- Sculk now only spreads if the mob that died was buffed.
+- Fixed eating animation speed.
+- Fixed shader pack selection screen issues on MacOS.
