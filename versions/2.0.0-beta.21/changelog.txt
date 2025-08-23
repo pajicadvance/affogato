@@ -1,0 +1,1 @@
+- Fixed a bug with animals eating food off the ground.
