@@ -1,8 +1,0 @@
-name = "Guarding"
-filename = "guarding-1.21.1-2.7.5.jar"
-side = "both"
-
-[download]
-url = "https://github.com/pajicadvance/guarding/releases/download/1.21.1-2.7.5/guarding-1.21.1-2.7.5.jar"
-hash-format = "sha512"
-hash = "573756d772a0794c7af3953121163d14658fdfe9fd69204e3d8047d1bb1d3ebb4da91ad0f5172ebd5b89df680e41782d19335c5b05c9abfae8ff9a34a30228f4"

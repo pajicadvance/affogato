@@ -1,0 +1,63 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config (or just use Forge)",
+  "minimap": {
+    "shows_map_background": false,
+    "hide_when_in_hand": true,
+    "only_show_y_when_has_slices": true,
+    "scale": 1.0,
+    "enabled": true,
+    "zoom_multiplier": 1.0,
+    "anchoring": "UPPER_RIGHT",
+    "horizontal_offset": 0,
+    "vertical_offset": 0,
+    "active_potion_effects_vertical_offset": 26,
+    "coordinate_text": false,
+    "chunk_coordinate_text": false,
+    "biome_text": false,
+    "coords_and_biome_scale": 1.0,
+    "decoration_scale": 1.0,
+    "map_markers_text_scale": 1.0,
+    "follow_player": true,
+    "rotate_with_player": true,
+    "cardinal_directions": true,
+    "cardinal_scale": 1.0,
+    "only_show_north_cardinal": false,
+    "map_borders": true,
+    "darken_at_night": false,
+    "map_change_sound": false,
+    "automatic_slice_change": false
+  },
+  "world_map": {
+    "shear_button": true,
+    "compass_icon": false,
+    "clock_icon": false,
+    "crossair": false,
+    "alternative_texture": false,
+    "smooth_panning": true,
+    "smooth_zooming": true,
+    "zoom_scroll_speed": 1.0,
+    "scale": 1.25,
+    "lectern_scale": 1.0,
+    "map_borders": true,
+    "draw_coordinates": false,
+    "coordinates_scale": 1.0,
+    "decoration_scale": 1.0,
+    "map_markers_text_scale": 1.0,
+    "compact_slices_indicator": false,
+    "follow_player": true
+  },
+  "misc": {
+    "soundScalar": 1.0,
+    "in_hand_renderer": "NOT_LOCKED"
+  },
+  "moonlight_integration": {
+    "enabled": true,
+    "pin_tracking": true,
+    "mob_radar": false,
+    "radar_radius": 64,
+    "radar_pins_rotate": false,
+    "radar_single_color": false,
+    "night_lightmap": true,
+    "convert_xaeros_waypoints": false
+  }
+}

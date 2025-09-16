@@ -9,28 +9,12 @@ file = "config/global_packs.toml"
 hash = "12a6a7fd2194b77fde61445b876ac44eb0c8240155b0b2682cf44b190d0824cf"
 
 [[files]]
-file = "config/jade/jade.json"
-hash = "2bba313d788c265ec1530d277c077690d4c9ed961d6c20aaec27875cd355c25a"
-
-[[files]]
 file = "config/modpack-update-checker-info.txt"
 hash = "fdeb925bc645a9112bddcdd452b5c9cf55a908bb46ec9db0b5e1522d369aaee4"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "c386fb010ea48e15a789839fa99b256ffdc7a286518278acbdc17fcf32f59629"
-
-[[files]]
-file = "config/sereneseasons/fertility.toml"
-hash = "c71c6b8dae83ec2d5d61622535746cb3210911bed4077612770b1492a78dd03c"
-
-[[files]]
-file = "config/simple_smithing_overhaul/config.toml"
-hash = "e7badebd4e5b33bdfdb5b51530f7278e01f3b3225c3b1b0d3b8f8531e13ccece"
-
-[[files]]
-file = "config/storagedrawers-common.v2.toml"
-hash = "71c302c8d39b9d72b965bc276d3541c782ba14c2311f86dceb0b90a2d889dcbb"
+hash = "ba936cb2ebd062ace19aab555eba7e656a002c374b15d53d34a833f657bbe044"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
@@ -125,6 +109,10 @@ file = "config/yosbr/config/itemswapper.json"
 hash = "e724108ade2f4fbc7f5a20034372c0404e6f9171a2b6f1eae4bb9a57bec2ffbb"
 
 [[files]]
+file = "config/yosbr/config/jade/jade.json"
+hash = "2bba313d788c265ec1530d277c077690d4c9ed961d6c20aaec27875cd355c25a"
+
+[[files]]
 file = "config/yosbr/config/jade/plugins.json"
 hash = "374e177ac2bd1f7704f284a1e17b0e21c93779db389673d895fed42d44b81d19"
 
@@ -137,8 +125,20 @@ file = "config/yosbr/config/logbegone.json"
 hash = "90582b8cb98e82fc3a31bd81303be9c0ab9eae2cf929a1daa0caf9b7c2fe1a73"
 
 [[files]]
+file = "config/yosbr/config/map_atlases-client.json"
+hash = "7183e945d4edc13de1816d4434137f94c582ff149c6a9f6c7a26498de44e9757"
+
+[[files]]
+file = "config/yosbr/config/map_atlases-common.json"
+hash = "b85c2ab148539df44303b8bbdb598def7fe4bb8623856002880c42d9d9434781"
+
+[[files]]
 file = "config/yosbr/config/microdurability.json5"
 hash = "88c1fa6b7b6408153b50d868bb8dd61b5bdf90617e8bc38b9a5b8a4dab172b52"
+
+[[files]]
+file = "config/yosbr/config/miningdelay.json"
+hash = "9ac393a35c7fdf1c6973b14eb975046f3a03c16d593bf6f4c7a93a554a34ee3f"
 
 [[files]]
 file = "config/yosbr/config/misctweaks/client_config.toml"
@@ -166,7 +166,7 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
 [[files]]
 file = "config/yosbr/config/presencefootsteps/userconfig.json"
-hash = "20b688aa32b54efd77d1f4846fc67fbb805cf7296e5cf52731fdde7764cd890b"
+hash = "a96573079e0d61a230aae3c0bb2959f44f0048e1c7f9cea19e2eda7e54ad940c"
 
 [[files]]
 file = "config/yosbr/config/raised.json"
@@ -179,6 +179,10 @@ hash = "54cbcdb4e43c31d069e429a8422dd9a4824ff6bb677be1f21f4baf1c825b6ea8"
 [[files]]
 file = "config/yosbr/config/rightclickharvest.json5"
 hash = "eff791601a226a6784ac64100b37549af94e4fb92c8e9966fe1a089eea0e5382"
+
+[[files]]
+file = "config/yosbr/config/sereneseasons/fertility.toml"
+hash = "c71c6b8dae83ec2d5d61622535746cb3210911bed4077612770b1492a78dd03c"
 
 [[files]]
 file = "config/yosbr/config/sereneseasons/seasons.toml"
@@ -201,12 +205,20 @@ file = "config/yosbr/config/simple_music_control.json5"
 hash = "978733f1e5a5a18067710d34c197dbb8f8238aa3ba8c6bdbb696a878d95e8437"
 
 [[files]]
+file = "config/yosbr/config/simple_smithing_overhaul/config.toml"
+hash = "13a9e4de21b7408f2a97d4167e72139a7504d02aa9f96ad20d8c8f856cb5b03c"
+
+[[files]]
 file = "config/yosbr/config/simplefog.json"
 hash = "2653c6f5c0b02a8ea54a443b78c6430d066c4614e1fff034921ea226b92fef61"
 
 [[files]]
 file = "config/yosbr/config/sleepwarp.json"
 hash = "3c9318aab5c5e0aa05b7fd1999119754accfd5b2b8a84733fd308aaf4b5a542a"
+
+[[files]]
+file = "config/yosbr/config/smbs/config.toml"
+hash = "76aa529a2e7e227e36c1e4802533ce48417c102da8a6f3fc6550ab755855ed4d"
 
 [[files]]
 file = "config/yosbr/config/smoothswapping.json"
@@ -221,8 +233,8 @@ file = "config/yosbr/config/sodium-extra-options.json"
 hash = "c2eb9dd0d25677665de415b7ae4811060ef59efe8b101802217bf57cdc627547"
 
 [[files]]
-file = "config/yosbr/config/storagedrawers-common.toml"
-hash = "8a2794aa06c3508c99665c6b53ca3f8ac7b0b799dd1e3025d7abe5cc1e5deb5e"
+file = "config/yosbr/config/storagedrawers-common.v2.toml"
+hash = "71c302c8d39b9d72b965bc276d3541c782ba14c2311f86dceb0b90a2d889dcbb"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
@@ -233,8 +245,12 @@ file = "config/yosbr/config/tillitbreaks.json"
 hash = "aedd54cc2fa381a315839a032ec272d3e6285a2213806f61b1efc7ebc8c7da8d"
 
 [[files]]
+file = "config/yosbr/config/zombieimprovements/config.toml"
+hash = "1535cbb882123aa33793fbdc03d4677b86c618d4eb8ae6f46eda16fdecf6cd87"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "f1e9da78fa27c71f40884a047f53c2de9913e79cc3fb76f4e04cfe0890acdb8f"
+hash = "3f26bfb53fb68ea31be51af683e5e27446af71eef97fcccf5bb25601d783bf65"
 
 [[files]]
 file = "credits.txt"
@@ -267,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessorify.pw.toml"
-hash = "7d25397c7f6792675a829e541ab64aae5abe3a950ef418fcfc6917943389c7cf"
+hash = "131664c8b55689a40722945202552e1398e6656d6db656ea11386b868c91ad40"
 metafile = true
 
 [[files]]
@@ -277,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "a1d35a6ccc8e6b5598a664f694509f15db5d70590ef5f1704030aaacd6eb0b3c"
+hash = "28a42f3f6788f7871e39798188697e028d4b9245d669cb060054cab8c69c03c5"
 metafile = true
 
 [[files]]
@@ -301,11 +317,6 @@ hash = "60cd797dfe0cc7a6be4762120a05eed6e7068111b267e4da5993ef2229ce74dc"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
@@ -321,18 +332,28 @@ hash = "064816e4959da51774d36e41bee51b265eb053cf6ffe66dc5abbc2795da6b705"
 metafile = true
 
 [[files]]
+file = "mods/auroraslanterns.pw.toml"
+hash = "9d9902509bc398415d03f3be703bf6bbb90125b06ce76ad566d5644c16ea5eb0"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-bucket-fix.pw.toml"
 hash = "16f7d6b8dae81a9dc14f9b5ebea7f4e6cc780cb86416a2cbe05e7d6f2c19e7b0"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "699010afc3867305441c3d5b3bcdf491a7aa3614ad199b0589f368689a68859e"
+hash = "47aaa2693fff2f75cc994e2398a751ae1da4d78f77c979c1f7f8c906a4f32dbf"
 metafile = true
 
 [[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "b0e5fd52c2c511e862d9e32abc6050468f52cef242a0e37f6629ae1869227621"
+metafile = true
+
+[[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "168009c9e42bde0e33bd898c188f747ad6acb7a90e7d32e4e9f6e7f46fb6ef5f"
 metafile = true
 
 [[files]]
@@ -352,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "e175d2ef1d5af85b8bc7c53dcf37fa9a7427317b91064af2e4e89ff0b0458aef"
+hash = "321543ed29b59b94b29cb25230bde53a023024a626d5886d39fe00620add0e72"
 metafile = true
 
 [[files]]
@@ -411,13 +432,23 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/coal-nuggets.pw.toml"
+hash = "07dbf517104c776ccc7e22a78d49acd7a88b03f479ba940de63d055b71003cda"
+metafile = true
+
+[[files]]
 file = "mods/companion.pw.toml"
 hash = "180dec9fe7342d7a48b3dbe726b5611e823d364f26ea1b193b2343e792be3638"
 metafile = true
 
 [[files]]
+file = "mods/configurable-mining-delay.pw.toml"
+hash = "5aaf2084b663b79bb0d03a8f5a67ff6cfbcfb06d5ccb72a805fb83e9949c6c5c"
+metafile = true
+
+[[files]]
 file = "mods/configurable.pw.toml"
-hash = "4a882ed8b8b973ebd2ca31eaecd6a08c9b8b6c3bc8113385b2ad281f41d612c1"
+hash = "aa2565f3cfd904007f107b31804310d20a33b2b4f3068a6bc408744a5f62cb7f"
 metafile = true
 
 [[files]]
@@ -441,6 +472,11 @@ hash = "8ed0e62bc47290640fd85ad9148e8072f8f0534979bda46c10dad231bbdca6c7"
 metafile = true
 
 [[files]]
+file = "mods/crowmap.pw.toml"
+hash = "258d2c47839c369892ce30ef65c489da6d9f0f13552cc460e6f064ce93fd3904"
+metafile = true
+
+[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "4ab83564a6e16a9b61b13b05e7f13d86ac05069a4b45b678eb0f3b6a66b460d0"
 metafile = true
@@ -452,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/deimos.pw.toml"
-hash = "6629036d01d281c001168ea901675909818e66a3e59dfb559cf20ab320ab65c4"
+hash = "8dbee07c8b3212d22fd518c4862f24182272536f760c56d536e1229667fc7c9e"
 metafile = true
 
 [[files]]
@@ -522,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "9f9861528accd9ee8830611cea5c64a266bf09e3146f8ff31bcafc3db26497b0"
+hash = "2edf9f6e65652a328d6760b89440649e20b55edfb2eae97d96ecdff47caedf97"
 metafile = true
 
 [[files]]
@@ -542,12 +578,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b3811242f9230b57ec349147921309a05e17b1d9866cb5197926495d8f8e9400"
+hash = "da9fbdce468fbfa6bd5a7ceb15465780e3e8fda9535d16f40a81343621e627a7"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -557,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "f153bb989055178aacb8d919283a32697f7342ff2e244b883867e47fe94b28d6"
+hash = "0c1c4cb3282a20a758665c5e6877efd237bbe10214e0118c8719205fde87582f"
 metafile = true
 
 [[files]]
@@ -601,8 +637,8 @@ hash = "83650ffbad97ff20b09e8db87784ef4aa6d8d6857f55abe24f6e09bf900cb9af"
 metafile = true
 
 [[files]]
-file = "mods/guarding.pw.toml"
-hash = "84013d61742ee4bae93b4b500ecdfc70c11ee602c51b6350aa67c21385a4a5c9"
+file = "mods/golden-potions.pw.toml"
+hash = "6de5682ee8327e0365584609e0ab8ecb5a1eea15297696561660a51d267f45b6"
 metafile = true
 
 [[files]]
@@ -617,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseman.pw.toml"
-hash = "173ff766a371c2902734cec81b935904d4317ab17b4d04cb96c8a0a9bb0f4111"
+hash = "da880b4a7e24cb2465ff67aca6e2b332b19f0dc101543395d9b70c0ccace20d7"
 metafile = true
 
 [[files]]
@@ -682,12 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "47879af305a9ee6ee0c17cb616a12d6c18ed977b7b36753a39790c24a18f9127"
-metafile = true
-
-[[files]]
-file = "mods/lavender.pw.toml"
-hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
+hash = "7237645499c4e9a4699a241485112b97cd695776f5cf182bb24e1696943757dc"
 metafile = true
 
 [[files]]
@@ -718,6 +749,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "7e05e54fb259743c6dd0c91a21e6ec133371485489dbe0532671b0e42f2b2f5c"
 metafile = true
 
 [[files]]
@@ -768,6 +804,11 @@ metafile = true
 [[files]]
 file = "mods/modpack-update-checker.pw.toml"
 hash = "64f5c9233cff557c41d39fc509b653adb8754a240a7594db7a0abfb7d40cbf77"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "65ec71f9c53dc504377be8f91b941d46fbf0e8cb3abfd4163ff04792ec5d4eb3"
 metafile = true
 
 [[files]]
@@ -866,8 +907,13 @@ hash = "9bceeadea46405d869a5b781efb109ac9fd7b4455c9c536092ccc93a135bad96"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "1c86eb0c48eb53d3e6aa704f7c52eb64946b488855f785ab07b0fd3112311288"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
-hash = "4ac7c700526984d54f4b449494f027f4e9ec94d7104d660425f2ee047c580db2"
+hash = "334335b56133b22dc42f745005810ab8ca41f78e7e9b8248f32f5ecfa2b207b4"
 metafile = true
 
 [[files]]
@@ -887,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "3f3cd8f19e6c720d34646c60a2be057a0773f67b964f176476a1cae64f822bfe"
+hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
 metafile = true
 
 [[files]]
@@ -907,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "55487d8965163595efa45d23b483fb7b28a1cfc0a759b31d6c90bc28e9d40282"
+hash = "b8a21ea197f488ed90bd9d41388901657de89acfd4ef472d11cc561b83f6ec0e"
 metafile = true
 
 [[files]]
@@ -928,6 +974,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "2272f386d6106a691953f80822614643f0a4ef9df1cbff71fcc02caebd8ad45b"
+metafile = true
+
+[[files]]
+file = "mods/rewithered.pw.toml"
+hash = "b309a6c82f2a7a28984d2b3bf42f1f8c870da270d829d670bb5a0792fa723310"
 metafile = true
 
 [[files]]
@@ -952,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "5407dabfa5dfd544dc327d1d43aee78cd65554230045fc4fdd1be1867056bacb"
+hash = "8812678c1ce32aff07aa072407f9ccbbf5a1a255ce24089abfe0397e9e93a976"
 metafile = true
 
 [[files]]
@@ -977,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "2c5fc46d6336e684725734e014183baaf1b0b773d74e4477551016edb3f89cc3"
+hash = "a072655c3afea992049e17c4acb253415034a8700a1ce2f0d7e41260cfc231ed"
 metafile = true
 
 [[files]]
@@ -993,6 +1044,11 @@ metafile = true
 [[files]]
 file = "mods/sleep-warp-updated.pw.toml"
 hash = "c80f786ca809ba354365e038393c6c3ac6539b93bf9ef9f8348411769485e55c"
+metafile = true
+
+[[files]]
+file = "mods/smbs.pw.toml"
+hash = "2c17346442c87a2da023409c13f262059c568e1cf413a90502532ed9c6968f4b"
 metafile = true
 
 [[files]]
@@ -1027,12 +1083,17 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "134148cf005727bab8978eb67fb22aa9c422b2d871c0897358b47224a546a6ad"
+hash = "c7472ae71ab0b72df30939071422b0df04428e1e187a080f1e5f1df0cb1f2465"
 metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "a388c7e1cb4e9d632f9b8acbc06b2b644bb06311048de26637c0bc1bdf2065e8"
+metafile = true
+
+[[files]]
+file = "mods/subtle-skybox.pw.toml"
+hash = "12e594508271a2475568ccbb48d95dc7aba77d07f04284218658598771316777"
 metafile = true
 
 [[files]]
@@ -1076,6 +1137,11 @@ hash = "5791335057aee4d1ccc65994d1aae3b9227394df4f896b72b91f393c687a6304"
 metafile = true
 
 [[files]]
+file = "mods/universal_ores.pw.toml"
+hash = "a423853e756d6927d302924d48a30d8decce24803b1a68d22372bc84fbad9697"
+metafile = true
+
+[[files]]
 file = "mods/vanillastar-horses.pw.toml"
 hash = "3068eee4ed940a44c10ba9e31fea8c8c4fc7248256efd4286c4464ecaf39b4a6"
 metafile = true
@@ -1101,13 +1167,8 @@ hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
-file = "resourcepacks/aa4-abridged.pw.toml"
-hash = "5599fe0cbfb9a1c3bb346de44be9c95568a5adf792b643dce084906df3a52855"
-metafile = true
-
-[[files]]
-file = "resourcepacks/antique-atlas-4-compat.pw.toml"
-hash = "e87a52259b5d41da9ff1a4b013fadcd5f3b90c23490f2c229432401089eab49c"
+file = "mods/zombieimprovements.pw.toml"
+hash = "662137c5e9027e97ad448820679d6ee9d3ddc85c655246f4c50173e3e4bab5ea"
 metafile = true
 
 [[files]]
@@ -1133,11 +1194,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/ore-variants.pw.toml"
 hash = "81942f1803f4504c90ad855aba4cadaafd3cfedfe8c0ec623e4abed0b8b02075"
-metafile = true
-
-[[files]]
-file = "resourcepacks/spryzeens-ore-glint.pw.toml"
-hash = "e5d49e5f536476c809f6d55a1c7227a440335f8ae41afada4a3f18adf51cfdc1"
 metafile = true
 
 [[files]]

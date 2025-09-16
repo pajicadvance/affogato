@@ -1,0 +1,13 @@
+name = "Coal Nuggets"
+filename = "coalnuggets-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iINPdcjW/versions/OKCkw8hE/coalnuggets-1.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "536468debaa5aa83dc3db489e9c269937f5f59fece1f1e8d03333c6912efc7c40cfcf1ae14e0b97879348d2314aa485dfd8a2675c65871c4ece60c448c8efdcd"
+
+[update]
+[update.modrinth]
+mod-id = "iINPdcjW"
+version = "OKCkw8hE"

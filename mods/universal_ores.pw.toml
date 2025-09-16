@@ -1,0 +1,13 @@
+name = "Universal Ores"
+filename = "universal_ores-v1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/68kWHuUF/versions/n0hOKzrC/universal_ores-v1.6.1.jar"
+hash-format = "sha512"
+hash = "9cd57fcf62e9b16b16455765b58e175624b7f8c876b25ce1f1de833cc433990081b5a9e1c1d6611a14e0eaa95dc74202a660f2790ca6946c33d81cbe5819f310"
+
+[update]
+[update.modrinth]
+mod-id = "68kWHuUF"
+version = "n0hOKzrC"

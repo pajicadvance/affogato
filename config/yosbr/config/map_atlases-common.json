@@ -1,0 +1,23 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config (or just use Forge)",
+  "general": {
+    "max_map_count": 512,
+    "accept_paper_for_empty_maps": false,
+    "require_empty_maps_to_expand": true,
+    "pity_activation_map_count": 9,
+    "enable_empty_map_entry_and_fill": true,
+    "activation_locations": "HOTBAR_AND_HANDS",
+    "creative_teleport": true,
+    "pin_marked_id": "",
+    "light_map": false,
+    "mob_radar": false
+  },
+  "update_logic": {
+    "round_robin": false,
+    "map_updates_per_tick": 1,
+    "map_range_multiplier": 1.0,
+    "multithreaded_update": "SINGLE_PLAYER_ONLY",
+    "debug_map_updates": false,
+    "markers_update_period": 10
+  }
+}

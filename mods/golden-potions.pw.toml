@@ -1,0 +1,13 @@
+name = "Golden Potions"
+filename = "goldenpotions-1.0.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gRalVCmr/versions/SGxBQ7Z7/goldenpotions-1.0.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "812e3163840cf138e0735cd37d28e6b5f049ceed5b719767d115fefa81d9bb356d0d2c3a67c4ef98c426726d51f616ecfb13f03849f4009753d37083e7c7e5b5"
+
+[update]
+[update.modrinth]
+mod-id = "gRalVCmr"
+version = "SGxBQ7Z7"

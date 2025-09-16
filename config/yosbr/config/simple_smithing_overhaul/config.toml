@@ -32,17 +32,17 @@ modRepairableItems = [
     [ "another_furniture:furniture_hammer", "#minecraft:planks" ],
     [ "rearm:netherite_bow", "minecraft:diamond" ],
     [ "#chalk:chalks", "minecraft:calcite" ],
-    [ "guarding:netherite_shield", "minecraft:diamond" ],
-    [ "#chalk:glow_chalks", "minecraft:glow_ink_sac" ],
+    [ "rearm:netherite_shield", "minecraft:diamond" ],
+    [ "#chalk:glow_chalks", "minecraft:calcite" ],
     [ "rearm:netherite_crossbow", "minecraft:diamond" ]
 ]
 modItemUnitCosts = [
     [ "rearm:netherite_crossbow", 3 ],
-    [ "#chalk:glow_chalks", 1 ],
+    [ "#chalk:glow_chalks", 2 ],
     [ "#chalk:chalks", 2 ],
     [ "rearm:netherite_bow", 3 ],
     [ "vshorses:horseshoe", 3 ],
-    [ "guarding:netherite_shield", 3 ],
+    [ "rearm:netherite_shield", 3 ],
     [ "#farmersdelight:tools/knives", 1 ],
     [ "another_furniture:furniture_hammer", 3 ]
 ]

@@ -1,8 +1,0 @@
-name = "Abridged compat for Antique Atlas 4"
-filename = "aa4-abridged.zip"
-side = "client"
-
-[download]
-url = "https://github.com/pajicadvance/affogato/raw/refs/heads/1.21.1/offsite/aa4-abridged.zip"
-hash-format = "sha512"
-hash = "bd05d1f3c5da419d5af6d9159237d49e15ec93cb4c6c9cfbfeb1b4d1d1846524c489849cf462e7bcc3b4e1d4b37ddc3dc23ddb7a95dca8caa483ccc31b852ded"

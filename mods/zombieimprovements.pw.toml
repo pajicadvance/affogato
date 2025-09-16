@@ -1,0 +1,13 @@
+name = "Zombie Improvements"
+filename = "zombieimprovements-1.0.3+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1NeE16sL/versions/yHkl9BAv/zombieimprovements-1.0.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "0a15e60d26e11d756a79a5c1110bcf77972a5c9e8d4c0a21ddac5c06321c0f8945b7c79b1b3a89d7a78b4f33aa1d3418b8e2e9ef12e5a8af263e7f98936049ef"
+
+[update]
+[update.modrinth]
+mod-id = "1NeE16sL"
+version = "yHkl9BAv"

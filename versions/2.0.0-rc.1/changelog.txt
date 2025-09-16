@@ -1,0 +1,33 @@
+From this point onwards the pack will receive only bug fixes. When the guide book is done, version 2.0.0 will be fully released and the modpack description will be updated.
+
+This update has breaking changes: 
+- The following items will be deleted from worlds created in previous versions due to removals and ID changes: Netherite Shield, Enchanted books with shield enchantments from Guarding, Elixir of Life, Arrow of Life, Potion of Decay, Arrow of Decay, Potion of Absorption, Arrow of Absorption, Coal Nugget, Charcoal Nugget
+- Antique Atlas has been replaced with Map Atlases, so world map data will be gone.
+
+Changes:
+- A lot of features from Affogato Tweaks have been moved to dedicated mods.
+- ReArm now has its own shield features, replacing Guarding.
+- Changed map recipe to paper + ink sac shapeless.
+- Torch light level increased from 10 to 12.
+- Tweaked Frost Walker to trigger earlier to prevent outrunning the ice when on a horse.
+- Removed shader pack restrictions.
+
+New additions:
+- Map Atlases
+- Crowmap
+- Aurora's Lanterns
+- Universal Ores
+- Subtle Skybox
+
+Mods which replace features from Affogato Tweaks:
+- Configurable Mining Delay
+- Coal Nuggets
+- Golden Potions
+- Rewithered
+- Simple Mob Buff System
+- Zombie Improvements
+
+Removals:
+- Antique Atlas 4 and compatbility resource packs
+- Guarding
+- Spryzeen's Ore Glint

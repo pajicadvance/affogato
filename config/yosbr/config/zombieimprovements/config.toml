@@ -1,0 +1,7 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+leaderRedAura = true
+reinforcementSpawnSounds = true
+onlyLeaderSpawnsReinforcements = true
+noLeaderFromSpawners = true
+noReinforcementsFromSpawners = true

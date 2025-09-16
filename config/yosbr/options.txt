@@ -1,8 +1,8 @@
 version:3955
 enableVsync:true
 maxFps:260
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","itemswapper:default","file/VanillaTweaks.zip","file/CleanGlass.zip","continuity:glass_pane_culling_fix","file/better_looking_torches_v1.0.zip","file/Fancy Crops v1.2.zip","file/Ore Variants v2.9.zip","file/§6OreGlint_Sodium.zip","file/fd_nourishment_bread.zip","file/§6Antique Atlas 4 §fCompat§8§o§k.zip","file/aa4-abridged.zip","modglue:fditemswap","modglue:guardingitemswap","modglue:chalkitemswap","modglue:comfortsitemswap","affogatotweaks:itemswap","file/better_copper_torch.zip"]
-incompatibleResourcePacks:["appleskin","balm","blastingraw","bookshelf","clienttweaks","comforts","elytratrims","enchdesc","globalpacks","immersivelanterns","jade","kleeslabs","modernfix","netherportalfix","sereneseasons","spectrelib","trimmable_tools","txnilib","yet_another_config_lib_v3","file/Ore Variants v2.9.zip"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","itemswapper:default","file/VanillaTweaks.zip","file/CleanGlass.zip","continuity:glass_pane_culling_fix","file/better_looking_torches_v1.0.zip","file/Fancy Crops v1.2.zip","file/Ore Variants v2.9.zip","file/fd_nourishment_bread.zip","modglue:fditemswap","modglue:chalkitemswap","affogatotweaks:itemswap","file/better_copper_torch.zip","lambdabettergrass:default","moonlight:merged_pack"]
+incompatibleResourcePacks:["appleskin","balm","blastingraw","bookshelf","clienttweaks","companion","configurable","elytratrims","enchdesc","globalpacks","jade","kiwi","kleeslabs","modernfix","mr_clifftree","netherportalfix","patchouli","sereneseasons","trimmable_tools","yet_another_config_lib_v3","file/Ore Variants v2.9.zip"]
 onboardAccessibility:false
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
@@ -19,10 +19,11 @@ key_key.jade.toggle_liquid:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
 key_key.jade.show_details_alternative:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.map_atlases.place_pin:key.keyboard.unknown
 key_key.openNotes:key.keyboard.n
 key_ping-wheel.key.ping-location:key.keyboard.g
 key_ping-wheel.key.open-settings:key.keyboard.unknown
-key_ping-wheel.key.name-labels:key.keyboard.left.alt
+key_ping-wheel.key.name-labels:key.keyboard.y
 key_key.raised.options:key.keyboard.unknown
 key_reacharound.keybinding.toggle:key.keyboard.unknown
 key_key.shouldersurfing.adjust_camera_left:key.keyboard.left

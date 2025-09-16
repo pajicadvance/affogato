@@ -1,5 +1,5 @@
 {
-  "volume": 25,
+  "volume": 20,
   "clientPlayerVolume": 100,
   "otherPlayerVolume": 100,
   "hostileEntitiesVolume": 100,
@@ -11,7 +11,7 @@
   "disabled": false,
   "multiplayer": true,
   "global": true,
-  "footwear": true,
+  "footwear": false,
   "visualiser": false,
   "exclusive": false,
   "stance": "NONE",
