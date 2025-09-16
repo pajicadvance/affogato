@@ -1,0 +1,3 @@
+- Fixed crash related to version metadata :sob:
+
+Please read the RC 1 changelog, it's important!
