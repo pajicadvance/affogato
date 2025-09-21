@@ -1,0 +1,5 @@
+- Replaced Accessories Trinkets Compat Layer with the newer Accessories Compat Layer + Trinkets
+- Added Better Advancements
+- Added Plane Advancements
+- Removed Advancements Fullscreen
+- Updated mods

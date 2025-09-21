@@ -1,13 +1,13 @@
 name = "ReArm: Combat Overhaul"
-filename = "rearm-2.3.0+1.21.1.jar"
+filename = "rearm-2.3.1+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NHzN2FGz/versions/YbvbWwmE/rearm-2.3.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/NHzN2FGz/versions/IMMJCPh6/rearm-2.3.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "b2e4c0da42571f9b6e57c21b87772e32a4935eab7b9cce5f337d27283fef091b9567df616358c649c4f31d0c1c5684e10e324aa63732b4206b7274d11b3e9cc6"
+hash = "caede20e409a6a082d822496a9ff326dfae687f37ca876f5034aaf4a1346f2427efbb78ccad17af48a5d9507209d3d8fc62b1501f64297e74f1fb8556c790b81"
 
 [update]
 [update.modrinth]
 mod-id = "NHzN2FGz"
-version = "YbvbWwmE"
+version = "IMMJCPh6"

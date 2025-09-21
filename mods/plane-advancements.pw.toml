@@ -1,0 +1,13 @@
+name = "Plane Advancements"
+filename = "PlaneAdvancements-Fabric-1.21.1-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V1smGrYI/versions/XF0ShzI1/PlaneAdvancements-Fabric-1.21.1-1.2.jar"
+hash-format = "sha512"
+hash = "f4110dd2dc8e9f6058cebcac5615e500fbd7daf99b88617d3868cb8cc9b6b87e37865854d94cc54870938cd08442058aee97387385d8fed85a9f9c4c61aed583"
+
+[update]
+[update.modrinth]
+mod-id = "V1smGrYI"
+version = "XF0ShzI1"

@@ -14,7 +14,7 @@ hash = "fdeb925bc645a9112bddcdd452b5c9cf55a908bb46ec9db0b5e1522d369aaee4"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "2475c34023758be7cc8a35cc86346685ec437cb5b8f06a956b1cf74e30e7e1b6"
+hash = "3daa9ff67634fcd784732d364b5d70373ea922ef864f937cdc7b80b6ae1f9f74"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
@@ -272,23 +272,18 @@ hash = "f403213efeb5a017a4bebf63aca251fd606a7a8bdc23a8534a5a073ce1f9c2a1"
 metafile = true
 
 [[files]]
-file = "mods/accessories-tc-layer.pw.toml"
-hash = "2392fac629717417a29744e66f001a494304309b7742cf0cf54368278d3bf5c7"
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "3d91fa73e85001e4e569aefdfba66cf36232a5a52a39cb60383b829c87707d2a"
 metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "bc93795384d5f304da0d318e8e71becf5c15aa26b853cbefed937d43a0bcc9f6"
+hash = "7ca37df174a083f50df6c32216f6a5985960d097a6d9fcc7882ecd44a784fc6a"
 metafile = true
 
 [[files]]
 file = "mods/accessorify.pw.toml"
 hash = "131664c8b55689a40722945202552e1398e6656d6db656ea11386b868c91ad40"
-metafile = true
-
-[[files]]
-file = "mods/advancementsfullscreen.pw.toml"
-hash = "098f1b2c37b1b061d8611b27d16dc9c5db73172318243a70eaa0b60709fe594d"
 metafile = true
 
 [[files]]
@@ -347,6 +342,11 @@ hash = "47aaa2693fff2f75cc994e2398a751ae1da4d78f77c979c1f7f8c906a4f32dbf"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "b0e5fd52c2c511e862d9e32abc6050468f52cef242a0e37f6629ae1869227621"
 metafile = true
@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "be29598337af357cd80b5a60d4eb1e06ff50008fe8d9ca0b52d1279be96a785a"
+hash = "b657f7b943275097afafe1ad47001f38a88415568e446daecbc6fc349c37351d"
 metafile = true
 
 [[files]]
@@ -443,12 +443,12 @@ metafile = true
 
 [[files]]
 file = "mods/configurable-mining-delay.pw.toml"
-hash = "5aaf2084b663b79bb0d03a8f5a67ff6cfbcfb06d5ccb72a805fb83e9949c6c5c"
+hash = "cae040519c4507fc67c295d69b73bbcc5d3cfb15ac62dc38338319ddc9656cfe"
 metafile = true
 
 [[files]]
 file = "mods/configurable.pw.toml"
-hash = "aa2565f3cfd904007f107b31804310d20a33b2b4f3068a6bc408744a5f62cb7f"
+hash = "a7ff85fc3a008ebd249efe8b200b63da6e852a022d2b59287b6b408179bf5eff"
 metafile = true
 
 [[files]]
@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "7237645499c4e9a4699a241485112b97cd695776f5cf182bb24e1696943757dc"
+hash = "85acc84829040a9a0db9c874ad364cac4f386eda9ddbaae5123aba7e81f41523"
 metafile = true
 
 [[files]]
@@ -808,7 +808,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "65ec71f9c53dc504377be8f91b941d46fbf0e8cb3abfd4163ff04792ec5d4eb3"
+hash = "d6d045227a0107ff4a784e84b7d48f0cca62b8743539b9a3df7af5aab7a6dedc"
 metafile = true
 
 [[files]]
@@ -922,6 +922,11 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
+file = "mods/plane-advancements.pw.toml"
+hash = "5172c3294ca65658f89bea9c5fcd525dc66082414d2e2f8371e0c0e1ed44861d"
+metafile = true
+
+[[files]]
 file = "mods/ppetp.pw.toml"
 hash = "e44ddfd8ad9264c8cd11357b9f99803756de58631c0526afc0e6717c1c4cbadb"
 metafile = true
@@ -953,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "b8a21ea197f488ed90bd9d41388901657de89acfd4ef472d11cc561b83f6ec0e"
+hash = "69e0dc50601a76f472ef3b4208ae50596c2afb2aa059f2039d97143c9792a17e"
 metafile = true
 
 [[files]]
@@ -1028,7 +1033,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "a072655c3afea992049e17c4acb253415034a8700a1ce2f0d7e41260cfc231ed"
+hash = "9dd61708e8b3dc7f1a7ed3cb72a0a6e244612d632de4410872598120c7557f76"
 metafile = true
 
 [[files]]
@@ -1073,7 +1078,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "7207bcd8319f1e4b89806c7f909c87acdd3a5f96e5917d859ff704df8ff9a229"
+hash = "b9ab854220783f5fecee464b77ec2ad180f9294735579b12ceceb2506cd4e15b"
 metafile = true
 
 [[files]]
@@ -1129,6 +1134,11 @@ metafile = true
 [[files]]
 file = "mods/trimmable-tools.pw.toml"
 hash = "ac17bd479ff808f1820799d43275a4e71586a8848d4b3ea326d83df6332c9469"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]

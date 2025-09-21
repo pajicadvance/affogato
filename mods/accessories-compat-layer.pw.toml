@@ -1,0 +1,13 @@
+name = "Accessories Compatibility Layer"
+filename = "accessories_compat_layer-fabric-0.1.9+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ySnjMzLg/versions/1HttX0dS/accessories_compat_layer-fabric-0.1.9%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "50db2c599c5d35c6720b837e182f6c8d4f85ebc3f2f9b1be6cb8b74c26d17808e1f93fa05dcd0130ef24db3d0214d3cad6a0183e80adae85258ddd927616ec02"
+
+[update]
+[update.modrinth]
+mod-id = "ySnjMzLg"
+version = "1HttX0dS"
