@@ -14,7 +14,7 @@ hash = "fdeb925bc645a9112bddcdd452b5c9cf55a908bb46ec9db0b5e1522d369aaee4"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "80c9968e3f7525ec0e1d4b2718757dd8884070fcd5dea546351bee7c5ad57b8c"
+hash = "dd8e704a65883c8892db0399bb5c9e1489eda705f2acc168421a445e744e7c92"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
@@ -953,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "69e0dc50601a76f472ef3b4208ae50596c2afb2aa059f2039d97143c9792a17e"
+hash = "a3ab254d835b89c7693391d5af765fbc44ab4bee3ffc3499d8ed7cf027ce54f1"
 metafile = true
 
 [[files]]
