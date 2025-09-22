@@ -14,7 +14,7 @@ hash = "fdeb925bc645a9112bddcdd452b5c9cf55a908bb46ec9db0b5e1522d369aaee4"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "3daa9ff67634fcd784732d364b5d70373ea922ef864f937cdc7b80b6ae1f9f74"
+hash = "80c9968e3f7525ec0e1d4b2718757dd8884070fcd5dea546351bee7c5ad57b8c"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "28a42f3f6788f7871e39798188697e028d4b9245d669cb060054cab8c69c03c5"
+hash = "3872b1952fb90ce0001cf3afb14b88b3314a236a5a177b5afacc5e2c22db8ba6"
 metafile = true
 
 [[files]]
@@ -719,11 +719,6 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "85acc84829040a9a0db9c874ad364cac4f386eda9ddbaae5123aba7e81f41523"
-metafile = true
-
-[[files]]
-file = "mods/leather-bundles-1.pw.toml"
-hash = "d549b7084cb69a773651ea78205a4ee935fa6ff86ebcf954e473d69a516959ad"
 metafile = true
 
 [[files]]

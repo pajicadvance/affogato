@@ -1,0 +1,2 @@
+- Changed bundle recipe to string + leather
+- Removed Leather Bundles
