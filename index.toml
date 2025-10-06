@@ -1272,5 +1272,10 @@ file = "shaderpacks/ComplementaryReimagined_r5.6 + EuphoriaPatches_1.7.0.txt"
 hash = "b149852f8093e5f419ba21fbe1e592c349b620168f5fea10644e1ae6302adc14"
 
 [[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "71e317f0a005cf96c85d2a917c59f166adf2c9e027ed2ea7fe5fcd2686577965"
+metafile = true
+
+[[files]]
 file = "shaderpacks/photon_v1.2a.zip.txt"
 hash = "526c6ad5bf3a5670fe49b7d9e7233acf8932d06c55d34ba84c858424bcfad785"
