@@ -266,7 +266,7 @@ hash = "63c7a18a56d4c1912554f92cf493ae6b746ada7fb099afb7c97f0b9a73866a5a"
 
 [[files]]
 file = "datapacks/rs_config.pw.toml"
-hash = "15c8c7683f860c944ed48d244da4726d764d0c85204ec2520b5ce9f14f54843c"
+hash = "1cb7a38ba643c969bc3a7c7868ea74f8fedf7d8a5a52c2da447510c754764db5"
 metafile = true
 
 [[files]]
