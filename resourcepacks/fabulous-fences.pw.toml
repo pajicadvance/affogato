@@ -1,0 +1,13 @@
+name = "Fabulous Fences"
+filename = "FabulousFences_3.2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KeTozie3/versions/vwOiAixk/FabulousFences_3.2.0.zip"
+hash-format = "sha512"
+hash = "07d09a50e4e69dd07cd7e3688c416f1bee2ad04a61eafe777d49028fe71f0d9264004faf647e1ea98853d2d17a4a4c0313ca9e840ec20272bede62672725e9ec"
+
+[update]
+[update.modrinth]
+mod-id = "KeTozie3"
+version = "vwOiAixk"

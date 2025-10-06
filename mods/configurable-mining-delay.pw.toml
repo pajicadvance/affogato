@@ -1,13 +1,13 @@
 name = "Configurable Mining Delay"
-filename = "cmd-1.0.1.jar"
+filename = "cmd-1.0.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/brnubCWa/versions/eWlEYbfJ/cmd-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/brnubCWa/versions/OXYZpaw0/cmd-1.0.2.jar"
 hash-format = "sha512"
-hash = "f8e0110837601533b5e33d863e1ccca37be65fa6610abd05f0adcc8dc8ffa6df5a37396047c12c8e472f9db1e645054ea0f6b349f7b5f2c6a3a416ddf83f8912"
+hash = "4a1ec7ef755d3c4c786d0d3e992b43ff90f9b18cbe747ff9b778fee3cb612318abc20ef2c8f9fc250bf73483ad3d86e0f1f37e699ec22102bd71aec5cb4c5836"
 
 [update]
 [update.modrinth]
 mod-id = "brnubCWa"
-version = "eWlEYbfJ"
+version = "OXYZpaw0"

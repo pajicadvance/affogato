@@ -1,0 +1,16 @@
+Additions:
+- Via Romana
+- Friends and Foes
+- Blade's Dungeons
+- Qrafty's Archaeology Dig Sites
+- Fabulous Fences
+- Boat Item View
+- Explosive Enhancement
+
+Removals:
+- Sound Physics Remastered
+- Structure Layout Optimizer
+
+Changes:
+- Items disabled or made uncraftable by the modpack are now hidden from EMI and creative tabs.
+- Updated mods to their latest versions.

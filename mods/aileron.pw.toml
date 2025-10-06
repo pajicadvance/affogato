@@ -1,13 +1,13 @@
 name = "Aileron"
-filename = "aileron-1.21.1-fabric-1.1.3.jar"
+filename = "aileron-1.21.1-fabric-1.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/b8kG1VGq/versions/Nrz3FUCt/aileron-1.21.1-fabric-1.1.3.jar"
+url = "https://cdn.modrinth.com/data/b8kG1VGq/versions/wX06GzSb/aileron-1.21.1-fabric-1.1.4.jar"
 hash-format = "sha512"
-hash = "6744d52435efbea986f6ee6562dfc3f12bb7dd734a26549475632530350fa4b4da0228321b07536f9e98bc236569159d60a36202e727da8a91dbff15357a63bb"
+hash = "2716e85c2cf3e848b5f586aee23272cfa7f672de7738da4ebddf6352377e42583d16b0cd4c8c36f97766de27ebafe0a21dd9cfb10019a05f3dd8d75685ecef72"
 
 [update]
 [update.modrinth]
 mod-id = "b8kG1VGq"
-version = "Nrz3FUCt"
+version = "wX06GzSb"

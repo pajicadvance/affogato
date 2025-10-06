@@ -1,0 +1,13 @@
+name = "qrafty's Archeology Dig Sites"
+filename = "qraftys-archeology-dig-sites-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5hXlgCAz/versions/XiodWw0B/qraftys-archeology-dig-sites-2.2.jar"
+hash-format = "sha512"
+hash = "d50dd3b63d0b6c27cebb411925e03726b91288cc005d805a94a1ab068fdf3d1f29ec6fc7495d4c93776d5aa0bf1da41093d1f1271e97247211b62e0b850b710a"
+
+[update]
+[update.modrinth]
+mod-id = "5hXlgCAz"
+version = "XiodWw0B"

@@ -147,6 +147,8 @@ bookLootLocations = [
     [ "betterdungeons:zombie_dungeon/chests/tombstone", { chance = 100, count = 1 } ],
     [ "repurposed_structures:chests/mineshafts/crimson", { chance = 100, count = 1 } ],
     [ "betterdungeons:zombie_dungeon/chests/special", { chance = 100, count = 1 } ],
+    [ "blades_dungeons:dungeons/chests/safe_rooms", { chance = 25, count = 1 } ],
+    [ "blades_dungeons:dungeons/chests/treasure", { chance = 100, count = 1 } ],
     [ "repurposed_structures:chests/mineshafts/ocean", { chance = 100, count = 1 } ]
 ]
 
@@ -211,6 +213,8 @@ bottleLootLocations = [
     [ "minecraft:chests/underwater_ruin_small", { chance = 50, count = 1 } ],
     [ "repurposed_structures:chests/mineshafts/desert", { chance = 100, count = 1 } ],
     [ "repurposed_structures:chests/mineshafts/warped", { chance = 100, count = 1 } ],
+    [ "blades_dungeons:dungeons/chests/safe_rooms", { chance = 50, count = 1 } ],
+    [ "blades_dungeons:dungeons/chests/treasure", { chance = 100, count = 1 } ],
     [ "repurposed_structures:chests/dungeons/swamp", { chance = 100, count = 1 } ]
 ]
 
