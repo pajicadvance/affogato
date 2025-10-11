@@ -1,13 +1,13 @@
 name = "Explorify"
-filename = "Explorify v1.6.3 f10-88.mod.jar"
+filename = "Explorify v1.6.4 f15-88.mod.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HSfsxuTo/versions/MRgmxBBl/Explorify%20v1.6.3%20f10-88.mod.jar"
+url = "https://cdn.modrinth.com/data/HSfsxuTo/versions/9vHj342y/Explorify%20v1.6.4%20f15-88.mod.jar"
 hash-format = "sha512"
-hash = "8b926f364788dfbbf85545030460a3fb981687da1e712942175ce786a73d278206cbd8dc77efdc7a2311a33bf7097e8fc5898ce1feb3b2e0bf5e3deac3745784"
+hash = "601ee61e3619ab6a929ff06e4e3db6cc480d97a19e5716ac40a2a325d2d609b857a1ac17f2c0ed2b242e662b5486f4e0f59584fbd47acd481b318c45c244254b"
 
 [update]
 [update.modrinth]
 mod-id = "HSfsxuTo"
-version = "MRgmxBBl"
+version = "9vHj342y"

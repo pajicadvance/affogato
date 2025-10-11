@@ -1,13 +1,13 @@
 name = "Fancy Crops"
-filename = "Fancy Crops v1.2.zip"
+filename = "Fancy Crops v1.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UGEVQ6t9/versions/TQMLlyko/Fancy%20Crops%20v1.2.zip"
+url = "https://cdn.modrinth.com/data/UGEVQ6t9/versions/ZJEBZjg6/Fancy%20Crops%20v1.3.zip"
 hash-format = "sha512"
-hash = "635fbbfec67c7f79c061b6ff048087dfc2627d14ecd0e243f926311103bb77fc3edc31617ae7133325eb13eb1093df2c1df1a6f114d05d926eaa381cecab1643"
+hash = "ce8e34ce76f5368169722f9949edf372af5d9e1d3c262395006a5a1561ed7bae1259b9d69e4838914d637817f611283bfaf8be07c7b45b317fd2bdb22f32b7e3"
 
 [update]
 [update.modrinth]
 mod-id = "UGEVQ6t9"
-version = "TQMLlyko"
+version = "ZJEBZjg6"

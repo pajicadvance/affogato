@@ -253,6 +253,15 @@
                     "modrinth": "https://modrinth.com/modpack/affogato"
                 }
             }
+        },
+        {
+            "id": "2.0.0-rc.7",
+            "releasedAt": 1760210201000,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/affogato"
+                }
+            }
         }
     ]
 }

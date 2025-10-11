@@ -1,13 +1,13 @@
 name = "Golden Potions"
-filename = "goldenpotions-1.0.1+1.21.1.jar"
+filename = "goldenpotions-1.0.2+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gRalVCmr/versions/SGxBQ7Z7/goldenpotions-1.0.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/gRalVCmr/versions/VXSOPbEz/goldenpotions-1.0.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "812e3163840cf138e0735cd37d28e6b5f049ceed5b719767d115fefa81d9bb356d0d2c3a67c4ef98c426726d51f616ecfb13f03849f4009753d37083e7c7e5b5"
+hash = "1dbebf6fd0c8c1c0a6f247bb2f732092f146d1a322f305a7302591aa883e09efb844df90660b232f31879eb38ecec13cda2481ae7ea6e1be36ce498d2af3849a"
 
 [update]
 [update.modrinth]
 mod-id = "gRalVCmr"
-version = "SGxBQ7Z7"
+version = "VXSOPbEz"

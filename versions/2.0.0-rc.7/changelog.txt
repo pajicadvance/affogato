@@ -1,0 +1,10 @@
+- Added Item Descriptions.
+- Added Mod Descriptions.
+- Added item descriptions for items not covered by the Mod Descriptions resource pack.
+- Added Map Distance Fix.
+- Removed Enchantment Descriptions.
+- Removed tooltip from the calendar item from Serene Seasons.
+- Copper lanterns can now be hung on walls and have unique attachment textures (thanks LambdAurora).
+- Lanterns from Aurora's Lantern can now be equipped in the lantern accessory slot (they only emit light like this, no special functionality).
+- Added more items to ItemSwapper palettes.
+- Updated mods and resource packs to their latest versions.

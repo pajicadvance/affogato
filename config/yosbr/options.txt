@@ -1,7 +1,7 @@
 version:3955
 enableVsync:true
 maxFps:260
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","itemswapper:default","file/VanillaTweaks.zip","file/CleanGlass.zip","continuity:glass_pane_culling_fix","file/better_looking_torches_v1.0.zip","file/Fancy Crops v1.2.zip","file/Ore Variants v2.9.zip","file/fd_nourishment_bread.zip","modglue:fditemswap","modglue:chalkitemswap","affogatotweaks:itemswap","file/better_copper_torch.zip","lambdabettergrass:default","file/FabulousFences_3.2.0.zip","moonlight:merged_pack"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","itemswapper:default","file/VanillaTweaks.zip","file/CleanGlass.zip","continuity:glass_pane_culling_fix","file/better_looking_torches_v1.0.zip","file/Fancy Crops v1.3.zip","file/Ore Variants v2.9.zip","file/fd_nourishment_bread.zip","affogatotweaks:itemswap","file/better_copper_torch.zip","lambdabettergrass:default","file/FabulousFences_3.2.0.zip","file/mod-descriptions-v7.zip","moonlight:merged_pack"]
 incompatibleResourcePacks:["appleskin","balm","blastingraw","bookshelf","clienttweaks","companion","configurable","elytratrims","enchdesc","globalpacks","jade","kiwi","kleeslabs","modernfix","mr_clifftree","netherportalfix","patchouli","sereneseasons","trimmable_tools","yet_another_config_lib_v3","file/Ore Variants v2.9.zip"]
 onboardAccessibility:false
 key_key.saveToolbarActivator:key.keyboard.unknown
