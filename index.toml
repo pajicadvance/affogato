@@ -14,7 +14,7 @@ hash = "fdeb925bc645a9112bddcdd452b5c9cf55a908bb46ec9db0b5e1522d369aaee4"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "7f6e1ace54c6676fca1e5c1369286ad5c4ba510f5df2a12b99221a19fe63de36"
+hash = "3df09793977c006b3f52d0f4dc4d5ef2e27fdee1899f3ec89ba3387f9c96e1fd"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "61fbfbc070e08a4d8e0df0222956929c5df258c2b930d3d283fff95567791d1a"
+hash = "e486f07ff7e7a9795122630c82bbe45976b169bc998ad5ce1d2bd21d9ecdf27c"
 metafile = true
 
 [[files]]
