@@ -14,7 +14,7 @@ hash = "fdeb925bc645a9112bddcdd452b5c9cf55a908bb46ec9db0b5e1522d369aaee4"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "14c73be86d1d30f84919fcdf877f4c8c6c762f0a884a1ceb5c60823a3de29968"
+hash = "7f6e1ace54c6676fca1e5c1369286ad5c4ba510f5df2a12b99221a19fe63de36"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "f33e4eadb648cb6b46ae5473248d110b7333ceb0922a5b9406c0e6a90a797f0f"
+hash = "61fbfbc070e08a4d8e0df0222956929c5df258c2b930d3d283fff95567791d1a"
 metafile = true
 
 [[files]]
@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "a8ae61415adbfd8eea60a67c61b376f3077c39ba7d3c0909f1eddebd1427c5b7"
+hash = "90297bbd0a3c6ac53c6c3579be2fecd6cb213e4765bcb15ea15792af342fff93"
 metafile = true
 
 [[files]]
@@ -786,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-distance-fix.pw.toml"
-hash = "f7123b0bb22f584a11eea9ecdaaeee45a9195a5a68f907ea9f00b7246503d427"
+hash = "4b3552e2784c23887d3218367ea0ec22e862668262ec4ed26693b34a28fb107d"
 metafile = true
 
 [[files]]
@@ -836,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "222cd2318234dd9e195772222e525c255e0c747238b52296e89a7541d6c831b1"
+hash = "051032c6a41b29c4d32c8a2a8cfce07067e469321737ce8d384f39a146acb315"
 metafile = true
 
 [[files]]
@@ -1026,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/rewithered.pw.toml"
-hash = "b309a6c82f2a7a28984d2b3bf42f1f8c870da270d829d670bb5a0792fa723310"
+hash = "c556fa5a42bb70d2a7cdcb1c530443385e63aae1113d725848e66110a93b5c37"
 metafile = true
 
 [[files]]

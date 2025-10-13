@@ -1,0 +1,8 @@
+- Rebalanced tool and armor stats and durabilities.
+- Increased armor cap and djusted armor damage reduction scaling.
+- Added copper tools and armor.
+- Added oxidation and waxing mechanics for copper tools and armor.
+- Mobs can now spawn wearing copper armor.
+- Removed stone tools.
+- Copper ore can now be mined with wooden pickaxes.
+- Wither skeletons now spawn with golden swords instead of stone swords.

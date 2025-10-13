@@ -1,13 +1,13 @@
 name = "Rewithered"
-filename = "rewithered-1.0.1+1.21.1.jar"
+filename = "rewithered-1.0.2+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UY95etAw/versions/P14aD079/rewithered-1.0.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/UY95etAw/versions/6A73keu9/rewithered-1.0.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "b2879bb04f142b90604f7a318aee31d5242505a2d3fd724c1880f013a63e078d329c128940e1221061957f46fa8fe06777a61c6ac8a37dbc2bf5b99074b30c6d"
+hash = "f94ec09eaed9caf2b3fed71b131ecb841b6849d4c47528012afae2617bd9c61f0c9cfb31f70ac7359ceead25eaaa6a21ffff08ce33285426cba4e22eb4c784a6"
 
 [update]
 [update.modrinth]
 mod-id = "UY95etAw"
-version = "P14aD079"
+version = "6A73keu9"
