@@ -1,0 +1,4 @@
+- Fixed horse armor durabilities.
+- Fixed experience bottle brewing recipe.
+- Fixed buffed mobs spawning from spawners when they shouldn't.
+- Modified some more item descriptions for consistency.

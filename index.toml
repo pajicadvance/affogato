@@ -14,7 +14,7 @@ hash = "fdeb925bc645a9112bddcdd452b5c9cf55a908bb46ec9db0b5e1522d369aaee4"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "3df09793977c006b3f52d0f4dc4d5ef2e27fdee1899f3ec89ba3387f9c96e1fd"
+hash = "1e0047bf0c699f6018e6767e9fea0575296a7bfb8f66307728743c1416b637e7"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogatotweaks.pw.toml"
-hash = "e486f07ff7e7a9795122630c82bbe45976b169bc998ad5ce1d2bd21d9ecdf27c"
+hash = "efe69f013082ef2477ad4cdc8f891e2ec57d94aee6d69ba1dca303ef2da6b920"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "8ed0e62bc47290640fd85ad9148e8072f8f0534979bda46c10dad231bbdca6c7"
+hash = "834d41d37decc9f208f281f08e1a2d129aac26c76ef849072e17739c66909ec6"
 metafile = true
 
 [[files]]
@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/hearths.pw.toml"
-hash = "e85a99b873be94bc88f82dc924b3db1e14b70c3cd2962384ee3e0a998fb31f62"
+hash = "40b201d2061f1a0df66401984c5242a8786f24f775f9f15991a280c2a80dc715"
 metafile = true
 
 [[files]]
@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "faf3870ee63476bf96a278e77b7aa2ba2aa802ac1a2c32b2be599a7c204352b3"
+hash = "8c21666db94ae4c3ba523b18f2735991b06421a4b224d51bd96a322b0719684a"
 metafile = true
 
 [[files]]
@@ -751,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "27dd5376d1066a9b56838826441027ef1938c5a66bf2c209fc81fdc03cf13ed1"
+hash = "4b59a8b17efe6be075d79e1bd35c4d83d1313a0716a9e56f4173d1cf7ba210d8"
 metafile = true
 
 [[files]]
@@ -1091,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "mods/smbs.pw.toml"
-hash = "2c17346442c87a2da023409c13f262059c568e1cf413a90502532ed9c6968f4b"
+hash = "d8fb11a1aff83746405a90144e3d5717c016d757e10151dcb119e5ef9089c935"
 metafile = true
 
 [[files]]

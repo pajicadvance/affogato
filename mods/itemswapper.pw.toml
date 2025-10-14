@@ -6,8 +6,3 @@ side = "both"
 url = "https://cdn.modrinth.com/data/RPOSBQgq/versions/jBmCNvrV/itemswapper-fabric-0.8.1-mc1.21.jar"
 hash-format = "sha512"
 hash = "871bd19147605887c034ada3e65cdd21a4061199f6f778240e98f388bbd7ed835af44414bb0fb5e5513de37b922cfabbd3b8b3e13986de3472d305755aaf8316"
-
-[update]
-[update.modrinth]
-mod-id = "RPOSBQgq"
-version = "jBmCNvrV"
