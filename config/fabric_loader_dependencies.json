@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"overrides": {
+		"chatpatches": {
+			"depends": {
+				"minecraft": "*"
+			}
+		},
+		"ubbg": {
+			"depends": {
+				"minecraft": "*"
+			}
+		}
+	}
+}

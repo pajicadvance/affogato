@@ -9,12 +9,24 @@ file = "config/crash_assistant/config.toml"
 hash = "44d59818ebc994235e7d5c344ca2fae3e6ae2eb0295e7ebb95d8dc90be8040bc"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "94b1d16420408b806f98dcb0f62b2551332ebb66f6aac9465732f4fe7f350bc6"
 
 [[files]]
+file = "config/modpack_defaults/config/debugify.json"
+hash = "d3f33c570a005b600b74710b1a2f1e11b9fed28037b4964b79ad5fee8bed0b6d"
+
+[[files]]
 file = "config/modpack_defaults/config/vmp.properties"
 hash = "3c3ccb364b7e23721598c07fd2c527f23c8f06b027204255978a1f4dbf4e1a6c"
+
+[[files]]
+file = "config/modpack_defaults/options.txt"
+hash = "5b1870bd68ecafd4f95fef046e55326eaaca2784713cd414a8f2e2bec489e9d4"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
