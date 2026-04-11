@@ -1,0 +1,13 @@
+name = "SmoothTextureFix"
+filename = "smoothtexturefix-1.0.0+26.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ktA2SFDe/versions/zPaVKQWj/smoothtexturefix-1.0.0%2B26.1.1.jar"
+hash-format = "sha512"
+hash = "50b1dd06ee05bc416ec899f0d4c31d458280fa1eeb6db5bb5446cd3011b24e95836638a53599ddfbfc70b8a1a3117601136c4168b22bcd99fc37082700ebea07"
+
+[update]
+[update.modrinth]
+mod-id = "ktA2SFDe"
+version = "zPaVKQWj"

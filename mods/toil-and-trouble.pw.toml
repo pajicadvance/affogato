@@ -1,0 +1,13 @@
+name = "Toil and Trouble"
+filename = "toil_and_trouble-1.5.1+26.1.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/67iT29W2/versions/juDWB9aC/toil_and_trouble-1.5.1%2B26.1.1-fabric.jar"
+hash-format = "sha512"
+hash = "549ec58c74b71595e322d0f93baca9c9ed0ebaedae1986e406dbb83b7dd7d88110191561123964c5c571534df5fbfbf3169de73b6d8fe3cd75a2b6916307a046"
+
+[update]
+[update.modrinth]
+mod-id = "67iT29W2"
+version = "juDWB9aC"

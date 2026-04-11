@@ -1,0 +1,13 @@
+name = "Swing Through Grass"
+filename = "swingthroughgrass-fabric-26.1.2-1.0.0-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2UJdja33/versions/VvHMZ6i2/swingthroughgrass-fabric-26.1.2-1.0.0-26.1.2.jar"
+hash-format = "sha512"
+hash = "143a9053ba84c4c23d2a6e74f56d92d2fa82919e55547226bef397e93b76d8792fef426c5b6adc594798e8a6f70a27033fdca90a5f550f265e2bbaa98e270394"
+
+[update]
+[update.modrinth]
+mod-id = "2UJdja33"
+version = "VvHMZ6i2"

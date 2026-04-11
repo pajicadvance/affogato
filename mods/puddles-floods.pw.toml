@@ -1,0 +1,13 @@
+name = "Puddles & Floods"
+filename = "puddleflood-1.1.4+26.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xeRVd78z/versions/KwXKn49r/puddleflood-1.1.4%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "4684a7aa874de8c116be70b7cf44cb25e7b1d991c7c9ecf152799c03af207f9058a38daef7977986f69fb11ebcb3bd8466c512e44fea27b1d730af7c9355e34c"
+
+[update]
+[update.modrinth]
+mod-id = "xeRVd78z"
+version = "KwXKn49r"

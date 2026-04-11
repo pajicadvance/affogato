@@ -1,0 +1,13 @@
+name = "Inline Tooltips"
+filename = "inline_tooltips-1.6.4+26.1-snapshot-10-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TVOgzXyj/versions/ho5ofR2R/inline_tooltips-1.6.4%2B26.1-snapshot-10-fabric.jar"
+hash-format = "sha512"
+hash = "b5d90d9ebdaaf66953f0f75de3143f3eb2338f310f60b439f9b6a74b1b3c15e6d74244761d2ff0b32a9fad54f98eaf176839440e86cfdfe1ca23edcc0ba6f86b"
+
+[update]
+[update.modrinth]
+mod-id = "TVOgzXyj"
+version = "ho5ofR2R"

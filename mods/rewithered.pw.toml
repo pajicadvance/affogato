@@ -1,0 +1,13 @@
+name = "Rewithered"
+filename = "rewithered-1.0.11+26.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UY95etAw/versions/isyPhFwq/rewithered-1.0.11%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "0c6772a5a025ccb37e191369a99c7482bf6ed5d147d14752a3781388313356314f5b4054bd5ed5231af6b245529d63b64b9fbb90066e901f71ca94fb42f28b89"
+
+[update]
+[update.modrinth]
+mod-id = "UY95etAw"
+version = "isyPhFwq"

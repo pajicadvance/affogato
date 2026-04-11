@@ -1,0 +1,13 @@
+name = "Particle Effects"
+filename = "ParticleEffects-1.3.0+26.1+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PLAGcSFJ/versions/eBS3tQOG/ParticleEffects-1.3.0%2B26.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "78b4b9d7237b15536f3385b54a2475c62f8247c2a927093c6eab9c6940e452db3a98e2af298ce1853affad219556d9e74f3951fa79737a111b43182028ab8345"
+
+[update]
+[update.modrinth]
+mod-id = "PLAGcSFJ"
+version = "eBS3tQOG"

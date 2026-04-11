@@ -1,0 +1,22 @@
+[general]
+help_link = "https://discord.gg/5RkzS66zWb"
+formulation_type = "DISCORD"
+upload_to = "mclo.gs"
+
+[text]
+support_name = "pajic's projects"
+support_place = "#affogato channel"
+modpack_name = "Affogato"
+
+[modpack_modlist]
+enabled = false
+
+[piracy]
+enabled = true
+delay = 0
+
+[greeting]
+shown_greeting = true
+
+[scripts]
+enabled = false

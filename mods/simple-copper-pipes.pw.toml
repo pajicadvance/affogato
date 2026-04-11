@@ -1,0 +1,13 @@
+name = "Simple Copper Pipes"
+filename = "SimpleCopperPipes-mc26.1-2.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9r4ZkgSN/versions/bqQeamhf/SimpleCopperPipes-mc26.1-2.1.6.jar"
+hash-format = "sha512"
+hash = "961ffeae489c13281cc0b6db33150abb3130052e34ddb562a8c86eeabf30580af84195e5ceabb8a156c23992e2b7751e8234c722f7f4480a99a7f2b4e3ebf0d6"
+
+[update]
+[update.modrinth]
+mod-id = "9r4ZkgSN"
+version = "bqQeamhf"

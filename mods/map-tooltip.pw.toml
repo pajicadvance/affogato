@@ -1,0 +1,13 @@
+name = "Map Tooltip"
+filename = "maptooltip-5.0.0+26.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GNtptqqU/versions/jFt6lY8S/maptooltip-5.0.0%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "10275baa3c24ce1b3b680e33c622816bbe1e4169e2f7e7db53cb39f3fdce5291a8d2f1dd2a3b7d353de33089c470a46af5cf7fb0c9fc8b2fa29aa301365b7788"
+
+[update]
+[update.modrinth]
+mod-id = "GNtptqqU"
+version = "jFt6lY8S"

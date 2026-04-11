@@ -1,0 +1,13 @@
+name = "Tactical Happy Ghast Warfare"
+filename = "thgw-1.2.1+26.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QJhhMcSO/versions/JgLnY4ti/thgw-1.2.1%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "f1780d57716a565ae0c86a1c8fd4351019c1066733c17cc959f600ae735f1f1975c4b81239d7de76ba2aafddc2f0de5fe3c07714d59e06fbed198ecaa67b0321"
+
+[update]
+[update.modrinth]
+mod-id = "QJhhMcSO"
+version = "JgLnY4ti"

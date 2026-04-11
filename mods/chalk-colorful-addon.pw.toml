@@ -1,0 +1,13 @@
+name = "Chalk: Colorful Addon"
+filename = "chalk-colorful-addon-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VPJS28NH/versions/gvVFiwqG/chalk-colorful-addon-2.1.1.jar"
+hash-format = "sha512"
+hash = "7efc1d5c7e2589eaf02bddb3798b4db6c0dcc8e3a8deccad428c1081cd397f249983a3b8deb6f7b336ef59997ce26290fa6687390ed7709550cf1421eedc8417"
+
+[update]
+[update.modrinth]
+mod-id = "VPJS28NH"
+version = "gvVFiwqG"

@@ -1,0 +1,13 @@
+name = "Datapatched"
+filename = "datapatched-2.2.0-fabric-26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7XXwJbHD/versions/OIkqJGTL/datapatched-2.2.0-fabric-26.1.jar"
+hash-format = "sha512"
+hash = "cee8c8ac99eb1d7968be4a989986a2fd7668225810d4ac0938dd21ccba873f4b5910a0d69d555d016e74b74191e445fdb568716e19dac541d6121cf1da362a39"
+
+[update]
+[update.modrinth]
+mod-id = "7XXwJbHD"
+version = "OIkqJGTL"

@@ -1,0 +1,13 @@
+name = "Golden Potions"
+filename = "goldenpotions-1.0.6+26.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gRalVCmr/versions/sBLzoJuX/goldenpotions-1.0.6%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "98b428855323fc2a82a7011b981d9260b0bb10f722d519caa4d78d6405795676477222c35f166cb766b80007c0a9490ad92bb56cf7e84f768c3e4c7a41933e20"
+
+[update]
+[update.modrinth]
+mod-id = "gRalVCmr"
+version = "sBLzoJuX"

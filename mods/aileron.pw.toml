@@ -1,0 +1,8 @@
+name = "Aileron"
+filename = "aileron-1.2.1+26.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/pajicadvance/Aileron/releases/download/1.2.1/aileron-1.2.1+26.1.jar"
+hash-format = "sha512"
+hash = "e3bf3d5b214624f5fc6a26b343d307c98c8ff05303c557f103e6a1791101b6106d135c9dfde468d4d02dfc58efc5116a72b4908d7001c847a5883245b9e2cb41"

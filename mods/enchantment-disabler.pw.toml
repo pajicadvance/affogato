@@ -1,0 +1,13 @@
+name = "Enchantment Disabler"
+filename = "enchantmentdisabler-3.4.7+26.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kd03i2oU/versions/x5YzhlGb/enchantmentdisabler-3.4.7%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "c029ccf4d81c827a049368f249f28a0b1b28c22d7c9793e545a556fa7e123de40010012d6aee9bba997b2d93fd7ab1beef522e19a5b8a36a416fa44d3533b4f1"
+
+[update]
+[update.modrinth]
+mod-id = "Kd03i2oU"
+version = "x5YzhlGb"

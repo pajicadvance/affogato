@@ -1,0 +1,13 @@
+name = "Simple Death Improvements"
+filename = "simple_death_improvements-1.5.2+26.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2JFsuD70/versions/CfQhMWc1/simple_death_improvements-1.5.2%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "47e978e588086b9471418a00ab11c5578ece27d55ad7da98f54f30cf77be1dbe2e95826546693a706f2033f07ad9712e377dd87c1c89f09ca1a06ffdab6cd350"
+
+[update]
+[update.modrinth]
+mod-id = "2JFsuD70"
+version = "CfQhMWc1"

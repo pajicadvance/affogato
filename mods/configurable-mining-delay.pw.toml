@@ -1,0 +1,13 @@
+name = "Configurable Mining Delay"
+filename = "cmd-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/brnubCWa/versions/Gogi2TVg/cmd-1.0.3.jar"
+hash-format = "sha512"
+hash = "b3953a3b421582f9f1c0007e9d6ec2380af807e23efbf528df826b9514e122aa3d544fc5ecf6bfc20a10b9528b02ab6d172dd6ac472ba86a34b489400408ce16"
+
+[update]
+[update.modrinth]
+mod-id = "brnubCWa"
+version = "Gogi2TVg"

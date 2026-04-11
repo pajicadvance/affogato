@@ -1,0 +1,13 @@
+name = "Tool Pouch"
+filename = "toolpouch-1.0.8+26.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZY6C1rJ4/versions/6Hyf3gXH/toolpouch-1.0.8%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "7586451c986c8a55684cce83c8a6061f1101d54e4530bf59b5eea86a928fb3e2a329c52588ece5580402efd463af2eeb6b331ab5133b2706ac2699673c698dd1"
+
+[update]
+[update.modrinth]
+mod-id = "ZY6C1rJ4"
+version = "6Hyf3gXH"

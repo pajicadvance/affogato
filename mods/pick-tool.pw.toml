@@ -1,0 +1,13 @@
+name = "Pick Tool"
+filename = "picktool-1.1.1+26.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xxJXgVn0/versions/wNSdHTnp/picktool-1.1.1%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "5911f8fa2982213f467555ff98fed7b685230cfaa7a6b92b1c4780bec8bc71c0174c3842a7d4c3521b43c10f60b9a501e7ead625e1a771b5f184fd4be131aa15"
+
+[update]
+[update.modrinth]
+mod-id = "xxJXgVn0"
+version = "wNSdHTnp"

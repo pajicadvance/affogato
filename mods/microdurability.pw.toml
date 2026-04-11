@@ -1,0 +1,8 @@
+name = "microDurability"
+filename = "microdurability-1.0.1+26.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/pajicadvance/microDurability/releases/download/1.0.1/microdurability-1.0.1+26.1.jar"
+hash-format = "sha512"
+hash = "7d2b39b52fa007cb630295ea23b08a93e261517b702a7a64d041aacdf5026eb8a79dcea35899f17f645659bdf617467aad7c6e4b8fc3b82cb71af772ca3849b6"

@@ -1,0 +1,13 @@
+name = "Companion 🐕"
+filename = "Companion-mc26.1-Fabric-26.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/HbrsiKnr/Companion-mc26.1-Fabric-26.0.1.jar"
+hash-format = "sha512"
+hash = "d9c0a664c66c2e5dbaa85308e194c30cef35c90d16a5b16a657d1054b60ba4b73ee4c2994b08bdb31c4ed5a4ec2113339a9fda36b316bb1861e188cee5d21040"
+
+[update]
+[update.modrinth]
+mod-id = "4w0EzGRW"
+version = "HbrsiKnr"

@@ -1,0 +1,13 @@
+name = "Trailier Tales"
+filename = "TrailierTales-1.2.5-mc26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9xTQM0ci/versions/Gtbx31f7/TrailierTales-1.2.5-mc26.1.jar"
+hash-format = "sha512"
+hash = "add6efc57b1e898e461845a00c5f15e00cf19962f16c999dfe95acfe4fe3a58511d6eb2fcd3bc7dfabb6e2207006f379e9fe13d8f0ab3a3d96923818519b1815"
+
+[update]
+[update.modrinth]
+mod-id = "9xTQM0ci"
+version = "Gtbx31f7"

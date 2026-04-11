@@ -1,0 +1,13 @@
+name = "Coal Nuggets"
+filename = "coalnuggets-1.0.7+26.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iINPdcjW/versions/vsX3o7ed/coalnuggets-1.0.7%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "d99860d09dc72606e94462835734f1bedc48353440abb420e77ee258641227b6f3340460730f8a5e39ea2b4bc7867c955384350c6b73375dd98ccbb99f6994ba"
+
+[update]
+[update.modrinth]
+mod-id = "iINPdcjW"
+version = "vsX3o7ed"

@@ -1,0 +1,13 @@
+name = "Death Locator"
+filename = "death-locator-v2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4wVwwQEE/versions/w0VHRuIS/death-locator-v2.2.1.jar"
+hash-format = "sha512"
+hash = "2f546b03366e36b4d0baf91a813113fbc8b3fef551afa1af069d4d1eaa624c7fce4f9c56cabae73bf9dc550094ae6cfb06977bb93a174c7173de23311ef42c42"
+
+[update]
+[update.modrinth]
+mod-id = "4wVwwQEE"
+version = "w0VHRuIS"

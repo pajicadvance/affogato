@@ -1,0 +1,13 @@
+name = "Biolith"
+filename = "biolith-fabric-3.6.0-alpha.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iGEl6Crx/versions/R6kHpVuw/biolith-fabric-3.6.0-alpha.6.jar"
+hash-format = "sha512"
+hash = "4e46d15130d1da50eb5a8af977c15092f27b6c83c6b4cc646221c462e2da1443ac09edc86e9fd7eab16fa3ecdc7b1fe6c142dd0e458561c14c3a00cd0f12c020"
+
+[update]
+[update.modrinth]
+mod-id = "iGEl6Crx"
+version = "R6kHpVuw"

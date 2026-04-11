@@ -1,0 +1,13 @@
+name = "useless buttons be gone(ubbg)"
+filename = "uselessButtonsBeGone(ubbg)-0.0.9_26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CflTEA4x/versions/55YlZVMH/uselessButtonsBeGone%28ubbg%29-0.0.9_26.1.2.jar"
+hash-format = "sha512"
+hash = "d19ac3ebab2c7df8001ea4e2ee28a43165a3a4b934ec97e626ebc58b94bc258818028f125d8aa705011bbe167096ecceb17b853628be70134b0431a1284c534e"
+
+[update]
+[update.modrinth]
+mod-id = "CflTEA4x"
+version = "55YlZVMH"

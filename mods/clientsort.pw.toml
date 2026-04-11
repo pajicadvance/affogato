@@ -1,0 +1,13 @@
+name = "Client Sort"
+filename = "clientsort-fabric-3.1.1+26.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K0AkAin6/versions/km2lmT0H/clientsort-fabric-3.1.1%2B26.1.1.jar"
+hash-format = "sha512"
+hash = "226c1162cfe7e5b1ee6a4b57bc6e8ab1d712ab83b62b83a56a258580eb1ecdc17ba0a713b7c5ae1389dcfc2c9badc46c266d6292b24b3848edac525803933d99"
+
+[update]
+[update.modrinth]
+mod-id = "K0AkAin6"
+version = "km2lmT0H"
