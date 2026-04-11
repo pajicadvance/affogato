@@ -1,2 +1,42 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "LICENSE.txt"
+hash = "0bdfb0201d1803634f268cdff0993b8349d2c70e956a06dbb667c8dd65254ec5"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "8c62e8b91aca285dac669a87ae0102ef28ed14fdc003131ae7faf3f4cc44900d"
+
+[[files]]
+file = "config/simple-modpack-update-checker.json"
+hash = "f2a6b947abfb109d5442009b70fa65f39c15f93e51a63f699dd4656078d823ed"
+
+[[files]]
+file = "credits.txt"
+hash = "63c7a18a56d4c1912554f92cf493ae6b746ada7fb099afb7c97f0b9a73866a5a"
+
+[[files]]
+file = "mods/configmanager.pw.toml"
+hash = "6868ff98071493d02294c37e7ed6b07830f52733a67aff3164c2f6f5217da73c"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "a9b910a6eb05b063b87e8097d6f35b0cc6a96f66c2730a649aab959fb2924905"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3fa7042499ca70691864ca28f7e797a489e8be41f7affbdcdbceae794817f72a"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "cb9944ec0e1d2db8f0ac8d61f619e28357c6021c952b5e5cd0d23cbf123d66ad"
+metafile = true
+
+[[files]]
+file = "mods/smuc.pw.toml"
+hash = "f246113bb590e16ee775301923327f273cafa9b97dd1bb5d9c16a1547b86d05f"
+metafile = true
