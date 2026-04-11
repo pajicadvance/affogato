@@ -1,0 +1,8 @@
+name = "Simple Fishing Overhaul"
+filename = "simple_fishing_overhaul-1.0.0+26.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/pajicadvance/affogato/26.1/offsite/simple_fishing_overhaul-1.0.0+26.1-fabric.jar"
+hash-format = "sha512"
+hash = "b0ba5f2393faa702bc642c3118d3aa99b744eaf81c510a325ff56823df48466a620fecf7235266af7ff88f6fec1b92f1131520ebbe911792ee414efd002565df"

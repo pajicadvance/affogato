@@ -1,0 +1,8 @@
+name = "Modpack Configuration Datapack"
+filename = "configuration.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/pajicadvance/affogato/26.1/offsite/configuration.zip"
+hash-format = "sha512"
+hash = "f070997c6ed46fb3b684f5ac328a1598bc45595cd98c17891006bb9c5a8de47c4cc92891325e6e66444d9ef81e69d3344fa8654799e35ed371b35c512abdd54c"

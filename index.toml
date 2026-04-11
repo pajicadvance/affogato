@@ -17,6 +17,16 @@ file = "credits.txt"
 hash = "63c7a18a56d4c1912554f92cf493ae6b746ada7fb099afb7c97f0b9a73866a5a"
 
 [[files]]
+file = "mods/ACE.pw.toml"
+hash = "9d2b73280aed326c7d8587798dfc6b532a49beb040bb0bf8c41379444d68c06b"
+metafile = true
+
+[[files]]
+file = "mods/SFO.pw.toml"
+hash = "d2d683da08d385df0308ec1014208e244420cb53821d34c6e3f0960e3af621c0"
+metafile = true
+
+[[files]]
 file = "mods/configmanager.pw.toml"
 hash = "6868ff98071493d02294c37e7ed6b07830f52733a67aff3164c2f6f5217da73c"
 metafile = true
@@ -39,4 +49,24 @@ metafile = true
 [[files]]
 file = "mods/smuc.pw.toml"
 hash = "f246113bb590e16ee775301923327f273cafa9b97dd1bb5d9c16a1547b86d05f"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "e02c0b8c5ab7093f249a877c6c98ee6e9453276da294c30583a901275517c837"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fd_nourishment_bread.pw.toml"
+hash = "d7283b8c6a0355cce4e471e91205f4c34ee965ddca5c813c53629ef9ef7bf65e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vt_pack.pw.toml"
+hash = "01d0b4ac8039f76c96fff2b8f9380733a5400614c71c2801536670f0f777c068"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/configuration.pw.toml"
+hash = "6b32c51c2a0096e616350c3b4691dd233d685a4534754466b7d670bd8b5caf5f"
 metafile = true
