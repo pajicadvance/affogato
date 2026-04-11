@@ -1,0 +1,15 @@
+{
+  "enabled": "when_searching",
+  "sidePanelEnabled": "with_item_view",
+  "background": true,
+  "itemWrapMode": true,
+  "appendModNamespace": false,
+  "rightIndex": true,
+  "centerSearch": true,
+  "showButtons": true,
+  "wrapScrolling": "on_buttons",
+  "sidePanel": "disabled",
+  "showProgressBar": true,
+  "fluidUnitDroplets": false,
+  "centerRecipeScreen": false
+}

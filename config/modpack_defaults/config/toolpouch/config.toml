@@ -1,0 +1,226 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+toolPouchRows = 4
+toolPouchColumns = 4
+netheriteToolPouchRows = 5
+netheriteToolPouchColumns = 5
+canOpenFromInventory = false
+canOpenWithRightClick = false
+canAttachToLeggings = true
+preventUnequipWhenNotEmpty = true
+hideDebugInfoInSurvival = true
+
+[infoOverlaySettings]
+showYCoordinate = true
+obfuscateCompassIfNotOverworld = false
+obfuscateClockIfNotOverworld = true
+useObfuscationEffect = true
+
+[infoOverlaySettings.overlayFields]
+coordinates = true
+direction = true
+biome = true
+dayAndTime = true
+weather = true
+moonPhase = false
+lastDeathLocation = true
+
+[[allowedItems]]
+id = "#minecraft:arrows"
+maxStackSize = 0
+maxStackCount = 0
+
+[[allowedItems]]
+id = "#minecraft:lanterns"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "#minecraft:shulker_boxes"
+maxStackSize = 1
+maxStackCount = 0
+
+[[allowedItems]]
+id = "minecraft:clock"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "minecraft:compass"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "minecraft:elytra"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "minecraft:ender_chest"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "minecraft:filled_map"
+maxStackSize = 1
+maxStackCount = 0
+
+[[allowedItems]]
+id = "minecraft:firework_rocket"
+maxStackSize = 0
+maxStackCount = 0
+
+[[allowedItems]]
+id = "minecraft:recovery_compass"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "minecraft:spyglass"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "minecraft:totem_of_undying"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "spelunkery:magnetic_compass"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "firmaciv:nav_clock"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "firmaciv:firmaciv_compass"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "spelunkery:depth_gauge"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "caverns_and_chasms:depth_gauge"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "additionaladditions:depth_meter"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "supplementaries:altimeter"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "depthmeter:depthmeter"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "firmaciv:sextant"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "caverns_and_chasms:barometer"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "firmaciv:barometer"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "oreganized:thermometer"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "toughasnails:thermometer"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "legendarysurvivaloverhaul:thermometer"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "cold_sweat:thermometer"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "sereneseasons:calendar"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "seasonsextras:season_calendar"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "eclipticseasons:calendar"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "oreganized:speedometer"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "speedometer:speedometer"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "create:goggles"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "map_atlases:atlas"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "map_atlases:end_atlas"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "map_atlases:nether_atlas"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "naturescompass:naturescompass"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "antiqueatlas:antique_atlas"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "auroraslanterns:redstone_lantern"
+maxStackSize = 1
+maxStackCount = 1
+
+[[allowedItems]]
+id = "auroraslanterns:amethyst_lantern"
+maxStackSize = 1
+maxStackCount = 1

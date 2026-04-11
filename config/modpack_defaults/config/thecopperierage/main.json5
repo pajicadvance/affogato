@@ -1,0 +1,18 @@
+{
+	"copperFireEnabled": true,
+	"copperFirePoisons": true,
+	"copperButtonsInTrialChambers": true,
+	"copperChestsInTrialChambers": true,
+	"copperPressurePlatesInTrialChambers": true,
+	"copperGolemsPressButtons": true,
+	"gearboxEntityRotation": 3.5,
+	"stickyGearboxRotationInterval": 24,
+	"crateHasMenu": true,
+	"cratesDropWithItems": false,
+	"oxidizableCopperEquipment": false,
+	"oxidizingAffectsStats": false,
+	"copperParticles": true,
+	"betterCopperTooltips": true,
+	"waxedItemIconOverlay": true,
+	"extraItemIconOverlays": false,
+}

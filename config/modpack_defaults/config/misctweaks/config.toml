@@ -1,0 +1,538 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+sneakingPreventsBerryBushDamage = true
+armorPreventsBerryBushDamage = true
+armorReducesBerryBushSlow = true
+berryBushSlowReduction = 1.7
+elytraSwimTweak = true
+soulSpeedNoDamage = true
+thornsNoDamage = true
+creeperExplosionDropsAllItems = true
+flammableCobweb = true
+fasterObsidianMining = true
+obsidianMiningSpeedMultiplier = 1.6
+obsidianBlocks = [
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian",
+    "minecraft:respawn_anchor"
+]
+animalsSearchForFood = true
+randomizeDiscLoot = true
+preventShulkerDuplication = true
+
+[improvedSaplings]
+enabled = false
+
+[[improvedSaplings.acaciaTreePool]]
+id = "minecraft:acacia"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.acaciaTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.acaciaTreePool]]
+id = "geophilic:tree/acacia/classic"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.acaciaTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.acaciaTreePool]]
+id = "geophilic:tree/acacia/modified"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.acaciaTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.acaciaTreePool]]
+id = "geophilic:tree/acacia/modified_2"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.acaciaTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.azaleaTreePool]]
+id = "minecraft:azalea_tree"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.azaleaTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.birchTreePool]]
+id = "minecraft:birch"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.birchTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.birchTreePool]]
+id = "minecraft:birch_bees_005"
+type = "FLOWER_TREE"
+weight = 1
+
+[improvedSaplings.birchTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.birchTreePool]]
+id = "geophilic:tree/birch/classic"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.birchTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.birchTreePool]]
+id = "geophilic:tree/birch/exp"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.birchTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.birchTreePool]]
+id = "geophilic:tree/birch/exp2"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.birchTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.birchTreePool]]
+id = "geophilic:tree/birch/tall"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.birchTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.birchTreePool]]
+id = "geophilic:tree/birch/tall_modified"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.birchTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.birchTreePool]]
+id = "geophilic:tree/birch/young"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.birchTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.cherryTreePool]]
+id = "minecraft:cherry"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.cherryTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.cherryTreePool]]
+id = "minecraft:cherry_bees_005"
+type = "FLOWER_TREE"
+weight = 1
+
+[improvedSaplings.cherryTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.cherryTreePool]]
+id = "geophilic:tree/cherry/big"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.cherryTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.cherryTreePool]]
+id = "geophilic:tree/cherry/classic"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.cherryTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.darkOakTreePool]]
+id = "minecraft:dark_oak"
+type = "MEGA_TREE"
+weight = 1
+
+[improvedSaplings.darkOakTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.darkOakTreePool]]
+id = "geophilic:tree/dark_oak/classic"
+type = "MEGA_TREE"
+weight = 1
+
+[improvedSaplings.darkOakTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.darkOakTreePool]]
+id = "geophilic:tree/dark_oak/huge"
+type = "MEGA_TREE"
+weight = 1
+
+[improvedSaplings.darkOakTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.darkOakTreePool]]
+id = "geophilic:tree/dark_oak/modern"
+type = "MEGA_TREE"
+weight = 1
+
+[improvedSaplings.darkOakTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.darkOakTreePool]]
+id = "geophilic:tree/dark_oak/slim"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.darkOakTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.jungleTreePool]]
+id = "minecraft:mega_jungle_tree"
+type = "MEGA_TREE"
+weight = 1
+
+[improvedSaplings.jungleTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.jungleTreePool]]
+id = "minecraft:jungle_tree_no_vine"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.jungleTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.mangroveTreePool]]
+id = "minecraft:mangrove"
+type = "TREE"
+weight = 3
+
+[improvedSaplings.mangroveTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.mangroveTreePool]]
+id = "minecraft:tall_mangrove"
+type = "TREE"
+weight = 17
+
+[improvedSaplings.mangroveTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.oakTreePool]]
+id = "minecraft:oak"
+type = "TREE"
+weight = 9
+
+[improvedSaplings.oakTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.oakTreePool]]
+id = "minecraft:fancy_oak"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.oakTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.oakTreePool]]
+id = "minecraft:oak_bees_002"
+type = "FLOWER_TREE"
+weight = 9
+
+[improvedSaplings.oakTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.oakTreePool]]
+id = "minecraft:oak_bees_005"
+type = "FLOWER_TREE"
+weight = 1
+
+[improvedSaplings.oakTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.oakTreePool]]
+id = "geophilic:tree/oak/swamp/classic"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.oakTreePool.biomePredicate]
+biomes = [
+    "minecraft:swamp"
+]
+blacklist = false
+
+[[improvedSaplings.oakTreePool]]
+id = "geophilic:tree/oak/swamp/modern"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.oakTreePool.biomePredicate]
+biomes = [
+    "minecraft:swamp"
+]
+blacklist = false
+
+[[improvedSaplings.oakTreePool]]
+id = "geophilic:tree/oak/swamp/young"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.oakTreePool.biomePredicate]
+biomes = [
+    "minecraft:swamp"
+]
+blacklist = false
+
+[[improvedSaplings.oakTreePool]]
+id = "geophilic:tree/oak/classic"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.oakTreePool.biomePredicate]
+biomes = [
+    "minecraft:swamp"
+]
+blacklist = true
+
+[[improvedSaplings.oakTreePool]]
+id = "geophilic:tree/oak/classic_double_bees"
+type = "FLOWER_TREE"
+weight = 1
+
+[improvedSaplings.oakTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.oakTreePool]]
+id = "geophilic:tree/oak/elder"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.oakTreePool.biomePredicate]
+biomes = [
+    "minecraft:swamp"
+]
+blacklist = true
+
+[[improvedSaplings.oakTreePool]]
+id = "geophilic:tree/oak/fancy"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.oakTreePool.biomePredicate]
+biomes = [
+    "minecraft:swamp"
+]
+blacklist = true
+
+[[improvedSaplings.oakTreePool]]
+id = "geophilic:tree/oak/fancy_double_bees"
+type = "FLOWER_TREE"
+weight = 1
+
+[improvedSaplings.oakTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.oakTreePool]]
+id = "geophilic:tree/oak/tall"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.oakTreePool.biomePredicate]
+biomes = [
+    "minecraft:swamp"
+]
+blacklist = true
+
+[[improvedSaplings.oakTreePool]]
+id = "geophilic:tree/oak/young"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.oakTreePool.biomePredicate]
+biomes = [
+    "minecraft:swamp"
+]
+blacklist = true
+
+[[improvedSaplings.paleOakTreePool]]
+id = "minecraft:pale_oak"
+type = "MEGA_TREE"
+weight = 1
+
+[improvedSaplings.paleOakTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.spruceTreePool]]
+id = "minecraft:mega_spruce"
+type = "MEGA_TREE"
+weight = 1
+
+[improvedSaplings.spruceTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.spruceTreePool]]
+id = "minecraft:mega_pine"
+type = "MEGA_TREE"
+weight = 1
+
+[improvedSaplings.spruceTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.spruceTreePool]]
+id = "minecraft:spruce"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.spruceTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.spruceTreePool]]
+id = "geophilic:tree/spruce/classic"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.spruceTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.spruceTreePool]]
+id = "geophilic:tree/spruce/mega"
+type = "MEGA_TREE"
+weight = 1
+
+[improvedSaplings.spruceTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.spruceTreePool]]
+id = "geophilic:tree/spruce/short"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.spruceTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.spruceTreePool]]
+id = "geophilic:tree/spruce/tall"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.spruceTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.spruceTreePool]]
+id = "geophilic:tree/spruce/young"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.spruceTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.spruceTreePool]]
+id = "geophilic:tree/spruce/mega/grand_mega"
+type = "MEGA_TREE"
+weight = 1
+
+[improvedSaplings.spruceTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.spruceTreePool]]
+id = "geophilic:tree/spruce/mega/mega"
+type = "MEGA_TREE"
+weight = 1
+
+[improvedSaplings.spruceTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.spruceTreePool]]
+id = "geophilic:tree/spruce/pine/grand_mega"
+type = "MEGA_TREE"
+weight = 1
+
+[improvedSaplings.spruceTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.spruceTreePool]]
+id = "geophilic:tree/spruce/pine/mega"
+type = "MEGA_TREE"
+weight = 1
+
+[improvedSaplings.spruceTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[improvedSaplings.spruceTreePool]]
+id = "geophilic:tree/spruce/pine/normal"
+type = "TREE"
+weight = 1
+
+[improvedSaplings.spruceTreePool.biomePredicate]
+biomes = [  ]
+blacklist = false
+
+[[flammableBlocks]]
+id = "minecraft:cobweb"
+igniteOdds = 600
+burnOdds = 60
+
+[[animalConfiguration]]
+id = "minecraft:wolf"
+doSearch = false
+searchRange = 16
+searchSpeed = 1.25
+searchGoalPriority = 2

@@ -1,0 +1,11 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+showDurabilityBar = false
+showDurabilityNumber = true
+showDurabilityBarIfFull = false
+showDurabilityNumberIfFull = true
+durabilityBarColorSaturation = 1.0
+durabilityNumberColorSaturation = 0.67
+showArrowCount = true
+textShadow = true
+textScale = 1.0

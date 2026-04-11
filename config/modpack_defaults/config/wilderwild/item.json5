@@ -1,0 +1,10 @@
+{
+	"projectileBreakParticles": true,
+	"restrictInstrumentSound": true,
+	"projectileLandingSounds": {
+		"snowballLandingSounds": true,
+		"eggLandingSounds": true,
+		"enderPearlLandingSounds": true,
+		"potionLandingSounds": true,
+	},
+}

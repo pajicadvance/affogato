@@ -1,0 +1,15 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+leaderRedAura = true
+leaderIncreasedDamage = true
+damageIncreaseFormula = "r*1.5+3"
+leaderSizeIncrease = 0.125
+leaderUniqueTexture = true
+leaderUniqueSounds = true
+leaderNamePrefix = true
+reinforcementSpawnSounds = true
+spawnSoundVolume = 1.0
+onlyLeaderSpawnsReinforcements = false
+noLeaderFromSpawners = true
+noReinforcementsFromSpawners = true
+leaderMaxSpawnChance = 0.05

@@ -1,0 +1,25 @@
+{
+	"suspiciousBlocks": {
+		"smoothAnimations": true,
+		"accessibilityParticles": false,
+		"placeItems": false,
+	},
+	"coffin": {
+		"ignoreDoMobSpawningGamerule": false,
+		"wobbling": true,
+		"wobbleActivation": true,
+		"wobbleLoot": false,
+		"wobblePotion": false,
+		"wobbleExperienceBottle": false,
+	},
+	"blockSounds": {
+		"unpolishedBricksSounds": true,
+		"polishedBricksSounds": true,
+		"polishedSounds": true,
+		"polishedBasaltSounds": true,
+		"polishedDeepslateSounds": true,
+		"polishedTuffSounds": true,
+		"polishedCalciteSounds": true,
+		"calciteBricksSounds": true,
+	},
+}

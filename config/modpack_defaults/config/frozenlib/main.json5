@@ -1,0 +1,16 @@
+{
+	useWindOnNonFrozenServers: true,
+	saveItemCooldowns: false,
+	removeExperimentalWarning: true,
+	wardenSpawnTrackerCommand: false,
+	fileTransferServer: false,
+	fileTransferClient: false,
+	packDownloading: "pack_downloading.disabled",
+	cape: "frozenlib:dummy",
+	dataFixer: {
+		// Mods can only add to this list. User settings will always apply.
+		disabledDataFixTypes: [
+			"world_gen_settings",
+		],
+	},
+}

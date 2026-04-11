@@ -1,0 +1,28 @@
+{
+	"apparition": {
+		"pickUpItems": true,
+		"catchProjectile": true,
+		"ignoreMobGriefing": false,
+		"hypnotizeMobs": true,
+		"hauntPlayers": true,
+		"hauntedCoffins": true,
+		"hauntedFog": true,
+		"hauntedLightmap": true,
+		"hauntedSounds": true,
+		"hauntedHud": true,
+	},
+	"sniffer": {
+		"digCyanRoseSeeds": true,
+		"digManedropGerms": true,
+		"digGuzmaniaSeeds": true,
+		"digDawntrailSeeds": true,
+		"digLithopsSeeds": true,
+		"spawnSniffer": false,
+	},
+	"villager": {
+		"sellCatacombsMap": true,
+	},
+	"armorStand": {
+		"hasArms": true,
+	},
+}

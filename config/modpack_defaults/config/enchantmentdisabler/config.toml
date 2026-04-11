@@ -1,0 +1,41 @@
+# Don't change this! Version used to track needed updates.
+version = 2
+
+[disabler]
+disabledEnchantmentsV2 = [
+    [ "minecraft:looting", { table = false, loot = false, trade = false } ],
+    [ "minecraft:fortune", { table = false, loot = false, trade = false } ],
+    [ "minecraft:unbreaking", { table = false, loot = false, trade = false } ],
+    [ "minecraft:infinity", { table = false, loot = false, trade = false } ],
+    [ "minecraft:bane_of_arthropods", { table = false, loot = false, trade = false } ]
+]
+disabledEnchantments = [  ]
+
+[maxLevel]
+maxLevels = [  ]
+globalMaxLevel = 0
+limitObtainableEnchantmentLevel = false
+obtainableEnchantmentLevels = [  ]
+
+[trades]
+limitBookTradeLevel = false
+bookTradeLevelLimit = 5
+modifyEnchantedBookTradeUses = false
+maxEnchantedBookTradeUses = 12
+modifyEnchantedItemTradeUses = false
+maxEnchantedItemTradeUses = 3
+enchantedBookTradeRestockEnabled = true
+enchantedItemTradeRestockEnabled = true
+
+[enchantingTable]
+enchantingTableEnabled = true
+modifyMaxTablePower = false
+maxTablePower = 15
+modifyLapisCost = false
+lapisCostFormula = "i+1"
+modifyXpCost = false
+xpCostFormula = "i+1"
+
+[loot]
+modifyEnchantWithLevelsMaxPower = false
+enchantWithLevelsMaxPower = 50

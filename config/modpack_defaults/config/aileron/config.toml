@@ -1,0 +1,21 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+
+[generalChanges]
+fireworkUseBehavior = "COSMETIC"
+
+[cameraSettings]
+doCameraRoll = true
+cameraRollScale = 1.0
+cameraRollSpeed = 0.1
+
+[enchantments]
+cloudskipperSpeedMultiplier = 0.75
+cloudskipperCloudLevel = 192
+smokestackAirRecharge = true
+smokestackChargeTicks = 20
+
+[campfires]
+campfiresPushPlayers = true
+campfirePushMaxStrength = 24.0
+campfirePushBaseStrength = 10.0

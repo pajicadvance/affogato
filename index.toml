@@ -17,12 +17,256 @@ file = "config/isxander-main-menu-credits.json"
 hash = "94b1d16420408b806f98dcb0f62b2551332ebb66f6aac9465732f4fe7f350bc6"
 
 [[files]]
+file = "config/modpack_defaults/config/actuallyharvest-common.toml"
+hash = "0c892c27b6acecabd566946d3dccdc65ba16a500039c0276e00c09da17b47282"
+
+[[files]]
+file = "config/modpack_defaults/config/aileron/config.toml"
+hash = "f1fa753da1ce95d6977e5141b1c7382e170d3c22a5910a99c3e88cc75f0957b1"
+
+[[files]]
+file = "config/modpack_defaults/config/ambientsounds-client.json"
+hash = "29f67cdf16433381fbe0dfa0122d2d23767384b1fc35411568f8965f15b999ad"
+
+[[files]]
+file = "config/modpack_defaults/config/borderless-mining.json"
+hash = "45e516ab9edaca12246b53364bdefea55da695a52a82bfa9921159ce6a4979ea"
+
+[[files]]
+file = "config/modpack_defaults/config/bridgingmod.json"
+hash = "bc8a5b5546e600c506f20b0470181912dbe54661bd3f379c350fe72fea5b4bfb"
+
+[[files]]
+file = "config/modpack_defaults/config/cave-fog-stabilizer-options.json"
+hash = "b21f78208340fe7ce29230097d307f0b9be6fd5b410ad773b6ac23e72ed1d8b3"
+
+[[files]]
+file = "config/modpack_defaults/config/clientsort.json"
+hash = "fc711118d62870e75a344b1ff2265efe78438ebe93a603ff4a8f75f02e995e21"
+
+[[files]]
 file = "config/modpack_defaults/config/debugify.json"
 hash = "d3f33c570a005b600b74710b1a2f1e11b9fed28037b4964b79ad5fee8bed0b6d"
 
 [[files]]
+file = "config/modpack_defaults/config/enchantmentdisabler/config.toml"
+hash = "f645aa047f5ace8a0ef915bb8c4ccb5b3d1e4b2522b6d95665e6220d4aeb1887"
+
+[[files]]
+file = "config/modpack_defaults/config/forgeconfigapiport.toml"
+hash = "aa7820e54c267335b6c9d1b3e674e92d586a155ce6e8b151c2255eda8cb09155"
+
+[[files]]
+file = "config/modpack_defaults/config/frozenlib/main.json5"
+hash = "e9b2f6224cec5b49c1132d371c82b228d57bdf5e3362eb7e5a89bddac313a450"
+
+[[files]]
+file = "config/modpack_defaults/config/inline_tooltips.toml"
+hash = "16968a4cd1a2a94f16f591cacc136fededa413f0f6ebb7340a845aecf29d3ca8"
+
+[[files]]
+file = "config/modpack_defaults/config/itemphysic-client.json"
+hash = "b1b83ebceed661896213e8196861dbceca7cba097b4913e7b76c8d4923a13699"
+
+[[files]]
+file = "config/modpack_defaults/config/itemphysic.json"
+hash = "c86c09066729f17fadb178487b97a26a88687b9ee1f2146c0b73cdcccdaed4ac"
+
+[[files]]
+file = "config/modpack_defaults/config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/modpack_defaults/config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/modpack_defaults/config/jade/hide-mob-effects.json"
+hash = "085ae084a98180d4659ef60f9cf91281152a6e7b74a5a76c53f86e4f8f0d17f9"
+
+[[files]]
+file = "config/modpack_defaults/config/jade/jade.json"
+hash = "aad5a5e404f57090fed5974eddfa9e7043a086e9d1e564efe2772d829a34f9f6"
+
+[[files]]
+file = "config/modpack_defaults/config/jade/profiles/1/jade.json"
+hash = "600b9072b39a867892df55085e8a38b1339c91e6647363dcbeae7c08c3d35fd7"
+
+[[files]]
+file = "config/modpack_defaults/config/jade/profiles/2/jade.json"
+hash = "4eb73843807e2c43c5870f171900b38ae7ce79eae3fca2ea133d28f6fe322099"
+
+[[files]]
+file = "config/modpack_defaults/config/jade/profiles/3/jade.json"
+hash = "0fef5ed760836418dda4d59f4150839d49e97bab79d26ac807add159bf8380cf"
+
+[[files]]
+file = "config/modpack_defaults/config/jade/server-plugin-overrides.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/modpack_defaults/config/jade/sort-order.json"
+hash = "5296d6184eb634442702312f2b97cccf963a2e652d8ddd3ab7f518e8090d4c4b"
+
+[[files]]
+file = "config/modpack_defaults/config/microdurability/config.toml"
+hash = "1f09bb1d23808c2af86bbf23211c316988e934b43e27b50b23f716f7a25f2f5d"
+
+[[files]]
+file = "config/modpack_defaults/config/miningdelay.json"
+hash = "7722794a5228abc48dee53c766767eb29adf8f1faff4a751f9fe915e04a2ff2a"
+
+[[files]]
+file = "config/modpack_defaults/config/misctweaks/client_config.toml"
+hash = "6502707b14c05e16ae6578b908c60f6bf5894526513436fb4e33f9196cc4b6f7"
+
+[[files]]
+file = "config/modpack_defaults/config/misctweaks/config.toml"
+hash = "9da291158827e5d2b0b5f8f03e7dfa1ad6a126b3ff9fc41e3672bed364ecec6b"
+
+[[files]]
+file = "config/modpack_defaults/config/modmenu.json"
+hash = "4c7c0d9c5ab8b1bceece6d0d3d3e3cc72acd289d510e4d0933b325ce3582e7d2"
+
+[[files]]
+file = "config/modpack_defaults/config/notenoughanimations.json"
+hash = "c0225dc11d32d1c76f9091eb3a2f39a2036d46cddc24c192dc8325bad6d4f5c2"
+
+[[files]]
+file = "config/modpack_defaults/config/particular-common.toml"
+hash = "ab5ebb05f7257ebfe5bdb032df642ef2bb44010e13e0a818522b7ef0d3b8cfcb"
+
+[[files]]
+file = "config/modpack_defaults/config/picktool.json"
+hash = "25bce610d8231021f4a4a2cdee3985e437877392c6fb859239e8f1dcd8455212"
+
+[[files]]
+file = "config/modpack_defaults/config/pickupnotifications.toml"
+hash = "e6a11409ff2e7826db5413a221b26590ce2d42b9418bf7853efe89302ca3d40a"
+
+[[files]]
+file = "config/modpack_defaults/config/rrv/client_settings.json"
+hash = "c6eb2ed144a40874b14ab05e4ee8bcad41c9937e09349f387d05964bd4ce1dc8"
+
+[[files]]
+file = "config/modpack_defaults/config/sensible_stackables.json"
+hash = "85660a856ec16c3211639672256efee16f6d744f55a95cc4af0e2b9a3af3967c"
+
+[[files]]
+file = "config/modpack_defaults/config/shouldersurfing-client.toml"
+hash = "9c14222f4236b1bf5f379b98332e95cb9cf1ea9ee7b8a2f44989a82e30517766"
+
+[[files]]
+file = "config/modpack_defaults/config/simple_fishing_overhaul/config.toml"
+hash = "00e36bb0ad86ee9af928234960dc0b970dd8c745b8de4e3aedb8807c99ca6dae"
+
+[[files]]
+file = "config/modpack_defaults/config/simple_music_control/config.toml"
+hash = "d546a0d6b3ba1caba779349014e23eade85592d067ea9f0add092b227fc70eee"
+
+[[files]]
+file = "config/modpack_defaults/config/simple_smithing_overhaul/config-v2.toml"
+hash = "18f8d7c1299e25d98c578e574bc71029de75ac9d0c3032d058fd68ed831cee1a"
+
+[[files]]
+file = "config/modpack_defaults/config/simplefog.json"
+hash = "9ff09c7622e446b9579ea8c827ec143c37731e9c5d790aa8bcdd9aa4c776d1ca"
+
+[[files]]
+file = "config/modpack_defaults/config/sleepwarp.json"
+hash = "aa2ab930b26ebee2b4ff744d695b837a36719a458b6aaa343677058039ed573d"
+
+[[files]]
+file = "config/modpack_defaults/config/smbs/config-v2.toml"
+hash = "ffd89cfa5a5fa2b570eb06aa06c33365c7aee0f246b4f7386827f307b359d5e7"
+
+[[files]]
+file = "config/modpack_defaults/config/smoothswapping.json"
+hash = "21431717ce2a2796733e38048ad360a2ec9d494d12c573669a3cc8e9df573f0b"
+
+[[files]]
+file = "config/modpack_defaults/config/structurify.json"
+hash = "c949cc4518ede08af0c2b78c86861ffb466fba2c009bc3176aea3acf03a02a3d"
+
+[[files]]
+file = "config/modpack_defaults/config/thecopperierage/main.json5"
+hash = "aa960be70df7fb4cd4b53871fc0f4231a91f2e88f25f42f9bfd69a4744cc1077"
+
+[[files]]
+file = "config/modpack_defaults/config/tiered_backpacks/config.toml"
+hash = "88081be072fbadf79bcf50aac2b6e2c7e39be9e3909a79749d0c21d577eb458e"
+
+[[files]]
+file = "config/modpack_defaults/config/tillitbreaks/config.toml"
+hash = "c93d2c7373af7de98b049e9cc3d51be3af6d762f250215b32e5e8ada7c4ca96a"
+
+[[files]]
+file = "config/modpack_defaults/config/toolpouch/client_config.toml"
+hash = "bd1f06b36957f16c62784a48b7ed2f97e1214b866e8af53a1bd51c63494f4a51"
+
+[[files]]
+file = "config/modpack_defaults/config/toolpouch/config.toml"
+hash = "6f7ee5137de1aa33073662a5027f967c0858d26fb6908163e2c1f9e294c94818"
+
+[[files]]
+file = "config/modpack_defaults/config/trailiertales/block.json5"
+hash = "2a719da3fa80b4449d1920e16fbdb6ea4f2712dc86f53fc28321a3c4f32102d8"
+
+[[files]]
+file = "config/modpack_defaults/config/trailiertales/entity.json5"
+hash = "8c0ded8e8b72715afbc0c8f1733888024e1925a40054546ffe9669b4f994c8d9"
+
+[[files]]
+file = "config/modpack_defaults/config/trailiertales/item.json5"
+hash = "ef5afa974f1a168e92287ebe0f27f1158aa8edaeb6bc64e6d9a7b2bc63140572"
+
+[[files]]
+file = "config/modpack_defaults/config/trailiertales/misc.json5"
+hash = "43a96c31d521fb9634a96e6ade880e2d70a566b71d2ec897dfcafedbd766dbcf"
+
+[[files]]
+file = "config/modpack_defaults/config/trailiertales/mixins.json5"
+hash = "b9de3536a81e33e25be18613a3e5930e0894d654a834d12a31993ff9ce5822d6"
+
+[[files]]
+file = "config/modpack_defaults/config/trailiertales/worldgen.json5"
+hash = "897cd87a447c0ce1ab4692da43c7e97fdb11caeb7b04aa8c187fd022210181ef"
+
+[[files]]
 file = "config/modpack_defaults/config/vmp.properties"
 hash = "3c3ccb364b7e23721598c07fd2c527f23c8f06b027204255978a1f4dbf4e1a6c"
+
+[[files]]
+file = "config/modpack_defaults/config/whitenoise-client.toml"
+hash = "1364dc2d7e083efd67d474117a4d39f19efc8a4ab5061251c355a6419955cc35"
+
+[[files]]
+file = "config/modpack_defaults/config/wilderwild/block.json5"
+hash = "dd20b2cbeb2b7479f47d27a104e537fea8cabbfcb7cc90dc5b7e471e937e064b"
+
+[[files]]
+file = "config/modpack_defaults/config/wilderwild/entity.json5"
+hash = "d731bbe8882635150b2810e3f9a215c37e2e34f930c7ec8f14dbea9ed407e246"
+
+[[files]]
+file = "config/modpack_defaults/config/wilderwild/item.json5"
+hash = "f244532efa212e5ebb815db978b095330aa6d51d871b3471174cc9a85b2c0051"
+
+[[files]]
+file = "config/modpack_defaults/config/wilderwild/misc.json5"
+hash = "4b710c27662c2ce4330faa812fb9ea257d62935a409a5c2da8f6954c31f627dd"
+
+[[files]]
+file = "config/modpack_defaults/config/wilderwild/mixins.json5"
+hash = "9a34e073f9c15019ce6f0feeeae605b37038a4c4abb5b509593d7cd2088e2a81"
+
+[[files]]
+file = "config/modpack_defaults/config/wilderwild/worldgen.json5"
+hash = "2774638930b491bd295b3364351d0edc682b7302f40893fbfaa8fb044fa1282f"
+
+[[files]]
+file = "config/modpack_defaults/config/zombieimprovements/config.toml"
+hash = "f12d9754beb83500e5032301c1fd334107d2710dba6ae85c999631a08c234c20"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"

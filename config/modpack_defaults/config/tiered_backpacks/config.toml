@@ -1,0 +1,32 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+canOpenFromInventory = false
+canOpenWithRightClick = false
+canAttachToChestplate = true
+canEquipInChestSlot = false
+canStoreShulkers = false
+preventUnequipWhenNotEmpty = true
+
+[leatherSize]
+rows = 3
+columns = 9
+
+[copperSize]
+rows = 4
+columns = 9
+
+[ironSize]
+rows = 5
+columns = 9
+
+[goldenSize]
+rows = 6
+columns = 9
+
+[diamondSize]
+rows = 6
+columns = 11
+
+[netheriteSize]
+rows = 6
+columns = 13

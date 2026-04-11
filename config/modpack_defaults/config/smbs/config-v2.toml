@@ -1,0 +1,137 @@
+# Don't change this! Version used to track needed updates.
+version = 2
+minSpawnChance = 10.0
+maxSpawnChance = 25.0
+minChancePerBuff = 20.0
+maxChancePerBuff = 75.0
+xpPerBuffLevel = 3
+enchantedBookThresholdPercentage = 66.0
+increasedEquipmentDropChancePerBuff = true
+maxEquipmentDropChanceIncrease = 10.0
+allowBuffedMobsFromSpawners = false
+onlyBuffedMobsSpreadSculk = true
+defaultMeleeBuffs = [
+    [ "minecraft:strength", 2 ],
+    [ "smbs:knockback_resist", 1 ],
+    [ "smbs:attack_knockback", 1 ],
+    [ "minecraft:resistance", 2 ],
+    [ "minecraft:health_boost", 5 ]
+]
+defaultRangedBuffs = [
+    [ "smbs:follow_range", 4 ],
+    [ "minecraft:invisibility", 1 ],
+    [ "minecraft:health_boost", 3 ],
+    [ "minecraft:speed", 2 ]
+]
+meleeWeapons = [
+    "#c:tools/melee_weapon"
+]
+rangedWeapons = [
+    "#c:tools/ranged_weapon"
+]
+
+[[buffRules]]
+mobs = [
+    "minecraft:skeleton",
+    "minecraft:pillager",
+    "minecraft:phantom",
+    "minecraft:magma_cube",
+    "minecraft:bogged",
+    "minecraft:stray",
+    "minecraft:slime",
+    "minecraft:zombie",
+    "minecraft:husk",
+    "minecraft:piglin",
+    "minecraft:zombified_piglin",
+    "minecraft:zombie_villager",
+    "minecraft:wither_skeleton",
+    "minecraft:piglin_brute",
+    "minecraft:vindicator",
+    "minecraft:drowned"
+]
+buffSetType = "WEAPON_BASED"
+customBuffs = [  ]
+weaponType = "ANY"
+customWeapons = [  ]
+
+[[buffRules]]
+mobs = [
+    "minecraft:blaze"
+]
+buffSetType = "CUSTOM"
+customBuffs = [
+    [ "minecraft:regeneration", 2 ],
+    [ "smbs:follow_range", 2 ],
+    [ "minecraft:health_boost", 3 ],
+    [ "minecraft:speed", 2 ]
+]
+weaponType = "ANY"
+customWeapons = [  ]
+
+[[buffRules]]
+mobs = [
+    "minecraft:cave_spider",
+    "minecraft:spider"
+]
+buffSetType = "CUSTOM"
+customBuffs = [
+    [ "minecraft:strength", 2 ],
+    [ "minecraft:speed", 3 ],
+    [ "minecraft:health_boost", 3 ],
+    [ "minecraft:weaving", 1 ],
+    [ "minecraft:regeneration", 2 ]
+]
+weaponType = "ANY"
+customWeapons = [  ]
+
+[[buffRules]]
+mobs = [
+    "minecraft:creeper"
+]
+buffSetType = "CUSTOM"
+customBuffs = [
+    [ "minecraft:regeneration", 2 ],
+    [ "minecraft:health_boost", 5 ],
+    [ "minecraft:infested", 1 ]
+]
+weaponType = "ANY"
+customWeapons = [  ]
+
+[[buffRules]]
+mobs = [
+    "minecraft:ghast"
+]
+buffSetType = "CUSTOM"
+customBuffs = [
+    [ "smbs:knockback_resist", 2 ],
+    [ "minecraft:regeneration", 2 ],
+    [ "minecraft:health_boost", 3 ]
+]
+weaponType = "ANY"
+customWeapons = [  ]
+
+[[buffRules]]
+mobs = [
+    "minecraft:hoglin",
+    "minecraft:zoglin"
+]
+buffSetType = "CUSTOM"
+customBuffs = [
+    [ "smbs:scale", 3 ],
+    [ "smbs:attack_knockback", 3 ]
+]
+weaponType = "ANY"
+customWeapons = [  ]
+
+[[buffRules]]
+mobs = [
+    "minecraft:witch"
+]
+buffSetType = "CUSTOM"
+customBuffs = [
+    [ "minecraft:invisibility", 1 ],
+    [ "minecraft:speed", 2 ],
+    [ "minecraft:health_boost", 3 ]
+]
+weaponType = "ANY"
+customWeapons = [  ]

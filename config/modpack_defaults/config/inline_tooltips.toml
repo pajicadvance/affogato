@@ -1,0 +1,104 @@
+[general]
+	# Never show full tooltip details, even when holding Shift.
+	# default: false
+	neverExpanded = false
+	# Always show full tooltip details without holding Shift.
+	# default: false
+	alwaysExpanded = false
+	# Amount of space characters between icons.
+	# default: 1
+	spacing = 1
+	# Amount of space characters between icons when the tooltip is expanded.
+	# default: 1
+	expandedSpacing = 1
+	# Change attribute tooltips in the 'inline_tooltips:shows_percentage' attribute tag to percentages.
+	# default: true
+	checkPercentageTag = true
+
+[iconTooltips]
+	# Add tooltips based on item attributes.
+	# default: true
+	attributeTooltips = true
+	# default: Dark Green
+	attributeTooltipColor = "Dark Green"
+	# Add tooltips based on fuel levels.
+	# default: true
+	fuelTooltip = true
+	# default: Gold
+	fuelTooltipColor = "Gold"
+	# Add tooltips based on amount of bees.
+	# default: true
+	beesTooltip = true
+	# default: Gold
+	beeTooltipColor = "Gold"
+	# Add tooltips based on amount of honey.
+	# default: true
+	honeyTooltip = true
+	# default: Gold
+	honeyTooltipColor = "Gold"
+	# Add tooltips based on light level.
+	# default: true
+	lightLevelTooltip = true
+	# default: Gold
+	lightLevelTooltipColor = "Gold"
+	# default: true
+	foodTooltip = true
+	# default: Gold
+	foodTooltipColor = "Gold"
+	# default: true
+	saturationTooltip = true
+	# default: Gold
+	saturationTooltipColor = "Gold"
+
+[durabilityTooltip]
+	# Add tooltips based on durability.
+	# default: true
+	enable = true
+	# Color of the durability tooltip.
+	# default: Gray
+	text_color = "Gray"
+	# Always show durability tooltip.
+	# default: false
+	always_show = false
+
+[textTooltips]
+	# Add tooltips to Compasses with the player's coordinates.
+	# default: true
+	compassTooltip = false
+	# Compass tooltip colour.
+	# default: Red
+	compassTooltipColor = "Red"
+	# Add tooltips based on Lodestone Compass's destination.
+	# default: true
+	lodestoneTooltip = true
+	# Lodestone Compass tooltip colour.
+	# default: Gold
+	lodestoneCompassTooltipColor = "Gold"
+	# Add tooltips based on Recovery Compass's destination.
+	# default: true
+	recoveryCompassTooltip = false
+	# Recovery Compass tooltip colour.
+	# default: Aqua
+	recoveryCompassTooltipColor = "Aqua"
+
+[clockTooltip]
+	# Add tooltips to Clocks with the current time.
+	# default: true
+	current_time = false
+	# Add tooltips to Clocks with the current day.
+	# default: true
+	day_count = false
+	# Whether to show the clock in a 24 hour format.
+	# default: true
+	twenty_four_hour_clock = true
+	# Text color of the clock tooltip.
+	# default: Gold
+	text_color = "Gold"
+
+[developerOptions]
+	# Show debug information when holding Alt.
+	# default: false
+	debugInfo = false
+	# Food tooltip is hidden when AppleSkin is installed to prevent redundant information.
+	# default: false
+	showFoodTooltipWithAppleSkinInstalled = false

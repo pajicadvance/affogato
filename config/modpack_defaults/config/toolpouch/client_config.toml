@@ -1,0 +1,56 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+showUIHints = false
+quickSelect = true
+scrollableZoom = true
+rememberZoomLevel = true
+
+[infoOverlaySettings]
+position = "TOP_LEFT"
+offsetX = 0
+offsetY = 0
+textBackground = true
+textBackgroundOpacity = 0.3
+textShadow = false
+coloredWeather = true
+
+[infoOverlaySettings.overlayColors]
+
+[infoOverlaySettings.overlayColors.raining]
+# Red component, 0 to 255
+r = 82
+# Green component, 0 to 255
+g = 160
+# Blue component, 0 to 255
+b = 247
+
+[infoOverlaySettings.overlayColors.thundering]
+# Red component, 0 to 255
+r = 48
+# Green component, 0 to 255
+g = 99
+# Blue component, 0 to 255
+b = 156
+
+[infoOverlaySettings.overlayColors.cloudy]
+# Red component, 0 to 255
+r = 135
+# Green component, 0 to 255
+g = 135
+# Blue component, 0 to 255
+b = 135
+
+[infoOverlaySettings.overlayColors.snowing]
+# Red component, 0 to 255
+r = 47
+# Green component, 0 to 255
+g = 206
+# Blue component, 0 to 255
+b = 210
+
+[minimapOverlaySettings]
+position = "TOP_LEFT"
+minimapBackgroundStyle = "CLEAR"
+minimapBackgroundOpacity = 0.3
+offsetX = 0
+offsetY = 0

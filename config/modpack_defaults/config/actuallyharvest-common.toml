@@ -1,0 +1,53 @@
+[general]
+	#Allow harvesting with empty hand. If disabled, requires hoe.
+	allowEmptyHand = false
+	#Harvesting crops costs durability.
+	damageTool = true
+	#Automatically register crops.
+	autoConfigMods = true
+	#Chance of XP dropping on harvest.
+	#Range: 0 ~ 100
+	xpFromHarvestChance = 0
+	#Amount of XP dropped on harvest.
+	#Range: 0 ~ 10
+	xpFromHarvestAmount = 0
+	#Use range for XP drop, instead of set amount.
+	xpFromHarvestUseRange = false
+	#Range of XP dropped on harvest. Format: "min-max", example: "0-3"
+	xpFromHarvestRangeAmount = "0-2"
+	#Harvestable crops.
+	#Format: "harvestState[,afterHarvest]", i.e. "minecraft:wheat[age=7]"
+	#or "minecraft:cocoa[age=2,facing=north],minecraft:cocoa[age=0,facing=north]"
+	#WARNING: If autoConfigMods is set to false, only crops defined here will work.
+	#If not, it will just add to the auto-configured list.
+	harvestableCrops = []
+	#Blocks that right clicking should simulate click instead of breaking.
+	#For blocks like berry bushes that have built-in right click harvest.
+	harvestableBlocks = ["minecraft:sweet_berry_bush", "minecraft:cave_vines"]
+	#Expand hoe range based on tier.
+	expandHoeRange = false
+	#Regular hoe (gold, wood, iron) expansion range.
+	#Range: 1 ~ 5
+	smallTierExpansionRange = 1
+	#Regular hoe (gold, wood, iron) expansion range.
+	#Range: 1 ~ 5
+	highTierExpansionRange = 2
+	#Expand hoe range by 1 for each level of efficiency enchantment level.
+	expandHoeRangeEnchanted = true
+	#Maximum range hoe can expand for harvesting.
+	#This is the maximum of tier + efficiency enchantment.
+	#Range: 1 ~ 11
+	maxHoeExpansionRange = 5
+	#List of individual hoe tools and their harvest tier. This is for modded items not covered.
+	#Format: minecraft:wooden_hoe-0 (with number being tier)
+	hoeItems = []
+	#List of crops to blacklist from right-click harvest. Format: "modid:block"
+	blacklistCrops = []
+	#List of mods to blacklist from right-click harvest. Format: "modid"
+	blacklistMods = []
+	#Allow machines, like Create's deployer, to harvest crops.
+	allowFakePlayer = true
+	#List of held items to blacklist from right-click harvest. Format: "modid:item"
+	blacklistHeldItems = []
+	#Automatically replant crops after harvesting.
+	replantCrops = true
