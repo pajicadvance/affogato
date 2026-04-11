@@ -780,8 +780,33 @@ hash = "702763692982023319d57fe772b7e55e033f5462dd1d399baecc0c3520241b4d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-looking-torches.pw.toml"
+hash = "96dbd46d58c56aab378905af0360f9c7ba2af1ac3259576be19ea924e38ac4ac"
+metafile = true
+
+[[files]]
+file = "resourcepacks/death-locator-rp.pw.toml"
+hash = "d7b467e2aee32ac309f1029337ef35b86fdd4b616146b0a510b79094183ffe16"
+metafile = true
+
+[[files]]
+file = "resourcepacks/delight-map.pw.toml"
+hash = "6a2d119b32c83a4efddb656eb3adf0fe8d8cbd5c194b0d28730f74290419ee25"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "0e13d474c99f276691be9f8b081013b245a5c38b63191237580dd88338d8c061"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fd_nourishment_bread.pw.toml"
 hash = "d7283b8c6a0355cce4e471e91205f4c34ee965ddca5c813c53629ef9ef7bf65e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mod-descriptions.pw.toml"
+hash = "ee6875d563832c7d3eb382e3ca1d93b8f8cf73888f21a9a861f4fe2e00809d5c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Delight-map"
+filename = "Delight(map)-v1.5.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PsOEgWoz/versions/h8hO7AM6/Delight%28map%29-v1.5.4.zip"
+hash-format = "sha512"
+hash = "96447b56ff033dc89257e0ada503315f9350578b636df209ce017e7263222f15b0b5d7401ecf1e482d62f95e53be002ceefbe2d22a27a68e7759cb6eefb8fb34"
+
+[update]
+[update.modrinth]
+mod-id = "PsOEgWoz"
+version = "h8hO7AM6"

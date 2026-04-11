@@ -1,0 +1,8 @@
+name = "Better Looking Torches"
+filename = "better_looking_torches_v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dMkHsjRW/versions/rHJFQm4d/better_looking_torches_v1.1.zip"
+hash-format = "sha512"
+hash = "d59362fd3330e36e476475f9a176a756b981db1f9a1ce50fc83b5302735b678a696de583fd5da8a4f802c9ddab19316858fde4892a7dc05840294b2f06b4b500"
