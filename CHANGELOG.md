@@ -1,0 +1,1 @@
+- Adjusted backpack sizes to be significantly smaller. If you made a backpack by now and filled it up, empty it before updating to prevent item loss!

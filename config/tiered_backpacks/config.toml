@@ -8,25 +8,25 @@ canStoreShulkers = false
 preventUnequipWhenNotEmpty = true
 
 [leatherSize]
-rows = 3
-columns = 9
+rows = 1
+columns = 7
 
 [copperSize]
-rows = 4
-columns = 9
+rows = 2
+columns = 7
 
 [ironSize]
-rows = 5
-columns = 9
+rows = 3
+columns = 7
 
 [goldenSize]
-rows = 6
-columns = 9
+rows = 4
+columns = 7
 
 [diamondSize]
-rows = 6
-columns = 11
+rows = 5
+columns = 7
 
 [netheriteSize]
 rows = 6
-columns = 13
+columns = 7

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "89c3020a8c15d26f5d29a640a4dc4aead9cdf683d1e4c26eed8f5bd1dbe194f4"
+
+[[files]]
 file = "LICENSE.txt"
 hash = "0bdfb0201d1803634f268cdff0993b8349d2c70e956a06dbb667c8dd65254ec5"
 
@@ -14,7 +18,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "94b1d16420408b806f98dcb0f62b2551332ebb66f6aac9465732f4fe7f350bc6"
+hash = "73ec08d34775b487af86dfddf6a95314ae21b143240e6ace1c41d65f02253c75"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -193,10 +197,6 @@ file = "config/modpack_defaults/config/thecopperierage/main.json5"
 hash = "aa960be70df7fb4cd4b53871fc0f4231a91f2e88f25f42f9bfd69a4744cc1077"
 
 [[files]]
-file = "config/modpack_defaults/config/tiered_backpacks/config.toml"
-hash = "88081be072fbadf79bcf50aac2b6e2c7e39be9e3909a79749d0c21d577eb458e"
-
-[[files]]
 file = "config/modpack_defaults/config/tillitbreaks/config.toml"
 hash = "c93d2c7373af7de98b049e9cc3d51be3af6d762f250215b32e5e8ada7c4ca96a"
 
@@ -274,7 +274,11 @@ hash = "5b1870bd68ecafd4f95fef046e55326eaaca2784713cd414a8f2e2bec489e9d4"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "f2a6b947abfb109d5442009b70fa65f39c15f93e51a63f699dd4656078d823ed"
+hash = "0bf474b14a0d9504a28152740700de19349d3582754890d4f9c208a5e0671afa"
+
+[[files]]
+file = "config/tiered_backpacks/config.toml"
+hash = "a0553eb669c812eade56eb48eff074d8539e6ef59b5791cd9a01550cbce909f5"
 
 [[files]]
 file = "credits.txt"
