@@ -9,11 +9,8 @@
                 },
                 "hover_event": {
                     "action": "show_text",
-                    "value": "Open modpack page on Modrinth"
+                    "value": "Made with ❤ by pajic and Sky\nClick to open modpack page on Modrinth"
                 }
-            },
-            {
-                "text": "By pajic and Sky"
             }
         ]
     },
@@ -27,7 +24,7 @@
                 },
                 "hover_event": {
                     "action": "show_text",
-                    "value": "Open modpack page on Modrinth"
+                    "value": "Made with ❤ by pajic and Sky\nClick to open modpack page on Modrinth"
                 }
             }
         ]
