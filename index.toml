@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "89c3020a8c15d26f5d29a640a4dc4aead9cdf683d1e4c26eed8f5bd1dbe194f4"
+hash = "cf47e73fd2b4af54262d2452f070aebd2ec665e81f7d7fb8b9a9d8f90ddfd436"
 
 [[files]]
 file = "LICENSE.txt"
@@ -18,7 +18,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "73ec08d34775b487af86dfddf6a95314ae21b143240e6ace1c41d65f02253c75"
+hash = "07aa7ae59626e4ee2e80ee9ec86786709bd56fe4270ea0319583214ece493975"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -270,11 +270,11 @@ hash = "f12d9754beb83500e5032301c1fd334107d2710dba6ae85c999631a08c234c20"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "5b1870bd68ecafd4f95fef046e55326eaaca2784713cd414a8f2e2bec489e9d4"
+hash = "468df68cf30e328c3f088c5e684ccd64c405e061403a3eb2a35590f735799d61"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "0bf474b14a0d9504a28152740700de19349d3582754890d4f9c208a5e0671afa"
+hash = "a896b032fa533e28a37f0e9f6105a7181a993b191a77e04af0fd8437eb765a8a"
 
 [[files]]
 file = "config/tiered_backpacks/config.toml"
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogato-core.pw.toml"
-hash = "618c7f603328c390869b4a0a89e843ef570c0eeb7538845eefc6bbf873185669"
+hash = "cc78e82db198a852d132d34f4f126f029c2429ba5afd733b6830e4eab9a75182"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
-hash = "78f52cba0d8b4507c57ffab56a9b46395a3a3cd5df34ba3960a993fe967a6b40"
+hash = "11f06d18265fc77d31cb0f9acf1bdf6533f2bf2e89e301e640076753ba62a485"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "a9b910a6eb05b063b87e8097d6f35b0cc6a96f66c2730a649aab959fb2924905"
+hash = "6ce63927ee36334ced0cfbeae2e885595c5a75ca0e39633d66b35a2904ee36eb"
 metafile = true
 
 [[files]]
@@ -477,11 +477,6 @@ metafile = true
 [[files]]
 file = "mods/datapatched.pw.toml"
 hash = "ecc9dc113ed38dc4d8a0fadf19518a22b9eee81b108a4d3e3558b090f76b4d82"
-metafile = true
-
-[[files]]
-file = "mods/death-locator-bar.pw.toml"
-hash = "bbc80e75be04d4fc7d80d95cee76026f75f78df852da766110e8b16f0a4ac9f0"
 metafile = true
 
 [[files]]
@@ -921,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-astronomy.pw.toml"
-hash = "e02c0b8c5ab7093f249a877c6c98ee6e9453276da294c30583a901275517c837"
+hash = "bd2457180f30a2567d229a9da049f07ae7e0c11b927ec8a8ce7fb7368c4eb63f"
 metafile = true
 
 [[files]]
@@ -1031,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "89f572ce831e55a45000f5e525c795271d9c3b09ccf891b646e8f6f9f3621292"
+hash = "0f9ef1477920c02d1114c4d6eb001be0961779f0475e9c25c7eb6c4aac4149cb"
 metafile = true
 
 [[files]]

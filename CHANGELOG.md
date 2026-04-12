@@ -1,1 +1,6 @@
-- Adjusted backpack sizes to be significantly smaller. If you made a backpack by now and filled it up, empty it before updating to prevent item loss!
+- Replaced vanilla tutorial with a tutorial appropriate for the modpack.
+- Obtaining a flint axe now unlocks recipes for the rest of the flint tools in the recipe book.
+- Reduced default brightness to 25% (this was supposed to be 25% from the start, if you keep it at 50% i will be very sad).
+- Removed Death Locator (clutters the locator bar on servers).
+- Spyglass Astronomy is now downloaded from Modrinth instead of using my unofficial update.
+- Updated mods to their latest versions.

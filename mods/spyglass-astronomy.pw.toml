@@ -1,8 +1,13 @@
 name = "Spyglass Astronomy"
 filename = "spyglass_astronomy-1.0.20-mc26.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/pajicadvance/affogato/26.1/offsite/spyglass_astronomy-1.0.20-mc26.1.1.jar"
+url = "https://cdn.modrinth.com/data/EdBSdqge/versions/DQeZSpcn/spyglass_astronomy-1.0.20-mc26.1.1.jar"
 hash-format = "sha512"
-hash = "626df7dc95a872614e1470073de4584de53cc8422e24ec9415bb56d16981e7b3b482cde7ec6d949b6ee24987be6158fc029aa3742e5bb0a25bb0a6a7ee9ca7cd"
+hash = "49b0ee6c72d69cdc1129f21d100937ed7ebcd66808eaf49aae316ba08de614af9117a708789ee16f4e49173c698a7cb47dc79b8d0d32fae06ae8552093692f4c"
+
+[update]
+[update.modrinth]
+mod-id = "EdBSdqge"
+version = "DQeZSpcn"
