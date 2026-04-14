@@ -1,0 +1,8 @@
+name = "Better Climbing"
+filename = "better_climbing-fabric-6-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/pajicadvance/affogato/26.1/offsite/better_climbing-fabric-6-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "8c435c2191d0414d164986d7402f837909cde4b865f1b8fc630ad67f571746eb58bf08f78020ebcc032fee6f4c6027a04691bbc56272bda641ea2605c389f25a"

@@ -1,6 +1,8 @@
-- Replaced vanilla tutorial with a tutorial appropriate for the modpack.
-- Obtaining a flint axe now unlocks recipes for the rest of the flint tools in the recipe book.
-- Reduced default brightness to 25% (this was supposed to be 25% from the start, if you keep it at 50% i will be very sad).
-- Removed Death Locator (clutters the locator bar on servers).
-- Spyglass Astronomy is now downloaded from Modrinth instead of using my unofficial update.
-- Updated mods to their latest versions.
+- Added Trinkets Updated.
+- Backpacks and tool pouches are now equipped in trinket slots. Attaching to armor has been disabled.
+- Items which can be stored inside the tool pouch now indicate that in their tooltip.
+- Added recipe unlock conditions for backpacks and tool pouches.
+- Added Better Climbing.
+- Added Client Maps.
+- Removed Snow Imprints.
+- Removed Death Locator.

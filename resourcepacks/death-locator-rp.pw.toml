@@ -1,8 +1,0 @@
-name = "Death Locator RP"
-filename = "Death-Locator-2.2.1-RP.zip"
-side = "client"
-
-[download]
-url = "https://cdn.modrinth.com/data/4wVwwQEE/versions/EAMeIkX9/Death-Locator-2.2.1-RP.zip"
-hash-format = "sha512"
-hash = "d14e1e0978be1a4f15c88666b59a9da8dd141810cfc6361baedf64e43bb5589310ef6a59935a771ac49e918373bfa327a9c706ac9d3840fc2e53d8da7a211043"

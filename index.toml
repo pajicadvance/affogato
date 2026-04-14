@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "cf47e73fd2b4af54262d2452f070aebd2ec665e81f7d7fb8b9a9d8f90ddfd436"
+hash = "d5585b0c65adec8dc7a2bbf61ac0ae6ffee00f3a090109365e3d5e9dc413e98f"
 
 [[files]]
 file = "LICENSE.txt"
@@ -18,7 +18,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "07aa7ae59626e4ee2e80ee9ec86786709bd56fe4270ea0319583214ece493975"
+hash = "dc2e4df41159694081d7593d888a60c64ffc62228e5bfaeb7e41d8272f94ad1d"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -201,14 +201,6 @@ file = "config/modpack_defaults/config/tillitbreaks/config.toml"
 hash = "c93d2c7373af7de98b049e9cc3d51be3af6d762f250215b32e5e8ada7c4ca96a"
 
 [[files]]
-file = "config/modpack_defaults/config/toolpouch/client_config.toml"
-hash = "bd1f06b36957f16c62784a48b7ed2f97e1214b866e8af53a1bd51c63494f4a51"
-
-[[files]]
-file = "config/modpack_defaults/config/toolpouch/config.toml"
-hash = "6f7ee5137de1aa33073662a5027f967c0858d26fb6908163e2c1f9e294c94818"
-
-[[files]]
 file = "config/modpack_defaults/config/trailiertales/block.json5"
 hash = "2a719da3fa80b4449d1920e16fbdb6ea4f2712dc86f53fc28321a3c4f32102d8"
 
@@ -270,15 +262,23 @@ hash = "f12d9754beb83500e5032301c1fd334107d2710dba6ae85c999631a08c234c20"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "468df68cf30e328c3f088c5e684ccd64c405e061403a3eb2a35590f735799d61"
+hash = "7be4757b17ecd5f009b497054d526bee5fd86069a9c5356afb03b00208645d68"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "a896b032fa533e28a37f0e9f6105a7181a993b191a77e04af0fd8437eb765a8a"
+hash = "9ab4daaac4d8e9f67a6d5bf9577d8fdf0d40df099922da4ba7ad2cd9b63f6d72"
 
 [[files]]
 file = "config/tiered_backpacks/config.toml"
-hash = "a0553eb669c812eade56eb48eff074d8539e6ef59b5791cd9a01550cbce909f5"
+hash = "ad903c572b1ed042af97f3a0d4c08ba60ba10a752630ca258387544acb9d36a1"
+
+[[files]]
+file = "config/toolpouch/client_config.toml"
+hash = "bd1f06b36957f16c62784a48b7ed2f97e1214b866e8af53a1bd51c63494f4a51"
+
+[[files]]
+file = "config/toolpouch/config.toml"
+hash = "523d714a24ab1e688724ee4916106460ea01d9c3c55e2f98b799bd9983b8dd87"
 
 [[files]]
 file = "credits.txt"
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
-hash = "8159cfa9de0eda6bbe853cc72d8bb95f1066cbb65eafa1d64ddd6d809b759365"
+hash = "5c88a7bfefaebc5f076706c7c96bebbfb88eda1e05e83688f0cfe0a856e5deed"
 metafile = true
 
 [[files]]
@@ -360,6 +360,11 @@ hash = "539695e9725d5bff359c6c930d6e7b4173ced1c30e4ed6f7eedce28d992ea241"
 metafile = true
 
 [[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "03b0498bbedbcee62fad5580b3410eff4214015cd766eb9c5edeab995a9391cc"
+metafile = true
+
+[[files]]
 file = "mods/better-hand-bobbing.pw.toml"
 hash = "84ec5e09874c82abc7a575f162f71930f054614fa8af26840a7b158635c822e3"
 metafile = true
@@ -396,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "13df9ef66865e10e765fd7ef23585ca386952ebc6f7fb702574f01f1e137a2a2"
+hash = "8742faa491a43b5ae011971d75f0344fe8dc4b1f45d2a9094c8dbc1f90333d3a"
 metafile = true
 
 [[files]]
@@ -422,6 +427,11 @@ metafile = true
 [[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "2d754c012100793cbc024a5e8687789c0873907806394e76feb2c37c46cd7cd1"
+metafile = true
+
+[[files]]
+file = "mods/client-maps.pw.toml"
+hash = "10930b88f7a92352c0e4d05855d210f12ac8be81c899b9ad5c8308cc4d6c7203"
 metafile = true
 
 [[files]]
@@ -686,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "f1f012cf7cf3fc8cf69de0ba1e083b7dea79820f62f280f35a5d7af176111324"
+hash = "b97e67bd39362ef0700552fc99bc233ac02fe92967e90584a9d8dc85e6cb65ec"
 metafile = true
 
 [[files]]
@@ -791,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "868bc31bbb28b964b7c6049483ff32675c4b7053ddd07522828a2dc9fd3a2084"
+hash = "76b1743a3aeb36b0cb1debd0a911f7479da5c75cf423d6d942dd774e622f652f"
 metafile = true
 
 [[files]]
@@ -806,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrv.pw.toml"
-hash = "6bb217c0a3546dcd6bf26562401fe62c4d41a76611df8fae6f56f02ac9386e5a"
+hash = "4b85769130e45d1421e5c14a09d8404053b14ebeb531ec167c3f113fc74b4a09"
 metafile = true
 
 [[files]]
@@ -866,7 +876,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-trash-slot.pw.toml"
-hash = "a1076023f598ce39658e5946695039cf74594ea92c67e7cf28104d00d2cf0ea6"
+hash = "685e3476edd0a0a840bdee8ab7181441124064b7b4411105aadd69e77317728c"
 metafile = true
 
 [[files]]
@@ -897,11 +907,6 @@ metafile = true
 [[files]]
 file = "mods/smuc.pw.toml"
 hash = "f246113bb590e16ee775301923327f273cafa9b97dd1bb5d9c16a1547b86d05f"
-metafile = true
-
-[[files]]
-file = "mods/snow-imprints.pw.toml"
-hash = "d93d50e59a2e043d21e35781037056ef58cee5f51f2d5ac1aa6ba75eb9ae7714"
 metafile = true
 
 [[files]]
@@ -961,7 +966,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiered-backpacks.pw.toml"
-hash = "1fb5b5ffddcf8333c66e4e35096b638a59030e3619b86afc08cd43223d09870a"
+hash = "9fd89465ee93340d61f564f0c27a902dcc1fa092d1073233837e3b99c501eff8"
 metafile = true
 
 [[files]]
@@ -976,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/tool-pouch.pw.toml"
-hash = "0c7d0ce8d8271765dc94f54bcd4dd65c8953b6cf173343998743373b4f2be755"
+hash = "ef89188c8dd131e2d0d0687af27ec03a8408ffb7a1dd603365a244fff5c0cf1f"
 metafile = true
 
 [[files]]
@@ -992,6 +997,11 @@ metafile = true
 [[files]]
 file = "mods/trimmable-tools.pw.toml"
 hash = "b4c8d7a0ee764579a3e18c95636625ce46f5822425317490662c8bac1706e050"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-updated.pw.toml"
+hash = "d41a27e99de6a3e4d649bec0b0380d4fc44333e98766d01212f3434cf233d35e"
 metafile = true
 
 [[files]]
@@ -1026,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "0f9ef1477920c02d1114c4d6eb001be0961779f0475e9c25c7eb6c4aac4149cb"
+hash = "1c089349cb3e7c503549f43f07b62a5cf4af2aa09f149101d3630126d016d733"
 metafile = true
 
 [[files]]
@@ -1037,11 +1047,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-looking-torches.pw.toml"
 hash = "96dbd46d58c56aab378905af0360f9c7ba2af1ac3259576be19ea924e38ac4ac"
-metafile = true
-
-[[files]]
-file = "resourcepacks/death-locator-rp.pw.toml"
-hash = "d7b467e2aee32ac309f1029337ef35b86fdd4b616146b0a510b79094183ffe16"
 metafile = true
 
 [[files]]

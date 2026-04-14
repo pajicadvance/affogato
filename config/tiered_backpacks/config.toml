@@ -2,7 +2,7 @@
 version = 1
 canOpenFromInventory = false
 canOpenWithRightClick = false
-canAttachToChestplate = true
+canAttachToChestplate = false
 canEquipInChestSlot = false
 canStoreShulkers = false
 preventUnequipWhenNotEmpty = true

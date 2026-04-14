@@ -6,7 +6,7 @@ netheriteToolPouchRows = 5
 netheriteToolPouchColumns = 5
 canOpenFromInventory = false
 canOpenWithRightClick = false
-canAttachToLeggings = true
+canAttachToLeggings = false
 preventUnequipWhenNotEmpty = true
 hideDebugInfoInSurvival = true
 
