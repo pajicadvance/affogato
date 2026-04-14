@@ -4,5 +4,4 @@
 - Added recipe unlock conditions for backpacks and tool pouches.
 - Added Better Climbing.
 - Added Client Maps.
-- Removed Snow Imprints.
-- Removed Death Locator.
+- Removed Snow Imprints due to performance issues.
