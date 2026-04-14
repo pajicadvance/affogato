@@ -1,13 +1,13 @@
 name = "Tool Pouch"
-filename = "toolpouch-1.0.10+26.1-fabric.jar"
+filename = "toolpouch-1.0.11+26.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZY6C1rJ4/versions/qn9jjlr5/toolpouch-1.0.10%2B26.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/ZY6C1rJ4/versions/7Ij0UYbd/toolpouch-1.0.11%2B26.1-fabric.jar"
 hash-format = "sha512"
-hash = "16e9d611fe541c015349508bd4221b065539a53296ae4628035ade6337676177c52cb98e8c7fafd9e4e636d57035b095d34106da9d1ab64bdd9acb78ab7de1cd"
+hash = "998e9b11494e3623f0d91402d952860dcf0ea374d1523c3ee66f349235a8f67ef217c18a900daa3d65e1923ab58859444c553e5ff5af32733b3a29341a5f93b9"
 
 [update]
 [update.modrinth]
 mod-id = "ZY6C1rJ4"
-version = "qn9jjlr5"
+version = "7Ij0UYbd"

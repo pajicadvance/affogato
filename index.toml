@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "8c1d56d289d0c77ac88292fb5a9d7e1c241e49a4d81fc09cc5d4d2a68431c0e7"
+hash = "6c9ed4044e14c63ca69d6d126c9ae5e5587791bb826ba8cc76c9d5f11a1975f6"
 
 [[files]]
 file = "LICENSE.txt"
@@ -18,7 +18,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "dc2e4df41159694081d7593d888a60c64ffc62228e5bfaeb7e41d8272f94ad1d"
+hash = "856ffa28ed741827d542cf0a692bbacaaa498c413dec862ef6ee050bc36321ea"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -266,7 +266,7 @@ hash = "7be4757b17ecd5f009b497054d526bee5fd86069a9c5356afb03b00208645d68"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "9ab4daaac4d8e9f67a6d5bf9577d8fdf0d40df099922da4ba7ad2cd9b63f6d72"
+hash = "ffa9de2abf70c178dd1e7aadbca6e3ae45da0fab490052aae9b45d354282f308"
 
 [[files]]
 file = "config/tiered_backpacks/config.toml"
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/tool-pouch.pw.toml"
-hash = "ef89188c8dd131e2d0d0687af27ec03a8408ffb7a1dd603365a244fff5c0cf1f"
+hash = "aacfc7efd83254b37661ecd33995ced3c1b482bea2897452d72bd47c11337d93"
 metafile = true
 
 [[files]]
@@ -1001,7 +1001,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets-updated.pw.toml"
-hash = "d41a27e99de6a3e4d649bec0b0380d4fc44333e98766d01212f3434cf233d35e"
+hash = "b94281a1565446b98b9a622a4169baae98b97c908e63174bf74b2529e75ac599"
 metafile = true
 
 [[files]]

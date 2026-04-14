@@ -1,3 +1,7 @@
+alpha.5:
+- Fixed items in tool pouch not functioning if the tool pouch is equipped in the trinket slot.
+
+alpha.4:
 - Added Trinkets Updated.
 - Backpacks and tool pouches are now equipped in trinket slots. Attaching to armor has been disabled.
 - Items which can be stored inside the tool pouch now indicate that in their tooltip.

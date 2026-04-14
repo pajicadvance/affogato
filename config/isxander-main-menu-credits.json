@@ -2,7 +2,7 @@
     "main_menu": {
         "bottom_right": [
             {
-                "text": "Affogato 26.1.0-alpha.4",
+                "text": "Affogato 26.1.0-alpha.5",
                 "click_event": {
                     "action": "open_url",
                     "url": "https://modrinth.com/modpack/affogato"
@@ -17,7 +17,7 @@
     "pause_menu": {
         "bottom_right": [
             {
-                "text": "Affogato 26.1.0-alpha.4",
+                "text": "Affogato 26.1.0-alpha.5",
                 "click_event": {
                     "action": "open_url",
                     "url": "https://modrinth.com/modpack/affogato"
