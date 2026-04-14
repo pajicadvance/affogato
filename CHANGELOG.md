@@ -1,11 +1,4 @@
-alpha.5:
-- Fixed items in tool pouch not functioning if the tool pouch is equipped in the trinket slot.
-
-alpha.4:
-- Added Trinkets Updated.
-- Backpacks and tool pouches are now equipped in trinket slots. Attaching to armor has been disabled.
-- Items which can be stored inside the tool pouch now indicate that in their tooltip.
-- Added recipe unlock conditions for backpacks and tool pouches.
-- Added Better Climbing.
-- Added Client Maps.
-- Removed Snow Imprints due to performance issues.
+- Significantly reduced the activation range of coffins from Trailier Tales.
+- Disabled wooden and stone spears.
+- Changed color of the "Equippable in Tool Pouch" tooltip to gray.
+- Improvements to the random structure chest placer.

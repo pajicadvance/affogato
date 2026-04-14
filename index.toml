@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "6c9ed4044e14c63ca69d6d126c9ae5e5587791bb826ba8cc76c9d5f11a1975f6"
+hash = "d1e57668df545ac71ae41dfbf923944221438062b0942e4e21a007be63cab335"
 
 [[files]]
 file = "LICENSE.txt"
@@ -18,7 +18,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "856ffa28ed741827d542cf0a692bbacaaa498c413dec862ef6ee050bc36321ea"
+hash = "9ebaa17895062ee3b6e1f114cc273127826216f9c0c52b22f2669f7211ff69a2"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -266,7 +266,7 @@ hash = "7be4757b17ecd5f009b497054d526bee5fd86069a9c5356afb03b00208645d68"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "ffa9de2abf70c178dd1e7aadbca6e3ae45da0fab490052aae9b45d354282f308"
+hash = "3034de7c45dc0c724568ed93c93e5e71288d6a7033a6ae97b6dcd51343072328"
 
 [[files]]
 file = "config/tiered_backpacks/config.toml"
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogato-core.pw.toml"
-hash = "cc78e82db198a852d132d34f4f126f029c2429ba5afd733b6830e4eab9a75182"
+hash = "9f4443fae47f22489f7e01de64cb5780e8fe432f4dbd38fed8e8d01840bd116c"
 metafile = true
 
 [[files]]
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/tool-pouch.pw.toml"
-hash = "aacfc7efd83254b37661ecd33995ced3c1b482bea2897452d72bd47c11337d93"
+hash = "0646cda5d8972696275159ca9c2cee27add9498b12e0c05530eb5e514f95ef76"
 metafile = true
 
 [[files]]
