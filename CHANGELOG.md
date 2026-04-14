@@ -1,4 +1,3 @@
-- Significantly reduced the activation range of coffins from Trailier Tales.
-- Disabled wooden and stone spears.
-- Changed color of the "Equippable in Tool Pouch" tooltip to gray.
-- Improvements to the random structure chest placer.
+- Arrows from the equipped tool pouch will now show on the arrow counter.
+- Portable repair recipe now takes in one stack with multiple items instead of multiple stacks with one item each as the repair material.
+- Added quick pack.

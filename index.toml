@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "d1e57668df545ac71ae41dfbf923944221438062b0942e4e21a007be63cab335"
+hash = "1591c077445b304d22d46faa1934f7f68e6250c982f69fbc933698d66a6ab066"
 
 [[files]]
 file = "LICENSE.txt"
@@ -18,7 +18,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9ebaa17895062ee3b6e1f114cc273127826216f9c0c52b22f2669f7211ff69a2"
+hash = "902be859a1c1b14ba45f796b5395f31135789e4278ad835eeab3b018de88d87e"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -266,7 +266,7 @@ hash = "7be4757b17ecd5f009b497054d526bee5fd86069a9c5356afb03b00208645d68"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "3034de7c45dc0c724568ed93c93e5e71288d6a7033a6ae97b6dcd51343072328"
+hash = "f95ffa2fe9ecfdfdef9676c497dc8fdca9947503fb0467179c6daff676b92681"
 
 [[files]]
 file = "config/tiered_backpacks/config.toml"
@@ -790,6 +790,11 @@ hash = "500793e2fc9c7a6477815ae9a12fc080050179277c3a18b055afc39d8a5fe500"
 metafile = true
 
 [[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "d7f9c1ccb60d48d6cd2370e399fb4536ad2293b444bb3b81a8efb56da3cbb848"
+metafile = true
+
+[[files]]
 file = "mods/rearm.pw.toml"
 hash = "b992035e095dacb78a9b8990fb5034f47f1b417e0265f5e1cb370867916878b0"
 metafile = true
@@ -871,7 +876,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "500860f5860b6e767395d5e5b0fa24226ca94c4318ac2ae9d270b9bed0823b56"
+hash = "78fa33eccced11373ca5ae4d1de0138445f6b143791285d1e4f4e95e1c4e4d9e"
 metafile = true
 
 [[files]]
@@ -971,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/till-it-breaks-updated.pw.toml"
-hash = "f6c33992d02aa81835c9743b6eb07f0310dba968daf18430601d6f447f99f4f8"
+hash = "e958e50011c09a90ab429b2032dba8b89a19173ac4f5d1ea6377a75006d501df"
 metafile = true
 
 [[files]]
