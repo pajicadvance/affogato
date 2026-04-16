@@ -1,0 +1,5 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+raiseHotbar = true
+hotbarRaisePixels = 2
+disableBetterGrassLayerFeature = true

@@ -1,0 +1,419 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+furnaceFuelMap = [
+    [ "minecraft:blaze_rod", 16 ],
+    [ "minecraft:dried_kelp_block", 0 ],
+    [ "#minecraft:wool_carpets", 0 ],
+    [ "#minecraft:wool", 0 ]
+]
+removedRecipes = [
+    "storagedrawers:recipe/obsidian_storage_upgrade",
+    "storagedrawers:recipe/copper_storage_upgrade",
+    "storagedrawers:recipe/iron_storage_upgrade",
+    "storagedrawers:recipe/gold_storage_upgrade",
+    "storagedrawers:recipe/diamond_storage_upgrade",
+    "storagedrawers:recipe/emerald_storage_upgrade",
+    "storagedrawers:recipe/netherite_storage_upgrade",
+    "storagedrawers:recipe/void_upgrade",
+    "storagedrawers:recipe/conversion_upgrade",
+    "storagedrawers:recipe/illumination_upgrade",
+    "storagedrawers:recipe/portability_upgrade",
+    "farmersdelight:recipe/cake_from_milk_bottle",
+    "farmersdelight:recipe/cutting/gravel",
+    "friendsandfoes:recipe/wildfire_crown",
+    "friendsandfoes:recipe/waxed_lightning_rod"
+]
+hiddenItems = [
+    "storagedrawers:obsidian_storage_upgrade",
+    "storagedrawers:copper_storage_upgrade",
+    "storagedrawers:iron_storage_upgrade",
+    "storagedrawers:gold_storage_upgrade",
+    "storagedrawers:diamond_storage_upgrade",
+    "storagedrawers:emerald_storage_upgrade",
+    "storagedrawers:netherite_storage_upgrade",
+    "storagedrawers:void_upgrade",
+    "storagedrawers:conversion_upgrade",
+    "storagedrawers:illumination_upgrade",
+    "storagedrawers:portability_upgrade",
+    "friendsandfoes:wildfire_crown",
+    "friendsandfoes:wildfire_crown_fragment",
+    "friendsandfoes:waxed_lightning_rod",
+    "friendsandfoes:waxed_exposed_lightning_rod",
+    "friendsandfoes:waxed_weathered_lightning_rod",
+    "friendsandfoes:waxed_oxidized_lightning_rod",
+    "friendsandfoes:exposed_lightning_rod",
+    "friendsandfoes:weathered_lightning_rod",
+    "friendsandfoes:oxidized_lightning_rod"
+]
+
+[features]
+villagerNuke = true
+allowWanderingTraderTrading = true
+raidRework = true
+nightVisionNuke = true
+hardDifficultyDefault = true
+alwaysUpdateMaps = true
+noRiptideInRain = true
+affogatoEarlyGameChanges = true
+affogatoBlockLootTableEdits = true
+affogatoEntityLootTableEdits = true
+affogatoRecipeEdits = true
+affogatoWanderingTraderTrades = true
+affogatoItemSwapperAddon = true
+affogatoFDAddon = true
+
+[exhaustionValues]
+attack = 0.5
+blockAttack = 0.1
+breakBlock = 0.05
+climb = 0.01
+crawl = 0.04
+drawRangedWeapon = 0.25
+hungerEffectTick = 0.05
+jump = 0.025
+jumpSprint = 0.8
+naturalHealing = 8.0
+sneak = 0.02
+sprint = 0.02
+swimFast = 0.02
+swimSlow = 0.0
+takeDamage = 2.0
+throwWeapon = 0.25
+
+[durabilities]
+helmetBase = 13
+bodyBase = 16
+leggingsBase = 15
+bootsBase = 12
+leatherArmorMult = 8
+copperArmorMult = 10
+ironArmorMult = 12
+goldenArmorMult = 6
+diamondArmorMult = 20
+netheriteArmorMult = 30
+turtleArmorMult = 16
+wolfArmorMult = 8
+bow = 256
+elytra = 640
+shears = 256
+shield = 384
+crossbow = 320
+trident = 384
+
+[loot]
+lootEntryReplacements = [
+    [ "minecraft:diamond_leggings", { replacementItem = "minecraft:diamond", replacementCount = 7 } ],
+    [ "minecraft:iron_pickaxe", { replacementItem = "minecraft:iron_ingot", replacementCount = 3 } ],
+    [ "minecraft:diamond_hoe", { replacementItem = "minecraft:diamond", replacementCount = 2 } ],
+    [ "minecraft:stone_hoe", { replacementItem = "minecraft:cobblestone", replacementCount = 2 } ],
+    [ "minecraft:diamond_boots", { replacementItem = "minecraft:diamond", replacementCount = 4 } ],
+    [ "minecraft:stone_spear", { replacementItem = "minecraft:cobblestone", replacementCount = 1 } ],
+    [ "minecraft:diamond_sword", { replacementItem = "minecraft:diamond", replacementCount = 2 } ],
+    [ "minecraft:iron_spear", { replacementItem = "minecraft:iron_ingot", replacementCount = 1 } ],
+    [ "minecraft:diamond_shovel", { replacementItem = "minecraft:diamond", replacementCount = 1 } ],
+    [ "minecraft:diamond_chestplate", { replacementItem = "minecraft:diamond", replacementCount = 8 } ],
+    [ "minecraft:iron_chestplate", { replacementItem = "minecraft:iron_ingot", replacementCount = 8 } ],
+    [ "farmersdelight:iron_knife", { replacementItem = "minecraft:iron_ingot", replacementCount = 1 } ],
+    [ "minecraft:diamond_helmet", { replacementItem = "minecraft:diamond", replacementCount = 5 } ],
+    [ "farmersdelight:diamond_knife", { replacementItem = "minecraft:diamond", replacementCount = 1 } ],
+    [ "minecraft:stone_pickaxe", { replacementItem = "minecraft:cobblestone", replacementCount = 3 } ],
+    [ "minecraft:diamond_spear", { replacementItem = "minecraft:diamond", replacementCount = 1 } ],
+    [ "minecraft:iron_axe", { replacementItem = "minecraft:iron_ingot", replacementCount = 3 } ],
+    [ "minecraft:iron_hoe", { replacementItem = "minecraft:iron_ingot", replacementCount = 2 } ],
+    [ "minecraft:iron_shovel", { replacementItem = "minecraft:iron_ingot", replacementCount = 1 } ],
+    [ "minecraft:stone_sword", { replacementItem = "minecraft:cobblestone", replacementCount = 2 } ],
+    [ "minecraft:iron_boots", { replacementItem = "minecraft:iron_ingot", replacementCount = 4 } ],
+    [ "minecraft:stone_shovel", { replacementItem = "minecraft:cobblestone", replacementCount = 1 } ],
+    [ "minecraft:iron_sword", { replacementItem = "minecraft:iron_ingot", replacementCount = 2 } ],
+    [ "minecraft:iron_leggings", { replacementItem = "minecraft:iron_ingot", replacementCount = 7 } ],
+    [ "minecraft:diamond_pickaxe", { replacementItem = "minecraft:diamond", replacementCount = 3 } ],
+    [ "minecraft:diamond_axe", { replacementItem = "minecraft:diamond", replacementCount = 3 } ],
+    [ "minecraft:iron_helmet", { replacementItem = "minecraft:iron_ingot", replacementCount = 5 } ],
+    [ "minecraft:stone_axe", { replacementItem = "minecraft:cobblestone", replacementCount = 3 } ]
+]
+totemMap = [
+    [ "pillager_outpost", 0.75 ],
+    [ "woodland_mansion", 1.0 ],
+    [ "jungle_temple", 0.5 ]
+]
+trialExplorerMapChance = 0.08
+woodlandExplorerMapChance = 0.33
+oceanExplorerMapChance = 0.5
+curseEnchantedBookChance = 0.5
+frostWalkerIglooChance = 0.5
+frostWalkerIceBoxChance = 1.0
+globeBannerPatternChance = 1.0
+maceEnchantmentsInOminousVaults = true
+tridentEnchantmentsFromElderGuardians = true
+frostWalkerOnlyInIgloosAndIceBox = true
+cursesOnlyInDesertPyramids = true
+
+[worldgen]
+dungeonChanceMult = 1.3
+mineshaftChanceMult = 1.5
+oreSizeMult = 1.2
+ancientDebrisSize = 6
+ancientDebrisMinAmount = 3
+removeAncientDebrisHeightLimit = true
+addRandomChestsToMansions = true
+mansionRandomChestChance = 0.008
+addRandomChestsToMonuments = true
+monumentRandomChestChance = 0.004
+cliffFixes = true
+
+[experience]
+recipeXpSwapByResult = [
+    [ "minecraft:iron_nugget", 1.0 ],
+    [ "minecraft:gold_nugget", 1.0 ],
+    [ "minecraft:copper_nugget", 1.0 ],
+    [ "minecraft:iron_ingot", 1.5 ],
+    [ "minecraft:copper_ingot", 1.0 ],
+    [ "minecraft:netherite_scrap", 10.0 ]
+]
+recipeXpSwapByInput = [
+    [ "minecraft:nether_gold_ore", 0.75 ],
+    [ "minecraft:gold_ore", 3.0 ],
+    [ "minecraft:deepslate_gold_ore", 3.0 ],
+    [ "minecraft:raw_gold", 3.0 ]
+]
+noEnderDragonXpAfterFirst = true
+noFishingXp = true
+noMobXpDrops = true
+
+[experience.coal]
+left = 0
+right = 3
+
+[experience.netherGold]
+left = 0
+right = 3
+
+[experience.lapis]
+left = 3
+right = 7
+
+[experience.diamond]
+left = 7
+right = 10
+
+[experience.emerald]
+left = 12
+right = 15
+
+[experience.redstone]
+left = 3
+right = 7
+
+[experience.quartz]
+left = 3
+right = 7
+
+[combat]
+eatTimeIncrease = 1.6
+shieldBlockDamageThreshold = 1.0
+blazeFollowRange = 32
+illusionerFollowRange = 16
+pillagerFollowRange = 24
+ravagerFollowRange = 16
+zombieFollowRange = 16
+zombieAlertOtherRange = 35
+drownedTridentThrowDelay = 80
+endermanAttackDelay = 40
+
+[misc]
+noRapidHealing = true
+cakeSliceFoodLevel = 3
+cakeSliceSaturationLevel = 0.3
+torchLightLevel = 12
+copperTorchLightLevel = 12
+iceFriction = 0.965
+blueIceFriction = 0.97
+hoglinSpawnOnlyOnCrimsonNylium = true
+frostWalkerEarlyTrigger = true
+ironMinesObsidian = true
+moreStoneTypesInStoneCraftingRecipes = true
+nullscapeEndAmbienceEdits = true
+caveAmbientSoundFrequency = 1200
+coffinActivationRange = 3
+
+[debug]
+logMaterialIds = false
+logDebugMessages = false
+exportJsonPatches = false
+
+[[toolStats]]
+material = "minecraft:incorrect_for_wooden_tool,minecraft:wooden_tool_materials,59,2.0,0.0,15"
+modifyDurability = true
+durability = 80
+modifyMiningSpeed = true
+miningSpeed = 3.0
+
+[[toolStats]]
+material = "minecraft:incorrect_for_stone_tool,minecraft:stone_tool_materials,131,4.0,1.0,5"
+modifyDurability = true
+durability = 96
+modifyMiningSpeed = true
+miningSpeed = 4.0
+
+[[toolStats]]
+material = "minecraft:incorrect_for_copper_tool,minecraft:copper_tool_materials,190,5.0,1.0,13"
+modifyDurability = true
+durability = 160
+modifyMiningSpeed = true
+miningSpeed = 5.0
+
+[[toolStats]]
+material = "minecraft:incorrect_for_iron_tool,minecraft:iron_tool_materials,250,6.0,2.0,14"
+modifyDurability = true
+durability = 320
+modifyMiningSpeed = true
+miningSpeed = 7.0
+
+[[toolStats]]
+material = "minecraft:incorrect_for_gold_tool,minecraft:gold_tool_materials,32,12.0,0.0,22"
+modifyDurability = true
+durability = 80
+modifyMiningSpeed = true
+miningSpeed = 20.0
+
+[[toolStats]]
+material = "minecraft:incorrect_for_diamond_tool,minecraft:diamond_tool_materials,1561,8.0,3.0,10"
+modifyDurability = true
+durability = 1280
+modifyMiningSpeed = true
+miningSpeed = 9.0
+
+[[toolStats]]
+material = "minecraft:incorrect_for_netherite_tool,simple_smithing_overhaul:repairs_netherite_equipment,2031,9.0,4.0,15"
+modifyDurability = true
+durability = 2560
+modifyMiningSpeed = true
+miningSpeed = 11.0
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_wooden_tool,minecraft:wooden_tool_materials,59,2.0,0.0,15"
+type = "AXE"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -3.4
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_stone_tool,minecraft:stone_tool_materials,131,4.0,1.0,5"
+type = "AXE"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -3.4
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_iron_tool,minecraft:iron_tool_materials,250,6.0,2.0,14"
+type = "AXE"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -3.4
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_copper_tool,minecraft:copper_tool_materials,190,5.0,1.0,13"
+type = "AXE"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -3.4
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_diamond_tool,minecraft:diamond_tool_materials,1561,8.0,3.0,10"
+type = "AXE"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -3.4
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_netherite_tool,simple_smithing_overhaul:repairs_netherite_equipment,2031,9.0,4.0,15"
+type = "AXE"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -3.4
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_wooden_tool,minecraft:wooden_tool_materials,59,2.0,0.0,15"
+type = "HOE"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -2.0
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_stone_tool,minecraft:stone_tool_materials,131,4.0,1.0,5"
+type = "HOE"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -2.0
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_iron_tool,minecraft:iron_tool_materials,250,6.0,2.0,14"
+type = "HOE"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -2.0
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_copper_tool,minecraft:copper_tool_materials,190,5.0,1.0,13"
+type = "HOE"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -2.0
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_diamond_tool,minecraft:diamond_tool_materials,1561,8.0,3.0,10"
+type = "HOE"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -2.0
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_netherite_tool,simple_smithing_overhaul:repairs_netherite_equipment,2031,9.0,4.0,15"
+type = "HOE"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -2.0
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_gold_tool,minecraft:gold_tool_materials,32,12.0,0.0,22"
+type = "SWORD"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -1.6
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_gold_tool,minecraft:gold_tool_materials,32,12.0,0.0,22"
+type = "PICKAXE"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -2.2
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_gold_tool,minecraft:gold_tool_materials,32,12.0,0.0,22"
+type = "SHOVEL"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = -2.5
+
+[[weaponStats]]
+material = "minecraft:incorrect_for_gold_tool,minecraft:gold_tool_materials,32,12.0,0.0,22"
+type = "HOE"
+modifyAttackDamage = false
+attackDamage = 1.0
+modifyAttackSpeed = true
+attackSpeed = 0.0

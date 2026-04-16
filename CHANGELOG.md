@@ -1,1 +1,8 @@
-- Fixed portable repair recipe not working in the 2x2 crafting grid after the last update.
+- Wooden tools now have unique behavior and item descriptions.
+- Bonus chest now has flint tools instead of stone/wooden tools.
+- Wooden and stone spears no longer show up in the creative menu.
+- Disabled BBE chest optimizations for stone chests from Wilder Wild.
+- Added bread hunger overlay textures and dot crosshair to the VanillaTweaks resource pack provided by the modpack.
+- Updated and fixed default loot entry replacement settings.
+- Updated some item descriptions.
+- Updated mods to their latest versions.

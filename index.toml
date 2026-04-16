@@ -2,15 +2,23 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "91920d1055e00806b619424cbb74aa7b8b6c676c5c09dad235a75cae88de705e"
+hash = "f926dbdda4f5d2755ed7dc05e2fa20fa317beab9d9c3ba0675b08d3c1369365e"
 
 [[files]]
 file = "LICENSE.txt"
 hash = "0bdfb0201d1803634f268cdff0993b8349d2c70e956a06dbb667c8dd65254ec5"
 
 [[files]]
+file = "config/affogato_core/client_config.toml"
+hash = "82b90d97e83f0e6c7f4546bc1c57c38e8136207fb54e3f406ecc744d002728b3"
+
+[[files]]
+file = "config/affogato_core/config.toml"
+hash = "a4a89b8b976b6cf824792769f8c847329150d3d59c12e514a14f064bd3719845"
+
+[[files]]
 file = "config/crash_assistant/config.toml"
-hash = "44d59818ebc994235e7d5c344ca2fae3e6ae2eb0295e7ebb95d8dc90be8040bc"
+hash = "c28569074f6b6798392c19c8272a9d42874f6f79d273de5106cdea23a25d4316"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -18,7 +26,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "638966699d36fbb8c32110ecd2526914c34eba6f265705a192cd71ef93d6678a"
+hash = "322447666a1a3f5ed6c6d9ec0f63ae9c2c61425afd8edd121480f93594810020"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -266,7 +274,7 @@ hash = "7be4757b17ecd5f009b497054d526bee5fd86069a9c5356afb03b00208645d68"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "ef6b02e1861e289b67bb008e8cba07b8f110ff2627b75621d9c585611918fcf9"
+hash = "8acca596cc308082fc041b7774e93f19777d17d9e913e15eac3854f4dfdcb37d"
 
 [[files]]
 file = "config/tiered_backpacks/config.toml"
@@ -331,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "071565be53ea0b0ec02b1d6d95c7dc92f7df629407c969fec011724f752bccec"
+hash = "645a0ceee2e12147c2f266b75a9c3e1dd22937a1730c17fc81cdfacbfd5e0e1b"
 metafile = true
 
 [[files]]
@@ -351,12 +359,12 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "e0c55589f3e32f417e5bedd6db7a2a2efc08c30a9786bb5510b6983b47dc203e"
+hash = "32a5f7d1242b726a88f3cb1b04609c6e56d2f319dacf95c5c25e715eaf20456c"
 metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "539695e9725d5bff359c6c930d6e7b4173ced1c30e4ed6f7eedce28d992ea241"
+hash = "56ab33230daa33839c1aca1c6c71ffdda1e4794ebcbcb2bc15fcd51a6a44df99"
 metafile = true
 
 [[files]]
@@ -476,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "543b83fa84e5fd8691a313b497605be745ba47a8433afee664a136879d52e8e1"
+hash = "9fb1d76cb4249839151dbfa8ba41cb5f6021f5c48912d33651f7888a95ea586f"
 metafile = true
 
 [[files]]
@@ -531,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3fa7042499ca70691864ca28f7e797a489e8be41f7affbdcdbceae794817f72a"
+hash = "667420ac98bdf5f6f7e747b83f9407722586e0c15b635ad295bef55449498474"
 metafile = true
 
 [[files]]
@@ -611,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "ecf988d5f029a9544a5e88fa318a34d2ddf03b54a27836ace3f48b3935ad714c"
+hash = "141842c3ede24477cb55d59eaa80f596ea83c693b1a1a0c4b22fb4e4b02199a4"
 metafile = true
 
 [[files]]
@@ -696,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "b97e67bd39362ef0700552fc99bc233ac02fe92967e90584a9d8dc85e6cb65ec"
+hash = "dc12b3aba319df85cefde7e6fb0e89e59399fa304a2bbfacf812fb240c06380b"
 metafile = true
 
 [[files]]
@@ -716,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "3943ca72260f38aa0f5b949d768044f968f0490540e438dd36a1080d71109129"
+hash = "f08b0c3a68c46e7fc24f7d080d87376471ec6766c8226097e2a3419ff1556885"
 metafile = true
 
 [[files]]
@@ -1076,7 +1084,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/vt_pack.pw.toml"
-hash = "01d0b4ac8039f76c96fff2b8f9380733a5400614c71c2801536670f0f777c068"
+hash = "9575c4237bf06ba02091ee4cd574b5287056e4ffe0b9545ee2e637c4b085558b"
 metafile = true
 
 [[files]]

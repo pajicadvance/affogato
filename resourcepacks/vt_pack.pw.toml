@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://raw.githubusercontent.com/pajicadvance/affogato/26.1/offsite/VanillaTweaks.zip"
 hash-format = "sha512"
-hash = "e49f128b9ed00065bb76b0a9e79c7a362c9966275012a3ff17cced81d6561d1db17cb43ceea718c5f957c6ac1abc156dc321cabba10b12f96115a12f824a9f9e"
+hash = "2B2D8BD797C9544A1A1BDE0F26D8F7ADCB9ADB03D0F428BC3203B2B00A1BC890F6E125B8C8E2990031E33B7BF67D0FEEC3EBCB1CA37ED58E85C31FEDC1148AC8"
