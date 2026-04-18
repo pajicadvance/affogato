@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "91c04a6f9ce92d2320c0ffbd2bef3bedcff34f5cb2075e430294de58d194116a"
+hash = "d71351d87bdd90a9dc79d8f679ff6668003d2412d3e1538c98f4058210af3989"
 
 [[files]]
 file = "LICENSE.txt"
@@ -510,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/dualbar.pw.toml"
 hash = "7fd13909bb3517a00fcf0f2b6d956f2e2a30a81c00400de5f65409bab175fddd"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "058cc8ca5671b397e68172a0f84ef4ff1ef20da4dc78707f531349aae23bea9d"
 metafile = true
 
 [[files]]

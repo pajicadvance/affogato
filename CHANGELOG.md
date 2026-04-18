@@ -1,6 +1,7 @@
 - Restricted the trash slot to only be active in the player's survival inventory to prevent possible issues.
 - Increased the volume of the item trashing sound.
 - Added Don't Hide Bundles.
+- Added e4mc.
 - Fixed warnings appearing in the log about some modded blocks not existing.
 - Updated Fabric Loader to 0.19.2.
 - Updated mods to their latest versions.
