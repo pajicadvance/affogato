@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "f926dbdda4f5d2755ed7dc05e2fa20fa317beab9d9c3ba0675b08d3c1369365e"
+hash = "817f161726bc97a2e80da7c0d6688c98ce47079e21b93f1e905a51b7fdfd2a42"
 
 [[files]]
 file = "LICENSE.txt"
@@ -26,7 +26,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "322447666a1a3f5ed6c6d9ec0f63ae9c2c61425afd8edd121480f93594810020"
+hash = "7efa8b0022ad03f4a6d581d0a516f2dd1285d70ec83237faee9d73028372c21b"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -274,7 +274,7 @@ hash = "7be4757b17ecd5f009b497054d526bee5fd86069a9c5356afb03b00208645d68"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "8acca596cc308082fc041b7774e93f19777d17d9e913e15eac3854f4dfdcb37d"
+hash = "ab66fea05b6d002347ad002a1dc48351ffa1c654785f23f3a30e4a1108392e62"
 
 [[files]]
 file = "config/tiered_backpacks/config.toml"
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogato-core.pw.toml"
-hash = "7770250d27ee6ff700a5f935932504e6c0d16f8dba292c9fb3e7d213fbda59c8"
+hash = "cf74754a505d582afbc1db7e227bf082113e7b0c8d0dd51d84e18af55739dcbc"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "e617b68ad044643c41f51e3c8cf085fcf0d82020fdfa51557f9eee73a12e216b"
+hash = "b7efff6c165f411865a05d0420ffc33157a8b12078a4f00a20d6131c0e531a56"
 metafile = true
 
 [[files]]
@@ -539,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "667420ac98bdf5f6f7e747b83f9407722586e0c15b635ad295bef55449498474"
+hash = "1b7dddabe21e51ddc2a0f1a304523089c4aa80dfe03d1921fdb6847a9a7f1065"
 metafile = true
 
 [[files]]
@@ -799,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "d7f9c1ccb60d48d6cd2370e399fb4536ad2293b444bb3b81a8efb56da3cbb848"
+hash = "07adbf0de8f0e7d677b814ad8c770e5fd738719c15dd80f57bec4d6353d96709"
 metafile = true
 
 [[files]]
@@ -884,7 +884,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "64a6698a4467daa945c551aa6685f8ff8e5fcc33b248075759db0d38482dd1e7"
+hash = "e3b307828da21c1af82d629fb269d064c6fca1386832ae775587b85bae812d8e"
 metafile = true
 
 [[files]]
