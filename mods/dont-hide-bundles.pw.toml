@@ -1,0 +1,13 @@
+name = "Don't Hide Bundles"
+filename = "donthidebundles-1.0.0+26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xfNdpIwR/versions/UyaTazg3/donthidebundles-1.0.0%2B26.1.jar"
+hash-format = "sha512"
+hash = "15c46370340dc6b96b2254e189c34dd540aa2703e3af247b128c619fd8d80babbcb906d4618b79e9bc367c7245b5138413cd6c674616a06276b5ce768089ed37"
+
+[update]
+[update.modrinth]
+mod-id = "xfNdpIwR"
+version = "UyaTazg3"

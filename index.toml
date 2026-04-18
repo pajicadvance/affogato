@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "817f161726bc97a2e80da7c0d6688c98ce47079e21b93f1e905a51b7fdfd2a42"
+hash = "91c04a6f9ce92d2320c0ffbd2bef3bedcff34f5cb2075e430294de58d194116a"
 
 [[files]]
 file = "LICENSE.txt"
@@ -26,7 +26,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7efa8b0022ad03f4a6d581d0a516f2dd1285d70ec83237faee9d73028372c21b"
+hash = "c9b71656121858b97ba7fab91b357eb6287d76253fc876c616a34540f9a88621"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -274,7 +274,7 @@ hash = "7be4757b17ecd5f009b497054d526bee5fd86069a9c5356afb03b00208645d68"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "ab66fea05b6d002347ad002a1dc48351ffa1c654785f23f3a30e4a1108392e62"
+hash = "83f01401ef3188d4b8007160856d4bdfb174ac27025b18abdf7f3a927d0341f2"
 
 [[files]]
 file = "config/tiered_backpacks/config.toml"
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogato-core.pw.toml"
-hash = "cf74754a505d582afbc1db7e227bf082113e7b0c8d0dd51d84e18af55739dcbc"
+hash = "f71aa15b967ebe652f1458561af80c59765eff53a9ed15592f1f9fbf947a5407"
 metafile = true
 
 [[files]]
@@ -503,6 +503,11 @@ hash = "78773495609b64dd539a2db03395128f206b75f3fd48922e803213fb5698e69f"
 metafile = true
 
 [[files]]
+file = "mods/dont-hide-bundles.pw.toml"
+hash = "018274beda09195bbe1a7c357fdfccda340ed8d776bf37a76fcd8fda72e6f01f"
+metafile = true
+
+[[files]]
 file = "mods/dualbar.pw.toml"
 hash = "7fd13909bb3517a00fcf0f2b6d956f2e2a30a81c00400de5f65409bab175fddd"
 metafile = true
@@ -624,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "8952602526b75b8b93001d5a8e5b3772a023cb2d13ff9d100043bd077b6b3fa7"
+hash = "c9a661d4865d0ba5d2b6356141c6e7ad6246586aa5224d482c23bf309b6bdc3a"
 metafile = true
 
 [[files]]
@@ -854,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "16a2a2d232c6e192cc165c52aa7af8339cb12e46d4016b7e874d0341aef46d21"
+hash = "700ff9c96574668aacc08f1fad104924f646cb07ba69e84d9f985d8a6ad4edda"
 metafile = true
 
 [[files]]
@@ -889,7 +894,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-trash-slot.pw.toml"
-hash = "685e3476edd0a0a840bdee8ab7181441124064b7b4411105aadd69e77317728c"
+hash = "7eece5470a921ca422b2b09ebb116e976678a6af7ee21d5e838fe497f2de5e3f"
 metafile = true
 
 [[files]]

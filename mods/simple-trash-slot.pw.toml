@@ -1,13 +1,13 @@
 name = "Simple Trash Slot"
-filename = "simple_trash_slot-1.0.1+26.1.1-fabric.jar"
+filename = "simple_trash_slot-1.0.2+26.1.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aTWVHYFg/versions/3JCqVz31/simple_trash_slot-1.0.1%2B26.1.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/aTWVHYFg/versions/4yELhtnA/simple_trash_slot-1.0.2%2B26.1.1-fabric.jar"
 hash-format = "sha512"
-hash = "ebe7f44f4f7c18e240be61e0548fe979f70754c33a524d557fab900ac5d2561e7fd7852a9e45f37c62d9f0249095aebb2d96aafb30729152a8da84549dff4be0"
+hash = "dccc9e45ac5a0242442bb3bfcfcdfdd843ec1ee1ea13f84d96f9a81f69516ac47a5ceca91a3b2372c3c7fca350c2d31b80d0eb4d9e791c4b721749b4551ded21"
 
 [update]
 [update.modrinth]
 mod-id = "aTWVHYFg"
-version = "3JCqVz31"
+version = "4yELhtnA"
