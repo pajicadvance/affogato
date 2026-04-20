@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "d71351d87bdd90a9dc79d8f679ff6668003d2412d3e1538c98f4058210af3989"
+hash = "a7efc0e9265094c3dd25151261eac857c2fa1472054937044177330c0f012f03"
 
 [[files]]
 file = "LICENSE.txt"
@@ -26,7 +26,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c9b71656121858b97ba7fab91b357eb6287d76253fc876c616a34540f9a88621"
+hash = "c64e76cebe2bd26f7fd9507ddc0b0696d0568b6684043c38ce3bd19af31b90d4"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -274,7 +274,7 @@ hash = "7be4757b17ecd5f009b497054d526bee5fd86069a9c5356afb03b00208645d68"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "83f01401ef3188d4b8007160856d4bdfb174ac27025b18abdf7f3a927d0341f2"
+hash = "5acae967573d0de8d887ca9a038738af96201ef33cb94786424644aac53112e8"
 
 [[files]]
 file = "config/tiered_backpacks/config.toml"
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogato-core.pw.toml"
-hash = "f71aa15b967ebe652f1458561af80c59765eff53a9ed15592f1f9fbf947a5407"
+hash = "c21442560ecd6bed60141c0ae94d4a952910004188e9a3e3cf4a70c303fc3b51"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "a01c1afc7c4ab230027fd4d3e4ceed5ca3814e73c37db85a7ab6f0feebf6513c"
+hash = "8a7caf4592f4912e0e398ef111cf1b79657004382d248fd1e812d7c75797b019"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "18e0ba646659bc50a858729cfeff255a76c7702e5065ee56ce03e9553b430e67"
+hash = "ceed226223967ea3e7017aad327a069250c289c834766e1a3cd27c8d0ad52de1"
 metafile = true
 
 [[files]]
@@ -824,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "76b1743a3aeb36b0cb1debd0a911f7479da5c75cf423d6d942dd774e622f652f"
+hash = "2110a368c239cc6d731b7f9cefc6d9df89b8eefa36eec26d0bc8278a38b6f864"
 metafile = true
 
 [[files]]
@@ -894,17 +894,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "e3b307828da21c1af82d629fb269d064c6fca1386832ae775587b85bae812d8e"
+hash = "8485a390e9319b52608f8a4d729d9cc708bee12a975f3c13991f91ace4fbe546"
 metafile = true
 
 [[files]]
 file = "mods/simple-trash-slot.pw.toml"
-hash = "7eece5470a921ca422b2b09ebb116e976678a6af7ee21d5e838fe497f2de5e3f"
+hash = "5767499d71ee3bd69f5935ba6965b313e96534e4b53a31d9e8cafb1dbc109906"
 metafile = true
 
 [[files]]
 file = "mods/simplefog.pw.toml"
-hash = "22da08f15c1f59a3953df9b38a83213b14e4a277011bed951b84f50e3cf0f118"
+hash = "d1c1945a10a05976e0af02e7c70422bab7aaad2e298351a2825b5336898cd54b"
 metafile = true
 
 [[files]]
@@ -989,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiered-backpacks.pw.toml"
-hash = "9fd89465ee93340d61f564f0c27a902dcc1fa092d1073233837e3b99c501eff8"
+hash = "2e4794c3fe54905a2fa1004d22cd719c49a6d39fe7a2b2e81f9080b36b696ce9"
 metafile = true
 
 [[files]]
@@ -1004,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/tool-pouch.pw.toml"
-hash = "0646cda5d8972696275159ca9c2cee27add9498b12e0c05530eb5e514f95ef76"
+hash = "91bd7aa37b0f33215e323426122ee0d0acf145ea2335c299ec096d2ef5d3e00f"
 metafile = true
 
 [[files]]
@@ -1024,7 +1024,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets-updated.pw.toml"
-hash = "b94281a1565446b98b9a622a4169baae98b97c908e63174bf74b2529e75ac599"
+hash = "5f33d84974395b3c38e3a29e43f878f1d9b643e4f66c8dbb8eb9e0671fe731a7"
 metafile = true
 
 [[files]]

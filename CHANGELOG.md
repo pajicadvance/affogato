@@ -1,7 +1,4 @@
-- Restricted the trash slot to only be active in the player's survival inventory to prevent possible issues.
-- Increased the volume of the item trashing sound.
-- Added Don't Hide Bundles.
-- Added e4mc.
-- Fixed warnings appearing in the log about some modded blocks not existing.
-- Updated Fabric Loader to 0.19.2.
+- Added per-dimension brightness settings. The Nether is now much brighter and The End is slightly darker.
+- Fixed Mending being able to use only stacks with a single item for repair.
+- Player cape now correctly hides itself when an elytra from a tool pouch is equipped.
 - Updated mods to their latest versions.

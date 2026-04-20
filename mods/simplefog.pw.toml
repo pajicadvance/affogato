@@ -1,13 +1,13 @@
 name = "Simple Fog Control"
-filename = "simplefog-fabric-26.1-2.0.13.jar"
+filename = "simplefog-fabric-26.1-2.0.14.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Glp1bwYc/versions/5NLIKHvL/simplefog-fabric-26.1-2.0.13.jar"
+url = "https://cdn.modrinth.com/data/Glp1bwYc/versions/gtRndoPz/simplefog-fabric-26.1-2.0.14.jar"
 hash-format = "sha512"
-hash = "7fc0cb5a19cdf4209f9c92f2149b4cdf40b93d32195989a57e85abb6ce4dc251b4fd4ac6877c14c686216a18a5076f0cadc2b136667ff313c5a81f887059e1aa"
+hash = "89e428359f947b3c15ef20f9d4356743a755e1c09e28d8de4117c0d2e2b613debd1198cab573294102eb4c0a18b6302e4499e9ccddd62620ef3c5daad303699c"
 
 [update]
 [update.modrinth]
 mod-id = "Glp1bwYc"
-version = "5NLIKHvL"
+version = "gtRndoPz"
