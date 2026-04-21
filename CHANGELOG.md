@@ -1,4 +1,3 @@
-- Added per-dimension brightness settings. The Nether is now much brighter and The End is slightly darker.
-- Fixed Mending being able to use only stacks with a single item for repair.
-- Player cape now correctly hides itself when an elytra from a tool pouch is equipped.
+- Removed night vision recipes from Toil and Trouble.
+- Fixed music added by Wilder Wild not playing.
 - Updated mods to their latest versions.

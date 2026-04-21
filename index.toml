@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "a7efc0e9265094c3dd25151261eac857c2fa1472054937044177330c0f012f03"
+hash = "bac42853f8c52760a7c1ddfa717bec5b074a833226e972d8f26226c3eb3b55e9"
 
 [[files]]
 file = "LICENSE.txt"
@@ -25,8 +25,12 @@ file = "config/fabric_loader_dependencies.json"
 hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
+file = "config/frozenlib/main.json5"
+hash = "1efb0892da7b8bddbdaa9b9e567270137441da3db4ec9bb7fea5ed0421372e9c"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c64e76cebe2bd26f7fd9507ddc0b0696d0568b6684043c38ce3bd19af31b90d4"
+hash = "e63ee198b5df777f754188893804d83703ec71939fdcc5b00b40327fbd521405"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -67,10 +71,6 @@ hash = "f645aa047f5ace8a0ef915bb8c4ccb5b3d1e4b2522b6d95665e6220d4aeb1887"
 [[files]]
 file = "config/modpack_defaults/config/forgeconfigapiport.toml"
 hash = "aa7820e54c267335b6c9d1b3e674e92d586a155ce6e8b151c2255eda8cb09155"
-
-[[files]]
-file = "config/modpack_defaults/config/frozenlib/main.json5"
-hash = "e9b2f6224cec5b49c1132d371c82b228d57bdf5e3362eb7e5a89bddac313a450"
 
 [[files]]
 file = "config/modpack_defaults/config/inline_tooltips.toml"
@@ -274,7 +274,7 @@ hash = "7be4757b17ecd5f009b497054d526bee5fd86069a9c5356afb03b00208645d68"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "5acae967573d0de8d887ca9a038738af96201ef33cb94786424644aac53112e8"
+hash = "a2b40039574b125c9de7f797f97e9f4c17e46ac924bb8161203a58a5daa8c4ba"
 
 [[files]]
 file = "config/tiered_backpacks/config.toml"
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
-hash = "1d8a9a8435cf70333d73dcde82ef2cc44ca9655cb82e6236a79e5b864348c209"
+hash = "5c7b4771a3021b08d5382c7f40fef4f8d582e2a53e9bbe8cfed8c49194e0f269"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogato-core.pw.toml"
-hash = "c21442560ecd6bed60141c0ae94d4a952910004188e9a3e3cf4a70c303fc3b51"
+hash = "128b3ed6e1706e84c3ec95bee77aaad0954cbf04d986bc19064952b8fb5a42e9"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "4f92d7d3335a217e874c93a624e2a2e781b4fa5bcc5e49f025259082f4fd920b"
+hash = "0e5168a4f2934ca0aaaeab725b5b0f1dd3207e9f606eedf30c564888bd330377"
 metafile = true
 
 [[files]]

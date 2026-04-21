@@ -1,13 +1,13 @@
 name = "Accelerated Decay"
-filename = "accelerated-decay-fabric-26.1.0.1.jar"
+filename = "accelerated-decay-fabric-26.1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/laX5CckD/versions/mA72iYPd/accelerated-decay-fabric-26.1.0.1.jar"
+url = "https://cdn.modrinth.com/data/laX5CckD/versions/cQaDVeii/accelerated-decay-fabric-26.1.2.1.jar"
 hash-format = "sha512"
-hash = "f3cc00ccf036310d8826e6c58992266c8584761d8c566b42fd1bc946f70c732227d5fa757bcbf88d70585b76e6d726a618f641e420f2ce4afb736a2ba8e7c6cf"
+hash = "e749b8a2c19a39187163a3c2103c44099e31bc4bb75b6a970af9be2cb9becf843f56457ae39940d69a678e799d6517df28b288bf8f287d38d2364b27858d6274"
 
 [update]
 [update.modrinth]
 mod-id = "laX5CckD"
-version = "mA72iYPd"
+version = "cQaDVeii"

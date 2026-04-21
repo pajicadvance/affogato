@@ -3,9 +3,9 @@
 	saveItemCooldowns: false,
 	removeExperimentalWarning: true,
 	wardenSpawnTrackerCommand: false,
-	fileTransferServer: false,
-	fileTransferClient: false,
-	packDownloading: "pack_downloading.disabled",
+	fileTransferServer: true,
+	fileTransferClient: true,
+	packDownloading: "pack_downloading.enabled",
 	cape: "frozenlib:dummy",
 	dataFixer: {
 		// Mods can only add to this list. User settings will always apply.
