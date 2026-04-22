@@ -1,3 +1,9 @@
-- Removed night vision recipes from Toil and Trouble.
-- Fixed music added by Wilder Wild not playing.
+- Added Horseman.
+- Added Through the lily pads, gently.
+- Added Map In Slot.
+- Repairing enchanted items using a whetstone now only requires the whetstone to have any level of the enchantment, instead of a level matching the item.
+- Anvils no longer apply Slowness.
+- Added custom enchantment description for Mending.
+- Fixed a few bugs with the per-dimension brightness setting.
+- Increased activation range of Wilder Wild coffins to 6 from 3.
 - Updated mods to their latest versions.

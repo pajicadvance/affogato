@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "bac42853f8c52760a7c1ddfa717bec5b074a833226e972d8f26226c3eb3b55e9"
+hash = "3cf63c9ef49225648bfac5acb2b5488a18178d6496e434db7db7eb205632f358"
 
 [[files]]
 file = "LICENSE.txt"
@@ -14,7 +14,7 @@ hash = "82b90d97e83f0e6c7f4546bc1c57c38e8136207fb54e3f406ecc744d002728b3"
 
 [[files]]
 file = "config/affogato_core/config.toml"
-hash = "a4a89b8b976b6cf824792769f8c847329150d3d59c12e514a14f064bd3719845"
+hash = "23c026e284effcd13d503a4f5188b3c951966b5507d527611c17f9e6ad695efb"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
@@ -30,7 +30,7 @@ hash = "1efb0892da7b8bddbdaa9b9e567270137441da3db4ec9bb7fea5ed0421372e9c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e63ee198b5df777f754188893804d83703ec71939fdcc5b00b40327fbd521405"
+hash = "2643667b4b345c179b0096f8812b1a28dbf1d7f4fa8baaf009dc9ff54c417281"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -274,7 +274,7 @@ hash = "7be4757b17ecd5f009b497054d526bee5fd86069a9c5356afb03b00208645d68"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "a2b40039574b125c9de7f797f97e9f4c17e46ac924bb8161203a58a5daa8c4ba"
+hash = "2faad28384443d481964fd23661f07f9110f05859556971b10e4f34b4817c144"
 
 [[files]]
 file = "config/tiered_backpacks/config.toml"
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogato-core.pw.toml"
-hash = "128b3ed6e1706e84c3ec95bee77aaad0954cbf04d986bc19064952b8fb5a42e9"
+hash = "c13e37ee614a66accaa00404ff2278234a57d3f54315951bbf486a1425dbb7b3"
 metafile = true
 
 [[files]]
@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "84fd787c6b3d0aa6670f7adc37a40157c0dcd73a6581be5439a56d984656015a"
+hash = "c58e2c81027a0dccd7e9de4e30eb5cf0f8b350994e5b44e264956597a690b96d"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "8742faa491a43b5ae011971d75f0344fe8dc4b1f45d2a9094c8dbc1f90333d3a"
+hash = "7bdfbd2b3b10efe1c337b347ca44769cc1743984edbc7f49ae79d9761d6b485d"
 metafile = true
 
 [[files]]
@@ -613,6 +613,11 @@ hash = "62b4398ba178efecba4aced610039b1003a8cc82ce5931e3fe0f6541f69a6870"
 metafile = true
 
 [[files]]
+file = "mods/horseman.pw.toml"
+hash = "f900ac5842d10d376c8e53ea93785eae1b059392c456a7fcfd15a5c3bc484031"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
 metafile = true
@@ -644,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "8895713fec0da4763fa529ea2f84586daba9a971c4cb904d2aa33f2d741e9d35"
+hash = "416dc73089adc0bdc4701182f8761e74d25fecba26f4ff86ecf799d74df195c8"
 metafile = true
 
 [[files]]
@@ -685,6 +690,11 @@ metafile = true
 [[files]]
 file = "mods/map-distance-fix.pw.toml"
 hash = "31da6416a8d9f466569c3eb90b3161d1008c3dfe8c5f5519fc60bbccbf27ebd8"
+metafile = true
+
+[[files]]
+file = "mods/map-in-slot.pw.toml"
+hash = "5b6415b1b2a1606b4bb61cc08f808f3b1c295b519a3e0158f3301f0ccd0d2b68"
 metafile = true
 
 [[files]]
@@ -894,7 +904,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "8485a390e9319b52608f8a4d729d9cc708bee12a975f3c13991f91ace4fbe546"
+hash = "40187cd04d2c646e981d6e3fb6af364e6f165dce37f3321202c2b2710108a832"
 metafile = true
 
 [[files]]
@@ -985,6 +995,11 @@ metafile = true
 [[files]]
 file = "mods/thgw.pw.toml"
 hash = "983ced6982c81b6f9e7c4954e66045b2b1c2bd9ff5d9a69da130140cbacfb6f4"
+metafile = true
+
+[[files]]
+file = "mods/through-the-lily-pads-gently.pw.toml"
+hash = "5467debb9d97db27d1dca62564f8f5c4d66694beecd99834cab2f33a4f3ade43"
 metafile = true
 
 [[files]]

@@ -234,7 +234,7 @@ ironMinesObsidian = true
 moreStoneTypesInStoneCraftingRecipes = true
 nullscapeEndAmbienceEdits = true
 caveAmbientSoundFrequency = 1200
-coffinActivationRange = 3
+coffinActivationRange = 6
 
 [debug]
 logMaterialIds = false
