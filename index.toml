@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "3cf63c9ef49225648bfac5acb2b5488a18178d6496e434db7db7eb205632f358"
+hash = "07d3f7909229d234b005ac24870dd8799b133246275ba9d81a46ecc4142ff8f8"
 
 [[files]]
 file = "LICENSE.txt"
@@ -10,7 +10,7 @@ hash = "0bdfb0201d1803634f268cdff0993b8349d2c70e956a06dbb667c8dd65254ec5"
 
 [[files]]
 file = "config/affogato_core/client_config.toml"
-hash = "82b90d97e83f0e6c7f4546bc1c57c38e8136207fb54e3f406ecc744d002728b3"
+hash = "268a469ca91532d8be0fcfe2e5bee196db4a951f3236b28a4b8d3023d358f51d"
 
 [[files]]
 file = "config/affogato_core/config.toml"
@@ -30,7 +30,7 @@ hash = "1efb0892da7b8bddbdaa9b9e567270137441da3db4ec9bb7fea5ed0421372e9c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2643667b4b345c179b0096f8812b1a28dbf1d7f4fa8baaf009dc9ff54c417281"
+hash = "514c4dd646169aee9b855556ea67f0f22129453b097da5444caf91ba029cefd4"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -71,6 +71,10 @@ hash = "f645aa047f5ace8a0ef915bb8c4ccb5b3d1e4b2522b6d95665e6220d4aeb1887"
 [[files]]
 file = "config/modpack_defaults/config/forgeconfigapiport.toml"
 hash = "aa7820e54c267335b6c9d1b3e674e92d586a155ce6e8b151c2255eda8cb09155"
+
+[[files]]
+file = "config/modpack_defaults/config/improved-maps.json"
+hash = "6047af72830fc845607293f335df7f4cef31001fb94a1bf720be9ffe40251032"
 
 [[files]]
 file = "config/modpack_defaults/config/inline_tooltips.toml"
@@ -157,6 +161,14 @@ file = "config/modpack_defaults/config/pickupnotifications.toml"
 hash = "e6a11409ff2e7826db5413a221b26590ce2d42b9418bf7853efe89302ca3d40a"
 
 [[files]]
+file = "config/modpack_defaults/config/polymer/client.json"
+hash = "3a568691468d9119800c9887f09909dad7b859fe67e600c92848603822624c67"
+
+[[files]]
+file = "config/modpack_defaults/config/polymer/resource-pack.json"
+hash = "ca6d3269c54b334d29c601ea725482edb01a0e57ee0b37d5e57f66da98c51c7d"
+
+[[files]]
 file = "config/modpack_defaults/config/rrv/client_settings.json"
 hash = "c6eb2ed144a40874b14ab05e4ee8bcad41c9937e09349f387d05964bd4ce1dc8"
 
@@ -165,12 +177,16 @@ file = "config/modpack_defaults/config/sensible_stackables.json"
 hash = "85660a856ec16c3211639672256efee16f6d744f55a95cc4af0e2b9a3af3967c"
 
 [[files]]
-file = "config/modpack_defaults/config/shouldersurfing-client.toml"
-hash = "9c14222f4236b1bf5f379b98332e95cb9cf1ea9ee7b8a2f44989a82e30517766"
+file = "config/modpack_defaults/config/sereneseasons/fertility.toml"
+hash = "cdd399d7aed93a58b1a9626e876a3b10c898d06e6ee0889c09b794570417fa36"
 
 [[files]]
-file = "config/modpack_defaults/config/simple_fishing_overhaul/config.toml"
-hash = "00e36bb0ad86ee9af928234960dc0b970dd8c745b8de4e3aedb8807c99ca6dae"
+file = "config/modpack_defaults/config/sereneseasons/seasons.toml"
+hash = "ecb7970a0090a95a8ab0f5fd561043f1da783c237861688fd4b2f93fc29bf7cd"
+
+[[files]]
+file = "config/modpack_defaults/config/shouldersurfing-client.toml"
+hash = "9c14222f4236b1bf5f379b98332e95cb9cf1ea9ee7b8a2f44989a82e30517766"
 
 [[files]]
 file = "config/modpack_defaults/config/simple_music_control/config.toml"
@@ -270,11 +286,15 @@ hash = "f12d9754beb83500e5032301c1fd334107d2710dba6ae85c999631a08c234c20"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "7be4757b17ecd5f009b497054d526bee5fd86069a9c5356afb03b00208645d68"
+hash = "a1432de392348b02081e7a689ed5439e1d990cec1a13f60de0fef0f44bdafde5"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "2faad28384443d481964fd23661f07f9110f05859556971b10e4f34b4817c144"
+hash = "ad1f90fc1de0a51f67c8b80e23f0a28101cbdaac7021eb5483586f40b829d5f9"
+
+[[files]]
+file = "config/simple_fishing_overhaul/config.toml"
+hash = "d2b6aee625c473ff6a19777f967c44780a17d016ce2a1e913fee991e1cb27992"
 
 [[files]]
 file = "config/tiered_backpacks/config.toml"
@@ -282,11 +302,11 @@ hash = "ad903c572b1ed042af97f3a0d4c08ba60ba10a752630ca258387544acb9d36a1"
 
 [[files]]
 file = "config/toolpouch/client_config.toml"
-hash = "bd1f06b36957f16c62784a48b7ed2f97e1214b866e8af53a1bd51c63494f4a51"
+hash = "bd1fc3e7107a0f2e438c8a81cf34052c316707ed4c49f8097a4e6ed8b3bf287d"
 
 [[files]]
 file = "config/toolpouch/config.toml"
-hash = "523d714a24ab1e688724ee4916106460ea01d9c3c55e2f98b799bd9983b8dd87"
+hash = "d1df0c6c57136e364e31f182b9c4fda972f74535ebc6dc3c4ded2b9125916cc4"
 
 [[files]]
 file = "credits.txt"
@@ -303,18 +323,13 @@ hash = "9d2b73280aed326c7d8587798dfc6b532a49beb040bb0bf8c41379444d68c06b"
 metafile = true
 
 [[files]]
-file = "mods/SFO.pw.toml"
-hash = "d2d683da08d385df0308ec1014208e244420cb53821d34c6e3f0960e3af621c0"
-metafile = true
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "5c7b4771a3021b08d5382c7f40fef4f8d582e2a53e9bbe8cfed8c49194e0f269"
 metafile = true
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
-hash = "5c88a7bfefaebc5f076706c7c96bebbfb88eda1e05e83688f0cfe0a856e5deed"
+hash = "7a583ab7584b091d5f0029883d68cb2290736d839effb43c0ed073aa7f386d24"
 metafile = true
 
 [[files]]
@@ -339,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "645a0ceee2e12147c2f266b75a9c3e1dd22937a1730c17fc81cdfacbfd5e0e1b"
+hash = "97280c6f029ca84101dc38eb6bafbb7e615e3e0780bc766e0848b2eb0b577202"
 metafile = true
 
 [[files]]
@@ -380,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "6a3d8aac82514e484f529373b6bc9d1fca8c7af4a37e5329e3ca71dc2b204b66"
+metafile = true
+
+[[files]]
+file = "mods/big-water.pw.toml"
+hash = "d9bc8ad174d0ebaa4300e8df47dad2d0d34c8f0f2bb46e180227578aebf013ea"
 metafile = true
 
 [[files]]
@@ -424,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/chalk.pw.toml"
-hash = "0763ea904714e92d7aba113367bed169076796b1dd05f18b1927e54337069254"
+hash = "fd39c7516fba871413458ffbf407490aa7ad04241c0cf8bac7ae6cd2ad7dc497"
 metafile = true
 
 [[files]]
@@ -483,8 +503,13 @@ hash = "9d2045cb9e5f0b8daa776249ebf228d5c4adc366788038df5b124c1add35e3e8"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+hash = "188f3dd4c1a768640948cbe39da298481019c1cb6d51961ab2c6eced466cc5e5"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
-hash = "9fb1d76cb4249839151dbfa8ba41cb5f6021f5c48912d33651f7888a95ea586f"
+hash = "6a291742cc41d7a82dd51ee4a88bc6a9d3ee6e81347b6940c76a3aea14a5824d"
 metafile = true
 
 [[files]]
@@ -524,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "a214097f59d73453a9ff341a629a0d95b4dcd8a263122293196b77aeb05a8917"
+hash = "f85842f22055252c426f3efffcceda3e0aa184f9e539183d9741c81f196005a1"
 metafile = true
 
 [[files]]
@@ -554,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
@@ -564,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "deabee53f605f55b3a22ee8be2c29491b1f9556ad5cc6ece87a39d6f5bd025ae"
+hash = "a52c5c6ae5fe679fc5cefdf674521fb46f0071db709c3102a474c1bf7a3dafb7"
 metafile = true
 
 [[files]]
@@ -584,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "ccf85a22cdd9f965cc6aa8dd97c5f5aac4d5b42427888a852af5874f8a345d87"
+hash = "451f8726db7533de82a17cc902fe6053dcd82f968442c17d507d0373de02ddd0"
 metafile = true
 
 [[files]]
@@ -600,6 +625,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "eed24b42e420c07e6a6bd16e0bcebedc17a6111b4a6ac31c1573de6e5d43b5f3"
 metafile = true
 
 [[files]]
@@ -620,6 +650,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
+metafile = true
+
+[[files]]
+file = "mods/improved-maps.pw.toml"
+hash = "e85a438f5f5efe5149d77593bea9e44a06426d9e7dccc51855ccca6297689ff0"
 metafile = true
 
 [[files]]
@@ -799,12 +834,17 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "c35c79bb4e593e797ad15f9fa9d967d6391fc5c9c5aa4a947ce1554c02848a7c"
+hash = "32f49ab49eb1180afe90ea9f767220deadcdbd902dae2276a87d3bcbf0cf64b9"
 metafile = true
 
 [[files]]
 file = "mods/pneumono_core.pw.toml"
 hash = "a4d0c8354808a4ecf4894a8e91cda492c5dfdd3fa11e9616240301ca250805e5"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "45152945e04a655c09679711b669cf375c3fd80dd4758690404920335d3b7fda"
 metafile = true
 
 [[files]]
@@ -834,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "2110a368c239cc6d731b7f9cefc6d9df89b8eefa36eec26d0bc8278a38b6f864"
+hash = "7fade44d2930d95e517616629a18c94138b896801add55720d9c5b5f0109deed"
 metafile = true
 
 [[files]]
@@ -849,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrv.pw.toml"
-hash = "4b85769130e45d1421e5c14a09d8404053b14ebeb531ec167c3f113fc74b4a09"
+hash = "513ca53f622b76605ffce86420c14755ba57f0097c8b20d516cf5aab845e42d7"
 metafile = true
 
 [[files]]
@@ -868,13 +908,18 @@ hash = "aa4c5bf98067794b5e0a02c32e7acf034effd83f0168bfa7815d3bfee5914d8b"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "92d1ed1dc23cd1c33dec9c6c26fa141e58dab82fba410d94c3fd99426c0aabfa"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "207595c62114a11bc98dcb67c9b029fe3053a8e367cee9aadde8ed4d01a9c830"
 metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "700ff9c96574668aacc08f1fad104924f646cb07ba69e84d9f985d8a6ad4edda"
+hash = "9d670041a2621ce9c9153b63331bdfb09c7ea022c3b3e17802ac24e84581c5c2"
 metafile = true
 
 [[files]]
@@ -890,6 +935,11 @@ metafile = true
 [[files]]
 file = "mods/simple-death-improvements.pw.toml"
 hash = "493dfb8102ff593c8a1341308e4384f282b4442903a01121116155e96874d7f7"
+metafile = true
+
+[[files]]
+file = "mods/simple-fishing-overhaul.pw.toml"
+hash = "6b8705a913224f41764e916786710662216922a9019112ca12719dfa3daa3d29"
 metafile = true
 
 [[files]]
@@ -949,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "722007a08065b27337e39edbbdb6a34067bbbe523f36a968d9861b9714144368"
+hash = "030f69f3a7e275201c10eef33ae360341a3c280b06955134b6885aeaa8883d6a"
 metafile = true
 
 [[files]]
@@ -1019,7 +1069,7 @@ metafile = true
 
 [[files]]
 file = "mods/tool-pouch.pw.toml"
-hash = "91bd7aa37b0f33215e323426122ee0d0acf145ea2335c299ec096d2ef5d3e00f"
+hash = "ae76d5cc7fb6a30209a315e84b02961f20c467abd8d9b8651f5b22b4ca9802c7"
 metafile = true
 
 [[files]]
@@ -1069,7 +1119,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "47909ee03f4addc160fcaf5dde8a1eb90cadbef00c94758695aea6fbad0162d7"
+hash = "51a17d028bf0d35c66d269185a63ea4adc968f60727454d0f8ed3ef2138f8612"
 metafile = true
 
 [[files]]

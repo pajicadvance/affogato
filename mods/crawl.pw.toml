@@ -1,0 +1,13 @@
+name = "Crawl"
+filename = "crawl-mc26.1.2-fabric-0.15.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H1JOVjhn/versions/M3uMbGF2/crawl-mc26.1.2-fabric-0.15.0.jar"
+hash-format = "sha512"
+hash = "cbae3dec62894b60dcf7a18f726549941058228b1eaf5f1c481c0fc9184dd3fe749bed9d11abe9b6455007a0eb0a0ce897a5aac754296d6adbf6f46e41404fe7"
+
+[update]
+[update.modrinth]
+mod-id = "H1JOVjhn"
+version = "M3uMbGF2"

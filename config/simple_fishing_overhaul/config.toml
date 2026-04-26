@@ -2,7 +2,7 @@
 version = 1
 catchRadius = 2.0
 intrigueChance = 0.33
-intrigueRadius = 5.0
+intrigueRadius = 3.5
 netheriteFishingRod = true
 fishDropNoLoot = true
 allowFishingWithoutFish = false

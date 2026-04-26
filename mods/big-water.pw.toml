@@ -1,0 +1,13 @@
+name = "Big Water"
+filename = "bigwater-1.1.1-26.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8DnPmuty/versions/UivRVqMV/bigwater-1.1.1-26.1.1.jar"
+hash-format = "sha512"
+hash = "ae0624af3196851689f5a56acc02dcd65af24bb3a0f93d428fb69ea01c2a820c952fb2641dae309d33a9a31fbf5b4e26bc87dc664b08ec9390de830785d1f1a6"
+
+[update]
+[update.modrinth]
+mod-id = "8DnPmuty"
+version = "UivRVqMV"

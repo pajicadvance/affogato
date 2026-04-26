@@ -3,3 +3,8 @@ version = 1
 raiseHotbar = true
 hotbarRaisePixels = 2
 disableBetterGrassLayerFeature = true
+perDimensionBrightness = [
+    [ "minecraft:the_nether", 100 ],
+    [ "minecraft:overworld", 25 ],
+    [ "minecraft:the_end", 0 ]
+]

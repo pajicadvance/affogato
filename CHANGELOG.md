@@ -1,9 +1,7 @@
-- Added Horseman.
-- Added Through the lily pads, gently.
-- Added Map In Slot.
-- Repairing enchanted items using a whetstone now only requires the whetstone to have any level of the enchantment, instead of a level matching the item.
-- Anvils no longer apply Slowness.
-- Added custom enchantment description for Mending.
-- Fixed a few bugs with the per-dimension brightness setting.
-- Increased activation range of Wilder Wild coffins to 6 from 3.
+- Added Improved Maps.
+- Added Serene Seasons.
+- Added Big Water.
+- Added Crawl.
+- Tool pouches are compatible with map atlases from Improved Maps and the calendar from Serene Seasons.
+- Updated Simple Fishing Overhaul.
 - Updated mods to their latest versions.

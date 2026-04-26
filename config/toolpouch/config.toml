@@ -8,6 +8,7 @@ canOpenFromInventory = false
 canOpenWithRightClick = false
 canAttachToLeggings = false
 preventUnequipWhenNotEmpty = true
+equippableItemTooltip = true
 hideDebugInfoInSurvival = true
 
 [infoOverlaySettings]
@@ -15,6 +16,7 @@ showYCoordinate = true
 obfuscateCompassIfNotOverworld = false
 obfuscateClockIfNotOverworld = true
 useObfuscationEffect = true
+hideCalendarTooltip = true
 
 [infoOverlaySettings.overlayFields]
 coordinates = true
@@ -22,6 +24,7 @@ direction = true
 biome = true
 dayAndTime = true
 weather = true
+season = true
 moonPhase = false
 lastDeathLocation = true
 
@@ -48,7 +51,7 @@ maxStackCount = 1
 [[allowedItems]]
 id = "minecraft:compass"
 maxStackSize = 1
-maxStackCount = 1
+maxStackCount = 0
 
 [[allowedItems]]
 id = "minecraft:elytra"
@@ -79,6 +82,11 @@ maxStackCount = 1
 id = "minecraft:spyglass"
 maxStackSize = 1
 maxStackCount = 1
+
+[[allowedItems]]
+id = "improved-maps:atlas"
+maxStackSize = 1
+maxStackCount = 0
 
 [[allowedItems]]
 id = "minecraft:totem_of_undying"
