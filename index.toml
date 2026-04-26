@@ -22,7 +22,7 @@ hash = "c28569074f6b6798392c19c8272a9d42874f6f79d273de5106cdea23a25d4316"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
+hash = "9dc4b8915ab599c92b4ae99755a06a2aa263bf2f493a1a5f03c387f937766c9b"
 
 [[files]]
 file = "config/frozenlib/main.json5"
