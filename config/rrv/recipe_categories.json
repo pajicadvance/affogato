@@ -1,0 +1,96 @@
+{
+  "categories": {
+    "rrv:item_tag": {
+      "enabled": true,
+      "priority": 100
+    },
+    "rrv:block_tag": {
+      "enabled": false,
+      "priority": 101
+    },
+    "minecraft:brewing": {
+      "enabled": true,
+      "priority": 0
+    },
+    "minecraft:campfire_cooking": {
+      "enabled": true,
+      "priority": 1
+    },
+    "minecraft:cooking": {
+      "enabled": true,
+      "priority": 2
+    },
+    "minecraft:crafting": {
+      "enabled": true,
+      "priority": 3
+    },
+    "minecraft:cutting": {
+      "enabled": true,
+      "priority": 4
+    },
+    "minecraft:entity_loot": {
+      "enabled": true,
+      "priority": 5
+    },
+    "minecraft:furnace_blasting": {
+      "enabled": true,
+      "priority": 6
+    },
+    "minecraft:furnace_burning": {
+      "enabled": true,
+      "priority": 7
+    },
+    "minecraft:furnace_smelting": {
+      "enabled": true,
+      "priority": 8
+    },
+    "minecraft:furnace_smoking": {
+      "enabled": true,
+      "priority": 9
+    },
+    "minecraft:smithing": {
+      "enabled": true,
+      "priority": 10
+    },
+    "minecraft:stonecutting": {
+      "enabled": true,
+      "priority": 11
+    },
+    "minecraft:villager_trading": {
+      "enabled": false,
+      "priority": 12
+    },
+    "farmersdelight:decomposition": {
+      "enabled": true,
+      "priority": 13
+    },
+    "rrv:anvil_combining": {
+      "enabled": true,
+      "priority": 14
+    },
+    "rrv:info": {
+      "enabled": true,
+      "priority": 15
+    },
+    "rrv:world_interaction": {
+      "enabled": true,
+      "priority": 16
+    },
+    "toil_and_trouble:alchemy": {
+      "enabled": true,
+      "priority": 17
+    },
+    "toil_and_trouble:brewing": {
+      "enabled": true,
+      "priority": 18
+    },
+    "farmersdelight:cooking": {
+      "enabled": true,
+      "priority": 10
+    },
+    "farmersdelight:cutting": {
+      "enabled": true,
+      "priority": 11
+    }
+  }
+}

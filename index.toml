@@ -169,10 +169,6 @@ file = "config/modpack_defaults/config/polymer/resource-pack.json"
 hash = "ca6d3269c54b334d29c601ea725482edb01a0e57ee0b37d5e57f66da98c51c7d"
 
 [[files]]
-file = "config/modpack_defaults/config/rrv/client_settings.json"
-hash = "c6eb2ed144a40874b14ab05e4ee8bcad41c9937e09349f387d05964bd4ce1dc8"
-
-[[files]]
 file = "config/modpack_defaults/config/sensible_stackables.json"
 hash = "85660a856ec16c3211639672256efee16f6d744f55a95cc4af0e2b9a3af3967c"
 
@@ -287,6 +283,14 @@ hash = "f12d9754beb83500e5032301c1fd334107d2710dba6ae85c999631a08c234c20"
 [[files]]
 file = "config/modpack_defaults/options.txt"
 hash = "a1432de392348b02081e7a689ed5439e1d990cec1a13f60de0fef0f44bdafde5"
+
+[[files]]
+file = "config/rrv/client_settings.json"
+hash = "ee694023ec304f105332d631c8f8c4e43fe416e3d2b992003dfd8aab069b9d13"
+
+[[files]]
+file = "config/rrv/recipe_categories.json"
+hash = "a70a5d038926c67ac95f56e6c2ea8773f204b2a8e29b8a49b03eda683754b5fd"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
