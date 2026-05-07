@@ -134,7 +134,7 @@ bookLootLocations = [
     [ "repurposed_structures:chests/mineshafts/jungle", { chance = 100, count = 1 } ],
     [ "repurposed_structures:chests/mineshafts/dark_forest", { chance = 100, count = 1 } ],
     [ "repurposed_structures:chests/dungeons/snow", { chance = 100, count = 1 } ],
-    [ "minecraft:chests/desert_pyramid", { chance = 75, count = 1 } ],
+    [ "minecraft:chests/desert_pyramid", { chance = 100, count = 1 } ],
     [ "repurposed_structures:chests/mineshafts/desert", { chance = 100, count = 1 } ],
     [ "minecraft:chests/buried_treasure", { chance = 100, count = 1 } ],
     [ "betterfortresses:chests/keep", { chance = 20, count = 1 } ],
@@ -179,7 +179,11 @@ bookLootLocations = [
     [ "minecraft:chests/bastion_treasure", { chance = 100, count = 3 } ],
     [ "repurposed_structures:chests/mineshafts/ocean", { chance = 100, count = 1 } ],
     [ "betterdungeons:zombie_dungeon/chests/special", { chance = 100, count = 1 } ],
-    [ "repurposed_structures:chests/mineshafts/crimson", { chance = 100, count = 1 } ]
+    [ "repurposed_structures:chests/mineshafts/crimson", { chance = 100, count = 1 } ],
+    [ "nova_structures:chests/jungle_temple_treasure", { chance = 100, count = 1 } ],
+    [ "nova_structures:chests/desert_temple/desert_temple_lesser", { chance = 50, count = 1 } ],
+    [ "nova_structures:chests/ocean_monument/greater_treasure", { chance = 100, count = 1 } ],
+    [ "nova_structures:chests/pillager_outpost_treasure", { chance = 100, count = 1 } ]
 ]
 
 [improvedExperienceBottle]
@@ -193,7 +197,7 @@ bottleLootLocations = [
     [ "minecraft:chests/stronghold_library", { chance = 100, count = 2 } ],
     [ "repurposed_structures:chests/mineshafts/jungle", { chance = 100, count = 1 } ],
     [ "repurposed_structures:chests/mineshafts/birch", { chance = 100, count = 1 } ],
-    [ "minecraft:chests/desert_pyramid", { chance = 75, count = 1 } ],
+    [ "minecraft:chests/desert_pyramid", { chance = 100, count = 1 } ],
     [ "betterdungeons:skeleton_dungeon/chests/middle", { chance = 100, count = 1 } ],
     [ "repurposed_structures:chests/mineshafts/swamp", { chance = 100, count = 1 } ],
     [ "repurposed_structures:chests/mineshafts/stone", { chance = 100, count = 1 } ],
@@ -243,5 +247,12 @@ bottleLootLocations = [
     [ "minecraft:chests/nether_bridge", { chance = 100, count = 1 } ],
     [ "repurposed_structures:chests/dungeons/swamp", { chance = 100, count = 1 } ],
     [ "repurposed_structures:chests/mineshafts/warped", { chance = 100, count = 1 } ],
-    [ "repurposed_structures:chests/mineshafts/desert", { chance = 100, count = 1 } ]
+    [ "repurposed_structures:chests/mineshafts/desert", { chance = 100, count = 1 } ],
+    [ "nova_structures:chests/desert_temple/desert_temple_lesser", { chance = 100, count = 1 } ],
+    [ "minecraft:chests/stronghold/base", { chance = 100, count = 1 } ],
+    [ "nova_structures:chests/jungle_temple_treasure", { chance = 100, count = 1 } ],
+    [ "nova_structures:chests/ocean_monument/greater_treasure", { chance = 100, count = 2 } ],
+    [ "nova_structures:chests/ocean_monument/lesser_treasure", { chance = 100, count = 1 } ],
+    [ "nova_structures:chests/pillager_outpost_treasure", { chance = 100, count = 2 } ],
+    [ "nova_structures:chests/pillager_outpost_small_treasure", { chance = 100, count = 1 } ]
 ]

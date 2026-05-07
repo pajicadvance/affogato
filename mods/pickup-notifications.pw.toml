@@ -1,13 +1,13 @@
 name = "Pickup Notifications"
-filename = "pickupnotifications-2.0.1+26.1.jar"
+filename = "pickupnotifications-2.0.2+26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wWiJfmyy/versions/ce7e59LL/pickupnotifications-2.0.1%2B26.1.jar"
+url = "https://cdn.modrinth.com/data/wWiJfmyy/versions/SaVqgVC7/pickupnotifications-2.0.2%2B26.1.jar"
 hash-format = "sha512"
-hash = "640b62aa9b068cffc51f25e25549949ec810edc26bcb71597d4b1bc27d3c29a8a62470f6638ed11e10769ec729766ac7c0efeffd500ded96bacc45c7adc42812"
+hash = "369b421c8412b5f76222dfc638a49be38be8066e2ecfde626da8b3501e3da537854fc0576a08a3601b6d7cf208eb1d2c9a57fa73eb75b48d54915b680fed5485"
 
 [update]
 [update.modrinth]
 mod-id = "wWiJfmyy"
-version = "ce7e59LL"
+version = "SaVqgVC7"

@@ -1,0 +1,10 @@
+{
+  "shaderPreset": -1,
+  "perDimensionBrightness": {
+    "minecraft:the_nether": 100,
+    "minecraft:overworld": 25,
+    "minecraft:the_end": 0
+  },
+  "raiseHotbarPixels": 2,
+  "disableLBGLayers": true
+}

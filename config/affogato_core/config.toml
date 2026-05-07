@@ -129,6 +129,16 @@ lootEntryReplacements = [
     [ "minecraft:diamond_pickaxe", { replacementItem = "minecraft:diamond", replacementCount = 3 } ],
     [ "minecraft:diamond_axe", { replacementItem = "minecraft:diamond", replacementCount = 3 } ],
     [ "minecraft:iron_helmet", { replacementItem = "minecraft:iron_ingot", replacementCount = 5 } ],
+    [ "minecraft:copper_spear", { replacementItem = "minecraft:copper_ingot", replacementCount = 1 } ],
+    [ "minecraft:copper_pickaxe", { replacementItem = "minecraft:copper_ingot", replacementCount = 3 } ],
+    [ "minecraft:copper_shovel", { replacementItem = "minecraft:copper_ingot", replacementCount = 1 } ],
+    [ "minecraft:copper_axe", { replacementItem = "minecraft:copper_ingot", replacementCount = 3 } ],
+    [ "minecraft:copper_hoe", { replacementItem = "minecraft:copper_ingot", replacementCount = 2 } ],
+    [ "minecraft:copper_sword", { replacementItem = "minecraft:copper_ingot", replacementCount = 2 } ],
+    [ "minecraft:copper_helmet", { replacementItem = "minecraft:copper_ingot", replacementCount = 5 } ],
+    [ "minecraft:copper_chestplate", { replacementItem = "minecraft:copper_ingot", replacementCount = 8 } ],
+    [ "minecraft:copper_leggings", { replacementItem = "minecraft:copper_ingot", replacementCount = 7 } ],
+    [ "minecraft:copper_boots", { replacementItem = "minecraft:copper_ingot", replacementCount = 4 } ],
     [ "minecraft:stone_axe", { replacementItem = "minecraft:cobblestone", replacementCount = 3 } ]
 ]
 totemMap = [
@@ -150,7 +160,7 @@ cursesOnlyInDesertPyramids = true
 
 [worldgen]
 dungeonChanceMult = 1.3
-mineshaftChanceMult = 1.5
+mineshaftChanceMult = 1.2
 oreSizeMult = 1.2
 ancientDebrisSize = 6
 ancientDebrisMinAmount = 3

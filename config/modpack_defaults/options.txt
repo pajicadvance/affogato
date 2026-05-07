@@ -17,7 +17,7 @@ graphicsPreset:"custom"
 prioritizeChunkUpdates:1
 fullscreen:true
 exclusiveFullscreen:true
-gamma:0.25
+gamma:0.0
 guiScale:0
 maxAnisotropyBit:1
 textureFiltering:0
@@ -30,7 +30,7 @@ particles:0
 reducedDebugInfo:false
 renderClouds:"true"
 cloudRange:64
-renderDistance:12
+renderDistance:16
 simulationDistance:8
 screenEffectScale:1.0
 soundDevice:""
@@ -46,7 +46,7 @@ chatLinksPrompt:true
 discrete_mouse_scroll:false
 invertXMouse:false
 invertYMouse:false
-realmsNotifications:true
+realmsNotifications:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
@@ -64,7 +64,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","frozenlib:mod/downloaded/file/ww_serene_sonder.zip","frozenlib:mod/downloaded/file/ww_pressure.zip","frozenlib:mod/downloaded/file/ww_molt.zip","frozenlib:mod/downloaded/file/ww_horizon_afoot.zip","frozenlib:mod/downloaded/file/ww_frozen_blocks.zip","frozenlib:mod/downloaded/file/ww_espial_title_mix.zip","frozenlib:mod/downloaded/file/ww_espial.zip","frozenlib:mod/downloaded/file/ww_dove.zip","frozenlib:mod/downloaded/file/ww_dahlia.zip","frozenlib:mod/downloaded/file/ww_anemone.zip","frozenlib:mod/downloaded/file/ww_amber.zip","thecopperierage:copperier_copper","wilderwild:mojang_crabs","wilderwild:original_firefly","wilderwild:wilder_extra_music","lambdabettergrass:default","tooltrims:tooltrims","file/mod-descriptions-v11.1.zip","file/VanillaTweaks.zip","file/Fancy Crops v1.3.zip","file/Delight(map)-v1.5.4.zip","file/better_looking_torches_v1.1.zip","file/fd_nourishment_bread.zip","$polymer-resources","bigwater:stylized"]
+resourcePacks:["vanilla","wilderwild:mojang_crabs","wilderwild:original_firefly","wilderwild:wilder_extra_music","lambdabettergrass:default","tooltrims:tooltrims","file/mod-descriptions-v11.1.zip","file/VanillaTweaks.zip","file/Fancy Crops v1.3.zip","file/Delight(map)-v1.5.4.zip","file/better_looking_torches_v1.1.zip","file/fd_nourishment_bread.zip","$polymer-resources","bigwater:vanilla","bigwater:stylized"]
 incompatibleResourcePacks:["tooltrims:tooltrims","file/better_looking_torches_v1.1.zip","file/fd_nourishment_bread.zip"]
 lastServer:
 lang:en_us
@@ -181,7 +181,7 @@ key_key.emotecraft.stop:key.keyboard.unknown
 key_key.resetScopeZoom:key.mouse.middle
 key_key.pickup.item:key.keyboard.unknown
 key_key.jade.config:key.keyboard.unknown
-key_key.jade.show_overlay:key.keyboard.o
+key_key.jade.show_overlay:key.keyboard.j
 key_key.jade.toggle_liquid:key.keyboard.unknown
 key_key.jade.show_recipes:key.keyboard.unknown
 key_key.jade.show_uses:key.keyboard.unknown
@@ -193,6 +193,7 @@ key_key.jade.profile.2:key.keyboard.unknown
 key_key.jade.profile.3:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.rearm.action:key.keyboard.left.alt
+key_key.renderscale.options:key.keyboard.period
 key_key.rrv.usage:key.keyboard.u
 key_key.rrv.recipe:key.keyboard.r
 key_key.rrv.toggle_overlay:key.keyboard.unknown
@@ -219,22 +220,26 @@ key_key.shouldersurfing.enter_first_person:key.keyboard.unknown
 key_key.shouldersurfing.enter_third_person_front:key.keyboard.unknown
 key_key.shouldersurfing.enter_third_person_back:key.keyboard.unknown
 key_key.shouldersurfing.enter_shoulder_surfing:key.keyboard.unknown
-key_key.simple_music_control.next_music_track:key.keyboard.m
+key_key.simple_music_control.next_music_track:key.keyboard.n
 key_key.simple_music_control.toggle_music:key.keyboard.unknown
 key_key.tiered_backpacks.open_backpack:key.keyboard.b
 key_key.toolpouch.open_tool_pouch:key.keyboard.h
 key_key.toolpouch.open_widget:key.keyboard.x
 key_key.toolpouch.open_ender_chest:key.keyboard.v
 key_key.toolpouch.use_spyglass:key.keyboard.c
-key_key.toolpouch.toggle_minimap:key.keyboard.j
+key_key.toolpouch.toggle_minimap:key.keyboard.m
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_iris.keybind.wireframe:key.keyboard.unknown
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
-soundCategory_master:0.5066263969370861
-soundCategory_music:0.1506932218309859
+soundCategory_master:0.5
+soundCategory_music:0.15
 soundCategory_record:1.0
-soundCategory_weather:0.5042556117957746
+soundCategory_weather:0.5
 soundCategory_block:1.0
 soundCategory_hostile:1.0
-soundCategory_neutral:0.507485145246479
+soundCategory_neutral:0.5
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0

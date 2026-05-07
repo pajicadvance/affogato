@@ -16,5 +16,5 @@
   "_c9": "Removes the incompatibility warning on the default pack, by marking it as compatible with everything.",
   "ignore_pack_version": false,
   "_c10": "Toggles logging of non-critical errors when generating the pack.",
-  "log_errors": true
+  "log_errors": false
 }

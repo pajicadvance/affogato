@@ -1,7 +1,5 @@
 Mods:
-- Audaki Cart Engine, unofficial update by me, with sources ([Pull Request](https://github.com/audaki/minecraft-cart-engine/pull/75))
 - Better Climbing, unofficial update by me, with sources ([Pull Request](https://github.com/artemisSystem/better-climbing/pull/10))
-- Simple Fishing Overhaul, unreleased mod by me, with sources ([GitHub Repository](https://github.com/pajicadvance/simple-fishing-overhaul))
 
 Resource Packs:
 - Vanilla Tweaks by [Vanilla Tweaks](https://vanillatweaks.net/)

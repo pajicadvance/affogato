@@ -1,8 +1,0 @@
-name = "Audaki Cart Engine"
-filename = "ACE_mc26.1.1-4.3.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/pajicadvance/affogato/26.1/offsite/ACE_mc26.1.1-4.3.jar"
-hash-format = "sha512"
-hash = "13601c58e4cdd756bd886682f6925a9976a579fffa18bf1faaa758ccf08fff92d81bb7375073326063af9d46f003443cb0b624c01baef0d86202a24c53d39408"

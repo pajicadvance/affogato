@@ -1,13 +1,13 @@
 name = "Simple Smithing Overhaul"
-filename = "simple_smithing_overhaul-2.8.0+26.1-fabric.jar"
+filename = "simple_smithing_overhaul-2.8.1+26.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/U5TJjZc3/versions/hkhH8IwR/simple_smithing_overhaul-2.8.0%2B26.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/U5TJjZc3/versions/ydzXhA0I/simple_smithing_overhaul-2.8.1%2B26.1-fabric.jar"
 hash-format = "sha512"
-hash = "0ea1abb66610e976201d1201249762438e0654970fbd8f0657ac1346901a3ecc27e41940b8c8cbd7cbff1ede7a9ad11b0d81f15e94b8d3c9cbb0cc144dcee8e7"
+hash = "5fdbd7b87ac4a42cad7da6edfb6fccefae4b1b749348458366bc1c41f962eac1d2ac03b8b3a4e1f852436d0d0008293be5d5a79bdc714d28a8d1e14c1690deb0"
 
 [update]
 [update.modrinth]
 mod-id = "U5TJjZc3"
-version = "hkhH8IwR"
+version = "ydzXhA0I"
