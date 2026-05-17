@@ -1,34 +1,15 @@
-Worlds from alpha versions are incompatible with beta versions! Worldgen is likely finalized in this version so you shouldn't have to worry about creating new worlds as the pack updates.
-
-It's recommended to delete your options.txt (or reinstall the modpack) as there are changes to default options and keybinds.
-
-Highlights:
-- Reworked worldgen
-- Preconfigured shader presets
-- Modpack client options now in Sodium video settings
-
-Changes:
-- Reconfigured loot tables and structure spawn rules.
-- The modpack now includes preconfigured shader presets using Euphoria Patches. These can be enabled directly from Sodium video settings or the Iris shader pack screen. User downloaded shader packs are hidden from the Iris shader pack screen by default but can be revealed by disabling Iris/Oculus Shader Folder. 
-- Changed how per-dimension brightness is configured. The main brightness slider is no longer disabled. The brightness for the current dimension the player is in can be set in a new option in the Affogato page inside Sodium video settings. This option can be dragged all the way to the left to disable the override and use the brightness from the main brightness slider.
-- Updated default options and keybinds.
-- Many bugfixes to most of my mods and several mods in the modpack.
-
-Additions:
-- Added Tectonic.
-- Added Dungeons and Taverns vanilla structure overhauls.
-- Added Variants and Ventures.
-- Added Complementary Reimagined.
-- Added Euphoria Patches.
-- Added Iris/Oculus Shader Folder.
-- Added RenderScale.
-- Added C2ME to the client.
-
-Temporary removals:
-- Freeze Frame (unresolved bug that breaks mipmapping)
-- Copperier Age (unresolved bug that breaks the debug screen, configuration issues)
-- Better Block Entities (unresolved mod compat issues)
-
-Permanent removals:
-- Spyglass Astronomy (client performance issues)
-- SleepWarp (TPS issues when sleeping in certain locations)
+- Added Geophilic.
+- Added Explorify.
+- Added The Roads More Travelled.
+- Added Bannerpoint.
+- Added WaxyVision.
+- Added back Better Block Entities.
+- Added Zoomify. Having a spyglass inside a tool pouch is still required for zooming.
+- Disabled the random horizontal movement that block drops get when breaking blocks. 
+- Crouching while breaking a block near you will now make its drops fling towards you.
+- Tweaked water ripple particles.
+- Removed Improved Maps due to compatibility issues with increased stack sizes.
+- Removed Smooth Texture Fix as Sodium now has the same patch.
+- Updated Complementary Reimagined + Euphoria Patches. Affogato shader presets will be automatically updated on game launch.
+- Added default F3 debug screen profile.
+- Updated mods to their latest versions.

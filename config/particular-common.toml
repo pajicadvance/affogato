@@ -26,7 +26,7 @@
 		#Enable popping bubbles
 		poppingBubbles = true
 		#Enable rain ripples
-		rainRipples = true
+		rainRipples = false
 		#Enable water drip ripples
 		waterDripRipples = true
 		#Enable cake eating particles

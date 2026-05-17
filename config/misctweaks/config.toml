@@ -20,6 +20,13 @@ animalsSearchForFood = true
 randomizeDiscLoot = true
 preventShulkerDuplication = true
 
+[stableBlockDrops]
+noRandomHorizontalMovement = true
+alwaysSpawnDropInBlockCenter = true
+flingTowardsPlayer = true
+requireCrouchForFling = true
+flingMaxRange = 5.0
+
 [improvedSaplings]
 enabled = false
 

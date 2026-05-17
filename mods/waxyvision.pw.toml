@@ -1,0 +1,13 @@
+name = "WaxyVision"
+filename = "waxyvision-1.1.0+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eaeywyTd/versions/GxJhjKkW/waxyvision-1.1.0%2Bmc26.1.2.jar"
+hash-format = "sha512"
+hash = "486eda634968572745b0ad2c7647a82a7d297472997d0d85018ce1d74629367ce7ca3f93de418e6e634144ddd6581cc80453168cb6de99c8494df8af72775afa"
+
+[update]
+[update.modrinth]
+mod-id = "eaeywyTd"
+version = "GxJhjKkW"

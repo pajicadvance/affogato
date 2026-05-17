@@ -1,13 +1,13 @@
 name = "Big Water"
-filename = "bigwater-1.1.1-26.1.1.jar"
+filename = "bigwater-1.2.0-fabric+mc26.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8DnPmuty/versions/UivRVqMV/bigwater-1.1.1-26.1.1.jar"
+url = "https://cdn.modrinth.com/data/8DnPmuty/versions/7uOx15Np/bigwater-1.2.0-fabric%2Bmc26.1.jar"
 hash-format = "sha512"
-hash = "ae0624af3196851689f5a56acc02dcd65af24bb3a0f93d428fb69ea01c2a820c952fb2641dae309d33a9a31fbf5b4e26bc87dc664b08ec9390de830785d1f1a6"
+hash = "46897cd590332aebc80fdf44f8fbdff8f9311c58b71dd4d524526e85e48ae1dfcafd92f685bd251268042b325b94fea12fd9e38064eb0702c0f45ad581f8b5ef"
 
 [update]
 [update.modrinth]
 mod-id = "8DnPmuty"
-version = "UivRVqMV"
+version = "7uOx15Np"

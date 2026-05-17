@@ -1,6 +1,6 @@
 {
   "configVersion": 2,
-  "localVersion": "26.1.0-beta.1",
+  "localVersion": "26.1.0-beta.2",
   "identifier": "https://raw.githubusercontent.com/pajicadvance/affogato/26.1/pack.toml",
   "releaseChannel": "beta",
   "minecraftVersions": ["26.1", "26.1.1", "26.1.2"]

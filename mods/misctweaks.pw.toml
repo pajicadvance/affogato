@@ -1,13 +1,13 @@
 name = "MiscTweaks"
-filename = "misctweaks-1.3.2+26.1-fabric.jar"
+filename = "misctweaks-1.4.0+26.1.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9sMkzzYU/versions/J7krLt8T/misctweaks-1.3.2%2B26.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/9sMkzzYU/versions/d11eqjLe/misctweaks-1.4.0%2B26.1.2-fabric.jar"
 hash-format = "sha512"
-hash = "27c1115b306fa10f6ab6b427f3550d8fc8886fa4a73909ca110ff7045af6e804b06c984a8e78368d16d7d854656406d888cfeeef0dc45f5f2687a6823f81c926"
+hash = "5308d719afa0edc54591c895e58c6e6f2d9f076b1264fec4629dcf0cb6671c74548d84439f9264e8c3e54da3f680112106b45f49753ba42ad4aa5eb867525254"
 
 [update]
 [update.modrinth]
 mod-id = "9sMkzzYU"
-version = "J7krLt8T"
+version = "d11eqjLe"

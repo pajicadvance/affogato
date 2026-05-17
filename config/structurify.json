@@ -10,6 +10,30 @@
   "structure_namespaces": [],
   "structures": [
     {
+      "name": "explorify:dark_forest_settlement",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "explorify:farmstead",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "explorify:tavern",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
       "name": "repurposed_structures:ancient_city_end",
       "is_disabled": true,
       "whitelisted_biomes": [],
