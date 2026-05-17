@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "f988e90dbebe57c4b68d4a0b2a12aabf236f6fcf656aa09955146fac202ab75c"
+hash = "53bac0e2e790d3a6ecc9d57db0041c1548e28052b0e71a06536c8f870579d965"
 
 [[files]]
 file = "LICENSE.txt"
@@ -34,7 +34,7 @@ hash = "7b1db2862b95f345e4576cb350fc186cff8a50dcf1a91ddf0fe7b24a269974fe"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "89653d3a4c45cb77c50198bee4607a7925fa1200e3ce1375a55ccbe93a1bc603"
+hash = "fae53449a2820145806c44b485db4ab5000f41facb91e6679db7384ccb763178"
 
 [[files]]
 file = "config/misctweaks/client_config.toml"
@@ -294,7 +294,7 @@ hash = "a70a5d038926c67ac95f56e6c2ea8773f204b2a8e29b8a49b03eda683754b5fd"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "d112145a627001450164bb8fa5bde197efb5b00ce3872b871a5712919cc52fe8"
+hash = "b63c1845b10180555435b1ad81e911911a228abadb1ae187c9303b004c510e5b"
 
 [[files]]
 file = "config/simple_fishing_overhaul/config.toml"
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/affogato-core.pw.toml"
-hash = "646524baaf288edd3b8895aa252156400c06f4e8ee9e7165980f0555f1e07d9d"
+hash = "8eeb8c17eeb324efd436cd8e6b3c328ab90546870bb6132dd1308d928de17f7a"
 metafile = true
 
 [[files]]

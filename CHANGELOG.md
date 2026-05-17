@@ -1,3 +1,7 @@
+beta.3:
+- Fixed shader preset generator sometimes generating invalid shader packs.
+
+beta.2:
 - Added Geophilic.
 - Added Explorify.
 - Added The Roads More Travelled.
