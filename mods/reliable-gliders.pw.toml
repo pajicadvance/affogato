@@ -1,0 +1,13 @@
+name = "Reliable Gliders"
+filename = "reliable_gliders-fabric-26.1.2-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pVIWsXir/versions/u6Nl0E8Q/reliable_gliders-fabric-26.1.2-1.3.1.jar"
+hash-format = "sha512"
+hash = "385e67f1fed623557a118403ec7c5d454e4af14d98fb6de2d48456660d35acdbaaaadbebd93027e7cb02a49d20109a46e78255bc68ef8a68540ac7ddd7499ae2"
+
+[update]
+[update.modrinth]
+mod-id = "pVIWsXir"
+version = "u6Nl0E8Q"

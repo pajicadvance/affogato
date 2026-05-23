@@ -1,4 +1,5 @@
 {
   "shaderPreset": -1,
-  "disableLBGLayers": true
+  "disableLBGLayers": true,
+  "deleteModdedSplashTexts": true
 }

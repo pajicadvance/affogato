@@ -1,13 +1,13 @@
 name = "Affogato Core"
-filename = "affogato_core-26.1.14.jar"
+filename = "affogato_core-26.1.16.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q8yzjHI3/versions/V5nhlRGg/affogato_core-26.1.14.jar"
+url = "https://cdn.modrinth.com/data/Q8yzjHI3/versions/y4epD65K/affogato_core-26.1.16.jar"
 hash-format = "sha512"
-hash = "b1988a7b62a9886227ff0330945f96c005d34f6e8551a5762834d05674a2e79bc0e358bf4b2a602fde8603c5df338c41ea7958b114a251adfce309594ccd4ceb"
+hash = "9f04209ca1a9e046bb52fb27b5ac9444f672292f7681e20c770305beb819fa53933890485099a2097e96a777f4142e992db4f9a838e1f41eeed4bbd613e7e89c"
 
 [update]
 [update.modrinth]
 mod-id = "Q8yzjHI3"
-version = "V5nhlRGg"
+version = "y4epD65K"

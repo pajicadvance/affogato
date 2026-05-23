@@ -1,0 +1,13 @@
+name = "Music and Melody"
+filename = "music-and-melody-26.1-r3.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dpNZjlVi/versions/iFAT0uiA/music-and-melody-26.1-r3.1-fabric.jar"
+hash-format = "sha512"
+hash = "fa7ba23129ea194648052e51902613cb83c1a7b76f1730666e1a88aac4436d639191711a2b8939971fdc10aa3bdbe84d8129869d8e7ff175f32b14c094bead0b"
+
+[update]
+[update.modrinth]
+mod-id = "dpNZjlVi"
+version = "iFAT0uiA"

@@ -19,7 +19,8 @@ modItemUnitCosts = [
     [ "#chalk:chalks", 2 ],
     [ "rearm:netherite_shield", 3 ],
     [ "rearm:netherite_crossbow", 3 ],
-    [ "simple_fishing_overhaul:netherite_fishing_rod", 1 ]
+    [ "simple_fishing_overhaul:netherite_fishing_rod", 1 ],
+    [ "reliable_gliders:glider", 2 ]
 ]
 
 [streamlinedRepairs.armor]

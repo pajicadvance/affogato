@@ -1,0 +1,13 @@
+name = "Unified API"
+filename = "unified-api-26.1-r4.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vWUn8M9s/versions/k9i16p05/unified-api-26.1-r4.1-fabric.jar"
+hash-format = "sha512"
+hash = "5e094a10b3b921defca384417c1dff1996b835f070114c31febf9e8b3808e4289f0e19678c189cbbde2a4df58e0024d5bb657eaecd54e7b6b3cc3210e6cf153b"
+
+[update]
+[update.modrinth]
+mod-id = "vWUn8M9s"
+version = "k9i16p05"

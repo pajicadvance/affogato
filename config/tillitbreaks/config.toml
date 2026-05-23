@@ -1,8 +1,8 @@
 # Don't change this! Version used to track needed updates.
 version = 1
-showDurabilityBar = false
+showDurabilityBar = true
 showDurabilityNumber = true
-showDurabilityBarIfFull = false
+showDurabilityBarIfFull = true
 showDurabilityNumberIfFull = true
 durabilityBarColorSaturation = 1.0
 durabilityNumberColorSaturation = 0.67

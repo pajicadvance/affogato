@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/pajicadvance/affogato/26.1/offsite/configuration.zip"
 hash-format = "sha512"
-hash = "d1e8937759ed3bb50ff4da1c4fb91437e2a412adc146c060cc9411020598adf47d9dac29572c3dc88d954052073a45c8bd2439061b2b3713122ac98ab46dee35"
+hash = "ed5100aadd020c56c62f84f70e11baed0441c49da7494e45cae36ef007ad7510c34797e09bfaf7458093bfd212ea75b3e50b45088db8231922666a0d0bfc0289"

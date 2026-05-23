@@ -1,13 +1,13 @@
 name = "Trinkets Updated"
-filename = "trinkets-4.0.0-alpha.9+26.1.jar"
+filename = "trinkets-4.0.0-beta.1+26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XaT8sLP6/versions/CFk62USu/trinkets-4.0.0-alpha.9%2B26.1.jar"
+url = "https://cdn.modrinth.com/data/XaT8sLP6/versions/GsKtDXd5/trinkets-4.0.0-beta.1%2B26.1.jar"
 hash-format = "sha512"
-hash = "b31f27a1a2e6c72283cf5f3c89980dad452a9d4c91511b4d7c41dad45b6d261f7ee9abe6e42617a1eb5c950de861609d77182474a852efbdfc8d6b6b015a664a"
+hash = "6b44b3b2771f7b788bf2d02372bea629b1211b03d8bca47a92e8c502973e02fc6a1334eda535b4c070aa1514bbfb78972ba068d384ba321748418a437532b92d"
 
 [update]
 [update.modrinth]
 mod-id = "XaT8sLP6"
-version = "CFk62USu"
+version = "GsKtDXd5"

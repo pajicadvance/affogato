@@ -1,8 +1,13 @@
 name = "Better Climbing"
-filename = "better_climbing-fabric-6-SNAPSHOT.jar"
-side = "both"
+filename = "better_climbing-fabric-6.jar"
+side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/pajicadvance/affogato/26.1/offsite/better_climbing-fabric-6-SNAPSHOT.jar"
+url = "https://cdn.modrinth.com/data/ZucWZEBV/versions/dUxGZmcn/better_climbing-fabric-6.jar"
 hash-format = "sha512"
-hash = "8c435c2191d0414d164986d7402f837909cde4b865f1b8fc630ad67f571746eb58bf08f78020ebcc032fee6f4c6027a04691bbc56272bda641ea2605c389f25a"
+hash = "00a472345f6fedfab5b256b3694c629edf250062473fd0a14a27a693a732930d1462db30b61b887a9e7029917be204b94a7e13429a026df61848d2133f8720b9"
+
+[update]
+[update.modrinth]
+mod-id = "ZucWZEBV"
+version = "dUxGZmcn"

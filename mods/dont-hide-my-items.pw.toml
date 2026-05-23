@@ -1,0 +1,13 @@
+name = "Don't Hide My Items"
+filename = "dhmi-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eJDtZacf/versions/F7InDbTp/dhmi-1.0.2.jar"
+hash-format = "sha512"
+hash = "00e5b569b1ca1f7d11028517930956668e3102f1ae7e409d6fe1c95ec72fb2219028e0bf9410f16806d7b61ad756942fef413cd1ce313a0dbd0d35417324cb37"
+
+[update]
+[update.modrinth]
+mod-id = "eJDtZacf"
+version = "F7InDbTp"

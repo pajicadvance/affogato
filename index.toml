@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "53bac0e2e790d3a6ecc9d57db0041c1548e28052b0e71a06536c8f870579d965"
+hash = "1c749e6c23b6a8ea32a840f58b64a7fb9e239e1f809cd64b6f68ab35a6944a5f"
 
 [[files]]
 file = "LICENSE.txt"
@@ -10,7 +10,7 @@ hash = "0bdfb0201d1803634f268cdff0993b8349d2c70e956a06dbb667c8dd65254ec5"
 
 [[files]]
 file = "config/affogato-core-client.json"
-hash = "2f95cf893466fd3915855d76a6f973eb28a3fa128229e970097bf85ac5b53e0b"
+hash = "07f9d367785de0944b65585b5bf62f3a86092db4a2c78d35a3caf7016893911a"
 
 [[files]]
 file = "config/affogato_core/config.toml"
@@ -34,7 +34,7 @@ hash = "7b1db2862b95f345e4576cb350fc186cff8a50dcf1a91ddf0fe7b24a269974fe"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fae53449a2820145806c44b485db4ab5000f41facb91e6679db7384ccb763178"
+hash = "ea13b03a0f03a24c5affea6cd484ae6affc687c0575eda159aad08605dcdfed9"
 
 [[files]]
 file = "config/misctweaks/client_config.toml"
@@ -205,10 +205,6 @@ file = "config/modpack_defaults/config/thecopperierage/main.json5"
 hash = "aa960be70df7fb4cd4b53871fc0f4231a91f2e88f25f42f9bfd69a4744cc1077"
 
 [[files]]
-file = "config/modpack_defaults/config/tillitbreaks/config.toml"
-hash = "c93d2c7373af7de98b049e9cc3d51be3af6d762f250215b32e5e8ada7c4ca96a"
-
-[[files]]
 file = "config/modpack_defaults/config/trailiertales/block.json5"
 hash = "2a719da3fa80b4449d1920e16fbdb6ea4f2712dc86f53fc28321a3c4f32102d8"
 
@@ -294,7 +290,7 @@ hash = "a70a5d038926c67ac95f56e6c2ea8773f204b2a8e29b8a49b03eda683754b5fd"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "b63c1845b10180555435b1ad81e911911a228abadb1ae187c9303b004c510e5b"
+hash = "8ba6ebda21b7577d5eb603b47ddbd7d960af5b7e10774299acf3e3fde0246ccc"
 
 [[files]]
 file = "config/simple_fishing_overhaul/config.toml"
@@ -302,7 +298,7 @@ hash = "d2b6aee625c473ff6a19777f967c44780a17d016ce2a1e913fee991e1cb27992"
 
 [[files]]
 file = "config/simple_smithing_overhaul/config-v2.toml"
-hash = "0e67b072b3020a09fd14da8227112ef53b3d37680b97be914fc93a9c91088b1c"
+hash = "be801e9161eafc6ea06cfade8a713ee6c69c25f21668ebd59a1a1ef1325515d4"
 
 [[files]]
 file = "config/structurify.json"
@@ -311,6 +307,10 @@ hash = "3c6a8637091516639917295bbe6abeeaccb025a3ec88d857067e2a575029e3d5"
 [[files]]
 file = "config/tiered_backpacks/config.toml"
 hash = "ad903c572b1ed042af97f3a0d4c08ba60ba10a752630ca258387544acb9d36a1"
+
+[[files]]
+file = "config/tillitbreaks/config.toml"
+hash = "5366edb8bce65ee5b2f5b31e327563401f8c91baf8c7e3cfb4c81647621ce21d"
 
 [[files]]
 file = "config/toolpouch/client_config.toml"
@@ -329,11 +329,6 @@ file = "credits.txt"
 hash = "63c7a18a56d4c1912554f92cf493ae6b746ada7fb099afb7c97f0b9a73866a5a"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "8c8f44ed74ea93a496ac1d476ab71b59b0b15a780d5ab60e5559ef637105ee6d"
-metafile = true
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "65cbe8b3a06a9f5a62d328c0cc22b9146498ea8a1e243a639d6daf6cf3f0218a"
 metafile = true
@@ -350,12 +345,12 @@ metafile = true
 
 [[files]]
 file = "mods/affogato-core.pw.toml"
-hash = "8eeb8c17eeb324efd436cd8e6b3c328ab90546870bb6132dd1308d928de17f7a"
+hash = "eefaa17e329c6aac2b1a100e90dce216cb25397f55b6da503a1a7a012009d44d"
 metafile = true
 
 [[files]]
 file = "mods/aileron.pw.toml"
-hash = "01f0ae170b47df9ce8a6e0f85f0ebecf45614befba8e524f15f4a768db173e6f"
+hash = "e5e845a6f44740d9fb1f76e920202265e6f894d6d0d6785e9bd7aa94127ae68d"
 metafile = true
 
 [[files]]
@@ -405,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-climbing.pw.toml"
-hash = "03b0498bbedbcee62fad5580b3410eff4214015cd766eb9c5edeab995a9391cc"
+hash = "293bb651f219518cbe765600959589e66fac33e1356b030763c836eac123fcab"
 metafile = true
 
 [[files]]
@@ -450,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "05608f9174ebde171474deee51bc28ccf0a29d7594a6c0bdc40f06d2c7e32b50"
+hash = "82f8e930d470d72330d18b6609e233f5c61a37866cec7c93f17d9bc6006e7565"
 metafile = true
 
 [[files]]
@@ -530,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "6a291742cc41d7a82dd51ee4a88bc6a9d3ee6e81347b6940c76a3aea14a5824d"
+hash = "cab944a3439623906d9f24c12a77aa7209e8f730544179844222e72d9976ea78"
 metafile = true
 
 [[files]]
@@ -549,8 +544,8 @@ hash = "78773495609b64dd539a2db03395128f206b75f3fd48922e803213fb5698e69f"
 metafile = true
 
 [[files]]
-file = "mods/dont-hide-bundles.pw.toml"
-hash = "018274beda09195bbe1a7c357fdfccda340ed8d776bf37a76fcd8fda72e6f01f"
+file = "mods/dont-hide-my-items.pw.toml"
+hash = "bc83f6a9a8cd05e8c811e1cd78eae78866c30a651b7c4a64b6b1e1b8c0d79cf0"
 metafile = true
 
 [[files]]
@@ -625,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "78f9dd976afe8b6b9144f7e700d344eab21769ca756a910b9d8d8d292c42ff2a"
+hash = "ac01b90470445f576de67f159313dfec0c9e2a813fa2d9413900a417144fd039"
 metafile = true
 
 [[files]]
@@ -645,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dae57c5a1bea0fb7b104fff48e4dd5b76c0eb46cb198f65b4a3ca13316c86d20"
+hash = "2a77dc7aade5de6d21315582c4b70db40ff2bdf746b61c10d7ad3c5be8422f75"
 metafile = true
 
 [[files]]
@@ -700,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/glitchcore.pw.toml"
-hash = "eed24b42e420c07e6a6bd16e0bcebedc17a6111b4a6ac31c1573de6e5d43b5f3"
+hash = "53617f29fac13f3ef8cb25a6c6aeba6d080c28a306dccb71fe1f4da9d4a1c345"
 metafile = true
 
 [[files]]
@@ -745,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "141842c3ede24477cb55d59eaa80f596ea83c693b1a1a0c4b22fb4e4b02199a4"
+hash = "d57750b80735ae58d7d90dafe5ae739db96ab68f55f6957ea31b5424fc42cafd"
 metafile = true
 
 [[files]]
@@ -854,6 +849,11 @@ hash = "89fcae9fccf6aec59355405e1160ed15d523c34e08e555a0da6f46fb8a5087fe"
 metafile = true
 
 [[files]]
+file = "mods/music-and-melody.pw.toml"
+hash = "5b0e0a6809f267237b406b07236f14d574fbc7643f8e9fd011b6784ddb8e03de"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
@@ -871,6 +871,11 @@ metafile = true
 [[files]]
 file = "mods/packed-packs.pw.toml"
 hash = "b0931feb7e9950f6c8b605da138523554d8791229e703ff6bbcb8d5670a6e2d5"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "5f482c62b32f8f639a19640518cd77bc60d73bb422bcf7378eb1ced0680a2573"
 metafile = true
 
 [[files]]
@@ -944,6 +949,11 @@ hash = "3cd76a7dbdd45ab932f5e43a18adc3915f00acc38b28a5f6e9df3875fa15c2fb"
 metafile = true
 
 [[files]]
+file = "mods/reliable-gliders.pw.toml"
+hash = "cde2cb8d55aa9967e250039cf7c8280cf4018d6712a21aa277f4c1f2d4b3a4f8"
+metafile = true
+
+[[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
 metafile = true
@@ -966,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "2bd03b3199bbd216be2e69ee41a3d52ecb13c485e2fc899111f826c5e1b57b19"
+metafile = true
+
+[[files]]
+file = "mods/reusable-vault-blocks.pw.toml"
+hash = "074d07c2db83ab133b887b98abae6dfe4ac0791b94a2255d9950f02885c2e51f"
 metafile = true
 
 [[files]]
@@ -1000,7 +1015,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "207595c62114a11bc98dcb67c9b029fe3053a8e367cee9aadde8ed4d01a9c830"
+hash = "74b9be2bf4e2ba3b1c621cea436e14a0cd1a35423e8e02ea9eac51b340f8f299"
 metafile = true
 
 [[files]]
@@ -1040,7 +1055,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "f321788f4b6640113658df52477d075e0ba04836df0fcb9c30cb9e72167db4f0"
+hash = "47f1affd16ed77ad979c2e523ff0340ba9b78f6a9038edd4c23ec678cef4e58d"
 metafile = true
 
 [[files]]
@@ -1075,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "61e81490e34e2fad9b8fda7419fd6ef72f3aad942ab210a70142af0bd806f409"
+hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
 metafile = true
 
 [[files]]
@@ -1095,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "4c146f695be56eed885d25cada66fbc61d732426d021c5aade664486a53d4943"
+hash = "79babad874fdf95ea4ba812a66bfd441e1e94ab0101469fb3934b54cc9a85ed2"
 metafile = true
 
 [[files]]
@@ -1105,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "64857af3dbca738f078ad03b2fde1fec0abf298f7525b07375753597ce5f91bc"
+hash = "436a05536fd9f13e529c0370413f3904c8eaad02003c8a8ddcc2e3f701e77b6f"
 metafile = true
 
 [[files]]
@@ -1149,8 +1164,8 @@ hash = "069e8e9c68096863bea366e02e9fb21a6dc7477a4edd03a3feafc62d2008f926"
 metafile = true
 
 [[files]]
-file = "mods/tool-trims-mod.pw.toml"
-hash = "99eb2cdb3d271d6fa17042cc9b6bccb6df9949d30bc44148a2395663d785a228"
+file = "mods/tool-trims.pw.toml"
+hash = "adabae73b98eb55af21e2d1ea7cb2cb927f51189f14db67ac790e48adbfe0260"
 metafile = true
 
 [[files]]
@@ -1165,12 +1180,17 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets-updated.pw.toml"
-hash = "e9d2314ce6cfef1dba0f9ca78ad65a991f9f2b2ddcf6ea1961529ac817f5edf1"
+hash = "ac38b311f572e3d89a818e162c682f96805c6c1c142e1cd84c150a9f7c9417fc"
 metafile = true
 
 [[files]]
 file = "mods/ubbg.pw.toml"
 hash = "4dd829bd147024c3f261f61bc205db6681177dcdcf7b3b886e7ecb76ea05970d"
+metafile = true
+
+[[files]]
+file = "mods/unified-api.pw.toml"
+hash = "68f3ee836d6392ec3d9aef344b6b6b847401efeb6ff99f53d90a7d4e8f77c83e"
 metafile = true
 
 [[files]]
@@ -1210,7 +1230,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "1c089349cb3e7c503549f43f07b62a5cf4af2aa09f149101d3630126d016d733"
+hash = "dd275d2b9f7edd1046117a4d03fb567f63b65218fc4b1abf2bcd3f0eb531f3ba"
 metafile = true
 
 [[files]]
@@ -1255,7 +1275,7 @@ metafile = true
 
 [[files]]
 file = "resources/datapack/required/configuration.pw.toml"
-hash = "c721219da2d205dc0a014bdafdede7d7da89465b724e6e9628248a46f82d10a9"
+hash = "a6442b8b634e0a5027ddc61f6b8f35dce28de6ae51a710174debb8a8bddcdff2"
 metafile = true
 
 [[files]]
@@ -1280,5 +1300,5 @@ hash = "1596a23eef214865b76a9f088543224a4e1d9bab3d263d5852eb16a06791fb46"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "844af68c07eac70b45bb488a7d9af2298cd6f2867d1ad33fd7abe94110dfedb1"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
